@@ -1,0 +1,23 @@
+﻿<ToolBar x:Class="Bailiwick.UI.WordFrequencyOptions"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d">
+    <ToggleButton IsChecked="{Binding ShowAll}"
+            Content="Show All"
+            ToolTip="All words should be shown, not just nouns and verbs" />
+    <Separator />
+    <Label Content="{Binding DistributionPercentage}" 
+           ContentStringFormat="Top {0}%:"></Label>
+    <Slider Minimum="1" 
+            Maximum="100"
+            IsSnapToTickEnabled="False"
+            TickFrequency="10"
+            TickPlacement="BottomRight"
+            AutoToolTipPlacement="BottomRight"
+            AutoToolTipPrecision="1"
+            Value="{Binding DistributionPercentage, Delay=400}"
+            Margin="5,0"
+            Width="200" />
+</ToolBar>

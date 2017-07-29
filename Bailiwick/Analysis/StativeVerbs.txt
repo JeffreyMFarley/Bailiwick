@@ -1,0 +1,57 @@
+Lemma	Notes
+agree	
+appear	
+astonish	
+be	
+believe	
+belong	
+concern	
+consist	
+contain	
+deny	
+depend	
+deserve	
+disagree	
+dislike	
+doubt	
+feel	have an opinion
+fit	
+hate	
+have	
+hear	
+imagine	
+impress	
+include	
+involve	
+know	
+lack	
+like	
+look	seem
+love	
+matter	
+mean	
+measure	have length
+mind	
+need	
+owe	
+own	
+please	
+possess	
+prefer	
+promise	
+realise	
+recognise	
+remember	
+satisfy	
+see	
+seem	
+smell	
+sound	
+suppose	
+surprise	
+taste	
+think	have an opinion
+understand	
+want	
+weigh	have weight
+wish	

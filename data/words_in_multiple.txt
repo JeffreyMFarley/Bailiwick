@@ -1,0 +1,387 @@
+aboard {'II': 5464, 'RL': 2822}
+about {'II': 1012181, 'RG': 239440}
+above {'II': 50318, 'JJ': 4405, 'RL': 26590}
+accordance {'NN1': 117, 'II': 2648}
+according {'II': 97154, 'CS': 164, 'VVG': 56}
+across {'II': 123821, 'RL': 11205}
+addition {'NN1': 6366, 'II': 20123}
+adjacent {'II': 2015, 'JJ': 3425}
+after {'II': 360173, 'CS': 163198, 'JJ': 666, 'RT': 1952}
+ahead {'II': 13947, 'RT': 46278}
+along {'II': 97826, 'RP': 36884}
+alongside {'II': 7353, 'RL': 1022}
+am {'VBM': 108844, 'RT': 8145}
+another {'DD1': 274675, 'PN1': 16283}
+anything {'PN1': 137800, 'RR': 4973}
+apart {'II': 5878, 'RL': 20597}
+apropos {'II': 43, 'RR': 215}
+around {'II': 165431, 'RP': 141124}
+as {'II': 945873, 'RG': 321322, 'CSA': 1480797}
+aside {'NN1': 78, 'II': 4052, 'RL': 22056}
+astride {'II': 482, 'RR': 54}
+away {'II': 59672, 'RP': 166055, 'JJ': 1310}
+awful {'RG': 841, 'JJ': 10539}
+back {'NN1': 136354, 'RP': 424619, 'JJ': 2146, 'VV0': 6366}
+barring {'II': 844, 'VVG': 622}
+because {'II': 87362, 'CS': 506269}
+before {'II': 199507, 'CS': 123749, 'RT': 63800}
+behalf {'NN1': 2946, 'II': 6499}
+behind {'NN1': 396, 'II': 109465, 'RL': 20029}
+being {'NN1': 13289, 'VBG': 294908}
+below {'II': 20977, 'RL': 27798}
+beneath {'II': 22061, 'RL': 1055}
+beside {'II': 22607, 'RL': 92}
+besides {'II': 7000, 'RR': 11969}
+between {'II': 301388, 'RL': 5243}
+beyond {'NN1': 198, 'II': 58063, 'RL': 5901}
+bloody {'RG': 1623, 'JJ': 7107}
+both {'DB2': 166517, 'RR': 120850}
+but {'II': 24067, 'CS': 2820, 'CCB': 2048800}
+by {'II': 1698219, 'RP': 36871}
+can {'VV0': 9561, 'VM': 987145}
+case {'NN1': 163296, 'CS': 6779, 'VV0': 527}
+charge {'NN1': 21482, 'II': 6700, 'VV0': 6823}
+concerning {'II': 10352, 'VVG': 1018}
+conjunction {'NN1': 714, 'II': 2798}
+considering {'II': 3804, 'CS': 5624, 'VVG': 8060, 'RR': 107}
+contrary {'NN1': 4533, 'II': 4519, 'JJ': 804}
+daily {'NN1': 308, 'JJ': 29006, 'RT': 9713}
+damn {'RG': 1417, 'JJ': 7153, 'UH': 2435, 'VV0': 3236}
+dare {'NN1': 224, 'VV0': 5178, 'VM': 717}
+depending {'II': 12121, 'VVG': 1342}
+down {'NN1': 2537, 'II': 45254, 'JJ': 2703, 'RP': 379010, 'VV0': 360}
+downright {'RG': 1533, 'JJ': 340}
+due {'II': 24439, 'JJ': 15185, 'RR': 205}
+each {'DD1': 226115, 'PN1': 60987}
+early {'JJ': 98635, 'RT': 43210}
+either {'DB': 19790, 'RR': 76144}
+enough {'RG': 122290, 'DA': 51430}
+ere {'II': 110, 'CS': 150, 'RR': 167}
+even {'NN1': 114, 'CS': 91443, 'RR': 415055, 'JJ': 1305, 'VV0': 338}
+every {'AT': 245745, 'AT1': 860}
+except {'II': 22208, 'CS': 21278, 'VV0': 208}
+excepting {'II': 183, 'VVG': 28}
+excluding {'II': 766, 'VVG': 1505}
+far {'CS': 18040, 'JJ': 16710, 'RR': 121647}
+favor {'NN1': 7816, 'II': 9428, 'VV0': 5392}
+following {'II': 2217, 'JJ': 48616, 'VVG': 16534, 'RR': 1722}
+for {'II': 3787585, 'CS': 16495}
+front {'NN1': 28141, 'II': 42785, 'JJ': 36592, 'VV0': 500}
+fucking {'RG': 2357, 'JJ': 5182, 'VVG': 1009}
+full-time {'JJ': 7901, 'RT': 187}
+given {'CS': 5219, 'JJ': 12229, 'VVN': 94576}
+had {'VHD': 1385700, 'VHN': 122106}
+half {'NN1': 23562, 'DB': 81567, 'RR': 4293}
+her {'APPGE': 1127332, 'JJ': 209, 'PPHO1': 461605}
+hourly {'JJ': 1171, 'RT': 262}
+immediately {'CS': 718, 'RR': 37930}
+in {'II': 8035789, 'RP': 327849, 'CS': 11474}
+including {'II': 121890, 'VVG': 6407}
+inside {'NN1': 6827, 'II': 47459, 'JJ': 4818, 'RL': 35537}
+instead {'II': 41965, 'RR': 47376}
+just {'RG': 789790, 'JJ': 23377}
+late {'JJ': 68300, 'RT': 22553}
+least {'RG': 132652, 'DAT': 4916, 'RRT': 9585}
+less {'RG': 58470, 'JJ': 787, 'RRR': 36016, 'DA': 71447}
+lieu {'NN1': 160, 'II': 901}
+light {'NN1': 73109, 'II': 6103, 'RR': 58, 'JJ': 29062, 'VV0': 5185}
+like {'NN1': 1210, 'RG': 15764, 'JJ': 25816, 'VV0': 167297, 'II': 659427, 'CS': 42276}
+little {'DA1': 51506, 'JJ': 171727, 'RR': 101775}
+long {'CS': 21839, 'RR': 101817, 'JJ': 151993, 'VV0': 1696}
+may {'NPM1': 41087, 'VM': 363929}
+might {'NN1': 1774, 'VM': 239760}
+mine {'NN1': 9893, 'APPGE': 197, 'PPGE': 18304, 'VV0': 160}
+minus {'NN1': 815, 'II': 2253}
+more {'RG': 373740, 'RRR': 220753, 'DA': 486372}
+most {'RG': 258732, 'DAT': 222608, 'RRT': 22144}
+much {'RG': 144403, 'DA1': 280652}
+must {'NN1': 959, 'VM': 190684}
+near {'II': 62943, 'JJ': 7236, 'RL': 6281, 'VV0': 971}
+need {'NN1': 54067, 'VV0': 190335, 'VM': 5832}
+neither {'DB': 12066, 'RR': 22457}
+next {'II': 29831, 'MD': 204988}
+nigh {'II': 51, 'RR': 251}
+no {'DD': 7002, 'PN': 45822, 'AT': 476659, 'UH': 121243, 'RR': 63677}
+none {'PN': 40455, 'RR': 170}
+not {'XX': 1871822, 'CS': 12662, 'RR': 371}
+notwithstanding {'II': 1155, 'RR': 1516}
+now {'CS': 21865, 'RT': 695697}
+off {'II': 119988, 'RP': 211579, 'JJ': 3044}
+on {'II': 2871374, 'RP': 272922, 'JJ': 120}
+once {'CS': 36938, 'RT': 144550}
+one {'MC': 878532, 'JJ': 83, 'PN1': 422033}
+opposed {'II': 7422, 'VVD': 3594, 'JJ': 234, 'VVN': 7482}
+opposite {'NN1': 2850, 'II': 1953, 'JJ': 17596, 'RL': 975}
+or {'CS': 12662, 'CC': 1562165}
+other {'NN1': 10413, 'II': 16154, 'DA': 61805, 'JJ': 621653}
+ought {'VMK': 23010, 'VM': 384}
+out {'II': 276955, 'RP': 772414, 'JJ': 886}
+outside {'NN1': 688, 'II': 53755, 'JJ': 18951, 'RL': 25006}
+over {'NN1': 791, 'II': 346899, 'JJ': 458, 'RP': 238978}
+overtime {'NN1': 2492, 'RT': 1137}
+owing {'II': 1223, 'VVG': 471}
+own {'DA': 273741, 'VV0': 11430}
+part {'NN1': 196113, 'II': 6016, 'RG': 21954, 'VV0': 398}
+part-time {'JJ': 5321, 'RT': 88}
+past {'NN1': 44415, 'II': 32456, 'JJ': 65563, 'RT': 9167}
+pending {'II': 1149, 'JJ': 3329}
+pertaining {'II': 1498, 'VVG': 35}
+plenty {'NN1': 814, 'PN': 20479, 'RR': 691}
+plus {'NN1': 9854, 'II': 22825, 'CC': 486}
+post {'NN1': 32676, 'II': 1960, 'JJ': 731, 'VV0': 329}
+pretty {'RG': 59579, 'JJ': 14774}
+prior {'II': 13328, 'JJ': 6894, 'RT': 974}
+pro {'NN1': 4240, 'II': 1980, 'JJ': 7102}
+proportion {'NN1': 8362, 'II': 420, 'VV0': 27}
+provided {'VVD': 11851, 'CS': 8469, 'VVN': 17}
+providing {'CS': 555, 'VVG': 24049}
+rather {'II': 47047, 'RG': 52378, 'CS': 15445}
+regard {'NN1': 5802, 'II': 7403, 'VV0': 4509}
+regarding {'II': 20064, 'VVG': 1762}
+respect {'NN1': 22630, 'II': 7423, 'VV0': 7705}
+respecting {'II': 859, 'VVG': 319}
+response {'NN1': 44997, 'II': 8891}
+round {'NN1': 11273, 'II': 3903, 'JJ': 16842, 'VV0': 1435}
+same {'DA': 253754, 'RR': 1823}
+save {'NN1': 246, 'II': 2700, 'CS': 214, 'VV0': 35456}
+seeing {'CS': 3275, 'VVG': 41132}
+since {'II': 52718, 'CS': 161185, 'RT': 12068}
+so {'RG': 896924, 'CS': 214831}
+sometime {'JJ': 958, 'RT': 5446}
+somewhat {'DD': 711, 'RR': 20816}
+soon {'CS': 15572, 'RT': 64435}
+spite {'NN1': 581, 'II': 7023, 'VV0': 43}
+still {'NN1': 197, 'JJ': 16321, 'RT': 341583}
+subject {'NN1': 41387, 'II': 9019, 'JJ': 451, 'VV0': 415}
+subsequent {'II': 382, 'JJ': 11109}
+such {'II': 137063, 'CS': 2881, 'DA': 231593}
+sudden {'JJ': 12925, 'RT': 5986}
+supposing {'CS': 319, 'VVG': 81}
+ta {'TO': 7358, 'UH': 1399}
+terms {'II': 35513, 'NN2': 30770, 'VVZ': 317}
+than {'II': 63201, 'CSN': 665133}
+that {'DD1': 1968632, 'RG': 49416, 'CST': 3921414}
+then {'JJ': 1750, 'RT': 623879}
+there {'EX': 895233, 'RL': 381355}
+this {'DD1': 2174137, 'RR': 6429}
+though {'CS': 175276, 'RR': 14299}
+through {'II': 394093, 'JJ': 552, 'RR': 37103}
+throughout {'II': 45103, 'RR': 1914}
+till {'II': 5704, 'CS': 5891, 'VV0': 24}
+to {'II': 4456281, 'TO': 7277326}
+top {'NN1': 63244, 'II': 13264, 'JJ': 48571, 'VV0': 3573}
+touching {'II': 30, 'VVG': 7575}
+under {'II': 186444, 'RP': 24870}
+underneath {'NN1': 93, 'II': 4470, 'RL': 3096}
+unlike {'II': 15029, 'JJ': 9199}
+until {'II': 30956, 'CS': 164965}
+up {'NN1': 355, 'II': 97826, 'JJ': 3641, 'RP': 919716, 'VV0': 671}
+used {'VMK': 46636, 'JJ': 22203, 'VVD': 43482, 'VVN': 114168}
+very {'RG': 445323, 'JJ': 35669}
+well {'NN1': 12192, 'II': 56681, 'JJ': 13094, 'RR': 489487}
+when {'RRQ': 310641, 'CS': 780204}
+where {'RRQ': 225423, 'CS': 245573}
+while {'NN1': 33809, 'CS': 269151, 'VV0': 336}
+will {'NN1': 26311, 'VV0': 2016, 'VM': 860681}
+within {'II': 127569, 'RL': 5760}
+without {'RL': 2383, 'IW': 195831}
+worth {'NN1': 12714, 'II': 31947}
+ya {'UH': 1094, 'PPHO1': 3898}
+yearly {'JJ': 2094, 'RT': 569}
+yon {'DD': 412, 'RR': 138}
+yonder {'DD': 60, 'RR': 378}
+
+
+
+to	11733607
+in	8375112
+that	5939462
+for	3804080
+on	3144416
+as	2747992
+this	2180566
+but	2075687
+not	1884855
+by	1735090
+her	1589146
+or	1574827
+had	1507806
+one	1300648
+there	1276588
+about	1251621
+so	1111755
+when	1090845
+more	1080865
+out	1050255
+up	1022209
+can	996706
+like	911790
+will	889008
+just	813167
+than	728334
+now	717562
+no	714403
+other	710025
+then	625629
+because	593631
+over	587126
+well	571454
+back	569485
+after	525989
+even	508255
+most	503484
+very	480992
+where	470996
+through	431748
+down	429864
+much	425055
+may	405016
+before	387056
+such	371537
+still	358101
+off	334611
+little	325008
+being	308197
+between	306631
+around	306555
+while	303296
+another	290958
+both	287367
+each	287102
+own	285171
+long	277345
+same	255577
+need	250234
+every	246605
+might	241534
+next	234819
+away	227037
+used	226489
+since	225971
+part	224481
+under	211314
+without	198214
+until	195921
+must	191643
+though	189575
+once	181488
+enough	173720
+case	170602
+less	166720
+far	156397
+past	151601
+least	147153
+anything	142773
+early	141845
+across	135026
+along	134710
+within	133329
+behind	129890
+top	128652
+including	128297
+am	116989
+rather	114870
+light	113517
+given	112024
+half	109422
+front	108018
+outside	98400
+according	97374
+either	95934
+inside	94641
+late	90853
+instead	89341
+above	81313
+soon	80007
+near	77431
+pretty	74353
+following	69089
+terms	66600
+beyond	64162
+ahead	60225
+response	53888
+subject	51272
+below	48775
+throughout	47017
+worth	44661
+seeing	44407
+except	43694
+none	40625
+due	39829
+daily	39027
+immediately	38648
+save	38616
+respect	37758
+post	35696
+charge	35005
+neither	34523
+round	33453
+plus	33165
+mine	28554
+addition	26489
+apart	26475
+aside	26186
+providing	24604
+unlike	24228
+ought	23394
+opposite	23374
+beneath	23116
+beside	22699
+favor	22636
+plenty	21984
+regarding	21826
+somewhat	21527
+prior	21196
+provided	20337
+besides	18969
+sudden	18911
+opposed	18732
+regard	17714
+considering	17595
+damn	14241
+depending	13463
+pro	13322
+till	11619
+subsequent	11491
+awful	11380
+concerning	11370
+contrary	9856
+behalf	9445
+proportion	8809
+ta	8757
+bloody	8730
+fucking	8548
+alongside	8375
+aboard	8286
+full-time	8088
+underneath	7659
+spite	7647
+touching	7605
+sometime	6404
+dare	6119
+adjacent	5440
+part-time	5409
+ya	4992
+pending	4478
+overtime	3629
+conjunction	3512
+minus	3068
+accordance	2765
+notwithstanding	2671
+yearly	2663
+excluding	2271
+downright	1873
+owing	1694
+pertaining	1533
+barring	1466
+hourly	1433
+respecting	1178
+lieu	1061
+yon	550
+astride	536
+yonder	438
+ere	427
+supposing	400
+nigh	302
+apropos	258
+excepting	211

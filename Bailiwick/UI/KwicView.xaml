@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="Bailiwick.UI.KwicView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <Style x:Key="CellCenterAlign" TargetType="{x:Type TextBlock}">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+        </Style>
+        <Style x:Key="CellRightAlign" TargetType="{x:Type TextBlock}">
+            <Setter Property="HorizontalAlignment" Value="Right" />
+        </Style>
+    </UserControl.Resources>
+    <ScrollViewer>
+        <StackPanel>
+        <Expander ExpandDirection="Down"
+                  Header="Words"
+                  IsExpanded="True">
+            <DataGrid Margin="5" ItemsSource="{Binding KwicTable}" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+
+                    <DataGridTextColumn Header="S" Binding="{Binding Sentence}"
+                                ElementStyle="{StaticResource CellRightAlign}"
+                                Width="auto" />
+
+                    <DataGridTextColumn Header="W" Binding="{Binding Word}"
+                                ElementStyle="{StaticResource CellRightAlign}"
+                                Width="auto" />
+
+                    <DataGridTextColumn Header="Before" Binding="{Binding Before}"
+                                ElementStyle="{StaticResource CellRightAlign}"
+                                Width="*" />
+
+                    <DataGridTextColumn Header="KWIC" Binding="{Binding KeyWord}" 
+                                    ElementStyle="{StaticResource CellCenterAlign}"
+                                    Width="auto"/>
+
+                    <DataGridTextColumn Header="After" Binding="{Binding After}" 
+                                    Width="*" />
+
+                </DataGrid.Columns>
+            </DataGrid>
+        </Expander>
+        <!-- Expander ExpandDirection="Down" 
+                  IsExpanded="True"
+                  Header="Phrases">
+            <DataGrid Margin="5" ItemsSource="{Binding KwicPhraseTable}" />
+        </Expander -->
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>

@@ -1,0 +1,12 @@
+﻿<ToolBar x:Class="Bailiwick.UI.KwicOptions"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <ComboBox MinWidth="150"
+              ItemsSource="{Binding AvailableKeyWords}"
+              SelectedItem="{Binding SelectedKeyWord}"/>
+    <Separator />
+    <Label>Group By</Label>
+    <ComboBox ItemsSource="{Binding AvailableGroupings}"
+              SelectedItem="{Binding SelectedGrouping}"/>
+</ToolBar>

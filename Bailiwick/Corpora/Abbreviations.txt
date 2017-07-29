@@ -1,0 +1,134 @@
+﻿ABBV	FULL
+dr.	doctor
+drs.	doctors
+messrs.	misters
+mmes.	madams
+mr.	mister
+mrs.	madam
+
+capt.	captain
+cmdr.	commander
+col.	colonel
+gen.	general
+lt.	lieutenant
+maj.	major
+pfc.	private
+
+gov.	governor
+hon.	honorable
+prof.	professor
+rep.	representative
+reps.	representatives
+rev.	reverend
+sen.	senator
+sens.	senators
+supt.	superintendent
+
+esq.	esquire
+jr.	junior
+sr.	senior
+
+assn.	association
+atty.	attorney
+co.	company
+corp.	corporation
+dept.	department
+inc.	incorporated
+ltd.	limited
+mfg.	manufacturing
+
+av.	avenue
+ave.	avenue
+bldg.	building
+blvd.	boulevard
+mt.	mount
+rd.	road
+rte.	route
+
+cm.	centimeters
+cu.	cubic
+dia.	diameter
+ft.	feet
+lb.	pound
+lbs.	pounds
+mg.	milligram
+mm.	millimeter
+oz.	ounces
+sq.	square
+vol.	volume
+yd.	yard
+
+st.	st.
+
+etc.	etcetera
+al.	al.
+cf.	confer
+vs.	versus
+esp.	especially
+ref.	reference
+
+wm.	william
+
+jan.	january
+feb.	february
+mar.	march
+jun.	june
+jul.	july
+aug.	august
+sep.	september
+sept.	september
+oct.	october
+nov.	november
+dec.	december
+
+mon.	monday
+tue.	tuesday
+tues.	tuesday
+thu.	thursday
+thur.	thursday
+thurs.	thursday
+fri.	friday
+
+ne.	northeast
+nw.	northwest
+se.	southeast
+sw.	southwest
+
+ala.	alabama
+ariz.	arizona
+ark.	arkansas
+cal.	california
+calif.	california
+colo.	colorado
+conn.	connecticut
+del.	delaware
+fla.	florida
+ga.	georgia
+geo.	georgia
+ind.	indiana
+iowa	iowa
+kan.	kansas
+kans.	kansas
+ky.	kentucky
+la.	louisiana
+md.	maryland
+mich.	michigan
+minn.	minnesota
+mn.	minnesota
+mo.	missouri
+mont.	montana
+neb.	nebraska
+nebr.	nebraska
+nev.	nevada
+hamp.	hampshire
+mex.	mexico
+dak.	dakota
+okla.	oklahoma
+penn.	pennsylvania
+tenn.	tennessee
+tex.	texas
+vt.	vermont
+va.	virginia
+wis.	wisconsin
+wisc.	wisconsin
+wyo.	wyoming

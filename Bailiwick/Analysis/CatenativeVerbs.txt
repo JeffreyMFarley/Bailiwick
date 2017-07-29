@@ -1,0 +1,102 @@
+Lemma	Bare Inf	To Inf	To Inf as passive	Gerund	Difference in Meaning	Only Passive
+able		TRUE				
+admit				TRUE		
+advise				TRUE		
+afford		TRUE				
+agree		TRUE				
+aim		TRUE				
+allow			TRUE	TRUE		
+appear		TRUE				
+appreciate				TRUE		
+arrange		TRUE				
+ask		TRUE				
+attempt		TRUE				
+avoid				TRUE		
+bear		TRUE		TRUE	FALSE	
+be		TRUE		TRUE	TRUE	
+beg		TRUE				
+begin		TRUE		TRUE	FALSE	
+bother		TRUE		TRUE	FALSE	
+care		TRUE				
+choose		TRUE				
+come	TRUE	TRUE		TRUE	TRUE	
+complete				TRUE		
+condescend		TRUE				
+consent		TRUE				
+consider				TRUE		
+continue		TRUE		TRUE	FALSE	
+dare	TRUE	TRUE				
+decide		TRUE				
+delay				TRUE		
+deny				TRUE		
+deserve		TRUE				
+detest				TRUE		
+disdain		TRUE		TRUE	FALSE	
+dislike				TRUE		
+enjoy				TRUE		
+escape				TRUE		
+expect		TRUE				
+fail		TRUE				
+finish				TRUE		
+forbid			TRUE	TRUE		
+forget		TRUE		TRUE	TRUE	
+get		TRUE		TRUE	TRUE	
+go	TRUE	TRUE		TRUE	TRUE	
+happen		TRUE				
+have		TRUE				
+help	TRUE	TRUE				
+hesitate		TRUE				
+hope		TRUE				
+imagine				TRUE		
+imply				TRUE		
+intend		TRUE		TRUE	FALSE	
+keep				TRUE		
+like		TRUE		TRUE	TRUE	
+long		TRUE				
+love		TRUE		TRUE	FALSE	
+mean		TRUE		TRUE	TRUE	
+mind				TRUE		
+miss				TRUE		
+move		TRUE				
+need		TRUE		TRUE	TRUE	
+neglect		TRUE		TRUE	FALSE	
+offer		TRUE				
+permit			TRUE	TRUE		
+plan		TRUE				
+practice				TRUE		
+prefer		TRUE		TRUE	FALSE	
+prepare		TRUE				
+pretend		TRUE				
+proceed		TRUE				
+promise		TRUE				
+propose		TRUE		TRUE	TRUE	
+quit				TRUE		
+recall				TRUE		
+recommend				TRUE		
+refuse		TRUE				
+regret		TRUE		TRUE	FALSE	
+remember		TRUE		TRUE	TRUE	
+request			TRUE			
+require			TRUE			
+resent				TRUE		
+resist				TRUE		
+resume				TRUE		
+risk				TRUE		
+seek		TRUE				
+seem		TRUE				
+stand				TRUE		
+start		TRUE		TRUE	FALSE	
+stop		TRUE		TRUE	TRUE	
+strive		TRUE				
+struggle		TRUE				
+suggest				TRUE		
+swear		TRUE				
+tend		TRUE				
+threaten		TRUE				
+tolerate				TRUE		
+try		TRUE		TRUE	TRUE	
+undertake		TRUE				
+wait		TRUE				
+want		TRUE				
+wish		TRUE				
+see	TRUE			TRUE		

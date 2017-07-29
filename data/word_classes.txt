@@ -1,0 +1,270 @@
+APPGE 11
+('APPGE', 'NN1') ['mine']
+('APPGE', 'PPGE') ['mine']
+('APPGE', 'PPHO1') ['her']
+('APPGE', 'VV0') ['mine']
+AT ['the']
+('AT', 'AT1') ['every']
+('AT', 'DD') ['no']
+('AT', 'PN') ['no']
+('AT', 'RR') ['no']
+('AT', 'UH') ['no']
+AT1 ['a', 'an']
+CC ['and/or', 'and', 'nor', 'either/or']
+('CC', 'CS') ['or']
+('CC', 'II') ['plus']
+('CC', 'NN1') ['plus']
+('CCB', 'CS') ['but']
+('CCB', 'II') ['but']
+CS 15
+('CS', 'DA') ['such']
+('CS', 'II') 17
+('CS', 'JJ') ['far', 'even', 'like', 'long', 'given', 'after']
+('CS', 'NN1') ['while', 'even', 'like', 'case', 'save']
+('CS', 'RG') ['so', 'rather', 'like']
+('CS', 'RP') ['in']
+('CS', 'RR') ['far', 'even', 'though', 'long', 'immediately', 'not', 'ere', 'considering']
+('CS', 'RRQ') ['where', 'when']
+('CS', 'RT') ['soon', 'since', 'before', 'after', 'once', 'now']
+('CS', 'VV0') ['case', 'like', 'till', 'save', 'while', 'even', 'except', 'long']
+('CS', 'VVD') ['provided']
+('CS', 'VVG') ['seeing', 'providing', 'supposing', 'considering', 'according']
+('CS', 'VVN') ['given', 'provided']
+('CS', 'XX') ['not']
+('CSA', 'II') ['as']
+('CSA', 'RG') ['as']
+('CSN', 'II') ['than']
+('CST', 'DD1') ['that']
+('CST', 'RG') ['that']
+CSW ['whether']
+DA ['former', 'many', 'latter', 'selfsame']
+('DA', 'II') ['such', 'other']
+('DA', 'JJ') ['less', 'other']
+('DA', 'NN1') ['other']
+('DA', 'RG') ['less', 'enough', 'more']
+('DA', 'RR') ['same']
+('DA', 'RRR') ['less', 'more']
+('DA', 'VV0') ['own']
+('DA1', 'JJ') ['little']
+('DA1', 'RG') ['much']
+('DA1', 'RR') ['little']
+DA2 ['few', 'several']
+DAR ['fewer']
+DAT ['fewest']
+('DAT', 'RG') ['least', 'most']
+('DAT', 'RRT') ['least', 'most']
+DB ['all']
+('DB', 'NN1') ['half']
+('DB', 'RR') ['half', 'neither', 'either']
+('DB2', 'RR') ['both']
+DD ['dat', 'some', 'any']
+('DD', 'PN') ['no']
+('DD', 'RR') ['somewhat', 'no', 'yonder', 'yon']
+('DD', 'UH') ['no']
+('DD1', 'PN1') ['another', 'each']
+('DD1', 'RG') ['that']
+('DD1', 'RR') ['this']
+DD2 ['those', 'these']
+DDQ ['what', 'which', 'whichever']
+DDQGE ['whose']
+DDQV ['whatever']
+('EX', 'RL') ['there']
+GE ["'s", "'"]
+II 36
+('II', 'JJ') 33
+('II', 'MD') ['next']
+('II', 'NN1') 39
+('II', 'NN2') ['terms']
+('II', 'RG') ['rather', 'as', 'like', 'about', 'part']
+('II', 'RL') 18
+('II', 'RP') 12
+('II', 'RR') 14
+('II', 'RT') ['prior', 'since', 'before', 'past', 'after', 'ahead']
+('II', 'TO') ['to']
+('II', 'VV0') 20
+('II', 'VVD') ['opposed']
+('II', 'VVG') 13
+('II', 'VVN') ['opposed']
+('II', 'VVZ') ['terms']
+IO ['of']
+IW ['with']
+('IW', 'RL') ['without']
+JJ 24286
+('JJ', 'JJR') ['flatwater']
+('JJ', 'JJT') ['nearest']
+('JJ', 'MC') ['half-million']
+('JJ', 'MD') ['twenty-something']
+('JJ', 'MF') ['three-quarter']
+('JJ', 'NN') ['time-series']
+('JJ', 'NN1') 1525
+('JJ', 'NN2') ['high-fives', 'divers', 'grass-roots', 'for-profits', 'grassroots', 'nuts', 'bourgeois', 'crackers', 'drive-bys']
+('JJ', 'NNT1') ['quarter-century', 'half-century', 'half-second', 'minute']
+('JJ', 'NNU1') ['kilowatt-hour']
+('JJ', 'RG') ['less', 'bloody', 'just', 'pretty', 'awful', 'like', 'very', 'fucking', 'damn', 'downright']
+('JJ', 'RL') ['near', 'downward', 'offside', 'outside', 'upward', 'upside', 'opposite', 'nearby', 'above', 'inside']
+('JJ', 'RLT') ['nearest']
+('JJ', 'RP') ['back', 'out', 'over', 'away', 'off', 'down', 'up']
+('JJ', 'RR') 206
+('JJ', 'RRR') ['less', 'more-or-less']
+('JJ', 'RRT') ['foremost']
+('JJ', 'RT') 14
+('JJ', 'UH') ['goddamn', 'good-night', 'darn', 'pop', 'hi', 'doggone', 'dear', 'damn']
+('JJ', 'VMK') ['used']
+('JJ', 'VV0') 279
+('JJ', 'VVD') 2758
+('JJ', 'VVG') 619
+('JJ', 'VVN') 2628
+('JJ', 'VVZ') ['quits', 'nuts']
+JJR 320
+('JJR', 'NN1') 24
+('JJR', 'RLR') ['closer', 'farther', 'further', 'nearer']
+('JJR', 'RR') ['further']
+('JJR', 'RRR') 14
+('JJR', 'RTR') ['later', 'earlier']
+('JJR', 'VV0') ['better', 'number', 'further', 'lower', 'flatter']
+JJT 291
+('JJT', 'RLT') ['nearest', 'closest', 'farthest', 'furthest']
+('JJT', 'RR') ['best', 'worst']
+('JJT', 'RRT') ['best', 'worst', 'fastest', 'loudest', 'lowest', 'longest', 'highest', 'hardest']
+('JJT', 'RTT') ['earliest']
+('JJT', 'VV0') ['best', 'worst']
+MC 229
+('MC', 'NN1') ['zero', 'zillion', 'thirtysomething', 'tens']
+('MC', 'NN2') ['zeroes', 'zeros']
+('MC', 'PN1') ['one']
+('MC', 'VV0') ['zero']
+('MC', 'VVZ') ['zeroes', 'zeros']
+MD 88
+('MD', 'NNT1') ['second']
+('MD', 'RR') ['last', 'first']
+('MD', 'VV0') ['last', 'second']
+MF 51
+ND1 16
+NN ['cattle', 'goods', 'mini-series', 'personnel', 'data', 'series']
+('NN', 'NN2') ['miniseries']
+('NN', 'VVZ') ['clothes']
+NN1 22411
+('NN1', 'NN2') 29
+('NN1', 'PN') ['plenty']
+('NN1', 'PPGE') ['mine']
+('NN1', 'RG') ['like', 'part']
+('NN1', 'RL') ['underneath', 'behind', 'outside', 'aside', 'upside', 'beyond', 'outdoors', 'inside', 'opposite']
+('NN1', 'RP') ['back', 'down', 'over']
+('NN1', 'RR') 48
+('NN1', 'RRR') ['better', 'worse']
+('NN1', 'RT') ['overtime', 'past', 'daily']
+('NN1', 'UH') 16
+('NN1', 'VBG') ['being']
+('NN1', 'VM') ['might', 'must', 'need', 'will', 'dare']
+('NN1', 'VV0') 2508
+('NN1', 'VVD') 57
+('NN1', 'VVG') 683
+('NN1', 'VVN') 58
+('NN1', 'VVZ') ['regards', 'summons', 'works']
+NN2 14213
+('NN2', 'RL') ['forwards']
+('NN2', 'RR') ['whereabouts', 'inbounds']
+('NN2', 'UH') ['cheers', 'whoops']
+('NN2', 'VV0') ['police']
+('NN2', 'VVD') ['catches']
+('NN2', 'VVZ') 1603
+NNT1 35
+('NNT1', 'NNT2') ['year']
+('NNT1', 'VV0') ['second', 'minute', 'time', 'dawn']
+('NNT1', 'VVG') ['evening']
+NNT2 22
+('NNT2', 'VVZ') ['dawns', 'minutes', 'seconds', 'times']
+NNU1 ['arcsecond', 'light-year']
+NNU2 ['light-years', 'arcseconds', 'kilowatt-hours', 'acre-feet', 'man-hours', 'arcminutes', 'person-hours']
+NPD1 ['tuesday', 'wednesday', 'sunday', 'saturday', 'friday', 'monday', 'thursday']
+NPD2 ['mondays', 'sundays', 'wednesdays', 'thursdays', 'saturdays', 'tuesdays', 'fridays']
+NPM1 ['november', 'april', 'june', 'july', 'january', 'august', 'december', 'october', 'february', 'september']
+('NPM1', 'VM') ['may']
+PN ['nil', 'aught', 'some', 'lots', 'nought']
+('PN', 'RR') ['plenty', 'no', 'none']
+('PN', 'UH') ['no']
+PN1 18
+('PN1', 'RR') ['anything']
+PNQO ['whom']
+PNQS ['who', 'whatsoever']
+PNQV ['whomever', 'whoever', 'whomsoever']
+PPGE ['hers', 'theirs', 'ours', 'yours']
+('PPGE', 'VV0') ['mine']
+PPH1 ['it']
+PPHO1 ['him/her', 'him', 'em']
+('PPHO1', 'UH') ['ya']
+PPHO2 ['them']
+PPHS1 ['thee', 's/he', 'she', 'he/she', 'he']
+PPHS2 ['you-all', "y'all", 'yous', 'ye', 'thou', 'they']
+PPIO1 ['me']
+PPIO2 ['us']
+PPIS1 ['i']
+PPIS2 ['we']
+PPX1 17
+PPX2 ['ourselves', 'themselves', 'yourselves', 'them-selves', 'theirselves']
+PPY ['you']
+RA ['else']
+REX ['sic', 'etc']
+RG ['nearly', 'particularly', 'quite', 'extremely', 'completely', 'scarcely', 'especially', 'too', 'hardly', 'almost']
+('RG', 'RRR') ['less', 'more']
+('RG', 'RRT') ['least', 'most']
+('RG', 'UH') ['damn']
+('RG', 'VV0') ['like', 'part', 'damn']
+('RG', 'VVG') ['fucking']
+RGQV ['how-ever']
+RL 19
+('RL', 'VV0') ['near']
+('RL', 'VVZ') ['forwards']
+('RLR', 'VV0') ['further']
+('RP', 'VV0') ['back']
+RR 2747
+('RR', 'RRT') ['best', 'worst']
+('RR', 'UH') ['no']
+('RR', 'VV0') 29
+('RR', 'VVD') ['bit', 'left', 'damned']
+('RR', 'VVG') ['dripping', 'bleeding', 'following', 'raving', 'sopping', 'blooming', 'considering']
+('RR', 'VVN') ['bit', 'left', 'damned']
+RRQ ['why', 'how']
+RRQV ['wherever', 'whenever', 'however']
+RRR ['oftener']
+('RRR', 'VV0') ['better', 'lower']
+('RRT', 'VV0') ['best', 'worst']
+RT 28
+('RT', 'VBM') ['am']
+RTR ['sooner']
+RTT ['soonest']
+TO ['na']
+('TO', 'UH') ['ta']
+UH 140
+('UH', 'VV0') ['whoosh', 'darn', 'pop', 'hush', 'boo', 'quack', 'haw', 'damn', 'behold']
+VB0 ['be']
+VBDR ['were']
+VBDZ ['was']
+VBN ['been']
+VBR ['art', 'are']
+VBZ ['is']
+VD0 ['do']
+VDD ['did']
+VDG ['doing', 'do-ing']
+VDN ['done']
+VDZ ['does', 'doth']
+VH0 ['have', 'haue', 'hast']
+('VHD', 'VHN') ['had']
+VHG ['having']
+VHZ ['hath', 'has']
+VM ['shalt', 'wouldst', 'ca', 'could', 'wo', 'should', 'would', 'shall']
+('VM', 'VMK') ['ought']
+('VM', 'VV0') ['dare', 'need', 'will', 'can']
+('VMK', 'VVD') ['used']
+('VMK', 'VVN') ['used']
+VV0 2546
+('VV0', 'VVD') 53
+('VV0', 'VVN') 55
+('VV0', 'VVZ') ['summons']
+VVD 1060
+('VVD', 'VVN') 4579
+VVG 4429
+VVGK ['gon']
+VVN 143
+VVZ 1936
+XX ["n't"]

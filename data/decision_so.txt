@@ -1,0 +1,2683 @@
+Count	Path_Length	Result	Predicates
+7	3	T=RR	Gen+1=I & Gen-1=V & C-1=False
+22	14	T=RR~RG	Gen+1=I & Gen-1=V & C-1=True & Inf-1=False & Inf+1=False & Ing+1=False & A-1=False & Ing-1=False & Ger+1=False & Ger-1=False & C+1=True & M+1=False & A+1=False & M-1=False
+1	4	T=RR	Gen+1=I & Gen-1=V & C-1=True & Inf-1=True
+5	2	T=RR	Gen+1=I & Gen-1=R
+2	2	T=RG	Gen+1=I & Gen-1=Q
+1	2	T=RR	Gen+1=I & Gen-1=N
+9	2	T=RR	Gen+1=I & Gen-1=C
+38	2	T=RG	Gen+1=D & Gen-1=I
+2	2	T=RG	Gen+1=D & Gen-1=D
+2	2	T=RG	Gen+1=D & Gen-1=P
+23	14	T=RG~CS	Gen+1=D & Gen-1=V & C-1=False & Ing-1=False & Inf+1=False & Ing+1=False & A-1=False & Ger+1=False & Ger-1=False & Inf-1=False & C+1=True & M+1=True & A+1=False & M-1=False
+6	4	T=RG	Gen+1=D & Gen-1=V & C-1=False & Ing-1=True
+18	14	T=RR~RG	Gen+1=D & Gen-1=V & C-1=True & Inf-1=False & Inf+1=False & Ing+1=False & A-1=False & Ing-1=False & Ger+1=False & Ger-1=False & C+1=True & M+1=True & A+1=False & M-1=False
+5	4	T=RG	Gen+1=D & Gen-1=V & C-1=True & Inf-1=True
+4	2	T=RG	Gen+1=D & Gen-1=X
+4	14	T=RG~CS	Gen+1=D & Gen-1=N & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=True & Ing-1=False & C-1=False & Ger+1=False & C+1=True & M+1=True & A+1=False & M-1=False
+7	14	T=RR~RG~CS	Gen+1=D & Gen-1=Q & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=True & A+1=False & M-1=False
+10	2	T=RG	Gen+1=D & Gen-1=R
+10	14	T=RR~RG	Gen+1=D & Gen-1=C & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=True & A+1=False & M-1=False
+1	2	T=CS	Gen+1=P & Gen-1=D
+1	2	T=CS	Gen+1=P & Gen-1=M
+7	2	T=CS	Gen+1=P & Gen-1=P
+3	3	T=CS	Gen+1=P & Gen-1=V & Ger-1=False
+2	14	T=RR~CS	Gen+1=P & Gen-1=V & Ger-1=True & Inf+1=False & Inf-1=True & Ing+1=False & A-1=False & Ing-1=True & C-1=False & Ger+1=False & C+1=True & M+1=False & A+1=True & M-1=False
+37	14	T=RR~CS	Gen+1=P & Gen-1=N & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=True & Ing-1=False & C-1=False & Ger+1=False & C+1=True & M+1=False & A+1=True & M-1=False
+2	2	T=CS	Gen+1=P & Gen-1=J
+49	14	T=RR~CS	Gen+1=P & Gen-1=Q & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=False & A+1=True & M-1=False
+11	2	T=CS	Gen+1=P & Gen-1=R
+18	14	T=RR~CS	Gen+1=P & Gen-1=C & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=False & A+1=True & M-1=False
+2	3	T=RG	Gen+1=V & Inf+1=False & Gen-1=D
+8	14	T=RR~RG	Gen+1=V & Inf+1=False & Gen-1=P & Inf-1=False & Ger-1=False & Ing+1=False & A-1=True & Ing-1=False & C-1=True & Ger+1=False & C+1=False & M+1=False & A+1=False & M-1=False
+8	3	T=RR	Gen+1=V & Inf+1=False & Gen-1=V
+1	3	T=RR	Gen+1=V & Inf+1=False & Gen-1=T
+6	3	T=RR	Gen+1=V & Inf+1=False & Gen-1=N
+4	14	T=RR~RG~CS	Gen+1=V & Inf+1=False & Gen-1=Q & C+1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & Ger+1=False & Ger-1=False & C-1=True & M+1=False & A+1=False & M-1=False
+12	14	T=RR~CS	Gen+1=V & Inf+1=False & Gen-1=Q & C+1=True & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & Ger+1=False & Ger-1=False & C-1=True & M+1=False & A+1=False & M-1=False
+9	4	T=RR	Gen+1=V & Inf+1=False & Gen-1=C & C+1=False
+16	14	T=RR~CS	Gen+1=V & Inf+1=False & Gen-1=C & C+1=True & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & Ger+1=False & Ger-1=False & C-1=True & M+1=False & A+1=False & M-1=False
+3	4	T=RG	Gen+1=V & Inf+1=True & Gen-1=I & Ger+1=False
+5	4	T=RR	Gen+1=V & Inf+1=True & Gen-1=I & Ger+1=True
+1	3	T=RR	Gen+1=V & Inf+1=True & Gen-1=D
+1	3	T=RG	Gen+1=V & Inf+1=True & Gen-1=M
+3	14	T=RR~RG	Gen+1=V & Inf+1=True & Gen-1=P & Inf-1=False & Ger-1=False & Ing+1=True & A-1=True & Ing-1=False & C-1=True & Ger+1=False & C+1=False & M+1=False & A+1=False & M-1=False
+5	14	T=RR~RG	Gen+1=V & Inf+1=True & Gen-1=X & Ger+1=False & Inf-1=False & Ing+1=True & A-1=False & Ing-1=False & C-1=True & Ger-1=False & C+1=False & M+1=False & A+1=False & M-1=False
+1	4	T=RR	Gen+1=V & Inf+1=True & Gen-1=X & Ger+1=True
+6	14	T=RR~RG	Gen+1=V & Inf+1=True & Gen-1=V & Inf-1=False & C-1=False & Ing+1=True & A-1=False & Ing-1=False & Ger+1=False & Ger-1=False & C+1=False & M+1=False & A+1=False & M-1=False
+35	14	T=RR~RG	Gen+1=V & Inf+1=True & Gen-1=V & Inf-1=False & C-1=True & Ing+1=True & A-1=False & Ing-1=False & Ger+1=False & Ger-1=False & C+1=False & M+1=False & A+1=False & M-1=False
+6	14	T=RR~RG	Gen+1=V & Inf+1=True & Gen-1=V & Inf-1=True & Ing-1=False & Ing+1=True & A-1=False & Ger+1=False & C-1=True & Ger-1=False & C+1=False & M+1=False & A+1=False & M-1=False
+6	5	T=RG	Gen+1=V & Inf+1=True & Gen-1=V & Inf-1=True & Ing-1=True
+20	14	T=RR~RG	Gen+1=V & Inf+1=True & Gen-1=N & Inf-1=False & Ger-1=False & Ing+1=True & A-1=True & Ing-1=False & C-1=False & Ger+1=False & C+1=False & M+1=False & A+1=False & M-1=False
+4	14	T=RR~RG	Gen+1=V & Inf+1=True & Gen-1=Q & Ger+1=False & Inf-1=False & Ing+1=True & A-1=False & Ing-1=False & C-1=True & Ger-1=False & C+1=False & M+1=False & A+1=False & M-1=False
+1	4	T=RG	Gen+1=V & Inf+1=True & Gen-1=Q & Ger+1=True
+4	4	T=RG	Gen+1=V & Inf+1=True & Gen-1=R & C-1=False
+3	4	T=RR	Gen+1=V & Inf+1=True & Gen-1=R & C-1=True
+4	14	T=RR~RG	Gen+1=V & Inf+1=True & Gen-1=C & Ger+1=False & Inf-1=False & Ing+1=True & A-1=False & Ing-1=False & C-1=True & Ger-1=False & C+1=False & M+1=False & A+1=False & M-1=False
+1	4	T=RR	Gen+1=V & Inf+1=True & Gen-1=C & Ger+1=True
+10	1	T=RR	Gen+1=T
+14	14	T=RR~CS	Gen+1=N & Gen-1=Q & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=False & M+1=False & A+1=True & M-1=False
+9	14	T=RR~CS	Gen+1=N & Gen-1=C & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=False & M+1=False & A+1=True & M-1=False
+3	14	T=RR~CS	Gen+1=N & Gen-1=V & Inf+1=False & Ger-1=True & Inf-1=True & Ing+1=False & A-1=False & Ing-1=True & C-1=False & Ger+1=False & C+1=False & M+1=False & A+1=True & M-1=False
+5	14	T=RR~RG~CS	Gen+1=N & Gen-1=N & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=True & Ing-1=False & C-1=False & Ger+1=False & C+1=False & M+1=False & A+1=True & M-1=False
+3	14	T=RR~CS	Gen+1=N & Gen-1=R & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=False & Ger+1=False & C+1=False & M+1=False & A+1=True & M-1=True
+9	2	T=RG	Gen+1=J & Gen-1=I
+2	2	T=RG	Gen+1=J & Gen-1=D
+1	2	T=RG	Gen+1=J & Gen-1=M
+9	2	T=RG	Gen+1=J & Gen-1=P
+30	14	T=RG~CS	Gen+1=J & Gen-1=V & Inf-1=False & C-1=False & Inf+1=False & Ing+1=False & A-1=False & Ing-1=False & Ger+1=False & Ger-1=False & C+1=False & M+1=True & A+1=False & M-1=False
+120	14	T=RG~CS	Gen+1=J & Gen-1=V & Inf-1=False & C-1=True & Inf+1=False & Ing+1=False & A-1=False & Ing-1=False & Ger+1=False & Ger-1=False & C+1=False & M+1=True & A+1=False & M-1=False
+41	3	T=RG	Gen+1=J & Gen-1=V & Inf-1=True
+23	2	T=RG	Gen+1=J & Gen-1=X
+36	14	T=RG~CS	Gen+1=J & Gen-1=N & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=True & Ing-1=False & C-1=False & Ger+1=False & C+1=False & M+1=True & A+1=False & M-1=False
+1	2	T=CS	Gen+1=J & Gen-1=J
+36	14	T=RR~RG	Gen+1=J & Gen-1=Q & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=False & M+1=True & A+1=False & M-1=False
+20	2	T=RG	Gen+1=J & Gen-1=R
+13	14	T=RR~RG	Gen+1=J & Gen-1=C & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=False & M+1=True & A+1=False & M-1=False
+2	2	T=RR	Gen+1=Q & Gen-1=D
+6	14	T=RR~CS	Gen+1=Q & Gen-1=P & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=True & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=False & A+1=False & M-1=False
+22	14	T=RR~RG	Gen+1=Q & Gen-1=V & C-1=False & Ing-1=False & Inf+1=False & Ing+1=False & A-1=False & Ger+1=False & Ger-1=False & Inf-1=False & C+1=True & M+1=False & A+1=False & M-1=False
+13	4	T=RR	Gen+1=Q & Gen-1=V & C-1=False & Ing-1=True
+29	3	T=RR	Gen+1=Q & Gen-1=V & C-1=True
+5	2	T=RR	Gen+1=Q & Gen-1=X
+2	2	T=RR	Gen+1=Q & Gen-1=N
+3	2	T=RR	Gen+1=Q & Gen-1=Q
+21	2	T=RR	Gen+1=Q & Gen-1=C
+21	2	T=RR	Gen+1=Q & Gen-1=R
+6	1	T=CS	Gen+1=E
+1	2	T=CS	Gen+1=A & Gen-1=P
+1	4	T=RR	Gen+1=A & Gen-1=V & Ger-1=False & Ing-1=False
+1	4	T=CS	Gen+1=A & Gen-1=V & Ger-1=False & Ing-1=True
+1	3	T=RR	Gen+1=A & Gen-1=V & Ger-1=True
+5	2	T=CS	Gen+1=A & Gen-1=N
+25	14	T=RR~CS	Gen+1=A & Gen-1=Q & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=True & A+1=False & M-1=False
+8	14	T=RR~CS	Gen+1=A & Gen-1=C & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=True & A+1=False & M-1=False
+2	14	T=RR~CS	Gen+1=A & Gen-1=R & C-1=False & Ger-1=False & Inf+1=False & Ing+1=False & A-1=False & Ing-1=False & Inf-1=False & Ger+1=False & C+1=True & M+1=True & A+1=False & M-1=True
+1	3	T=CS	Gen+1=A & Gen-1=R & C-1=True
+10	2	T=RG	Gen+1=R & Gen-1=I
+7	14	T=RR~RG	Gen+1=R & Gen-1=D & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=False & M+1=True & A+1=False & M-1=True
+1	2	T=RG	Gen+1=R & Gen-1=M
+19	2	T=RG	Gen+1=R & Gen-1=P
+54	14	T=RR~RG~CS	Gen+1=R & Gen-1=V & C-1=False & Ger-1=False & C+1=False & Ing-1=False & Ing+1=False & A-1=False & Ger+1=False & Inf+1=False & Inf-1=False & M-1=False & M+1=True & A+1=False
+33	14	T=RR~RG~CS	Gen+1=R & Gen-1=V & C-1=False & Ger-1=False & C+1=False & Ing-1=True & Ing+1=False & A-1=False & Ger+1=False & Inf+1=False & Inf-1=True & M-1=False & M+1=True & A+1=False
+3	5	T=RG	Gen+1=R & Gen-1=V & C-1=False & Ger-1=False & C+1=True
+8	14	T=RR~RG	Gen+1=R & Gen-1=V & C-1=False & Ger-1=True & Inf+1=False & Ing+1=False & A-1=False & Ing-1=True & Inf-1=True & Ger+1=False & C+1=False & M+1=True & A+1=False & M-1=False
+39	14	T=RR~RG	Gen+1=R & Gen-1=V & C-1=True & Ing-1=False & C+1=False & Inf-1=False & Ing+1=False & A-1=False & Ger+1=False & Inf+1=False & Ger-1=False & A+1=False & M+1=True & M-1=False
+6	14	T=RR~RG	Gen+1=R & Gen-1=V & C-1=True & Ing-1=False & C+1=False & Inf-1=True & Ing+1=False & A-1=False & Ger+1=False & Inf+1=False & Ger-1=False & A+1=False & M+1=True & M-1=False
+8	14	T=RR~RG	Gen+1=R & Gen-1=V & C-1=True & Ing-1=False & C+1=True & Inf-1=False & Ing+1=False & A-1=False & Ger+1=False & Inf+1=False & Ger-1=False & A+1=False & M+1=True & M-1=False
+2	6	T=RG	Gen+1=R & Gen-1=V & C-1=True & Ing-1=False & C+1=True & Inf-1=True
+3	4	T=RG	Gen+1=R & Gen-1=V & C-1=True & Ing-1=True
+19	2	T=RG	Gen+1=R & Gen-1=X
+46	2	T=RG	Gen+1=R & Gen-1=N
+3	2	T=RG	Gen+1=R & Gen-1=J
+34	14	T=RR~RG~CS	Gen+1=R & Gen-1=Q & C+1=False & Ger-1=False & Inf+1=False & Ing+1=False & A-1=False & Ing-1=False & Inf-1=False & Ger+1=False & C-1=True & M+1=True & A+1=False & M-1=False
+3	14	T=RR~RG	Gen+1=R & Gen-1=Q & C+1=True & Ger-1=False & Inf+1=False & Ing+1=False & A-1=False & Ing-1=False & Inf-1=False & Ger+1=False & C-1=True & M+1=True & A+1=False & M-1=False
+3	2	T=RG	Gen+1=R & Gen-1=A
+18	14	T=RR~RG	Gen+1=R & Gen-1=C & C+1=False & Ger-1=False & Inf+1=False & Ing+1=False & A-1=False & Ing-1=False & Inf-1=False & Ger+1=False & C-1=True & M+1=True & A+1=False & M-1=False
+24	14	T=RR~RG	Gen+1=R & Gen-1=C & C+1=True & Ger-1=False & Inf+1=False & Ing+1=False & A-1=False & Ing-1=False & Inf-1=False & Ger+1=False & C-1=True & M+1=True & A+1=False & M-1=False
+21	14	T=RR~RG	Gen+1=R & Gen-1=R & C-1=False & C+1=False & Inf+1=False & Ing+1=False & A-1=False & Ing-1=False & Ger-1=False & Ger+1=False & Inf-1=False & M-1=True & M+1=True & A+1=False
+2	4	T=RG	Gen+1=R & Gen-1=R & C-1=False & C+1=True
+7	3	T=RG	Gen+1=R & Gen-1=R & C-1=True
+3	2	T=CS	Gen+1=C & Gen-1=D
+6	2	T=CS	Gen+1=C & Gen-1=P
+7	5	T=CS	Gen+1=C & Gen-1=V & C-1=False & Ger-1=False & Ing-1=False
+23	14	T=RR~CS	Gen+1=C & Gen-1=V & C-1=False & Ger-1=False & Ing-1=True & Ing+1=False & A-1=False & Ger+1=False & Inf+1=False & Inf-1=True & C+1=True & M+1=False & A+1=False & M-1=False
+2	4	T=RR	Gen+1=C & Gen-1=V & C-1=False & Ger-1=True
+5	14	T=RR~RG	Gen+1=C & Gen-1=V & C-1=True & Inf-1=False & Inf+1=False & Ing+1=False & A-1=False & Ing-1=False & Ger+1=False & Ger-1=False & C+1=True & M+1=False & A+1=False & M-1=False
+1	4	T=RR	Gen+1=C & Gen-1=V & C-1=True & Inf-1=True
+1	2	T=RR	Gen+1=C & Gen-1=X
+92	14	T=RR~CS	Gen+1=C & Gen-1=N & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=True & Ing-1=False & C-1=False & Ger+1=False & C+1=True & M+1=False & A+1=False & M-1=False
+13	2	T=CS	Gen+1=C & Gen-1=J
+80	14	T=RR~CS	Gen+1=C & Gen-1=Q & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=False & A+1=False & M-1=False
+21	14	T=RR~CS	Gen+1=C & Gen-1=R & C-1=False & Ger-1=False & Inf+1=False & Ing+1=False & A-1=False & Ing-1=False & Inf-1=False & Ger+1=False & C+1=True & M+1=False & A+1=False & M-1=True
+7	14	T=RR~CS	Gen+1=C & Gen-1=R & C-1=True & Ger-1=False & Inf+1=False & Ing+1=False & A-1=False & Ing-1=False & Inf-1=False & Ger+1=False & C+1=True & M+1=False & A+1=False & M-1=True
+6	14	T=RR~CS	Gen+1=C & Gen-1=C & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=False & A+1=False & M-1=False
+Count	Path_Length	Result	Predicates
+1	1	T=RG	L+1=concentrate
+1	1	T=RG	L+1=perfect
+1	1	T=RG	L+1=unready
+1	1	T=RG	L+1=vividly
+1	1	T=RG	L+1=cordial
+1	1	T=RG	L+1=personal
+1	1	T=RR	L+1=here
+1	1	T=RR	L+1=process
+1	1	T=RR	L+1=deduct
+1	1	T=RR	L+1=take
+1	2	T=CS	L+1=that & L-1=manager
+1	2	T=CS	L+1=that & L-1=type
+1	2	T=CS	L+1=that & L-1=usual
+1	2	T=CS	L+1=that & L-1=alive
+1	2	T=CS	L+1=that & L-1=accelerometer
+1	2	T=CS	L+1=that & L-1=face
+1	2	T=CS	L+1=that & L-1=flexible
+1	2	T=CS	L+1=that & L-1=together
+1	2	T=RR	L+1=that & L-1=much
+1	2	T=CS	L+1=that & L-1=just
+1	2	T=CS	L+1=that & L-1=formed
+1	2	T=CS	L+1=that & L-1=move
+1	2	T=CS	L+1=that & L-1=detachable
+3	2	T=CS	L+1=that & L-1=up
+1	2	T=CS	L+1=that & L-1=mechanically
+1	2	T=CS	L+1=that & L-1=taken
+1	2	T=CS	L+1=that & L-1=drive
+68	2	T=CS	L+1=that & L-1=,
+1	2	T=CS	L+1=that & L-1=acre
+1	2	T=CS	L+1=that & L-1=conventionalized
+1	2	T=CS	L+1=that & L-1=plane
+1	2	T=CS	L+1=that & L-1=law
+1	2	T=CS	L+1=that & L-1=leg
+1	2	T=CS	L+1=that & L-1=lens
+1	2	T=CS	L+1=that & L-1=substance
+1	2	T=CS	L+1=that & L-1=community
+2	2	T=CS	L+1=that & L-1=head
+1	2	T=CS	L+1=that & L-1=industry
+1	2	T=CS	L+1=that & L-1=provided
+1	2	T=CS	L+1=that & L-1=foot
+1	2	T=CS	L+1=that & L-1=do
+1	2	T=CS	L+1=that & L-1=reference
+1	2	T=CS	L+1=that & L-1=understood
+1	2	T=CS	L+1=that & L-1=requirement
+1	2	T=CS	L+1=that & L-1=necessity
+1	2	T=CS	L+1=that & L-1=vehicle
+1	2	T=CS	L+1=that & L-1=wise
+1	2	T=CS	L+1=that & L-1=companion
+1	2	T=CS	L+1=that & L-1=himself
+1	2	T=CS	L+1=that & L-1=timed
+1	2	T=CS	L+1=that & L-1=these
+2	2	T=CS	L+1=that & L-1=help
+1	3	T=CS	L+1=that & L-1=0 & Gen-1=V
+5	16	T=RR~CS	L+1=that & L-1=0 & Gen-1=N & Gen+1=C & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=True & Ing-1=False & C-1=False & Ger+1=False & C+1=True & M+1=False & A+1=False & M-1=False
+2	2	T=CS	L+1=that & L-1=experience
+1	2	T=CS	L+1=that & L-1=ecstasy
+1	2	T=CS	L+1=that & L-1=changed
+1	2	T=CS	L+1=that & L-1=transition
+1	2	T=CS	L+1=that & L-1=elapse
+1	2	T=CS	L+1=that & L-1=perturbation
+2	2	T=CS	L+1=that & L-1=it
+1	2	T=CS	L+1=that & L-1=legislation
+1	2	T=CS	L+1=that & L-1=business
+1	2	T=CS	L+1=that & L-1=skin
+1	2	T=CS	L+1=that & L-1=thick
+1	2	T=CS	L+1=that & L-1=unfixed
+2	2	T=CS	L+1=that & L-1=barrel
+1	2	T=CS	L+1=that & L-1=print
+2	2	T=CS	L+1=that & L-1=them
+1	2	T=CS	L+1=that & L-1=weight
+1	2	T=CS	L+1=that & L-1=date
+1	2	T=CS	L+1=that & L-1=way
+1	2	T=CS	L+1=that & L-1=displacement
+1	2	T=CS	L+1=that & L-1=readjust
+1	2	T=CS	L+1=that & L-1=shaker
+2	2	T=CS	L+1=that & L-1=other
+1	2	T=CS	L+1=that & L-1=register
+1	2	T=CS	L+1=that & L-1=september
+1	2	T=CS	L+1=that & L-1=home
+1	2	T=CS	L+1=that & L-1=soon
+1	2	T=CS	L+1=that & L-1=component
+1	2	T=CS	L+1=that & L-1=passport
+1	2	T=CS	L+1=that & L-1=precaution
+1	2	T=CS	L+1=that & L-1=response
+1	2	T=CS	L+1=that & L-1=switched
+1	2	T=CS	L+1=that & L-1=mount
+1	2	T=CS	L+1=that & L-1=now
+1	2	T=CS	L+1=that & L-1=reproducible
+1	2	T=CS	L+1=that & L-1=a
+1	2	T=CS	L+1=that & L-1=stress
+1	2	T=CS	L+1=that & L-1=height
+1	2	T=CS	L+1=that & L-1=chatter
+1	2	T=CS	L+1=that & L-1=knoll
+1	2	T=CS	L+1=that & L-1=mouth
+1	2	T=CS	L+1=that & L-1=corporation
+1	2	T=CS	L+1=that & L-1=devise
+1	2	T=CS	L+1=that & L-1=table
+1	2	T=CS	L+1=that & L-1=lung
+1	2	T=CS	L+1=that & L-1=floor
+1	2	T=CS	L+1=that & L-1=period
+1	2	T=CS	L+1=that & L-1=level
+1	2	T=CS	L+1=that & L-1=designed
+1	2	T=CS	L+1=that & L-1=complement
+1	2	T=CS	L+1=that & L-1=headquarters
+1	2	T=CS	L+1=that & L-1=light
+1	2	T=CS	L+1=that & L-1=connect
+2	2	T=CS	L+1=that & L-1=back
+1	2	T=RR	L+1=that & L-1=get
+1	2	T=CS	L+1=that & L-1=fire
+1	2	T=CS	L+1=that & L-1=grease
+4	2	T=CS	L+1=that & L-1=enough
+1	2	T=CS	L+1=that & L-1=early
+1	2	T=CS	L+1=that & L-1=decant
+1	2	T=CS	L+1=that & L-1=cycle
+1	2	T=CS	L+1=that & L-1=down
+1	2	T=CS	L+1=that & L-1=moved
+1	2	T=CS	L+1=that & L-1=clean
+3	2	T=CS	L+1=that & L-1=and
+1	2	T=CS	L+1=that & L-1=center
+1	2	T=CS	L+1=that & L-1=circumstance
+1	2	T=CS	L+1=that & L-1=around
+1	2	T=CS	L+1=that & L-1=finish
+1	2	T=CS	L+1=that & L-1=backward
+1	2	T=CS	L+1=that & L-1=bang
+1	2	T=CS	L+1=that & L-1=shape
+1	2	T=CS	L+1=that & L-1=matter
+1	2	T=RR	L+1=that & L-1=powerfully
+1	2	T=CS	L+1=that & L-1=standard
+1	2	T=CS	L+1=that & L-1=-
+1	2	T=CS	L+1=that & L-1=wavelength
+1	2	T=CS	L+1=that & L-1=think
+1	2	T=CS	L+1=that & L-1=used
+1	2	T=CS	L+1=that & L-1=column
+1	2	T=CS	L+1=that & L-1=encourage
+1	2	T=CS	L+1=that & L-1=gauge
+1	2	T=CS	L+1=that & L-1=game
+1	2	T=CS	L+1=that & L-1=bore
+1	2	T=CS	L+1=that & L-1=outside
+1	2	T=CS	L+1=that & L-1=edge
+1	2	T=CS	L+1=that & L-1=term
+1	2	T=CS	L+1=that & L-1=pressure
+1	2	T=CS	L+1=that & L-1=mirror
+1	2	T=CS	L+1=that & L-1=located
+1	2	T=CS	L+1=that & L-1=itself
+1	2	T=CS	L+1=that & L-1=carefully
+1	2	T=CS	L+1=that & L-1=condition
+1	2	T=CS	L+1=that & L-1=fabric
+1	2	T=CS	L+1=that & L-1=things
+6	1	T=RG	L+1=beautiful
+1	1	T=RG	L+1=blind
+1	1	T=RG	L+1=taken
+5	1	T=RR	L+1=by
+1	1	T=RG	L+1=spirit
+1	1	T=RG	L+1=pitiable
+1	1	T=CS	L+1=his
+9	2	T=RG	L+1=little & Gen+1=D
+1	2	T=RR	L+1=little & Gen+1=J
+2	2	T=RG	L+1=little & Gen+1=R
+5	1	T=RR	L+1=with
+1	1	T=RR	L+1=our
+1	1	T=RG	L+1=fatigue
+6	1	T=RG	L+1=easily
+1	1	T=RG	L+1=kindly
+1	1	T=RG	L+1=desperately
+1	1	T=RG	L+1=arouse
+5	1	T=RR	L+1=do
+1	2	T=CS	L+1=one & Gen-1=N
+2	16	T=RR~CS	L+1=one & Gen-1=Q & Gen+1=P & Ger-1=False & Inf+1=False & Inf-1=False & C+1=True & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & L-1=, & M+1=False & A+1=True & M-1=False
+1	1	T=RG	L+1=sorely
+1	1	T=CS	L+1=unasked
+1	1	T=RG	L+1=exhaust
+1	1	T=RG	L+1=profoundly
+2	1	T=RR	L+1=incline
+1	1	T=RG	L+1=sympathetically
+1	1	T=RG	L+1=late
+1	1	T=RG	L+1=delicate
+1	1	T=RR	L+1=marshall
+1	1	T=RG	L+1=TRUE
+1	1	T=RG	L+1=masculine
+1	1	T=RG	L+1=enmeshed
+2	1	T=RG	L+1=quiet
+1	1	T=RG	L+1=immediate
+2	1	T=RG	L+1=large
+3	1	T=RG	L+1=dramatic
+1	1	T=RG	L+1=inexpressibly
+1	1	T=RG	L+1=clear
+1	1	T=RG	L+1=habitual
+1	1	T=RG	L+1=apparently
+1	1	T=RG	L+1=drink
+2	1	T=RG	L+1=deep
+2	16	T=RR~CS	L+1=it & L-1=and & Gen+1=P & Ger-1=False & Inf+1=False & Inf-1=False & Gen-1=C & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=False & A+1=True & M-1=False
+10	16	T=RR~CS	L+1=it & L-1=, & Gen+1=P & Ger-1=False & Inf+1=False & Inf-1=False & Gen-1=Q & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=False & A+1=True & M-1=False
+1	2	T=CS	L+1=it & L-1=lid
+1	2	T=RR	L+1=it & L-1=or
+1	2	T=RR	L+1=it & L-1=size
+1	2	T=RR	L+1=it & L-1=horse
+1	2	T=CS	L+1=it & L-1=church
+1	2	T=CS	L+1=it & L-1=diagonally
+1	2	T=CS	L+1=it & L-1=navel
+2	1	T=RG	L+1=complicate
+2	1	T=RG	L+1=eagerly
+1	1	T=RG	L+1=frustrating
+1	1	T=RG	L+1=realistically
+1	1	T=RG	L+1=comfortable
+1	1	T=RR	L+1=escape
+1	1	T=RG	L+1=grounded
+1	1	T=RG	L+1=breath-taking
+1	1	T=RR	L+1=harass
+1	1	T=RR	L+1=repelled
+5	1	T=RG	L+1=few
+1	1	T=RG	L+1=prevalent
+2	1	T=RG	L+1=pale
+1	1	T=RG	L+1=befoul
+2	1	T=RG	L+1=loudly
+1	1	T=RR	L+1=construe
+1	1	T=RG	L+1=slow
+1	1	T=RG	L+1=fair
+1	1	T=RR	L+1=make
+1	1	T=RG	L+1=wonderful
+1	1	T=RR	L+1=bless
+1	1	T=RG	L+1=secularize
+1	1	T=RG	L+1=solidly
+1	1	T=RG	L+1=fat
+1	1	T=CS	L+1=halt
+1	1	T=RG	L+1=chilly
+1	1	T=RR	L+1=knowingly
+1	1	T=RG	L+1=frighten
+1	1	T=RG	L+1=emphatically
+1	1	T=RG	L+1=tediously
+3	1	T=RR	L+1=desire
+1	1	T=RG	L+1=prize
+1	1	T=RR	L+1=intentionally
+2	1	T=RG	L+1=cold
+2	1	T=RG	L+1=obviously
+1	1	T=RG	L+1=red
+2	1	T=RG	L+1=casually
+1	1	T=RG	L+1=sharply
+1	1	T=RG	L+1=extraordinary
+1	1	T=RG	L+1=deadly
+1	1	T=RR	L+1=frame
+1	1	T=RG	L+1=dense
+3	1	T=RG	L+1=slight
+1	1	T=RG	L+1=sweetly
+1	1	T=RG	L+1=dumb
+1	1	T=RR	L+1=naturally
+1	1	T=RG	L+1=purged
+1	1	T=RG	L+1=nearsighted
+2	1	T=RR	L+1=notify
+1	1	T=RG	L+1=moved
+1	1	T=RG	L+1=firmly
+1	1	T=RG	L+1=clean
+1	1	T=RG	L+1=malign
+1	1	T=RG	L+1=foggy
+1	1	T=RG	L+1=parade
+1	1	T=RG	L+1=exactly
+2	1	T=RG	L+1=big
+1	1	T=RG	L+1=unfair
+1	1	T=RG	L+1=challenge
+1	1	T=RG	L+1=disgust
+1	1	T=RG	L+1=disparate
+1	2	T=CS	L+1=every & Gen-1=C
+1	2	T=RR	L+1=every & Gen-1=Q
+1	1	T=RR	L+1=dispose
+1	1	T=RR	L+1=explicitly
+1	1	T=RG	L+1=fix
+3	1	T=RR	L+1=-
+3	1	T=RR	L+1=than
+2	1	T=RG	L+1=dark
+1	1	T=RR	L+1=constructed
+1	1	T=RG	L+1=ashamed
+2	1	T=RR	L+1=choose
+1	1	T=RG	L+1=infuriated
+1	1	T=RG	L+1=fine
+4	16	T=RR~CS	L+1=be & L-1=and & Gen+1=V & Ger-1=False & Inf+1=False & Inf-1=False & Gen-1=C & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=False & A+1=False & M-1=False
+3	2	T=RR	L+1=be & L-1=,
+1	2	T=RR	L+1=be & L-1=but
+1	1	T=RG	L+1=vary
+1	1	T=RG	L+1=tipsy
+1	1	T=RR	L+1=discovered
+2	1	T=RG	L+1=cool
+1	1	T=RG	L+1=positive
+1	1	T=RG	L+1=mad
+1	1	T=RG	L+1=dilapidated
+1	1	T=RR	L+1=minute
+1	1	T=RG	L+1=basic
+3	1	T=RG	L+1=nice
+1	1	T=RG	L+1=grip
+2	1	T=RR	L+1=among
+1	1	T=RG	L+1=harshly
+7	1	T=RG	L+1=close
+1	1	T=RR	L+1=should
+1	1	T=RG	L+1=pronounce
+1	1	T=RR	L+1=school
+96	1	T=RG	L+1=much
+1	1	T=RR	L+1=just
+2	1	T=RR	L+1=must
+4	1	T=RR	L+1=because
+6	1	T=RG	L+1=good
+1	1	T=RR	L+1=about
+1	2	T=RR	L+1=publicly & Gen-1=V
+1	2	T=RG	L+1=publicly & Gen-1=R
+1	1	T=RG	L+1=available
+2	1	T=RR	L+1=before
+1	1	T=RG	L+1=weary
+2	1	T=RG	L+1=dominated
+2	1	T=RG	L+1=overwhelming
+1	1	T=RG	L+1=ornery
+1	1	T=RR	L+1=deliberately
+2	1	T=RG	L+1=filled
+1	1	T=RR	L+1=god
+1	1	T=RG	L+1=content
+7	1	T=RG	L+1=closely
+1	1	T=RG	L+1=disappoint
+1	1	T=RG	L+1=far-reaching
+1	1	T=RG	L+1=fruitless
+1	1	T=RG	L+1=lousy
+3	1	T=RG	L+1=sure
+1	1	T=RG	L+1=memorable
+1	1	T=RR	L+1=why
+1	1	T=RG	L+1=neatly
+2	1	T=RG	L+1=tough
+1	1	T=RG	L+1=directly
+2	1	T=RG	L+1=vital
+1	1	T=RG	L+1=precious
+1	2	T=RG	L+1=like & Gen-1=V
+1	2	T=RR	L+1=like & Gen-1=Q
+4	1	T=RR	L+1=would
+1	1	T=RG	L+1=peaceful
+1	1	T=CS	L+1=instead
+1	1	T=RR	L+1=most
+1	1	T=RR	L+1=agreed
+1	1	T=RG	L+1=alarmingly
+1	1	T=RG	L+1=fearful
+4	1	T=RR	L+1=at
+1	1	T=RG	L+1=fruitful
+1	1	T=RG	L+1=freely
+1	1	T=RG	L+1=seriously
+1	1	T=RG	L+1=stir
+2	1	T=RG	L+1=thick
+1	1	T=RG	L+1=austerely
+1	1	T=RG	L+1=demand
+1	1	T=RG	L+1=complete
+1	1	T=RR	L+1=restore
+1	1	T=RG	L+1=malleable
+1	1	T=RG	L+1=incredible
+1	1	T=RG	L+1=fond
+1	1	T=RG	L+1=coolly
+1	1	T=RG	L+1=grand
+1	1	T=RG	L+1=painstakingly
+1	2	T=CS	L+1=you & Gen-1=M
+1	2	T=CS	L+1=you & Gen-1=P
+2	2	T=CS	L+1=you & Gen-1=V
+4	2	T=CS	L+1=you & Gen-1=N
+1	2	T=CS	L+1=you & Gen-1=J
+4	16	T=RR~CS	L+1=you & Gen-1=Q & Gen+1=P & Ger-1=False & Inf+1=False & Inf-1=False & C+1=True & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & L-1=, & M+1=False & A+1=True & M-1=False
+3	2	T=CS	L+1=you & Gen-1=R
+5	1	T=RG	L+1=soon
+1	1	T=RR	L+1=after
+1	1	T=RG	L+1=thickly
+1	1	T=RG	L+1=foolish
+52	1	T=RG	L+1=far
+1	1	T=RG	L+1=extensively
+1	1	T=RR	L+1=indeed
+1	1	T=RG	L+1=newly
+1	1	T=RG	L+1=dilute
+2	1	T=RG	L+1=greatly
+2	1	T=RG	L+1=rich
+1	1	T=RG	L+1=crucial
+1	1	T=RG	L+1=shallow
+1	1	T=RG	L+1=skillfully
+1	1	T=RG	L+1=vindictive
+1	1	T=RG	L+1=catastrophically
+1	1	T=RR	L+1=people
+1	1	T=RG	L+1=delight
+1	1	T=RG	L+1=softly
+1	1	T=RR	L+1=paid
+1	1	T=RG	L+1=eloquent
+1	1	T=RG	L+1=peculiar
+1	1	T=RG	L+1=early
+1	1	T=RR	L+1=vote
+1	1	T=RR	L+1=lend
+1	2	T=CS	L+1=the & L-1=enough
+5	16	T=RR~CS	L+1=the & L-1=and & Gen+1=A & Ger-1=False & Inf+1=False & Inf-1=False & Gen-1=C & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=True & A+1=False & M-1=False
+14	16	T=RR~CS	L+1=the & L-1=, & Gen+1=A & Ger-1=False & Inf+1=False & Inf-1=False & Gen-1=Q & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=True & A+1=False & M-1=False
+1	2	T=CS	L+1=the & L-1=wire
+1	2	T=CS	L+1=the & L-1=mud
+2	16	T=RR~CS	L+1=the & L-1=or & Gen+1=A & Ger-1=False & Inf+1=False & Inf-1=False & Gen-1=C & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=True & A+1=False & M-1=False
+1	2	T=CS	L+1=the & L-1=-
+1	2	T=RR	L+1=the & L-1=do
+1	2	T=CS	L+1=the & L-1=up
+1	2	T=CS	L+1=the & L-1=it
+1	2	T=CS	L+1=the & L-1=exercise
+1	2	T=RR	L+1=the & L-1=even
+1	2	T=CS	L+1=the & L-1=breakfast
+1	2	T=RR	L+1=the & L-1=doing
+1	1	T=RG	L+1=excite
+6	1	T=RR	L+1=for
+2	1	T=RG	L+1=tire
+1	1	T=RG	L+1=gay
+1	1	T=RG	L+1=gaily
+2	1	T=RG	L+1=indispensable
+1	2	T=CS	L+1=no & Gen-1=N
+3	16	T=RR~CS	L+1=no & Gen-1=Q & Gen+1=A & Ger-1=False & Inf+1=False & Inf-1=False & C+1=True & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & L-1=, & M+1=True & A+1=False & M-1=False
+1	1	T=RG	L+1=rare
+1	1	T=RR	L+1=called
+1	1	T=RG	L+1=explicit
+1	1	T=RG	L+1=vitally
+3	1	T=RG	L+1=sensitive
+1	1	T=RR	L+1=used
+3	1	T=RG	L+1=anxious
+1	1	T=RG	L+1=valuable
+1	1	T=RG	L+1=free
+1	1	T=RR	L+1=once
+1	1	T=RR	L+1=believe
+1	1	T=RG	L+1=huge
+1	1	T=RG	L+1=narrowly
+1	1	T=RG	L+1=dangerous
+1	1	T=RG	L+1=merry
+3	1	T=RR	L+1=may
+1	1	T=RG	L+1=lusty
+2	1	T=RR	L+1=loved
+1	1	T=RG	L+1=able
+1	1	T=RR	L+1=instruct
+1	1	T=RG	L+1=mark
+1	1	T=RG	L+1=slightly
+1	1	T=RR	L+1=daze
+1	1	T=RG	L+1=numb
+1	1	T=RG	L+1=fluent
+1	1	T=CS	L+1=access
+1	1	T=RG	L+1=increase
+1	1	T=RG	L+1=crazy
+5	1	T=RG	L+1=completely
+1	1	T=RG	L+1=convince
+1	1	T=RG	L+1=doubtful
+3	1	T=RG	L+1=hungry
+1	1	T=RG	L+1=uniquely
+1	1	T=RR	L+1=stay
+1	1	T=RR	L+1=seem
+1	1	T=RG	L+1=elaborately
+1	1	T=RG	L+1=wonderfully
+1	1	T=RG	L+1=admirably
+1	1	T=RG	L+1=overwhelmingly
+1	1	T=RG	L+1=rough
+1	2	T=CS	L+1=she & Gen-1=P
+1	2	T=CS	L+1=she & Gen-1=R
+4	16	T=RR~CS	L+1=she & Gen-1=Q & Gen+1=P & Ger-1=False & Inf+1=False & Inf-1=False & C+1=True & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & L-1=, & M+1=False & A+1=True & M-1=False
+4	2	T=CS	L+1=she & Gen-1=N
+3	16	T=RR~CS	L+1=she & Gen-1=C & Gen+1=P & Ger-1=False & Inf+1=False & Inf-1=False & C+1=True & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & L-1=and & M+1=False & A+1=True & M-1=False
+6	2	T=RR	L+1=, & L-1=and
+1	2	T=RR	L+1=, & L-1=quite
+14	2	T=RR	L+1=, & L-1=even
+1	2	T=RR	L+1=, & L-1=appear
+1	2	T=RR	L+1=, & L-1=saying
+1	2	T=RR	L+1=, & L-1=suspect
+1	2	T=RR	L+1=, & L-1=0
+1	2	T=RR	L+1=, & L-1=seem
+1	2	T=RR	L+1=, & L-1=say
+5	2	T=RR	L+1=, & L-1=think
+3	2	T=RR	L+1=, & L-1=,
+1	2	T=RR	L+1=, & L-1=definitely
+2	2	T=RR	L+1=, & L-1=guess
+1	2	T=RR	L+1=, & L-1=be
+1	2	T=RG	L+1=, & L-1=hurry
+1	2	T=CS	L+1=, & L-1=me
+1	2	T=RR	L+1=, & L-1=hope
+1	2	T=RR	L+1=, & L-1=gratefully
+8	2	T=RR	L+1=, & L-1=if
+8	2	T=RR	L+1=, & L-1=do
+2	2	T=RR	L+1=, & L-1=not
+1	2	T=RR	L+1=, & L-1=doing
+11	1	T=RG	L+1=great
+1	1	T=CS	L+1=skilled
+1	1	T=RR	L+1=grasp
+1	1	T=RG	L+1=cruel
+1	1	T=CS	L+1=liberal
+2	1	T=RG	L+1=impossible
+1	1	T=RG	L+1=thin
+1	1	T=RG	L+1=inadequate
+1	1	T=RG	L+1=foolproof
+1	1	T=RG	L+1=secret
+2	1	T=RG	L+1=near
+3	1	T=RG	L+1=confuse
+1	1	T=RG	L+1=cheap
+1	1	T=RG	L+1=disappointing
+2	1	T=RG	L+1=scare
+1	1	T=RG	L+1=largely
+1	1	T=RR	L+1=labeled
+2	1	T=RR	L+1=could
+1	1	T=RG	L+1=dependent
+1	1	T=RR	L+1=military
+1	2	T=RR	L+1=as & L-1=located
+1	2	T=CS	L+1=as & L-1=depth
+6	2	T=CS	L+1=as & L-1=,
+1	2	T=CS	L+1=as & L-1=divide
+1	2	T=CS	L+1=as & L-1=0
+1	2	T=CS	L+1=as & L-1=polish
+1	2	T=RR	L+1=as & L-1=analyzed
+1	2	T=CS	L+1=as & L-1=transversely
+1	2	T=CS	L+1=as & L-1=secured
+1	2	T=CS	L+1=as & L-1=productive
+1	2	T=CS	L+1=as & L-1=soil
+1	2	T=CS	L+1=as & L-1=calendar
+1	2	T=CS	L+1=as & L-1=vote
+1	2	T=CS	L+1=as & L-1=power
+1	2	T=RR	L+1=as & L-1=up
+1	2	T=CS	L+1=as & L-1=battery
+1	2	T=CS	L+1=as & L-1=cautious
+1	2	T=CS	L+1=as & L-1=election
+1	2	T=CS	L+1=as & L-1=ionosphere
+1	2	T=CS	L+1=as & L-1=figure
+1	1	T=RG	L+1=faceless
+1	1	T=RG	L+1=desirous
+2	1	T=RG	L+1=short
+1	1	T=RR	L+1=help
+8	1	T=CS	L+1=we
+1	1	T=RG	L+1=integral
+4	16	T=RR~CS	L+1=0 & L-1=and & Gen+1=N & Ger-1=False & Inf+1=False & Inf-1=False & Gen-1=C & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=False & M+1=False & A+1=True & M-1=False
+2	16	T=RR~CS	L+1=0 & L-1=, & Gen+1=V & Ger-1=False & Inf+1=False & Inf-1=False & Gen-1=Q & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=False & A+1=False & M-1=False
+9	16	T=RR~CS	L+1=0 & L-1=, & Gen+1=N & Ger-1=False & Inf+1=False & Inf-1=False & Gen-1=Q & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=False & M+1=False & A+1=True & M-1=False
+1	3	T=RR	L+1=0 & L-1=, & Gen+1=D
+1	2	T=RR	L+1=0 & L-1=0
+1	2	T=CS	L+1=0 & L-1=type
+1	2	T=RR	L+1=0 & L-1=or
+1	2	T=CS	L+1=0 & L-1=quietly
+1	3	T=RR	L+1=0 & L-1=- & Gen+1=N
+1	3	T=CS	L+1=0 & L-1=- & Gen+1=P
+1	2	T=RG	L+1=0 & L-1=am
+1	2	T=CS	L+1=0 & L-1=run
+1	2	T=CS	L+1=0 & L-1=good
+1	2	T=RG	L+1=0 & L-1=bloom
+2	2	T=RR	L+1=0 & L-1=even
+2	2	T=RG	L+1=0 & L-1=not
+1	2	T=CS	L+1=0 & L-1=head
+10	1	T=RR	L+1=in
+1	1	T=RG	L+1=vast
+1	1	T=RG	L+1=restrict
+1	1	T=RG	L+1=staggeringly
+1	1	T=RG	L+1=sturdy
+1	1	T=RG	L+1=changed
+1	1	T=RG	L+1=highly
+4	1	T=RG	L+1=happy
+1	2	T=RR	L+1=low & Gen+1=V
+1	2	T=RG	L+1=low & Gen+1=J
+1	2	T=RG	L+1=low & Gen+1=R
+3	1	T=RG	L+1=broad
+2	1	T=RG	L+1=white
+5	1	T=RG	L+1=important
+1	1	T=RG	L+1=authentic
+1	1	T=RG	L+1=favor
+1	1	T=RG	L+1=rigorously
+1	1	T=RG	L+1=tremendous
+1	1	T=RG	L+1=load
+1	1	T=RG	L+1=patiently
+2	1	T=RR	L+1=other
+1	1	T=RG	L+1=different
+1	1	T=RG	L+1=tall
+1	1	T=RG	L+1=immense
+2	1	T=RG	L+1=funny
+1	1	T=RG	L+1=fastidious
+1	1	T=RR	L+1=today
+1	1	T=RG	L+1=general
+1	1	T=RG	L+1=sacrosanct
+1	1	T=RG	L+1=shortly
+1	1	T=RG	L+1=widely
+2	1	T=RR	L+1=of
+1	1	T=RR	L+1=science
+1	1	T=RG	L+1=poetic
+1	1	T=RR	L+1=tested
+1	1	T=RR	L+1=even
+1	1	T=RR	L+1=guide
+6	1	T=CS	L+1=there
+1	1	T=RG	L+1=wretched
+2	1	T=RG	L+1=monotonous
+2	1	T=RG	L+1=aware
+1	1	T=RG	L+1=effectively
+1	1	T=RR	L+1=appreciated
+1	1	T=RG	L+1=grateful
+1	2	T=RR	L+1=if & Gen-1=R
+4	16	T=RR~CS	L+1=if & Gen-1=Q & Gen+1=C & Ger-1=False & Inf+1=False & Inf-1=False & C+1=True & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & L-1=, & M+1=False & A+1=False & M-1=False
+2	1	T=CS	L+1=my
+1	1	T=RG	L+1=characteristic
+12	1	T=RR	L+1=to
+2	1	T=RG	L+1=powerful
+1	1	T=RG	L+1=desirable
+3	1	T=RG	L+1=unlike
+1	1	T=RG	L+1=shaken
+2	1	T=RG	L+1=bad
+1	1	T=RG	L+1=hopeful
+1	1	T=RG	L+1=lately
+2	1	T=RG	L+1=evident
+3	1	T=RR	L+1=too
+1	1	T=RG	L+1=tight
+2	1	T=RG	L+1=please
+1	1	T=RG	L+1=gone
+1	1	T=RR	L+1=but
+1	1	T=RG	L+1=vaguely
+1	1	T=RR	L+1=certify
+1	1	T=CS	L+1=better
+2	16	T=RR~RG	L+1=happened & Gen+1=V & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=P & C+1=False & Ing+1=False & A-1=True & Ing-1=False & C-1=True & Ger+1=False & L-1=it & M+1=False & A+1=False & M-1=False
+1	1	T=RG	L+1=popularly
+4	1	T=RG	L+1=strong
+2	1	T=RG	L+1=powerfully
+1	1	T=RG	L+1=steep
+1	1	T=RG	L+1=startle
+1	1	T=RR	L+1=am
+13	1	T=RG	L+1=often
+1	1	T=RG	L+1=remarkable
+4	1	T=RG	L+1=simple
+1	1	T=RG	L+1=unusual
+1	1	T=RG	L+1=passionately
+1	1	T=RG	L+1=revere
+1	1	T=RG	L+1=definite
+1	1	T=RG	L+1=truly
+1	1	T=RR	L+1=part
+4	1	T=RR	L+1=forth
+3	1	T=RG	L+1=badly
+1	1	T=RG	L+1=accepted
+1	1	T=RG	L+1=corrupt
+1	1	T=RG	L+1=involve
+1	1	T=RG	L+1=urgently
+1	1	T=RG	L+1=helpful
+1	1	T=RG	L+1=bound
+3	1	T=RR	L+1=determine
+2	1	T=RG	L+1=accustom
+1	1	T=RG	L+1=presumptuous
+2	2	T=RG	L+1=many & L-1=why
+1	2	T=RG	L+1=many & L-1=being
+5	2	T=RG	L+1=many & L-1=of
+6	2	T=RG	L+1=many & L-1=for
+1	2	T=RG	L+1=many & L-1=as
+1	2	T=RG	L+1=many & L-1=day
+1	2	T=RG	L+1=many & L-1=him
+1	2	T=RG	L+1=many & L-1=here
+1	2	T=RG	L+1=many & L-1=off
+5	2	T=RG	L+1=many & L-1=like
+2	2	T=RG	L+1=many & L-1=which
+5	2	T=RG	L+1=many & L-1=in
+1	2	T=RG	L+1=many & L-1=0
+1	2	T=RG	L+1=many & L-1=only
+1	2	T=CS	L+1=many & L-1=know
+2	2	T=RG	L+1=many & L-1=on
+1	2	T=RG	L+1=many & L-1=overcome
+2	2	T=RG	L+1=many & L-1=that
+1	2	T=RG	L+1=many & L-1=have
+3	2	T=RG	L+1=many & L-1=by
+1	2	T=RG	L+1=many & L-1=read
+2	2	T=RG	L+1=many & L-1=,
+4	2	T=RG	L+1=many & L-1=with
+1	2	T=RG	L+1=many & L-1=live
+1	2	T=RG	L+1=many & L-1=get
+3	2	T=RG	L+1=many & L-1=be
+1	2	T=RG	L+1=many & L-1=recorded
+1	2	T=RG	L+1=many & L-1=hear
+1	2	T=RG	L+1=many & L-1=unlike
+1	2	T=RG	L+1=many & L-1=seeing
+1	2	T=RG	L+1=many & L-1=uncover
+2	1	T=RG	L+1=difficult
+1	1	T=RG	L+1=overload
+57	1	T=RR	L+1=.
+1	1	T=RG	L+1=persuasive
+1	1	T=RR	L+1=off
+5	1	T=RG	L+1=easy
+1	1	T=RG	L+1=valiant
+1	1	T=RG	L+1=indignant
+1	1	T=RG	L+1=brutalized
+1	1	T=RG	L+1=ambiguous
+3	1	T=RG	L+1=tightly
+1	1	T=RG	L+1=bleary
+1	1	T=RG	L+1=illustrious
+2	1	T=RG	L+1=deeply
+2	1	T=RG	L+1=magnificently
+1	1	T=CS	L+1=grandma
+4	16	T=RR~CS	L+1=he & L-1=and & Gen+1=P & Ger-1=False & Inf+1=False & Inf-1=False & Gen-1=C & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=False & A+1=True & M-1=False
+15	16	T=RR~CS	L+1=he & L-1=, & Gen+1=P & Ger-1=False & Inf+1=False & Inf-1=False & Gen-1=Q & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=False & A+1=True & M-1=False
+1	2	T=RR	L+1=he & L-1=0
+1	2	T=CS	L+1=he & L-1=group
+1	2	T=CS	L+1=he & L-1=open
+1	2	T=CS	L+1=he & L-1=road
+1	2	T=CS	L+1=he & L-1=bed
+1	2	T=CS	L+1=he & L-1=word
+1	2	T=RR	L+1=he & L-1=or
+1	2	T=CS	L+1=he & L-1=act
+1	2	T=CS	L+1=he & L-1=-
+1	2	T=CS	L+1=he & L-1=moment
+1	2	T=CS	L+1=he & L-1=wind
+2	2	T=CS	L+1=he & L-1=him
+1	2	T=CS	L+1=he & L-1=wake
+1	2	T=CS	L+1=he & L-1=smoothly
+1	2	T=CS	L+1=he & L-1=reply
+1	1	T=RG	L+1=fashionable
+1	1	T=RR	L+1=render
+1	1	T=RR	L+1=raise
+1	1	T=RG	L+1=essential
+1	1	T=RR	L+1=keep
+1	1	T=RG	L+1=extremely
+2	1	T=RG	L+1=necessary
+1	1	T=RG	L+1=complex
+1	2	T=RR	L+1=frequently & Gen-1=V
+1	2	T=RG	L+1=frequently & Gen-1=D
+1	1	T=RG	L+1=richly
+1	1	T=RR	L+1=from
+2	1	T=RG	L+1=obvious
+1	1	T=RR	L+1=ordered
+1	1	T=RG	L+1=enormous
+1	1	T=RG	L+1=weighty
+1	1	T=RG	L+1=brisk
+1	1	T=RG	L+1=dominant
+1	1	T=RG	L+1=interest
+2	1	T=RG	L+1=successfully
+1	1	T=RG	L+1=commingle
+1	1	T=RG	L+1=accurately
+1	1	T=RG	L+1=darling
+1	1	T=RG	L+1=scarce
+1	2	T=RR	L+1=none & Gen-1=C
+1	2	T=CS	L+1=none & Gen-1=Q
+3	1	T=RG	L+1=useful
+2	1	T=RG	L+1=very
+1	1	T=RG	L+1=compulsively
+1	1	T=RG	L+1=relax
+2	1	T=RG	L+1=typical
+2	1	T=RG	L+1=severe
+1	1	T=RG	L+1=formidable
+1	1	T=RG	L+1=crude
+1	1	T=RG	L+1=constantly
+2	1	T=RG	L+1=young
+1	1	T=RR	L+1=structure
+1	1	T=RR	L+1=whenever
+1	1	T=RG	L+1=astute
+1	1	T=RR	L+1=can
+1	1	T=RR	L+1=acquired
+1	1	T=RR	L+1=serve
+1	1	T=RG	L+1=triumphantly
+1	2	T=CS	L+1=they & Gen-1=D
+3	2	T=CS	L+1=they & Gen-1=P
+1	2	T=CS	L+1=they & Gen-1=V
+6	2	T=CS	L+1=they & Gen-1=N
+1	2	T=RR	L+1=they & Gen-1=Q
+3	16	T=RR~CS	L+1=they & Gen-1=C & Gen+1=P & Ger-1=False & Inf+1=False & Inf-1=False & C+1=True & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & L-1=and & M+1=False & A+1=True & M-1=False
+1	2	T=CS	L+1=they & Gen-1=R
+2	1	T=RG	L+1=darn
+1	1	T=RG	L+1=want
+1	1	T=RR	L+1=all
+1	1	T=RG	L+1=terrify
+3	1	T=RG	L+1=effective
+1	1	T=RG	L+1=intensely
+1	1	T=RG	L+1=satisfactory
+5	1	T=RG	L+1=clearly
+1	1	T=RG	L+1=widespread
+3	1	T=RG	L+1=strongly
+1	1	T=RR	L+1=participate
+1	1	T=RG	L+1=worry
+2	2	T=RR	L+1=now & Gen-1=V
+2	16	T=RR~CS	L+1=now & Gen-1=Q & Gen+1=R & Ger-1=False & Inf+1=False & Inf-1=False & C+1=False & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & L-1=, & M+1=True & A+1=False & M-1=False
+1	1	T=RG	L+1=burdened
+1	1	T=CS	L+1=forget
+4	1	T=RG	L+1=intense
+1	2	T=CS	L+1=a & Gen-1=N
+2	16	T=RR~CS	L+1=a & Gen-1=Q & Gen+1=A & Ger-1=False & Inf+1=False & Inf-1=False & C+1=True & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & L-1=, & M+1=True & A+1=False & M-1=False
+1	1	T=CS	L+1=unimpressed
+1	1	T=RG	L+1=final
+3	16	T=RR~CS	L+1=i & L-1=and & Gen+1=P & Ger-1=False & Inf+1=False & Inf-1=False & Gen-1=C & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=False & A+1=True & M-1=False
+1	2	T=RR	L+1=i & L-1=shoot
+7	16	T=RR~CS	L+1=i & L-1=, & Gen+1=P & Ger-1=False & Inf+1=False & Inf-1=False & Gen-1=Q & Ing+1=False & A-1=False & Ing-1=False & C-1=True & Ger+1=False & C+1=True & M+1=False & A+1=True & M-1=False
+1	2	T=CS	L+1=i & L-1=-
+1	2	T=CS	L+1=i & L-1=up
+1	2	T=CS	L+1=i & L-1=neck
+1	2	T=CS	L+1=i & L-1=around
+1	2	T=CS	L+1=i & L-1=out
+4	1	T=RR	L+1=when
+1	1	T=RG	L+1=sadly
+1	1	T=RG	L+1=theatrically
+8	1	T=RG	L+1=fast
+1	1	T=RG	L+1=massive
+1	1	T=RR	L+1=into
+1	1	T=RG	L+1=extreme
+1	1	T=RG	L+1=remorseful
+3	1	T=RG	L+1=eager
+2	1	T=RG	L+1=upset
+2	1	T=RG	L+1=lightly
+2	1	T=RG	L+1=quickly
+1	1	T=RG	L+1=familiar
+1	1	T=RG	L+1=mildly
+2	1	T=RR	L+1=!
+2	1	T=RG	L+1=utterly
+6	1	T=RG	L+1=high
+4	1	T=RG	L+1=full
+1	2	T=RG	L+1=well & L-1=and
+2	2	T=RG	L+1=well & L-1=,
+1	2	T=RG	L+1=well & L-1=people
+1	2	T=RG	L+1=well & L-1=along
+1	2	T=RG	L+1=well & L-1=important
+1	2	T=RG	L+1=well & L-1=all
+1	2	T=RG	L+1=well & L-1=strain
+1	2	T=CS	L+1=well & L-1=show
+1	2	T=RG	L+1=well & L-1=them
+1	2	T=RG	L+1=well & L-1=housed
+1	2	T=RG	L+1=well & L-1=know
+3	2	T=RG	L+1=well & L-1=be
+1	2	T=RG	L+1=well & L-1=these
+1	2	T=RG	L+1=well & L-1=kept
+1	2	T=RG	L+1=well & L-1=talk
+2	2	T=RG	L+1=well & L-1=not
+1	2	T=RG	L+1=well & L-1=aunt
+3	1	T=RG	L+1=small
+1	1	T=CS	L+1=then
+1	1	T=RG	L+1=unpredictably
+1	1	T=RG	L+1=exalt
+2	1	T=RR	L+1=and
+1	1	T=RG	L+1=absolute
+1	1	T=RG	L+1=superior
+1	1	T=RG	L+1=ably
+1	1	T=RG	L+1=interwoven
+1	1	T=RG	L+1=heavy
+1	1	T=RG	L+1=busily
+1	1	T=RG	L+1=romantic
+1	1	T=RG	L+1=suddenly
+1	1	T=RG	L+1=cumbersome
+1	1	T=RG	L+1=technical
+19	1	T=RR	L+1=on
+39	1	T=RG	L+1=long
+1	1	T=RG	L+1=strenuously
+1	1	T=RG	L+1=dear
+4	1	T=RR	L+1=have
+1	1	T=CS	L+1=some
+2	1	T=RG	L+1=absorbed
+1	1	T=RG	L+1=encourage
+1	1	T=RG	L+1=successful
+1	1	T=RG	L+1=natural
+1	1	T=RR	L+1=last
+2	1	T=RG	L+1=preoccupy
+1	1	T=RG	L+1=contemporary
+1	1	T=RG	L+1=strike
+2	1	T=RR	L+1=whether
+1	1	T=RR	L+1=perhaps
+1	1	T=RR	L+1=located
+2	1	T=RG	L+1=pretty
+2	1	T=RR	L+1=without
+7	1	T=RG	L+1=hard
+1	1	T=RG	L+1=farfetched
+3	1	T=RG	L+1=quick
+1	1	T=RG	L+1=popular
+1	1	T=RG	L+1=understandingly
+3	1	T=RG	L+1=busy
+5	1	T=RR	L+1=doing
+1	1	T=RG	L+1=exuberant
+Count	Path_Length	Result	Predicates
+1	1	T=RG	L+1=concentrate
+1	1	T=RG	L+1=perfect
+1	1	T=RG	L+1=unready
+1	1	T=RG	L+1=vividly
+1	1	T=RG	L+1=cordial
+1	1	T=RG	L+1=personal
+1	1	T=RR	L+1=here
+1	1	T=RR	L+1=process
+1	1	T=RR	L+1=deduct
+1	1	T=RR	L+1=take
+1	2	T=CS	L+1=that & L-1=manager
+1	2	T=CS	L+1=that & L-1=type
+1	2	T=CS	L+1=that & L-1=usual
+1	2	T=CS	L+1=that & L-1=alive
+1	2	T=CS	L+1=that & L-1=accelerometer
+1	2	T=CS	L+1=that & L-1=face
+1	2	T=CS	L+1=that & L-1=flexible
+1	2	T=CS	L+1=that & L-1=together
+1	2	T=RR	L+1=that & L-1=much
+1	2	T=CS	L+1=that & L-1=just
+1	2	T=CS	L+1=that & L-1=formed
+1	2	T=CS	L+1=that & L-1=move
+1	2	T=CS	L+1=that & L-1=detachable
+3	2	T=CS	L+1=that & L-1=up
+1	2	T=CS	L+1=that & L-1=mechanically
+1	2	T=CS	L+1=that & L-1=taken
+1	2	T=CS	L+1=that & L-1=drive
+68	2	T=CS	L+1=that & L-1=,
+1	2	T=CS	L+1=that & L-1=acre
+1	2	T=CS	L+1=that & L-1=conventionalized
+1	2	T=CS	L+1=that & L-1=plane
+1	2	T=CS	L+1=that & L-1=law
+1	2	T=CS	L+1=that & L-1=leg
+1	2	T=CS	L+1=that & L-1=lens
+1	2	T=CS	L+1=that & L-1=substance
+1	2	T=CS	L+1=that & L-1=community
+2	2	T=CS	L+1=that & L-1=head
+1	2	T=CS	L+1=that & L-1=industry
+1	2	T=CS	L+1=that & L-1=provided
+1	2	T=CS	L+1=that & L-1=foot
+1	2	T=CS	L+1=that & L-1=do
+1	2	T=CS	L+1=that & L-1=reference
+1	2	T=CS	L+1=that & L-1=understood
+1	2	T=CS	L+1=that & L-1=requirement
+1	2	T=CS	L+1=that & L-1=necessity
+1	2	T=CS	L+1=that & L-1=vehicle
+1	2	T=CS	L+1=that & L-1=wise
+1	2	T=CS	L+1=that & L-1=companion
+1	2	T=CS	L+1=that & L-1=himself
+1	2	T=CS	L+1=that & L-1=timed
+1	2	T=CS	L+1=that & L-1=these
+2	2	T=CS	L+1=that & L-1=help
+3	3	T=CS	L+1=that & L-1=0 & T-1=NN2
+1	3	T=CS	L+1=that & L-1=0 & T-1=VV0
+2	18	T=RR~CS	L+1=that & L-1=0 & T-1=NP1 & T+1=CS & Ing-1=False & Gen+1=C & Inf+1=False & Ger-1=False & Inf-1=False & Ing+1=False & A-1=True & Ger+1=False & C-1=False & Gen-1=N & C+1=True & M+1=False & A+1=False & M-1=False
+2	2	T=CS	L+1=that & L-1=experience
+1	2	T=CS	L+1=that & L-1=ecstasy
+1	2	T=CS	L+1=that & L-1=changed
+1	2	T=CS	L+1=that & L-1=transition
+1	2	T=CS	L+1=that & L-1=elapse
+1	2	T=CS	L+1=that & L-1=perturbation
+2	2	T=CS	L+1=that & L-1=it
+1	2	T=CS	L+1=that & L-1=legislation
+1	2	T=CS	L+1=that & L-1=business
+1	2	T=CS	L+1=that & L-1=skin
+1	2	T=CS	L+1=that & L-1=thick
+1	2	T=CS	L+1=that & L-1=unfixed
+2	2	T=CS	L+1=that & L-1=barrel
+1	2	T=CS	L+1=that & L-1=print
+2	2	T=CS	L+1=that & L-1=them
+1	2	T=CS	L+1=that & L-1=weight
+1	2	T=CS	L+1=that & L-1=date
+1	2	T=CS	L+1=that & L-1=way
+1	2	T=CS	L+1=that & L-1=displacement
+1	2	T=CS	L+1=that & L-1=readjust
+1	2	T=CS	L+1=that & L-1=shaker
+2	2	T=CS	L+1=that & L-1=other
+1	2	T=CS	L+1=that & L-1=register
+1	2	T=CS	L+1=that & L-1=september
+1	2	T=CS	L+1=that & L-1=home
+1	2	T=CS	L+1=that & L-1=soon
+1	2	T=CS	L+1=that & L-1=component
+1	2	T=CS	L+1=that & L-1=passport
+1	2	T=CS	L+1=that & L-1=precaution
+1	2	T=CS	L+1=that & L-1=response
+1	2	T=CS	L+1=that & L-1=switched
+1	2	T=CS	L+1=that & L-1=mount
+1	2	T=CS	L+1=that & L-1=now
+1	2	T=CS	L+1=that & L-1=reproducible
+1	2	T=CS	L+1=that & L-1=a
+1	2	T=CS	L+1=that & L-1=stress
+1	2	T=CS	L+1=that & L-1=height
+1	2	T=CS	L+1=that & L-1=chatter
+1	2	T=CS	L+1=that & L-1=knoll
+1	2	T=CS	L+1=that & L-1=mouth
+1	2	T=CS	L+1=that & L-1=corporation
+1	2	T=CS	L+1=that & L-1=devise
+1	2	T=CS	L+1=that & L-1=table
+1	2	T=CS	L+1=that & L-1=lung
+1	2	T=CS	L+1=that & L-1=floor
+1	2	T=CS	L+1=that & L-1=period
+1	2	T=CS	L+1=that & L-1=level
+1	2	T=CS	L+1=that & L-1=designed
+1	2	T=CS	L+1=that & L-1=complement
+1	2	T=CS	L+1=that & L-1=headquarters
+1	2	T=CS	L+1=that & L-1=light
+1	2	T=CS	L+1=that & L-1=connect
+2	2	T=CS	L+1=that & L-1=back
+1	2	T=RR	L+1=that & L-1=get
+1	2	T=CS	L+1=that & L-1=fire
+1	2	T=CS	L+1=that & L-1=grease
+4	2	T=CS	L+1=that & L-1=enough
+1	2	T=CS	L+1=that & L-1=early
+1	2	T=CS	L+1=that & L-1=decant
+1	2	T=CS	L+1=that & L-1=cycle
+1	2	T=CS	L+1=that & L-1=down
+1	2	T=CS	L+1=that & L-1=moved
+1	2	T=CS	L+1=that & L-1=clean
+3	2	T=CS	L+1=that & L-1=and
+1	2	T=CS	L+1=that & L-1=center
+1	2	T=CS	L+1=that & L-1=circumstance
+1	2	T=CS	L+1=that & L-1=around
+1	2	T=CS	L+1=that & L-1=finish
+1	2	T=CS	L+1=that & L-1=backward
+1	2	T=CS	L+1=that & L-1=bang
+1	2	T=CS	L+1=that & L-1=shape
+1	2	T=CS	L+1=that & L-1=matter
+1	2	T=RR	L+1=that & L-1=powerfully
+1	2	T=CS	L+1=that & L-1=standard
+1	2	T=CS	L+1=that & L-1=-
+1	2	T=CS	L+1=that & L-1=wavelength
+1	2	T=CS	L+1=that & L-1=think
+1	2	T=CS	L+1=that & L-1=used
+1	2	T=CS	L+1=that & L-1=column
+1	2	T=CS	L+1=that & L-1=encourage
+1	2	T=CS	L+1=that & L-1=gauge
+1	2	T=CS	L+1=that & L-1=game
+1	2	T=CS	L+1=that & L-1=bore
+1	2	T=CS	L+1=that & L-1=outside
+1	2	T=CS	L+1=that & L-1=edge
+1	2	T=CS	L+1=that & L-1=term
+1	2	T=CS	L+1=that & L-1=pressure
+1	2	T=CS	L+1=that & L-1=mirror
+1	2	T=CS	L+1=that & L-1=located
+1	2	T=CS	L+1=that & L-1=itself
+1	2	T=CS	L+1=that & L-1=carefully
+1	2	T=CS	L+1=that & L-1=condition
+1	2	T=CS	L+1=that & L-1=fabric
+1	2	T=CS	L+1=that & L-1=things
+6	1	T=RG	L+1=beautiful
+1	1	T=RG	L+1=blind
+1	1	T=RG	L+1=taken
+5	1	T=RR	L+1=by
+1	1	T=RG	L+1=spirit
+1	1	T=RG	L+1=pitiable
+1	1	T=CS	L+1=his
+1	2	T=RG	L+1=little & T+1=RR
+1	2	T=RG	L+1=little & T+1=RG
+9	2	T=RG	L+1=little & T+1=DA
+1	2	T=RR	L+1=little & T+1=JJ
+5	1	T=RR	L+1=with
+1	1	T=RR	L+1=our
+1	1	T=RG	L+1=fatigue
+6	1	T=RG	L+1=easily
+1	1	T=RG	L+1=kindly
+1	1	T=RG	L+1=desperately
+1	1	T=RG	L+1=arouse
+5	1	T=RR	L+1=do
+2	18	T=RR~CS	L+1=one & T-1=QC & Ing-1=False & T+1=PN1 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & Ing+1=False & A-1=False & Ger+1=False & C-1=True & C+1=True & L-1=, & M+1=False & A+1=True & M-1=False
+1	2	T=CS	L+1=one & T-1=NN1
+1	1	T=RG	L+1=sorely
+1	1	T=CS	L+1=unasked
+1	1	T=RG	L+1=exhaust
+1	1	T=RG	L+1=profoundly
+2	1	T=RR	L+1=incline
+1	1	T=RG	L+1=sympathetically
+1	1	T=RG	L+1=late
+1	1	T=RG	L+1=delicate
+1	1	T=RR	L+1=marshall
+1	1	T=RG	L+1=TRUE
+1	1	T=RG	L+1=masculine
+1	1	T=RG	L+1=enmeshed
+2	1	T=RG	L+1=quiet
+1	1	T=RG	L+1=immediate
+2	1	T=RG	L+1=large
+3	1	T=RG	L+1=dramatic
+1	1	T=RG	L+1=inexpressibly
+1	1	T=RG	L+1=clear
+1	1	T=RG	L+1=habitual
+1	1	T=RG	L+1=apparently
+1	1	T=RG	L+1=drink
+2	1	T=RG	L+1=deep
+2	18	T=RR~CS	L+1=it & L-1=and & Ing-1=False & T+1=PPHS1 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & T-1=CC & Ing+1=False & A-1=False & Ger+1=False & C-1=True & Gen-1=C & C+1=True & M+1=False & A+1=True & M-1=False
+10	18	T=RR~CS	L+1=it & L-1=, & Ing-1=False & T+1=PPHS1 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & T-1=QC & Ing+1=False & A-1=False & Ger+1=False & C-1=True & Gen-1=Q & C+1=True & M+1=False & A+1=True & M-1=False
+1	2	T=CS	L+1=it & L-1=lid
+1	2	T=RR	L+1=it & L-1=or
+1	2	T=RR	L+1=it & L-1=size
+1	2	T=RR	L+1=it & L-1=horse
+1	2	T=CS	L+1=it & L-1=church
+1	2	T=CS	L+1=it & L-1=diagonally
+1	2	T=CS	L+1=it & L-1=navel
+2	1	T=RG	L+1=complicate
+2	1	T=RG	L+1=eagerly
+1	1	T=RG	L+1=frustrating
+1	1	T=RG	L+1=realistically
+1	1	T=RG	L+1=comfortable
+1	1	T=RR	L+1=escape
+1	1	T=RG	L+1=grounded
+1	1	T=RG	L+1=breath-taking
+1	1	T=RR	L+1=harass
+1	1	T=RR	L+1=repelled
+5	1	T=RG	L+1=few
+1	1	T=RG	L+1=prevalent
+2	1	T=RG	L+1=pale
+1	1	T=RG	L+1=befoul
+2	1	T=RG	L+1=loudly
+1	1	T=RR	L+1=construe
+1	1	T=RG	L+1=slow
+1	1	T=RG	L+1=fair
+1	1	T=RR	L+1=make
+1	1	T=RG	L+1=wonderful
+1	1	T=RR	L+1=bless
+1	1	T=RG	L+1=secularize
+1	1	T=RG	L+1=solidly
+1	1	T=RG	L+1=fat
+1	1	T=CS	L+1=halt
+1	1	T=RG	L+1=chilly
+1	1	T=RR	L+1=knowingly
+1	1	T=RG	L+1=frighten
+1	1	T=RG	L+1=emphatically
+1	1	T=RG	L+1=tediously
+3	1	T=RR	L+1=desire
+1	1	T=RG	L+1=prize
+1	1	T=RR	L+1=intentionally
+2	1	T=RG	L+1=cold
+2	1	T=RG	L+1=obviously
+1	1	T=RG	L+1=red
+2	1	T=RG	L+1=casually
+1	1	T=RG	L+1=sharply
+1	1	T=RG	L+1=extraordinary
+1	1	T=RG	L+1=deadly
+1	1	T=RR	L+1=frame
+1	1	T=RG	L+1=dense
+3	1	T=RG	L+1=slight
+1	1	T=RG	L+1=sweetly
+1	1	T=RG	L+1=dumb
+1	1	T=RR	L+1=naturally
+1	1	T=RG	L+1=purged
+1	1	T=RG	L+1=nearsighted
+2	1	T=RR	L+1=notify
+1	1	T=RG	L+1=moved
+1	1	T=RG	L+1=firmly
+1	1	T=RG	L+1=clean
+1	1	T=RG	L+1=malign
+1	1	T=RG	L+1=foggy
+1	1	T=RG	L+1=parade
+1	1	T=RG	L+1=exactly
+2	1	T=RG	L+1=big
+1	1	T=RG	L+1=unfair
+1	1	T=RG	L+1=challenge
+1	1	T=RG	L+1=disgust
+1	1	T=RG	L+1=disparate
+1	2	T=RR	L+1=every & T-1=QC
+1	2	T=CS	L+1=every & T-1=CC
+1	1	T=RR	L+1=dispose
+1	1	T=RR	L+1=explicitly
+1	1	T=RG	L+1=fix
+3	1	T=RR	L+1=-
+3	1	T=RR	L+1=than
+2	1	T=RG	L+1=dark
+1	1	T=RR	L+1=constructed
+1	1	T=RG	L+1=ashamed
+2	1	T=RR	L+1=choose
+1	1	T=RG	L+1=infuriated
+1	1	T=RG	L+1=fine
+4	2	T=RR	L+1=be & T+1=VBZ
+1	2	T=CS	L+1=be & T+1=VBR
+2	2	T=RR	L+1=be & T+1=VBDR
+1	2	T=RR	L+1=be & T+1=VBDZ
+1	1	T=RG	L+1=vary
+1	1	T=RG	L+1=tipsy
+1	1	T=RR	L+1=discovered
+2	1	T=RG	L+1=cool
+1	1	T=RG	L+1=positive
+1	1	T=RG	L+1=mad
+1	1	T=RG	L+1=dilapidated
+1	1	T=RR	L+1=minute
+1	1	T=RG	L+1=basic
+3	1	T=RG	L+1=nice
+1	1	T=RG	L+1=grip
+2	1	T=RR	L+1=among
+1	1	T=RG	L+1=harshly
+7	1	T=RG	L+1=close
+1	1	T=RR	L+1=should
+1	1	T=RG	L+1=pronounce
+1	1	T=RR	L+1=school
+96	1	T=RG	L+1=much
+1	1	T=RR	L+1=just
+2	1	T=RR	L+1=must
+4	1	T=RR	L+1=because
+6	1	T=RG	L+1=good
+1	1	T=RR	L+1=about
+1	2	T=RR	L+1=publicly & T-1=VV0
+1	2	T=RG	L+1=publicly & T-1=RG
+1	1	T=RG	L+1=available
+2	1	T=RR	L+1=before
+1	1	T=RG	L+1=weary
+2	1	T=RG	L+1=dominated
+2	1	T=RG	L+1=overwhelming
+1	1	T=RG	L+1=ornery
+1	1	T=RR	L+1=deliberately
+2	1	T=RG	L+1=filled
+1	1	T=RR	L+1=god
+1	1	T=RG	L+1=content
+7	1	T=RG	L+1=closely
+1	1	T=RG	L+1=disappoint
+1	1	T=RG	L+1=far-reaching
+1	1	T=RG	L+1=fruitless
+1	1	T=RG	L+1=lousy
+3	1	T=RG	L+1=sure
+1	1	T=RG	L+1=memorable
+1	1	T=RR	L+1=why
+1	1	T=RG	L+1=neatly
+2	1	T=RG	L+1=tough
+1	1	T=RG	L+1=directly
+2	1	T=RG	L+1=vital
+1	1	T=RG	L+1=precious
+1	2	T=RR	L+1=like & T-1=QC
+1	2	T=RG	L+1=like & T-1=VBDZ
+4	1	T=RR	L+1=would
+1	1	T=RG	L+1=peaceful
+1	1	T=CS	L+1=instead
+1	1	T=RR	L+1=most
+1	1	T=RR	L+1=agreed
+1	1	T=RG	L+1=alarmingly
+1	1	T=RG	L+1=fearful
+4	1	T=RR	L+1=at
+1	1	T=RG	L+1=fruitful
+1	1	T=RG	L+1=freely
+1	1	T=RG	L+1=seriously
+1	1	T=RG	L+1=stir
+2	1	T=RG	L+1=thick
+1	1	T=RG	L+1=austerely
+1	1	T=RG	L+1=demand
+1	1	T=RG	L+1=complete
+1	1	T=RR	L+1=restore
+1	1	T=RG	L+1=malleable
+1	1	T=RG	L+1=incredible
+1	1	T=RG	L+1=fond
+1	1	T=RG	L+1=coolly
+1	1	T=RG	L+1=grand
+1	1	T=RG	L+1=painstakingly
+3	2	T=CS	L+1=you & T-1=RR
+1	2	T=CS	L+1=you & T-1=JJ
+1	2	T=CS	L+1=you & T-1=NP1
+4	18	T=RR~CS	L+1=you & T-1=QC & Ing-1=False & T+1=PPHS2 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & Ing+1=False & A-1=False & Ger+1=False & C-1=True & C+1=True & L-1=, & M+1=False & A+1=True & M-1=False
+1	2	T=CS	L+1=you & T-1=MC
+3	2	T=CS	L+1=you & T-1=NN1
+1	2	T=CS	L+1=you & T-1=VVG
+1	2	T=CS	L+1=you & T-1=PPHO1
+1	2	T=CS	L+1=you & T-1=VVD
+5	1	T=RG	L+1=soon
+1	1	T=RR	L+1=after
+1	1	T=RG	L+1=thickly
+1	1	T=RG	L+1=foolish
+52	1	T=RG	L+1=far
+1	1	T=RG	L+1=extensively
+1	1	T=RR	L+1=indeed
+1	1	T=RG	L+1=newly
+1	1	T=RG	L+1=dilute
+2	1	T=RG	L+1=greatly
+2	1	T=RG	L+1=rich
+1	1	T=RG	L+1=crucial
+1	1	T=RG	L+1=shallow
+1	1	T=RG	L+1=skillfully
+1	1	T=RG	L+1=vindictive
+1	1	T=RG	L+1=catastrophically
+1	1	T=RR	L+1=people
+1	1	T=RG	L+1=delight
+1	1	T=RG	L+1=softly
+1	1	T=RR	L+1=paid
+1	1	T=RG	L+1=eloquent
+1	1	T=RG	L+1=peculiar
+1	1	T=RG	L+1=early
+1	1	T=RR	L+1=vote
+1	1	T=RR	L+1=lend
+1	2	T=CS	L+1=the & L-1=enough
+5	18	T=RR~CS	L+1=the & L-1=and & Ing-1=False & T+1=AT & Gen+1=A & Inf+1=False & Ger-1=False & Inf-1=False & T-1=CC & Ing+1=False & A-1=False & Ger+1=False & C-1=True & Gen-1=C & C+1=True & M+1=True & A+1=False & M-1=False
+14	18	T=RR~CS	L+1=the & L-1=, & Ing-1=False & T+1=AT & Gen+1=A & Inf+1=False & Ger-1=False & Inf-1=False & T-1=QC & Ing+1=False & A-1=False & Ger+1=False & C-1=True & Gen-1=Q & C+1=True & M+1=True & A+1=False & M-1=False
+1	2	T=CS	L+1=the & L-1=wire
+1	2	T=CS	L+1=the & L-1=mud
+2	18	T=RR~CS	L+1=the & L-1=or & Ing-1=False & T+1=AT & Gen+1=A & Inf+1=False & Ger-1=False & Inf-1=False & T-1=CC & Ing+1=False & A-1=False & Ger+1=False & C-1=True & Gen-1=C & C+1=True & M+1=True & A+1=False & M-1=False
+1	2	T=CS	L+1=the & L-1=-
+1	2	T=RR	L+1=the & L-1=do
+1	2	T=CS	L+1=the & L-1=up
+1	2	T=CS	L+1=the & L-1=it
+1	2	T=CS	L+1=the & L-1=exercise
+1	2	T=RR	L+1=the & L-1=even
+1	2	T=CS	L+1=the & L-1=breakfast
+1	2	T=RR	L+1=the & L-1=doing
+1	1	T=RG	L+1=excite
+6	1	T=RR	L+1=for
+2	1	T=RG	L+1=tire
+1	1	T=RG	L+1=gay
+1	1	T=RG	L+1=gaily
+2	1	T=RG	L+1=indispensable
+3	18	T=RR~CS	L+1=no & T-1=QC & Ing-1=False & T+1=AT & Gen+1=A & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & Ing+1=False & A-1=False & Ger+1=False & C-1=True & C+1=True & L-1=, & M+1=True & A+1=False & M-1=False
+1	2	T=CS	L+1=no & T-1=NN1
+1	1	T=RG	L+1=rare
+1	1	T=RR	L+1=called
+1	1	T=RG	L+1=explicit
+1	1	T=RG	L+1=vitally
+3	1	T=RG	L+1=sensitive
+1	1	T=RR	L+1=used
+3	1	T=RG	L+1=anxious
+1	1	T=RG	L+1=valuable
+1	1	T=RG	L+1=free
+1	1	T=RR	L+1=once
+1	1	T=RR	L+1=believe
+1	1	T=RG	L+1=huge
+1	1	T=RG	L+1=narrowly
+1	1	T=RG	L+1=dangerous
+1	1	T=RG	L+1=merry
+3	1	T=RR	L+1=may
+1	1	T=RG	L+1=lusty
+2	1	T=RR	L+1=loved
+1	1	T=RG	L+1=able
+1	1	T=RR	L+1=instruct
+1	1	T=RG	L+1=mark
+1	1	T=RG	L+1=slightly
+1	1	T=RR	L+1=daze
+1	1	T=RG	L+1=numb
+1	1	T=RG	L+1=fluent
+1	1	T=CS	L+1=access
+1	1	T=RG	L+1=increase
+1	1	T=RG	L+1=crazy
+5	1	T=RG	L+1=completely
+1	1	T=RG	L+1=convince
+1	1	T=RG	L+1=doubtful
+3	1	T=RG	L+1=hungry
+1	1	T=RG	L+1=uniquely
+1	1	T=RR	L+1=stay
+1	1	T=RR	L+1=seem
+1	1	T=RG	L+1=elaborately
+1	1	T=RG	L+1=wonderfully
+1	1	T=RG	L+1=admirably
+1	1	T=RG	L+1=overwhelmingly
+1	1	T=RG	L+1=rough
+1	2	T=CS	L+1=she & T-1=RP
+4	18	T=RR~CS	L+1=she & T-1=QC & Ing-1=False & T+1=PPHS1 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & Ing+1=False & A-1=False & Ger+1=False & C-1=True & C+1=True & L-1=, & M+1=False & A+1=True & M-1=False
+2	2	T=CS	L+1=she & T-1=NN1
+1	2	T=CS	L+1=she & T-1=PPHO1
+3	18	T=RR~CS	L+1=she & T-1=CC & Ing-1=False & T+1=PPHS1 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=C & Ing+1=False & A-1=False & Ger+1=False & C-1=True & C+1=True & L-1=and & M+1=False & A+1=True & M-1=False
+2	2	T=CS	L+1=she & T-1=NN2
+6	2	T=RR	L+1=, & L-1=and
+1	2	T=RR	L+1=, & L-1=quite
+14	2	T=RR	L+1=, & L-1=even
+1	2	T=RR	L+1=, & L-1=appear
+1	2	T=RR	L+1=, & L-1=saying
+1	2	T=RR	L+1=, & L-1=suspect
+1	2	T=RR	L+1=, & L-1=0
+1	2	T=RR	L+1=, & L-1=seem
+1	2	T=RR	L+1=, & L-1=say
+5	2	T=RR	L+1=, & L-1=think
+3	2	T=RR	L+1=, & L-1=,
+1	2	T=RR	L+1=, & L-1=definitely
+2	2	T=RR	L+1=, & L-1=guess
+1	2	T=RR	L+1=, & L-1=be
+1	2	T=RG	L+1=, & L-1=hurry
+1	2	T=CS	L+1=, & L-1=me
+1	2	T=RR	L+1=, & L-1=hope
+1	2	T=RR	L+1=, & L-1=gratefully
+8	2	T=RR	L+1=, & L-1=if
+8	2	T=RR	L+1=, & L-1=do
+2	2	T=RR	L+1=, & L-1=not
+1	2	T=RR	L+1=, & L-1=doing
+11	1	T=RG	L+1=great
+1	1	T=CS	L+1=skilled
+1	1	T=RR	L+1=grasp
+1	1	T=RG	L+1=cruel
+1	1	T=CS	L+1=liberal
+2	1	T=RG	L+1=impossible
+1	1	T=RG	L+1=thin
+1	1	T=RG	L+1=inadequate
+1	1	T=RG	L+1=foolproof
+1	1	T=RG	L+1=secret
+2	1	T=RG	L+1=near
+3	1	T=RG	L+1=confuse
+1	1	T=RG	L+1=cheap
+1	1	T=RG	L+1=disappointing
+2	1	T=RG	L+1=scare
+1	1	T=RG	L+1=largely
+1	1	T=RR	L+1=labeled
+2	1	T=RR	L+1=could
+1	1	T=RG	L+1=dependent
+1	1	T=RR	L+1=military
+1	2	T=RR	L+1=as & L-1=located
+1	2	T=CS	L+1=as & L-1=depth
+6	2	T=CS	L+1=as & L-1=,
+1	2	T=CS	L+1=as & L-1=divide
+1	2	T=CS	L+1=as & L-1=0
+1	2	T=CS	L+1=as & L-1=polish
+1	2	T=RR	L+1=as & L-1=analyzed
+1	2	T=CS	L+1=as & L-1=transversely
+1	2	T=CS	L+1=as & L-1=secured
+1	2	T=CS	L+1=as & L-1=productive
+1	2	T=CS	L+1=as & L-1=soil
+1	2	T=CS	L+1=as & L-1=calendar
+1	2	T=CS	L+1=as & L-1=vote
+1	2	T=CS	L+1=as & L-1=power
+1	2	T=RR	L+1=as & L-1=up
+1	2	T=CS	L+1=as & L-1=battery
+1	2	T=CS	L+1=as & L-1=cautious
+1	2	T=CS	L+1=as & L-1=election
+1	2	T=CS	L+1=as & L-1=ionosphere
+1	2	T=CS	L+1=as & L-1=figure
+1	1	T=RG	L+1=faceless
+1	1	T=RG	L+1=desirous
+2	1	T=RG	L+1=short
+1	1	T=RR	L+1=help
+8	1	T=CS	L+1=we
+1	1	T=RG	L+1=integral
+1	3	T=RR	L+1=0 & L-1=and & T+1=NP1
+1	3	T=CS	L+1=0 & L-1=and & T+1=NN2
+2	3	T=RR	L+1=0 & L-1=and & T+1=NN1
+2	18	T=RR~CS	L+1=0 & L-1=, & Gen+1=V & T+1=VD0 & Ing-1=False & Ger-1=False & Inf+1=False & Inf-1=False & T-1=QC & Ing+1=False & A-1=False & Ger+1=False & C-1=True & Gen-1=Q & C+1=True & M+1=False & A+1=False & M-1=False
+9	18	T=RR~CS	L+1=0 & L-1=, & Gen+1=N & T+1=NP1 & Ing-1=False & Ger-1=False & Inf+1=False & Inf-1=False & T-1=QC & Ing+1=False & A-1=False & Ger+1=False & C-1=True & Gen-1=Q & C+1=False & M+1=False & A+1=True & M-1=False
+1	3	T=RR	L+1=0 & L-1=, & Gen+1=D
+1	2	T=RR	L+1=0 & L-1=0
+1	2	T=CS	L+1=0 & L-1=type
+1	2	T=RR	L+1=0 & L-1=or
+1	2	T=CS	L+1=0 & L-1=quietly
+1	3	T=RR	L+1=0 & L-1=- & Gen+1=N
+1	3	T=CS	L+1=0 & L-1=- & Gen+1=P
+1	2	T=RG	L+1=0 & L-1=am
+1	2	T=CS	L+1=0 & L-1=run
+1	2	T=CS	L+1=0 & L-1=good
+1	2	T=RG	L+1=0 & L-1=bloom
+2	2	T=RR	L+1=0 & L-1=even
+2	2	T=RG	L+1=0 & L-1=not
+1	2	T=CS	L+1=0 & L-1=head
+10	1	T=RR	L+1=in
+1	1	T=RG	L+1=vast
+1	1	T=RG	L+1=restrict
+1	1	T=RG	L+1=staggeringly
+1	1	T=RG	L+1=sturdy
+1	1	T=RG	L+1=changed
+1	1	T=RG	L+1=highly
+4	1	T=RG	L+1=happy
+1	2	T=RG	L+1=low & T+1=RR
+1	2	T=RR	L+1=low & T+1=VV0
+1	2	T=RG	L+1=low & T+1=JJ
+3	1	T=RG	L+1=broad
+2	1	T=RG	L+1=white
+5	1	T=RG	L+1=important
+1	1	T=RG	L+1=authentic
+1	1	T=RG	L+1=favor
+1	1	T=RG	L+1=rigorously
+1	1	T=RG	L+1=tremendous
+1	1	T=RG	L+1=load
+1	1	T=RG	L+1=patiently
+2	1	T=RR	L+1=other
+1	1	T=RG	L+1=different
+1	1	T=RG	L+1=tall
+1	1	T=RG	L+1=immense
+2	1	T=RG	L+1=funny
+1	1	T=RG	L+1=fastidious
+1	1	T=RR	L+1=today
+1	1	T=RG	L+1=general
+1	1	T=RG	L+1=sacrosanct
+1	1	T=RG	L+1=shortly
+1	1	T=RG	L+1=widely
+2	1	T=RR	L+1=of
+1	1	T=RR	L+1=science
+1	1	T=RG	L+1=poetic
+1	1	T=RR	L+1=tested
+1	1	T=RR	L+1=even
+1	1	T=RR	L+1=guide
+6	1	T=CS	L+1=there
+1	1	T=RG	L+1=wretched
+2	1	T=RG	L+1=monotonous
+2	1	T=RG	L+1=aware
+1	1	T=RG	L+1=effectively
+1	1	T=RR	L+1=appreciated
+1	1	T=RG	L+1=grateful
+1	2	T=RR	L+1=if & T-1=RR
+4	18	T=RR~CS	L+1=if & T-1=QC & Ing-1=False & T+1=CS & Gen+1=C & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & Ing+1=False & A-1=False & Ger+1=False & C-1=True & C+1=True & L-1=, & M+1=False & A+1=False & M-1=False
+2	1	T=CS	L+1=my
+1	1	T=RG	L+1=characteristic
+12	1	T=RR	L+1=to
+2	1	T=RG	L+1=powerful
+1	1	T=RG	L+1=desirable
+3	1	T=RG	L+1=unlike
+1	1	T=RG	L+1=shaken
+2	1	T=RG	L+1=bad
+1	1	T=RG	L+1=hopeful
+1	1	T=RG	L+1=lately
+2	1	T=RG	L+1=evident
+3	1	T=RR	L+1=too
+1	1	T=RG	L+1=tight
+2	1	T=RG	L+1=please
+1	1	T=RG	L+1=gone
+1	1	T=RR	L+1=but
+1	1	T=RG	L+1=vaguely
+1	1	T=RR	L+1=certify
+1	1	T=CS	L+1=better
+2	18	T=RR~RG	L+1=happened & T+1=VVD & Ing-1=False & Gen+1=V & Inf+1=False & Ger-1=False & Inf-1=False & T-1=PPHS1 & Gen-1=P & Ing+1=False & A-1=True & Ger+1=False & C-1=True & C+1=False & L-1=it & M+1=False & A+1=False & M-1=False
+1	1	T=RG	L+1=popularly
+4	1	T=RG	L+1=strong
+2	1	T=RG	L+1=powerfully
+1	1	T=RG	L+1=steep
+1	1	T=RG	L+1=startle
+1	1	T=RR	L+1=am
+13	1	T=RG	L+1=often
+1	1	T=RG	L+1=remarkable
+4	1	T=RG	L+1=simple
+1	1	T=RG	L+1=unusual
+1	1	T=RG	L+1=passionately
+1	1	T=RG	L+1=revere
+1	1	T=RG	L+1=definite
+1	1	T=RG	L+1=truly
+1	1	T=RR	L+1=part
+4	1	T=RR	L+1=forth
+3	1	T=RG	L+1=badly
+1	1	T=RG	L+1=accepted
+1	1	T=RG	L+1=corrupt
+1	1	T=RG	L+1=involve
+1	1	T=RG	L+1=urgently
+1	1	T=RG	L+1=helpful
+1	1	T=RG	L+1=bound
+3	1	T=RR	L+1=determine
+2	1	T=RG	L+1=accustom
+1	1	T=RG	L+1=presumptuous
+2	2	T=RG	L+1=many & T-1=RR
+1	2	T=RG	L+1=many & T-1=RP
+2	2	T=RG	L+1=many & T-1=VVN
+1	2	T=RG	L+1=many & T-1=VBR
+1	2	T=RG	L+1=many & T-1=VBG
+3	2	T=RG	L+1=many & T-1=VV0
+2	2	T=RG	L+1=many & T-1=RRQ
+2	2	T=RG	L+1=many & T-1=VBDR
+2	2	T=RG	L+1=many & T-1=QC
+2	2	T=RG	L+1=many & T-1=VVG
+1	2	T=RG	L+1=many & T-1=VH0
+1	2	T=RG	L+1=many & T-1=NN1
+27	2	T=RG	L+1=many & T-1=II
+1	2	T=RG	L+1=many & T-1=PPHO1
+1	2	T=RG	L+1=many & T-1=XX
+1	2	T=CS	L+1=many & T-1=VVD
+7	2	T=RG	L+1=many & T-1=CS
+2	2	T=RG	L+1=many & T-1=DDQ
+1	2	T=RG	L+1=many & T-1=NN2
+2	1	T=RG	L+1=difficult
+1	1	T=RG	L+1=overload
+57	1	T=RR	L+1=.
+1	1	T=RG	L+1=persuasive
+1	1	T=RR	L+1=off
+5	1	T=RG	L+1=easy
+1	1	T=RG	L+1=valiant
+1	1	T=RG	L+1=indignant
+1	1	T=RG	L+1=brutalized
+1	1	T=RG	L+1=ambiguous
+3	1	T=RG	L+1=tightly
+1	1	T=RG	L+1=bleary
+1	1	T=RG	L+1=illustrious
+2	1	T=RG	L+1=deeply
+2	1	T=RG	L+1=magnificently
+1	1	T=CS	L+1=grandma
+4	18	T=RR~CS	L+1=he & L-1=and & Ing-1=False & T+1=PPHS1 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & T-1=CC & Ing+1=False & A-1=False & Ger+1=False & C-1=True & Gen-1=C & C+1=True & M+1=False & A+1=True & M-1=False
+15	18	T=RR~CS	L+1=he & L-1=, & Ing-1=False & T+1=PPHS1 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & T-1=QC & Ing+1=False & A-1=False & Ger+1=False & C-1=True & Gen-1=Q & C+1=True & M+1=False & A+1=True & M-1=False
+1	2	T=RR	L+1=he & L-1=0
+1	2	T=CS	L+1=he & L-1=group
+1	2	T=CS	L+1=he & L-1=open
+1	2	T=CS	L+1=he & L-1=road
+1	2	T=CS	L+1=he & L-1=bed
+1	2	T=CS	L+1=he & L-1=word
+1	2	T=RR	L+1=he & L-1=or
+1	2	T=CS	L+1=he & L-1=act
+1	2	T=CS	L+1=he & L-1=-
+1	2	T=CS	L+1=he & L-1=moment
+1	2	T=CS	L+1=he & L-1=wind
+2	2	T=CS	L+1=he & L-1=him
+1	2	T=CS	L+1=he & L-1=wake
+1	2	T=CS	L+1=he & L-1=smoothly
+1	2	T=CS	L+1=he & L-1=reply
+1	1	T=RG	L+1=fashionable
+1	1	T=RR	L+1=render
+1	1	T=RR	L+1=raise
+1	1	T=RG	L+1=essential
+1	1	T=RR	L+1=keep
+1	1	T=RG	L+1=extremely
+2	1	T=RG	L+1=necessary
+1	1	T=RG	L+1=complex
+1	2	T=RG	L+1=frequently & T-1=DDQ
+1	2	T=RR	L+1=frequently & T-1=VD0
+1	1	T=RG	L+1=richly
+1	1	T=RR	L+1=from
+2	1	T=RG	L+1=obvious
+1	1	T=RR	L+1=ordered
+1	1	T=RG	L+1=enormous
+1	1	T=RG	L+1=weighty
+1	1	T=RG	L+1=brisk
+1	1	T=RG	L+1=dominant
+1	1	T=RG	L+1=interest
+2	1	T=RG	L+1=successfully
+1	1	T=RG	L+1=commingle
+1	1	T=RG	L+1=accurately
+1	1	T=RG	L+1=darling
+1	1	T=RG	L+1=scarce
+1	2	T=CS	L+1=none & T-1=QC
+1	2	T=RR	L+1=none & T-1=CC
+3	1	T=RG	L+1=useful
+2	1	T=RG	L+1=very
+1	1	T=RG	L+1=compulsively
+1	1	T=RG	L+1=relax
+2	1	T=RG	L+1=typical
+2	1	T=RG	L+1=severe
+1	1	T=RG	L+1=formidable
+1	1	T=RG	L+1=crude
+1	1	T=RG	L+1=constantly
+2	1	T=RG	L+1=young
+1	1	T=RR	L+1=structure
+1	1	T=RR	L+1=whenever
+1	1	T=RG	L+1=astute
+1	1	T=RR	L+1=can
+1	1	T=RR	L+1=acquired
+1	1	T=RR	L+1=serve
+1	1	T=RG	L+1=triumphantly
+1	2	T=CS	L+1=they & T-1=RR
+1	2	T=CS	L+1=they & T-1=VVN
+1	2	T=CS	L+1=they & T-1=DA
+1	2	T=RR	L+1=they & T-1=QC
+2	2	T=CS	L+1=they & T-1=NN1
+3	2	T=CS	L+1=they & T-1=PPHO1
+3	18	T=RR~CS	L+1=they & T-1=CC & Ing-1=False & T+1=PPHS2 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=C & Ing+1=False & A-1=False & Ger+1=False & C-1=True & C+1=True & L-1=and & M+1=False & A+1=True & M-1=False
+4	2	T=CS	L+1=they & T-1=NN2
+2	1	T=RG	L+1=darn
+1	1	T=RG	L+1=want
+1	1	T=RR	L+1=all
+1	1	T=RG	L+1=terrify
+3	1	T=RG	L+1=effective
+1	1	T=RG	L+1=intensely
+1	1	T=RG	L+1=satisfactory
+5	1	T=RG	L+1=clearly
+1	1	T=RG	L+1=widespread
+3	1	T=RG	L+1=strongly
+1	1	T=RR	L+1=participate
+1	1	T=RG	L+1=worry
+1	2	T=RR	L+1=now & T-1=VB0
+2	18	T=RR~CS	L+1=now & T-1=QC & Ing-1=False & T+1=RR & Gen+1=R & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & Ing+1=False & A-1=False & Ger+1=False & C-1=True & C+1=False & L-1=, & M+1=True & A+1=False & M-1=False
+1	2	T=RR	L+1=now & T-1=VVG
+1	1	T=RG	L+1=burdened
+1	1	T=CS	L+1=forget
+4	1	T=RG	L+1=intense
+2	18	T=RR~CS	L+1=a & T-1=QC & Ing-1=False & T+1=AT & Gen+1=A & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & Ing+1=False & A-1=False & Ger+1=False & C-1=True & C+1=True & L-1=, & M+1=True & A+1=False & M-1=False
+1	2	T=CS	L+1=a & T-1=NN1
+1	1	T=CS	L+1=unimpressed
+1	1	T=RG	L+1=final
+1	2	T=CS	L+1=i & T-1=RR
+2	2	T=CS	L+1=i & T-1=RP
+7	18	T=RR~CS	L+1=i & T-1=QC & Ing-1=False & T+1=PPHS2 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & Ing+1=False & A-1=False & Ger+1=False & C-1=True & C+1=True & L-1=, & M+1=False & A+1=True & M-1=False
+1	2	T=RR	L+1=i & T-1=VVG
+1	2	T=CS	L+1=i & T-1=NN1
+3	18	T=RR~CS	L+1=i & T-1=CC & Ing-1=False & T+1=PPHS2 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=C & Ing+1=False & A-1=False & Ger+1=False & C-1=True & C+1=True & L-1=and & M+1=False & A+1=True & M-1=False
+1	2	T=CS	L+1=i & T-1=QH
+4	1	T=RR	L+1=when
+1	1	T=RG	L+1=sadly
+1	1	T=RG	L+1=theatrically
+8	1	T=RG	L+1=fast
+1	1	T=RG	L+1=massive
+1	1	T=RR	L+1=into
+1	1	T=RG	L+1=extreme
+1	1	T=RG	L+1=remorseful
+3	1	T=RG	L+1=eager
+2	1	T=RG	L+1=upset
+2	1	T=RG	L+1=lightly
+2	1	T=RG	L+1=quickly
+1	1	T=RG	L+1=familiar
+1	1	T=RG	L+1=mildly
+2	1	T=RR	L+1=!
+2	1	T=RG	L+1=utterly
+6	1	T=RG	L+1=high
+4	1	T=RG	L+1=full
+1	2	T=RG	L+1=well & L-1=and
+2	2	T=RG	L+1=well & L-1=,
+1	2	T=RG	L+1=well & L-1=people
+1	2	T=RG	L+1=well & L-1=along
+1	2	T=RG	L+1=well & L-1=important
+1	2	T=RG	L+1=well & L-1=all
+1	2	T=RG	L+1=well & L-1=strain
+1	2	T=CS	L+1=well & L-1=show
+1	2	T=RG	L+1=well & L-1=them
+1	2	T=RG	L+1=well & L-1=housed
+1	2	T=RG	L+1=well & L-1=know
+3	2	T=RG	L+1=well & L-1=be
+1	2	T=RG	L+1=well & L-1=these
+1	2	T=RG	L+1=well & L-1=kept
+1	2	T=RG	L+1=well & L-1=talk
+2	2	T=RG	L+1=well & L-1=not
+1	2	T=RG	L+1=well & L-1=aunt
+3	1	T=RG	L+1=small
+1	1	T=CS	L+1=then
+1	1	T=RG	L+1=unpredictably
+1	1	T=RG	L+1=exalt
+2	1	T=RR	L+1=and
+1	1	T=RG	L+1=absolute
+1	1	T=RG	L+1=superior
+1	1	T=RG	L+1=ably
+1	1	T=RG	L+1=interwoven
+1	1	T=RG	L+1=heavy
+1	1	T=RG	L+1=busily
+1	1	T=RG	L+1=romantic
+1	1	T=RG	L+1=suddenly
+1	1	T=RG	L+1=cumbersome
+1	1	T=RG	L+1=technical
+19	1	T=RR	L+1=on
+39	1	T=RG	L+1=long
+1	1	T=RG	L+1=strenuously
+1	1	T=RG	L+1=dear
+4	1	T=RR	L+1=have
+1	1	T=CS	L+1=some
+2	1	T=RG	L+1=absorbed
+1	1	T=RG	L+1=encourage
+1	1	T=RG	L+1=successful
+1	1	T=RG	L+1=natural
+1	1	T=RR	L+1=last
+2	1	T=RG	L+1=preoccupy
+1	1	T=RG	L+1=contemporary
+1	1	T=RG	L+1=strike
+2	1	T=RR	L+1=whether
+1	1	T=RR	L+1=perhaps
+1	1	T=RR	L+1=located
+2	1	T=RG	L+1=pretty
+2	1	T=RR	L+1=without
+7	1	T=RG	L+1=hard
+1	1	T=RG	L+1=farfetched
+3	1	T=RG	L+1=quick
+1	1	T=RG	L+1=popular
+1	1	T=RG	L+1=understandingly
+3	1	T=RG	L+1=busy
+5	1	T=RR	L+1=doing
+1	1	T=RG	L+1=exuberant
+Count	Path_Length	Result	Predicates
+1	1	T=RG	W+1=unready
+1	1	T=RG	W+1=perfect
+1	1	T=RG	W+1=vividly
+1	1	T=RG	W+1=cordial
+1	1	T=RG	W+1=personal
+1	1	T=RR	W+1=here
+1	1	T=RR	W+1=mel
+1	1	T=CS	W+1=michelangelo
+1	2	T=CS	W+1=that & W-1=manager
+1	2	T=CS	W+1=that & W-1=type
+1	2	T=CS	W+1=that & W-1=usual
+1	2	T=CS	W+1=that & W-1=connected
+1	2	T=CS	W+1=that & W-1=alive
+1	2	T=CS	W+1=that & W-1=temporize
+1	2	T=CS	W+1=that & W-1=lungs
+1	2	T=CS	W+1=that & W-1=accelerometer
+1	2	T=CS	W+1=that & W-1=shakers
+1	2	T=CS	W+1=that & W-1=flexible
+1	2	T=CS	W+1=that & W-1=together
+1	2	T=RR	W+1=that & W-1=much
+1	2	T=CS	W+1=that & W-1=just
+1	2	T=CS	W+1=that & W-1=formed
+1	2	T=CS	W+1=that & W-1=move
+1	2	T=CS	W+1=that & W-1=detachable
+3	2	T=CS	W+1=that & W-1=up
+1	2	T=CS	W+1=that & W-1=periods
+1	2	T=CS	W+1=that & W-1=thinking
+1	2	T=CS	W+1=that & W-1=mechanically
+1	2	T=CS	W+1=that & W-1=bangs
+1	2	T=CS	W+1=that & W-1=taken
+1	2	T=CS	W+1=that & W-1=drive
+1	2	T=CS	W+1=that & W-1=substances
+68	2	T=CS	W+1=that & W-1=,
+1	2	T=CS	W+1=that & W-1=conventionalized
+1	2	T=CS	W+1=that & W-1=plane
+1	2	T=CS	W+1=that & W-1=law
+1	2	T=CS	W+1=that & W-1=faces
+1	2	T=CS	W+1=that & W-1=lens
+1	2	T=CS	W+1=that & W-1=community
+1	2	T=CS	W+1=that & W-1=head
+1	2	T=CS	W+1=that & W-1=industry
+1	2	T=CS	W+1=that & W-1=provided
+1	2	T=CS	W+1=that & W-1=transitions
+1	2	T=CS	W+1=that & W-1=reference
+1	2	T=CS	W+1=that & W-1=understood
+1	2	T=CS	W+1=that & W-1=matters
+1	2	T=CS	W+1=that & W-1=decanted
+1	2	T=CS	W+1=that & W-1=wise
+1	2	T=CS	W+1=that & W-1=companion
+1	2	T=CS	W+1=that & W-1=barrels
+1	2	T=CS	W+1=that & W-1=vehicles
+1	2	T=CS	W+1=that & W-1=himself
+1	2	T=CS	W+1=that & W-1=timed
+1	2	T=CS	W+1=that & W-1=these
+2	2	T=CS	W+1=that & W-1=torquers
+2	2	T=CS	W+1=that & W-1=help
+2	2	T=CS	W+1=that & W-1=experience
+1	2	T=CS	W+1=that & W-1=done
+1	2	T=CS	W+1=that & W-1=ecstasy
+1	2	T=CS	W+1=that & W-1=chattered
+1	2	T=CS	W+1=that & W-1=changed
+2	2	T=CS	W+1=that & W-1=it
+1	2	T=CS	W+1=that & W-1=legislation
+1	2	T=CS	W+1=that & W-1=business
+1	2	T=CS	W+1=that & W-1=skin
+1	2	T=CS	W+1=that & W-1=thick
+1	2	T=CS	W+1=that & W-1=unfixed
+1	2	T=CS	W+1=that & W-1=barrel
+1	2	T=CS	W+1=that & W-1=print
+2	2	T=CS	W+1=that & W-1=them
+1	2	T=CS	W+1=that & W-1=weight
+1	2	T=CS	W+1=that & W-1=date
+1	2	T=CS	W+1=that & W-1=way
+1	2	T=CS	W+1=that & W-1=displacement
+1	2	T=CS	W+1=that & W-1=wavelengths
+2	2	T=CS	W+1=that & W-1=other
+1	2	T=CS	W+1=that & W-1=register
+1	2	T=CS	W+1=that & W-1=centers
+1	2	T=CS	W+1=that & W-1=september
+1	2	T=CS	W+1=that & W-1=home
+1	2	T=CS	W+1=that & W-1=soon
+1	2	T=CS	W+1=that & W-1=passport
+1	2	T=CS	W+1=that & W-1=precaution
+1	2	T=CS	W+1=that & W-1=response
+1	2	T=CS	W+1=that & W-1=thatches
+1	2	T=CS	W+1=that & W-1=switched
+1	2	T=CS	W+1=that & W-1=mount
+1	2	T=CS	W+1=that & W-1=now
+1	2	T=CS	W+1=that & W-1=reproducible
+1	2	T=CS	W+1=that & W-1=a
+1	2	T=CS	W+1=that & W-1=heads
+1	2	T=CS	W+1=that & W-1=height
+1	2	T=CS	W+1=that & W-1=stress
+1	2	T=CS	W+1=that & W-1=knoll
+1	2	T=CS	W+1=that & W-1=acres
+1	2	T=CS	W+1=that & W-1=mouth
+1	2	T=CS	W+1=that & W-1=israel
+1	2	T=CS	W+1=that & W-1=table
+1	2	T=CS	W+1=that & W-1=floor
+1	2	T=CS	W+1=that & W-1=level
+1	2	T=CS	W+1=that & W-1=designed
+1	2	T=CS	W+1=that & W-1=complement
+1	2	T=CS	W+1=that & W-1=headquarters
+1	2	T=CS	W+1=that & W-1=light
+1	2	T=RR	W+1=that & W-1=getting
+1	2	T=CS	W+1=that & W-1=columns
+2	2	T=CS	W+1=that & W-1=back
+1	2	T=CS	W+1=that & W-1=fire
+1	2	T=CS	W+1=that & W-1=conditions
+1	2	T=CS	W+1=that & W-1=grease
+4	2	T=CS	W+1=that & W-1=enough
+1	2	T=CS	W+1=that & W-1=early
+1	2	T=CS	W+1=that & W-1=readjusted
+1	2	T=CS	W+1=that & W-1=bored
+1	2	T=CS	W+1=that & W-1=necessities
+1	2	T=CS	W+1=that & W-1=--
+1	2	T=CS	W+1=that & W-1=cycle
+1	2	T=CS	W+1=that & W-1=down
+1	2	T=CS	W+1=that & W-1=moved
+1	2	T=CS	W+1=that & W-1=clean
+3	2	T=CS	W+1=that & W-1=and
+1	2	T=CS	W+1=that & W-1=elapsed
+1	2	T=CS	W+1=that & W-1=circumstance
+1	2	T=CS	W+1=that & W-1=around
+1	2	T=CS	W+1=that & W-1=finish
+1	2	T=CS	W+1=that & W-1=backward
+1	2	T=CS	W+1=that & W-1=perturbations
+1	2	T=CS	W+1=that & W-1=encouraged
+1	2	T=CS	W+1=that & W-1=shape
+1	2	T=CS	W+1=that & W-1=requirements
+1	2	T=CS	W+1=that & W-1=legs
+1	2	T=RR	W+1=that & W-1=powerfully
+1	2	T=CS	W+1=that & W-1=corporations
+1	2	T=CS	W+1=that & W-1=standard
+1	2	T=CS	W+1=that & W-1=feet
+1	2	T=CS	W+1=that & W-1=edges
+1	2	T=CS	W+1=that & W-1=used
+1	2	T=CS	W+1=that & W-1=game
+1	2	T=CS	W+1=that & W-1=gauge
+1	2	T=CS	W+1=that & W-1=outside
+1	2	T=CS	W+1=that & W-1=pressure
+1	2	T=CS	W+1=that & W-1=mirror
+1	2	T=CS	W+1=that & W-1=terms
+1	2	T=CS	W+1=that & W-1=located
+1	2	T=CS	W+1=that & W-1=devised
+1	2	T=CS	W+1=that & W-1=itself
+1	2	T=CS	W+1=that & W-1=components
+1	2	T=CS	W+1=that & W-1=carefully
+1	2	T=RR	W+1=that & W-1=henrietta
+1	2	T=CS	W+1=that & W-1=fabric
+1	2	T=CS	W+1=that & W-1=things
+1	1	T=RR	W+1=disposed
+6	1	T=RG	W+1=beautiful
+1	1	T=RG	W+1=blind
+1	1	T=RG	W+1=taken
+5	1	T=RR	W+1=by
+1	1	T=RG	W+1=pitiable
+1	1	T=RG	W+1=overloaded
+1	1	T=CS	W+1=his
+1	2	T=RG	W+1=little & T+1=RR
+1	2	T=RG	W+1=little & T+1=RG
+9	2	T=RG	W+1=little & T+1=DA
+1	2	T=RR	W+1=little & T+1=JJ
+5	1	T=RR	W+1=with
+1	1	T=RR	W+1=our
+6	1	T=RG	W+1=easily
+1	1	T=RG	W+1=kindly
+1	1	T=RG	W+1=desperately
+1	1	T=RG	W+1=arouse
+1	1	T=RR	W+1=participating
+2	1	T=RR	W+1=do
+2	20	T=RR~CS	W+1=one & T-1=QC & Ing-1=False & T+1=PN1 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & C+1=True & L-1=, & Ing+1=False & A-1=False & A+1=True & L+1=one & Ger+1=False & M-1=False & M+1=False & C-1=True & W-1=,
+1	2	T=CS	W+1=one & T-1=NN1
+1	1	T=RG	W+1=striking
+1	1	T=RG	W+1=sorely
+1	1	T=RG	W+1=revered
+1	1	T=CS	W+1=unasked
+1	1	T=RG	W+1=profoundly
+1	1	T=RG	W+1=sympathetically
+1	1	T=RG	W+1=late
+1	1	T=RG	W+1=delicate
+1	1	T=RR	W+1=marshall
+1	1	T=RG	W+1=masculine
+1	1	T=RG	W+1=enmeshed
+2	1	T=RG	W+1=quiet
+1	1	T=CS	W+1=an
+1	1	T=RR	W+1=structured
+1	1	T=RG	W+1=immediate
+2	1	T=RG	W+1=large
+3	1	T=RG	W+1=dramatic
+1	1	T=RG	W+1=inexpressibly
+1	1	T=RG	W+1=clear
+1	1	T=RG	W+1=habitual
+1	1	T=RG	W+1=apparently
+2	1	T=RG	W+1=deep
+2	20	T=RR~CS	W+1=it & L-1=and & Ing-1=False & T+1=PPHS1 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & T-1=CC & Gen-1=C & C+1=True & Ing+1=False & A-1=False & A+1=True & L+1=it & Ger+1=False & M-1=False & M+1=False & C-1=True & W-1=and
+10	20	T=RR~CS	W+1=it & L-1=, & Ing-1=False & T+1=PPHS1 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & T-1=QC & Gen-1=Q & C+1=True & Ing+1=False & A-1=False & A+1=True & L+1=it & Ger+1=False & M-1=False & M+1=False & C-1=True & W-1=,
+1	2	T=CS	W+1=it & L-1=lid
+1	2	T=RR	W+1=it & L-1=or
+1	2	T=RR	W+1=it & L-1=size
+1	2	T=RR	W+1=it & L-1=horse
+1	2	T=CS	W+1=it & L-1=church
+1	2	T=CS	W+1=it & L-1=diagonally
+1	2	T=CS	W+1=it & L-1=navel
+2	1	T=RG	W+1=eagerly
+1	1	T=RG	W+1=frustrating
+1	1	T=RG	W+1=realistically
+1	1	T=RG	W+1=comfortable
+1	1	T=RG	W+1=exhausted
+1	1	T=RG	W+1=grounded
+1	1	T=RG	W+1=breath-taking
+1	1	T=RR	W+1=repelled
+5	1	T=RG	W+1=few
+1	1	T=RG	W+1=prevalent
+2	1	T=RG	W+1=pale
+2	1	T=RG	W+1=loudly
+1	1	T=RG	W+1=slow
+1	1	T=RG	W+1=fair
+1	1	T=RG	W+1=wonderful
+1	1	T=RG	W+1=solidly
+1	1	T=RG	W+1=fat
+1	1	T=RG	W+1=chilly
+1	1	T=RR	W+1=minutes
+1	1	T=RR	W+1=knowingly
+1	1	T=CS	W+1=liberals
+1	1	T=RG	W+1=emphatically
+1	1	T=RG	W+1=excited
+1	1	T=RG	W+1=tediously
+1	1	T=RR	W+1=desire
+1	1	T=RR	W+1=intentionally
+1	1	T=RR	W+1=deducted
+2	1	T=RG	W+1=cold
+1	1	T=RG	W+1=worried
+2	1	T=RG	W+1=obviously
+1	1	T=RG	W+1=red
+2	1	T=RG	W+1=casually
+1	1	T=RG	W+1=sharply
+1	1	T=RR	W+1=escaping
+1	1	T=RG	W+1=extraordinary
+1	1	T=RG	W+1=deadly
+1	1	T=RG	W+1=increased
+1	1	T=RG	W+1=dense
+3	1	T=RG	W+1=slight
+1	1	T=RG	W+1=contented
+1	1	T=RR	W+1=took
+1	1	T=RG	W+1=sweetly
+1	1	T=RG	W+1=dumb
+1	1	T=RR	W+1=naturally
+1	1	T=RG	W+1=purged
+1	1	T=RG	W+1=nearsighted
+1	1	T=RG	W+1=frightened
+2	1	T=RR	W+1=notify
+1	1	T=RG	W+1=moved
+1	1	T=RG	W+1=firmly
+1	1	T=RG	W+1=clean
+1	1	T=RG	W+1=malign
+2	1	T=RR	W+1=desired
+1	1	T=RG	W+1=foggy
+1	1	T=RG	W+1=stirred
+1	1	T=RG	W+1=exactly
+2	1	T=RG	W+1=big
+1	1	T=RG	W+1=unfair
+1	1	T=RG	W+1=terrified
+1	1	T=RG	W+1=disparate
+1	2	T=RR	W+1=every & T-1=QC
+1	2	T=CS	W+1=every & T-1=CC
+1	1	T=RR	W+1=explicitly
+3	1	T=RR	W+1=than
+2	1	T=RG	W+1=dark
+1	1	T=RR	W+1=constructed
+1	1	T=RG	W+1=ashamed
+1	1	T=RR	W+1=choose
+1	1	T=RG	W+1=infuriated
+1	1	T=RG	W+1=fine
+1	1	T=RR	W+1=framed
+1	1	T=RG	W+1=tipsy
+4	1	T=RR	W+1=is
+1	1	T=RR	W+1=discovered
+2	1	T=RG	W+1=cool
+1	1	T=RG	W+1=prized
+1	1	T=RG	W+1=positive
+1	1	T=RG	W+1=mad
+1	1	T=RG	W+1=dilapidated
+1	1	T=RR	W+1=nadine
+1	1	T=RG	W+1=basic
+3	1	T=RG	W+1=nice
+2	1	T=RR	W+1=among
+1	1	T=RG	W+1=harshly
+7	1	T=RG	W+1=close
+1	1	T=RR	W+1=should
+96	1	T=RG	W+1=much
+1	1	T=RR	W+1=just
+2	1	T=RR	W+1=must
+4	1	T=RR	W+1=because
+6	1	T=RG	W+1=good
+1	1	T=RR	W+1=about
+1	2	T=RR	W+1=publicly & T-1=VV0
+1	2	T=RG	W+1=publicly & T-1=RG
+1	1	T=RG	W+1=available
+2	1	T=RR	W+1=before
+1	1	T=RG	W+1=weary
+2	1	T=RG	W+1=dominated
+2	1	T=RG	W+1=overwhelming
+1	1	T=RG	W+1=ornery
+1	1	T=RR	W+1=deliberately
+2	1	T=RG	W+1=filled
+1	1	T=RG	W+1=loaded
+1	1	T=RG	W+1=diluted
+1	1	T=RG	W+1=delighted
+1	1	T=RR	W+1=god
+7	1	T=RG	W+1=closely
+1	1	T=RG	W+1=far-reaching
+1	1	T=RG	W+1=fruitless
+1	1	T=RG	W+1=lousy
+3	1	T=RG	W+1=sure
+1	1	T=RG	W+1=memorable
+1	1	T=RR	W+1=why
+3	1	T=RR	W+1=determined
+1	1	T=RG	W+1=neatly
+2	1	T=RG	W+1=tough
+1	1	T=RG	W+1=directly
+2	1	T=RG	W+1=vital
+1	1	T=RR	W+1=had
+1	1	T=RG	W+1=precious
+1	2	T=RR	W+1=like & T-1=QC
+1	2	T=RG	W+1=like & T-1=VBDZ
+4	1	T=RR	W+1=would
+1	1	T=RG	W+1=peaceful
+1	1	T=CS	W+1=instead
+1	1	T=RR	W+1=most
+1	1	T=RR	W+1=agreed
+1	1	T=RG	W+1=alarmingly
+1	1	T=RG	W+1=drunk
+1	1	T=RG	W+1=fearful
+4	1	T=RR	W+1=at
+1	1	T=RG	W+1=fruitful
+1	1	T=RG	W+1=freely
+1	1	T=RG	W+1=seriously
+1	1	T=RG	W+1=well's
+2	1	T=RG	W+1=thick
+1	1	T=RG	W+1=austerely
+1	1	T=RG	W+1=complete
+1	1	T=RR	W+1=restore
+1	1	T=RG	W+1=challenging
+1	1	T=RG	W+1=malleable
+1	1	T=RG	W+1=incredible
+1	1	T=RG	W+1=fond
+1	1	T=RG	W+1=coolly
+1	1	T=RG	W+1=grand
+1	1	T=RG	W+1=painstakingly
+3	2	T=CS	W+1=you & T-1=RR
+1	2	T=CS	W+1=you & T-1=JJ
+1	2	T=CS	W+1=you & T-1=NP1
+4	20	T=RR~CS	W+1=you & T-1=QC & Ing-1=False & T+1=PPHS2 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & C+1=True & L-1=, & Ing+1=False & A-1=False & A+1=True & L+1=you & Ger+1=False & M-1=False & M+1=False & C-1=True & W-1=,
+1	2	T=CS	W+1=you & T-1=MC
+3	2	T=CS	W+1=you & T-1=NN1
+1	2	T=CS	W+1=you & T-1=VVG
+1	2	T=CS	W+1=you & T-1=PPHO1
+1	2	T=CS	W+1=you & T-1=VVD
+5	1	T=RG	W+1=soon
+1	1	T=RR	W+1=after
+1	1	T=RG	W+1=thickly
+1	1	T=RG	W+1=foolish
+52	1	T=RG	W+1=far
+1	1	T=RG	W+1=extensively
+1	1	T=RR	W+1=indeed
+1	1	T=RG	W+1=true
+1	1	T=RG	W+1=relaxed
+1	1	T=RG	W+1=newly
+2	1	T=RG	W+1=greatly
+2	1	T=RG	W+1=rich
+1	1	T=RR	W+1=instructed
+1	1	T=RG	W+1=crucial
+1	1	T=RG	W+1=shallow
+1	1	T=RG	W+1=skillfully
+1	1	T=RG	W+1=vindictive
+1	1	T=RR	W+1=pels
+1	1	T=RG	W+1=catastrophically
+1	1	T=RR	W+1=people
+1	1	T=CS	W+1=matsuo
+1	1	T=RG	W+1=softly
+1	1	T=RR	W+1=paid
+1	1	T=RG	W+1=eloquent
+1	1	T=RG	W+1=peculiar
+1	1	T=RG	W+1=early
+1	1	T=RR	W+1=voted
+1	1	T=RG	W+1=spirited
+1	1	T=RG	W+1=prodigally
+3	1	T=RR	W+1=--
+1	2	T=CS	W+1=the & L-1=enough
+5	20	T=RR~CS	W+1=the & L-1=and & Ing-1=False & T+1=AT & Gen+1=A & Inf+1=False & Ger-1=False & Inf-1=False & T-1=CC & Gen-1=C & C+1=True & Ing+1=False & A-1=False & A+1=False & L+1=the & Ger+1=False & M-1=False & M+1=True & C-1=True & W-1=and
+14	20	T=RR~CS	W+1=the & L-1=, & Ing-1=False & T+1=AT & Gen+1=A & Inf+1=False & Ger-1=False & Inf-1=False & T-1=QC & Gen-1=Q & C+1=True & Ing+1=False & A-1=False & A+1=False & L+1=the & Ger+1=False & M-1=False & M+1=True & C-1=True & W-1=,
+1	2	T=CS	W+1=the & L-1=wire
+1	2	T=CS	W+1=the & L-1=mud
+2	20	T=RR~CS	W+1=the & L-1=or & Ing-1=False & T+1=AT & Gen+1=A & Inf+1=False & Ger-1=False & Inf-1=False & T-1=CC & Gen-1=C & C+1=True & Ing+1=False & A-1=False & A+1=False & L+1=the & Ger+1=False & M-1=False & M+1=True & C-1=True & W-1=or
+1	2	T=CS	W+1=the & L-1=-
+1	2	T=RR	W+1=the & L-1=do
+1	2	T=CS	W+1=the & L-1=up
+1	2	T=CS	W+1=the & L-1=it
+1	2	T=CS	W+1=the & L-1=exercise
+1	2	T=RR	W+1=the & L-1=even
+1	2	T=CS	W+1=the & L-1=breakfast
+1	2	T=RR	W+1=the & L-1=doing
+1	1	T=RR	W+1=schools
+6	1	T=RR	W+1=for
+1	1	T=RR	W+1=blessed
+2	1	T=RG	W+1=scared
+1	1	T=RG	W+1=gay
+1	1	T=RG	W+1=encouraging
+1	1	T=RG	W+1=gaily
+2	1	T=RG	W+1=indispensable
+3	20	T=RR~CS	W+1=no & T-1=QC & Ing-1=False & T+1=AT & Gen+1=A & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & C+1=True & L-1=, & Ing+1=False & A-1=False & A+1=False & L+1=no & Ger+1=False & M-1=False & M+1=True & C-1=True & W-1=,
+1	2	T=CS	W+1=no & T-1=NN1
+1	1	T=RG	W+1=rare
+1	1	T=RR	W+1=called
+1	1	T=RG	W+1=explicit
+1	1	T=RG	W+1=vitally
+2	1	T=RG	W+1=pleased
+3	1	T=RG	W+1=sensitive
+1	1	T=CS	W+1=it'll
+1	1	T=RR	W+1=grasped
+1	1	T=RR	W+1=used
+3	1	T=RG	W+1=anxious
+1	1	T=RG	W+1=valuable
+1	1	T=CS	W+1=eugenia
+1	1	T=RR	W+1=lucy
+2	20	T=RR~CS	W+1=don't & T+1=VD0 & Ing-1=False & Gen+1=V & Inf+1=False & Ger-1=False & Inf-1=False & T-1=QC & Gen-1=Q & L-1=, & C+1=True & Ing+1=False & A-1=False & A+1=False & L+1=0 & Ger+1=False & M-1=False & M+1=False & C-1=True & W-1=,
+1	1	T=RG	W+1=free
+2	1	T=RR	W+1=were
+1	1	T=RR	W+1=once
+1	1	T=RG	W+1=huge
+1	1	T=RR	W+1=believe
+1	1	T=RG	W+1=narrowly
+1	1	T=RG	W+1=dangerous
+1	1	T=RG	W+1=merry
+3	1	T=RR	W+1=may
+1	1	T=RG	W+1=lusty
+2	1	T=RR	W+1=loved
+1	1	T=RG	W+1=able
+1	1	T=RG	W+1=slightly
+1	1	T=RG	W+1=numb
+1	1	T=RG	W+1=fluent
+1	1	T=CS	W+1=access
+1	1	T=RG	W+1=restricting
+1	1	T=RG	W+1=crazy
+5	1	T=RG	W+1=completely
+1	1	T=RG	W+1=gripped
+1	1	T=RG	W+1=doubtful
+3	1	T=RG	W+1=hungry
+1	1	T=RG	W+1=uniquely
+1	1	T=RR	W+1=stay
+1	1	T=RR	W+1=seem
+1	1	T=RG	W+1=elaborately
+1	1	T=RG	W+1=wonderfully
+1	1	T=RG	W+1=admirably
+1	1	T=RG	W+1=overwhelmingly
+1	1	T=RG	W+1=favored
+1	1	T=RG	W+1=rough
+1	2	T=CS	W+1=she & T-1=RP
+4	20	T=RR~CS	W+1=she & T-1=QC & Ing-1=False & T+1=PPHS1 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & C+1=True & L-1=, & Ing+1=False & A-1=False & A+1=True & L+1=she & Ger+1=False & M-1=False & M+1=False & C-1=True & W-1=,
+2	2	T=CS	W+1=she & T-1=NN1
+1	2	T=CS	W+1=she & T-1=PPHO1
+3	20	T=RR~CS	W+1=she & T-1=CC & Ing-1=False & T+1=PPHS1 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=C & C+1=True & L-1=and & Ing+1=False & A-1=False & A+1=True & L+1=she & Ger+1=False & M-1=False & M+1=False & C-1=True & W-1=and
+2	2	T=CS	W+1=she & T-1=NN2
+6	2	T=RR	W+1=, & L-1=and
+1	2	T=RR	W+1=, & L-1=quite
+14	2	T=RR	W+1=, & L-1=even
+1	2	T=RR	W+1=, & L-1=appear
+1	2	T=RR	W+1=, & L-1=saying
+1	2	T=RR	W+1=, & L-1=suspect
+1	2	T=RR	W+1=, & L-1=0
+1	2	T=RR	W+1=, & L-1=seem
+1	2	T=RR	W+1=, & L-1=say
+5	2	T=RR	W+1=, & L-1=think
+3	2	T=RR	W+1=, & L-1=,
+1	2	T=RR	W+1=, & L-1=definitely
+2	2	T=RR	W+1=, & L-1=guess
+1	2	T=RR	W+1=, & L-1=be
+1	2	T=RG	W+1=, & L-1=hurry
+1	2	T=CS	W+1=, & L-1=me
+1	2	T=RR	W+1=, & L-1=hope
+1	2	T=RR	W+1=, & L-1=gratefully
+8	2	T=RR	W+1=, & L-1=if
+8	2	T=RR	W+1=, & L-1=do
+2	2	T=RR	W+1=, & L-1=not
+1	2	T=RR	W+1=, & L-1=doing
+11	1	T=RG	W+1=great
+1	1	T=CS	W+1=skilled
+1	1	T=RG	W+1=cruel
+2	1	T=RG	W+1=impossible
+1	1	T=RG	W+1=thin
+1	1	T=RG	W+1=inadequate
+1	1	T=RG	W+1=foolproof
+3	1	T=RG	W+1=confused
+2	1	T=RG	W+1=tired
+1	1	T=RR	W+1=chooses
+1	1	T=RG	W+1=secret
+2	1	T=RG	W+1=near
+1	1	T=RG	W+1=cheap
+1	1	T=RG	W+1=disappointing
+1	1	T=RG	W+1=largely
+1	1	T=RR	W+1=labeled
+2	1	T=RR	W+1=could
+1	1	T=RG	W+1=dependent
+1	1	T=RR	W+1=military
+2	1	T=RG	W+1=accustomed
+1	2	T=RR	W+1=as & L-1=located
+1	2	T=CS	W+1=as & L-1=depth
+6	2	T=CS	W+1=as & L-1=,
+1	2	T=CS	W+1=as & L-1=divide
+1	2	T=CS	W+1=as & L-1=0
+1	2	T=CS	W+1=as & L-1=polish
+1	2	T=RR	W+1=as & L-1=analyzed
+1	2	T=CS	W+1=as & L-1=transversely
+1	2	T=CS	W+1=as & L-1=secured
+1	2	T=CS	W+1=as & L-1=productive
+1	2	T=CS	W+1=as & L-1=soil
+1	2	T=CS	W+1=as & L-1=calendar
+1	2	T=CS	W+1=as & L-1=vote
+1	2	T=CS	W+1=as & L-1=power
+1	2	T=RR	W+1=as & L-1=up
+1	2	T=CS	W+1=as & L-1=battery
+1	2	T=CS	W+1=as & L-1=cautious
+1	2	T=CS	W+1=as & L-1=election
+1	2	T=CS	W+1=as & L-1=ionosphere
+1	2	T=CS	W+1=as & L-1=figure
+1	1	T=RG	W+1=faceless
+1	1	T=RG	W+1=desirous
+2	1	T=RG	W+1=short
+1	1	T=RG	W+1=soon's
+1	1	T=RR	W+1=help
+8	1	T=CS	W+1=we
+1	1	T=RG	W+1=integral
+10	1	T=RR	W+1=in
+1	1	T=RG	W+1=vast
+1	1	T=RG	W+1=staggeringly
+1	1	T=RG	W+1=sturdy
+1	1	T=RG	W+1=changed
+1	1	T=RR	W+1=certified
+1	1	T=RG	W+1=highly
+4	1	T=RG	W+1=happy
+2	1	T=RG	W+1=low
+3	1	T=RG	W+1=broad
+2	1	T=RG	W+1=white
+5	1	T=RG	W+1=important
+1	1	T=RG	W+1=authentic
+1	1	T=RG	W+1=rigorously
+1	1	T=RG	W+1=tremendous
+1	1	T=RG	W+1=patiently
+1	1	T=RR	W+1=harassed
+2	1	T=RR	W+1=other
+1	2	T=RR	W+1=andy & T-1=QC
+1	2	T=CS	W+1=andy & T-1=NN1
+1	1	T=RG	W+1=tall
+1	1	T=RG	W+1=different
+1	1	T=RG	W+1=immense
+2	1	T=RG	W+1=funny
+1	1	T=RG	W+1=fastidious
+1	1	T=RR	W+1=today
+1	1	T=RG	W+1=general
+1	1	T=RG	W+1=sacrosanct
+1	1	T=RG	W+1=shortly
+1	1	T=RG	W+1=involved
+1	1	T=RG	W+1=widely
+2	1	T=RR	W+1=of
+1	1	T=RR	W+1=science
+1	1	T=RG	W+1=poetic
+1	1	T=RR	W+1=tested
+1	1	T=RR	W+1=even
+1	1	T=RG	W+1=demanding
+1	1	T=RG	W+1=commingled
+1	1	T=RR	W+1=guide
+1	1	T=RG	W+1=befouled
+6	1	T=CS	W+1=there
+1	1	T=RG	W+1=wretched
+2	1	T=RG	W+1=monotonous
+2	1	T=RG	W+1=aware
+1	1	T=RG	W+1=effectively
+1	1	T=RR	W+1=appreciated
+1	1	T=RG	W+1=grateful
+1	2	T=RR	W+1=if & T-1=RR
+4	20	T=RR~CS	W+1=if & T-1=QC & Ing-1=False & T+1=CS & Gen+1=C & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & C+1=True & L-1=, & Ing+1=False & A-1=False & A+1=False & L+1=if & Ger+1=False & M-1=False & M+1=False & C-1=True & W-1=,
+2	1	T=CS	W+1=my
+1	1	T=RG	W+1=characteristic
+12	1	T=RR	W+1=to
+2	1	T=RG	W+1=powerful
+1	1	T=RG	W+1=desirable
+1	1	T=CS	W+1=maggie
+3	1	T=RG	W+1=unlike
+1	1	T=RG	W+1=shaken
+1	1	T=RG	W+1=concentrated
+2	1	T=RG	W+1=bad
+1	1	T=RG	W+1=hopeful
+1	1	T=RG	W+1=lately
+2	1	T=RG	W+1=evident
+3	1	T=RR	W+1=too
+1	1	T=RG	W+1=tight
+1	1	T=CS	W+1=halts
+2	1	T=RR	W+1=inclined
+1	1	T=RG	W+1=gone
+1	1	T=RG	W+1=startled
+1	1	T=RR	W+1=but
+1	1	T=RG	W+1=vaguely
+1	1	T=CS	W+1=better
+2	20	T=RR~RG	W+1=happened & T+1=VVD & Ing-1=False & Gen+1=V & Inf+1=False & Ger-1=False & Inf-1=False & T-1=PPHS1 & Gen-1=P & L-1=it & C+1=False & Ing+1=False & A-1=True & A+1=False & L+1=happened & Ger+1=False & M-1=False & M+1=False & C-1=True & W-1=it
+1	1	T=RG	W+1=popularly
+4	1	T=RG	W+1=strong
+2	1	T=RG	W+1=powerfully
+1	1	T=RG	W+1=steep
+1	1	T=RR	W+1=am
+13	1	T=RG	W+1=often
+1	1	T=RG	W+1=remarkable
+4	1	T=RG	W+1=simple
+1	1	T=RG	W+1=unusual
+1	1	T=RG	W+1=passionately
+1	1	T=RG	W+1=definite
+1	1	T=RG	W+1=truly
+1	1	T=RR	W+1=part
+4	1	T=RR	W+1=forth
+3	1	T=RG	W+1=badly
+1	1	T=RG	W+1=accepted
+1	1	T=RG	W+1=fatigued
+2	1	T=RG	W+1=complicated
+1	1	T=RG	W+1=corrupt
+1	1	T=RR	W+1=fosdick
+1	1	T=RG	W+1=urgently
+1	1	T=RG	W+1=helpful
+1	1	T=RG	W+1=bound
+1	1	T=CS	W+1=you'll
+1	1	T=RG	W+1=presumptuous
+1	1	T=RG	W+1=forgitful
+2	2	T=RG	W+1=many & T-1=RR
+1	2	T=RG	W+1=many & T-1=RP
+2	2	T=RG	W+1=many & T-1=VVN
+1	2	T=RG	W+1=many & T-1=VBR
+1	2	T=RG	W+1=many & T-1=VBG
+3	2	T=RG	W+1=many & T-1=VV0
+2	2	T=RG	W+1=many & T-1=RRQ
+2	2	T=RG	W+1=many & T-1=VBDR
+2	2	T=RG	W+1=many & T-1=QC
+2	2	T=RG	W+1=many & T-1=VVG
+1	2	T=RG	W+1=many & T-1=VH0
+1	2	T=RG	W+1=many & T-1=NN1
+27	2	T=RG	W+1=many & T-1=II
+1	2	T=RG	W+1=many & T-1=PPHO1
+1	2	T=RG	W+1=many & T-1=XX
+1	2	T=CS	W+1=many & T-1=VVD
+7	2	T=RG	W+1=many & T-1=CS
+2	2	T=RG	W+1=many & T-1=DDQ
+1	2	T=RG	W+1=many & T-1=NN2
+2	1	T=RG	W+1=difficult
+1	1	T=CS	W+1=are
+57	1	T=RR	W+1=.
+1	1	T=RG	W+1=persuasive
+1	1	T=RR	W+1=off
+5	1	T=RG	W+1=easy
+1	1	T=RG	W+1=valiant
+1	1	T=RG	W+1=indignant
+1	1	T=RG	W+1=brutalized
+1	1	T=RG	W+1=ambiguous
+3	1	T=RG	W+1=tightly
+1	1	T=RG	W+1=bleary
+1	1	T=RG	W+1=illustrious
+2	1	T=RG	W+1=deeply
+2	1	T=RG	W+1=magnificently
+1	1	T=CS	W+1=grandma
+1	1	T=RR	W+1=dylan
+4	20	T=RR~CS	W+1=he & L-1=and & Ing-1=False & T+1=PPHS1 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & T-1=CC & Gen-1=C & C+1=True & Ing+1=False & A-1=False & A+1=True & L+1=he & Ger+1=False & M-1=False & M+1=False & C-1=True & W-1=and
+15	20	T=RR~CS	W+1=he & L-1=, & Ing-1=False & T+1=PPHS1 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & T-1=QC & Gen-1=Q & C+1=True & Ing+1=False & A-1=False & A+1=True & L+1=he & Ger+1=False & M-1=False & M+1=False & C-1=True & W-1=,
+1	2	T=RR	W+1=he & L-1=0
+1	2	T=CS	W+1=he & L-1=group
+1	2	T=CS	W+1=he & L-1=open
+1	2	T=CS	W+1=he & L-1=road
+1	2	T=CS	W+1=he & L-1=bed
+1	2	T=CS	W+1=he & L-1=word
+1	2	T=RR	W+1=he & L-1=or
+1	2	T=CS	W+1=he & L-1=act
+1	2	T=CS	W+1=he & L-1=-
+1	2	T=CS	W+1=he & L-1=moment
+1	2	T=CS	W+1=he & L-1=wind
+2	2	T=CS	W+1=he & L-1=him
+1	2	T=CS	W+1=he & L-1=wake
+1	2	T=CS	W+1=he & L-1=smoothly
+1	2	T=CS	W+1=he & L-1=reply
+1	1	T=RG	W+1=fashionable
+1	1	T=RG	W+1=exalted
+1	1	T=RR	W+1=render
+3	1	T=RR	W+1=did
+1	1	T=CS	W+1=deadheads
+1	1	T=RR	W+1=construed
+1	1	T=RR	W+1=raise
+1	1	T=RG	W+1=essential
+1	1	T=RR	W+1=keep
+1	1	T=RG	W+1=extremely
+2	1	T=RG	W+1=necessary
+1	1	T=RG	W+1=complex
+1	1	T=RG	W+1=interested
+1	2	T=RG	W+1=frequently & T-1=DDQ
+1	2	T=RR	W+1=frequently & T-1=VD0
+1	1	T=RR	W+1=from
+1	1	T=RG	W+1=varied
+1	1	T=RG	W+1=richly
+1	1	T=RR	W+1=was
+2	1	T=RG	W+1=obvious
+1	1	T=RR	W+1=ordered
+1	1	T=RG	W+1=marked
+1	1	T=RG	W+1=enormous
+1	1	T=RG	W+1=weighty
+1	1	T=RG	W+1=brisk
+1	1	T=RG	W+1=parades
+1	1	T=RG	W+1=dominant
+2	1	T=RG	W+1=successfully
+1	1	T=RG	W+1=accurately
+1	1	T=RG	W+1=darling
+1	1	T=RR	W+1=made
+1	1	T=RG	W+1=scarce
+1	2	T=CS	W+1=none & T-1=QC
+1	2	T=RR	W+1=none & T-1=CC
+3	1	T=RG	W+1=useful
+2	1	T=RG	W+1=very
+1	1	T=RG	W+1=compulsively
+2	1	T=RG	W+1=typical
+1	1	T=RR	W+1=processed
+2	1	T=RG	W+1=severe
+1	1	T=RG	W+1=formidable
+1	1	T=RG	W+1=crude
+1	1	T=RG	W+1=constantly
+2	1	T=RG	W+1=young
+1	1	T=RR	W+1=whenever
+1	1	T=RG	W+1=astute
+1	1	T=RR	W+1=irenaeus
+1	1	T=RR	W+1=can
+1	1	T=RR	W+1=acquired
+1	1	T=RG	W+1=triumphantly
+1	2	T=CS	W+1=they & T-1=RR
+1	2	T=CS	W+1=they & T-1=VVN
+1	2	T=CS	W+1=they & T-1=DA
+1	2	T=RR	W+1=they & T-1=QC
+2	2	T=CS	W+1=they & T-1=NN1
+3	2	T=CS	W+1=they & T-1=PPHO1
+3	20	T=RR~CS	W+1=they & T-1=CC & Ing-1=False & T+1=PPHS2 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=C & C+1=True & L-1=and & Ing+1=False & A-1=False & A+1=True & L+1=they & Ger+1=False & M-1=False & M+1=False & C-1=True & W-1=and
+4	2	T=CS	W+1=they & T-1=NN2
+1	1	T=RG	W+1=want
+1	1	T=RR	W+1=all
+3	1	T=RG	W+1=effective
+1	1	T=RG	W+1=intensely
+1	1	T=RG	W+1=satisfactory
+1	1	T=RG	W+1=secularized
+5	1	T=RG	W+1=clearly
+1	1	T=RR	W+1=lends
+1	1	T=RG	W+1=widespread
+3	1	T=RG	W+1=strongly
+1	1	T=RR	W+1=that's
+1	2	T=RR	W+1=now & T-1=VB0
+2	20	T=RR~CS	W+1=now & T-1=QC & Ing-1=False & T+1=RR & Gen+1=R & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & C+1=False & L-1=, & Ing+1=False & A-1=False & A+1=False & L+1=now & Ger+1=False & M-1=False & M+1=True & C-1=True & W-1=,
+1	2	T=RR	W+1=now & T-1=VVG
+1	1	T=RG	W+1=burdened
+1	1	T=CS	W+1=forget
+4	1	T=RG	W+1=intense
+1	2	T=RR	W+1=a & T-1=QC
+1	2	T=CS	W+1=a & T-1=NN1
+1	1	T=CS	W+1=unimpressed
+1	1	T=RG	W+1=final
+1	2	T=CS	W+1=i & T-1=RR
+2	2	T=CS	W+1=i & T-1=RP
+7	20	T=RR~CS	W+1=i & T-1=QC & Ing-1=False & T+1=PPHS2 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=Q & C+1=True & L-1=, & Ing+1=False & A-1=False & A+1=True & L+1=i & Ger+1=False & M-1=False & M+1=False & C-1=True & W-1=,
+1	2	T=RR	W+1=i & T-1=VVG
+1	2	T=CS	W+1=i & T-1=NN1
+3	20	T=RR~CS	W+1=i & T-1=CC & Ing-1=False & T+1=PPHS2 & Gen+1=P & Inf+1=False & Ger-1=False & Inf-1=False & Gen-1=C & C+1=True & L-1=and & Ing+1=False & A-1=False & A+1=True & L+1=i & Ger+1=False & M-1=False & M+1=False & C-1=True & W-1=and
+1	2	T=CS	W+1=i & T-1=QH
+4	1	T=RR	W+1=when
+1	1	T=RG	W+1=sadly
+1	1	T=RG	W+1=theatrically
+8	1	T=RG	W+1=fast
+1	1	T=RG	W+1=massive
+1	1	T=RR	W+1=into
+1	1	T=RG	W+1=extreme
+1	1	T=RG	W+1=remorseful
+3	1	T=RG	W+1=eager
+1	1	T=RR	W+1=kahler
+2	1	T=RG	W+1=upset
+2	1	T=RG	W+1=lightly
+2	1	T=RG	W+1=quickly
+1	1	T=RG	W+1=pronounced
+1	1	T=RG	W+1=disgusted
+1	1	T=RG	W+1=familiar
+1	1	T=RR	W+1=joe
+1	1	T=RG	W+1=mildly
+2	1	T=RR	W+1=!
+1	1	T=RG	W+1=fixed
+1	1	T=RR	W+1=morse's
+2	1	T=RG	W+1=utterly
+1	1	T=RG	W+1=convinced
+6	1	T=RG	W+1=high
+1	1	T=RG	W+1=disappointed
+1	1	T=CS	W+1=i'd
+4	1	T=RG	W+1=full
+1	2	T=RG	W+1=well & L-1=and
+2	2	T=RG	W+1=well & L-1=,
+1	2	T=RG	W+1=well & L-1=people
+1	2	T=RG	W+1=well & L-1=along
+1	2	T=RG	W+1=well & L-1=important
+1	2	T=RG	W+1=well & L-1=all
+1	2	T=RG	W+1=well & L-1=strain
+1	2	T=CS	W+1=well & L-1=show
+1	2	T=RG	W+1=well & L-1=them
+1	2	T=RG	W+1=well & L-1=housed
+1	2	T=RG	W+1=well & L-1=know
+3	2	T=RG	W+1=well & L-1=be
+1	2	T=RG	W+1=well & L-1=these
+1	2	T=RG	W+1=well & L-1=kept
+1	2	T=RG	W+1=well & L-1=talk
+2	2	T=RG	W+1=well & L-1=not
+1	2	T=RG	W+1=well & L-1=aunt
+3	1	T=RG	W+1=small
+1	1	T=CS	W+1=then
+1	1	T=RG	W+1=unpredictably
+2	1	T=RR	W+1=and
+1	1	T=RG	W+1=absolute
+2	1	T=RG	W+1=darned
+1	1	T=RG	W+1=superior
+1	1	T=RR	W+1=served
+3	1	T=RR	W+1=af
+1	1	T=RG	W+1=ably
+1	1	T=RG	W+1=interwoven
+1	1	T=RR	W+1=holmes
+1	1	T=RG	W+1=heavy
+1	1	T=RG	W+1=busily
+1	1	T=RG	W+1=romantic
+1	1	T=RG	W+1=suddenly
+3	1	T=RR	W+1=has
+1	1	T=RG	W+1=cumbersome
+1	1	T=RG	W+1=technical
+19	1	T=RR	W+1=on
+39	1	T=RG	W+1=long
+1	1	T=RG	W+1=strenuously
+1	1	T=RG	W+1=dear
+1	1	T=CS	W+1=some
+2	1	T=RG	W+1=absorbed
+1	1	T=RG	W+1=successful
+1	1	T=RR	W+1=lower
+1	1	T=RG	W+1=natural
+1	1	T=RR	W+1=last
+1	1	T=RG	W+1=contemporary
+2	1	T=RR	W+1=whether
+1	1	T=RR	W+1=perhaps
+1	1	T=RR	W+1=located
+2	1	T=RG	W+1=pretty
+2	1	T=RG	W+1=preoccupied
+1	1	T=RR	W+1=dazed
+2	1	T=RR	W+1=without
+7	1	T=RG	W+1=hard
+1	1	T=RG	W+1=farfetched
+3	1	T=RG	W+1=quick
+1	1	T=RG	W+1=popular
+1	1	T=RG	W+1=understandingly
+3	1	T=RG	W+1=busy
+5	1	T=RR	W+1=doing
+1	1	T=RG	W+1=exuberant

@@ -1,0 +1,1386 @@
+Count	Path_Length	Result	Predicates
+98	14	T=II~CS	Gen+1=A & Gen-1=V & C-1=False & Ger-1=False & Inf-1=False & A-1=False & M-1=False & A+1=False & M+1=True & Ing+1=False & Inf+1=False & C+1=True & Ger+1=False & Ing-1=False
+82	14	T=II~CS~VV0	Gen+1=A & Gen-1=N & A-1=True & M+1=True & Ing+1=False & C-1=False & M-1=False & Ger-1=False & A+1=False & Inf+1=False & Inf-1=False & C+1=True & Ger+1=False & Ing-1=False
+76	14	T=II~CS~VV0	Gen+1=N & Gen-1=N & A-1=True & M+1=False & Ing+1=False & C-1=False & M-1=False & Ger-1=False & A+1=True & Inf+1=False & Inf-1=False & C+1=False & Ger+1=False & Ing-1=False
+60	2	T=CS	Gen+1=A & Gen-1=Q
+51	14	T=VV0~JJ	Gen+1=T & Gen-1=V & A-1=False & M+1=False & Ing+1=False & C-1=True & M-1=False & Ger-1=False & A+1=False & Inf+1=False & Inf-1=False & C+1=True & Ger+1=False & Ing-1=False
+49	14	T=II~CS~VV0	Gen+1=D & Gen-1=N & A-1=True & M+1=True & Ing+1=False & C-1=False & M-1=False & Ger-1=False & A+1=False & Inf+1=False & Inf-1=False & C+1=True & Ger+1=False & Ing-1=False
+47	14	T=CS~JJ	Gen+1=N & Gen-1=Q & A-1=False & M+1=False & Ing+1=False & C-1=True & M-1=False & Ger-1=False & A+1=True & Inf+1=False & Inf-1=False & C+1=False & Ger+1=False & Ing-1=False
+39	14	T=II~CS~VV0	Gen+1=A & Gen-1=R & C-1=False & A-1=False & M+1=True & Ger-1=False & A+1=False & Ing+1=False & M-1=True & Inf-1=False & Inf+1=False & C+1=True & Ger+1=False & Ing-1=False
+38	1	T=VV0	L-1=would
+38	1	T=VV0	W-1=would
+36	14	T=CS~JJ	Gen+1=N & Gen-1=V & Ger-1=False & C-1=False & Inf-1=False & A-1=False & M-1=False & A+1=True & M+1=False & Ing+1=False & Inf+1=False & C+1=False & Ger+1=False & Ing-1=False
+36	14	T=II~CS~VV0	Gen+1=A & Gen-1=P & A-1=True & M+1=True & Ing+1=False & C-1=True & M-1=False & Ger-1=False & A+1=False & Inf+1=False & Inf-1=False & C+1=True & Ger+1=False & Ing-1=False
+35	14	T=II~CS~VV0	Gen+1=A & Gen-1=V & C-1=True & Inf-1=False & A-1=False & Ger-1=False & M-1=False & A+1=False & M+1=True & Ing+1=False & Inf+1=False & C+1=True & Ger+1=False & Ing-1=False
+30	14	T=CS~VV0	Gen+1=P & Gen-1=N & A-1=True & M+1=False & Ing+1=False & C-1=False & M-1=False & Ger-1=False & A+1=True & Inf+1=False & Inf-1=False & C+1=True & Ger+1=False & Ing-1=False
+30	2	T=CS	L-1=look & L+1=a
+28	2	T=CS	"L-1=, & L+1=0"
+28	2	T=CS	"L-1=, & L+1=the"
+28	2	T=CS	"W-1=, & L+1=0"
+28	2	T=CS	"W-1=, & L+1=the"
+26	2	T=CS	Gen+1=D & Gen-1=Q
+26	2	T=CS	"L-1=, & L+1=a"
+26	2	T=CS	"W-1=, & L+1=a"
+25	1	T=VV0	L-1=i
+25	1	T=VV0	W-1=i
+23	14	T=II~CS~VV0	Gen+1=D & Gen-1=P & A-1=True & M+1=True & Ing+1=False & C-1=True & M-1=False & Ger-1=False & A+1=False & Inf+1=False & Inf-1=False & C+1=True & Ger+1=False & Ing-1=False
+21	2	T=VV0	L-1=0 & L+1=to
+20	2	T=VV0	Gen+1=T & Gen-1=P
+19	1	T=CS	L-1=just
+19	1	T=CS	W-1=just
+18	14	T=II~CS~VV0	Gen+1=N & Gen-1=P & A-1=True & M+1=False & Ing+1=False & C-1=True & M-1=False & Ger-1=False & A+1=True & Inf+1=False & Inf-1=False & C+1=False & Ger+1=False & Ing-1=False
+17	2	T=CS	Gen+1=J & Gen-1=V
+17	2	T=CS	W-1=looks & A-1=False
+17	1	T=CS	L-1=seem
+17	1	T=CS	L-1=something
+17	1	T=CS	W-1=something
+16	14	T=II~CS	Gen+1=A & Gen-1=V & C-1=False & Ger-1=True & A-1=False & A+1=False & M-1=False & M+1=True & Ing+1=False & Inf+1=False & Inf-1=True & C+1=True & Ger+1=False & Ing-1=True
+16	14	T=II~CS~JJ	Gen+1=P & Gen-1=V & C-1=False & Inf-1=False & A-1=False & Ger-1=False & M-1=False & A+1=True & M+1=False & Ing+1=False & Inf+1=False & C+1=True & Ger+1=False & Ing-1=False
+16	1	T=CS	L-1=him
+16	1	T=CS	W-1=him
+15	16	T=II~CS	L-1=be & L+1=a & Inf-1=False & A-1=False & M+1=True & Ing+1=False & Ing-1=False & C-1=True & Gen+1=A & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & Ger+1=False & Gen-1=V
+14	14	T=CS~VV0	Gen+1=P & Gen-1=Q & A-1=False & M+1=False & Ing+1=False & C-1=True & M-1=False & Ger-1=False & A+1=True & Inf+1=False & Inf-1=False & C+1=True & Ger+1=False & Ing-1=False
+14	14	T=CS~VV0~JJ	Gen+1=Q & Gen-1=V & C-1=True & Inf-1=False & A-1=False & Ger-1=False & M-1=False & A+1=False & M+1=False & Ing+1=False & Inf+1=False & C+1=True & Ger+1=False & Ing-1=False
+13	14	T=CS~VV0	Gen+1=N & Gen-1=R & C-1=False & A-1=False & M+1=False & Ger-1=False & A+1=True & Ing+1=False & M-1=True & Inf-1=False & Inf+1=False & C+1=False & Ger+1=False & Ing-1=False
+13	4	T=CS	Gen+1=D & Gen-1=V & C-1=False & Inf-1=False
+13	2	T=CS	W-1=looked & L+1=a
+13	1	T=CS	L-1=feel
+13	1	T=VV0	W-1=i'd
+12	3	T=CS	Gen+1=V & Gen-1=V & C-1=False
+12	2	T=VV0	Gen+1=T & Gen-1=X
+12	2	T=CS	L-1=be & L+1=the
+12	1	T=CS	L-1=much
+12	1	T=CS	W-1=much
+12	1	T=CS	W-1=feel
+11	14	T=II~CS	Gen+1=N & Gen-1=V & Ger-1=True & A-1=False & M+1=False & C-1=False & A+1=True & Ing+1=False & M-1=False & Inf-1=True & Inf+1=False & C+1=False & Ger+1=False & Ing-1=True
+11	14	T=CS~VV0	Gen+1=A & Gen-1=X & A-1=False & M+1=True & Ing+1=False & C-1=True & M-1=False & Ger-1=False & A+1=False & Inf+1=False & Inf-1=False & C+1=True & Ger+1=False & Ing-1=False
+11	3	T=CS	Gen+1=A & Gen-1=R & C-1=True
+11	1	T=CS	Gen+1=M
+11	1	T=VV0	W-1=didn't
+10	14	T=CS~VV0	Gen+1=J & Gen-1=N & A-1=True & M+1=True & Ing+1=False & C-1=False & M-1=False & Ger-1=False & A+1=False & Inf+1=False & Inf-1=False & C+1=False & Ger+1=False & Ing-1=False
+10	14	T=II~CS~VV0	Gen+1=P & Gen-1=X & A-1=False & M+1=False & Ing+1=False & C-1=True & M-1=False & Ger-1=False & A+1=True & Inf+1=False & Inf-1=False & C+1=True & Ger+1=False & Ing-1=False
+10	3	T=CS	L-1=be & L+1=a & T-1=VBDZ
+10	2	T=CS	Gen+1=A & Gen-1=J
+10	2	T=CS	W-1=was & L+1=a
+10	1	T=VV0	L-1=should
+10	1	T=VV0	W-1=should
+9	14	T=CS~VV0	Gen+1=V & Gen-1=V & C-1=True & C+1=False & Inf-1=False & A-1=False & M-1=False & Ger-1=False & A+1=False & M+1=False & Ing+1=True & Ger+1=True & Ing-1=False & Inf+1=True
+9	14	T=CS~VV0	Gen+1=P & Gen-1=P & A-1=True & M+1=False & Ing+1=False & C-1=True & M-1=False & Ger-1=False & A+1=True & Inf+1=False & Inf-1=False & C+1=True & Ger+1=False & Ing-1=False
+9	3	T=CS	Gen+1=P & Gen-1=R & C-1=False
+9	2	T=CS	Gen+1=V & Gen-1=R
+9	2	T=CS	L-1=look & L+1=the
+9	1	T=VV0	L-1=to
+9	1	T=VV0	W-1=to
+8	14	T=CS~VV0	Gen+1=P & Gen-1=V & C-1=True & Inf-1=False & A-1=False & Ger-1=False & M-1=False & A+1=True & M+1=False & Ing+1=False & Inf+1=False & C+1=True & Ger+1=False & Ing-1=False
+8	14	T=CS~JJ	Gen+1=Q & Gen-1=V & C-1=False & A-1=False & M+1=False & Ger-1=False & A+1=False & Ing+1=False & M-1=False & Inf-1=False & Inf+1=False & C+1=True & Ger+1=False & Ing-1=False
+8	14	T=II~JJ	Gen+1=Q & Gen-1=A & A-1=False & M+1=False & Ing+1=False & C-1=True & M-1=True & Ger-1=False & A+1=False & Inf+1=False & Inf-1=False & C+1=True & Ger+1=False & Ing-1=False
+8	2	T=CS	Gen+1=J & Gen-1=Q
+8	2	T=CS	L-1=felt & M+1=False
+8	2	T=CS	L-1=sound & L+1=a
+8	2	T=CS	W-1=felt & M+1=False
+8	1	T=CS	W-1=seemed
+8	1	T=CS	W-1=sound
+8	1	T=VV0	W-1=don't
+7	14	T=CS~VV0	Gen+1=N & Gen-1=V & Ger-1=False & C-1=True & A-1=False & A+1=True & M-1=False & M+1=False & Ing+1=False & Inf+1=False & Inf-1=False & C+1=False & Ger+1=False & Ing-1=False
+7	14	T=CS~VV0	Gen+1=D & Gen-1=V & C-1=True & Inf-1=False & A-1=False & Ger-1=False & M-1=False & A+1=False & M+1=True & Ing+1=False & Inf+1=False & C+1=True & Ger+1=False & Ing-1=False
+7	14	T=CS~JJ	Gen+1=D & Gen-1=R & C-1=False & A-1=False & M+1=True & Ger-1=False & A+1=False & Ing+1=False & M-1=True & Inf-1=False & Inf+1=False & C+1=True & Ger+1=False & Ing-1=False
+7	14	T=CS~VV0	Gen+1=Q & Gen-1=P & A-1=True & M+1=False & Ing+1=False & C-1=True & M-1=False & Ger-1=False & A+1=False & Inf+1=False & Inf-1=False & C+1=True & Ger+1=False & Ing-1=False
+7	2	T=CS	"L-1=, & L+1=any"
+7	2	T=CS	"W-1=, & L+1=any"
+7	2	T=CS	W-1=look & L+1=a
+7	1	T=CS	L-1=it
+7	1	T=CS	W-1=it
+7	1	T=CS	W-1=seems
+6	20	T=II~CS	W-1=felt & M+1=True & A-1=False & Ing-1=False & W+1=a & Ing+1=False & Inf-1=False & L+1=a & Ger+1=False & M-1=False & C-1=False & Gen+1=A & Ger-1=False & A+1=False & Inf+1=False & C+1=True & L-1=felt & T-1=VVD & Gen-1=V & T+1=AT
+6	18	T=II~CS	L-1=felt & M+1=True & A-1=False & Ing-1=False & Ing+1=False & Inf-1=False & L+1=a & Ger+1=False & M-1=False & C-1=False & Gen+1=A & Ger-1=False & A+1=False & Inf+1=False & C+1=True & T-1=VVD & Gen-1=V & T+1=AT
+6	18	T=II~CS	L-1=more & L+1=a & A-1=False & M+1=True & Ing+1=False & Inf-1=False & Gen-1=R & Ger+1=False & M-1=True & C-1=False & Gen+1=A & Ger-1=False & A+1=False & Inf+1=False & C+1=True & T-1=RGR & Ing-1=False & T+1=AT
+6	16	T=II~CS	L-1=felt & M+1=True & A-1=False & Ing-1=False & Ing+1=False & Inf-1=False & L+1=a & C-1=False & Gen+1=A & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & Ger+1=False & Gen-1=V
+6	16	T=II~CS	L-1=more & L+1=a & A-1=False & M+1=True & Ing+1=False & Inf-1=False & Ing-1=False & C-1=False & Gen+1=A & Ger-1=False & M-1=True & A+1=False & Inf+1=False & C+1=True & Ger+1=False & Gen-1=R
+6	14	T=II~CS	Gen+1=D & Gen-1=V & C-1=False & Inf-1=True & Ger-1=False & A-1=False & M-1=False & A+1=False & M+1=True & Ing+1=False & Inf+1=False & C+1=True & Ger+1=False & Ing-1=True
+6	5	T=CS	Gen+1=N & Gen-1=V & Ger-1=False & C-1=False & Inf-1=True
+6	5	T=CS	Gen+1=A & Gen-1=V & C-1=False & Ger-1=False & Inf-1=True
+6	2	T=JJ	L-1=the & L+1=.
+6	2	T=CS	L-1=be & L+1=that
+6	2	T=JJ	W-1=the & L+1=.
+6	2	T=CS	W-1=look & L+1=the
+6	2	T=CS	W-1=was & L+1=the
+6	1	T=CS	L-1=up
+6	1	T=CS	L-1=nothing
+6	1	T=CS	W-1=up
+6	1	T=CS	W-1=nothing
+5	20	T=II~CS	W-1=more & W+1=a & A-1=False & Ing-1=False & M+1=True & Ing+1=False & Inf-1=False & L+1=a & Ger+1=False & M-1=True & C-1=False & Gen+1=A & Ger-1=False & A+1=False & Inf+1=False & C+1=True & L-1=more & T-1=RGR & Gen-1=R & T+1=AT
+5	16	T=CS~JJ	L-1=be & L+1=. & Inf-1=False & A-1=False & M+1=False & Ing+1=False & Ing-1=False & C-1=True & Gen+1=Q & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & Ger+1=False & Gen-1=V
+5	14	T=CS~JJ	Gen+1=N & Gen-1=I & A-1=False & M+1=False & Ing+1=False & C-1=True & M-1=False & Ger-1=False & A+1=True & Inf+1=False & Inf-1=False & C+1=False & Ger+1=False & Ing-1=False
+5	14	T=CS~JJ	Gen+1=N & Gen-1=C & A-1=False & M+1=False & Ing+1=False & C-1=True & M-1=False & Ger-1=False & A+1=True & Inf+1=False & Inf-1=False & C+1=False & Ger+1=False & Ing-1=False
+5	14	T=CS~VV0	Gen+1=N & Gen-1=X & A-1=False & M+1=False & Ing+1=False & C-1=True & M-1=False & Ger-1=False & A+1=True & Inf+1=False & Inf-1=False & C+1=False & Ger+1=False & Ing-1=False
+5	14	T=CS~JJ	Gen+1=P & Gen-1=R & C-1=True & A-1=False & M+1=False & Ger-1=False & A+1=True & Ing+1=False & M-1=True & Inf-1=False & Inf+1=False & C+1=True & Ger+1=False & Ing-1=False
+5	2	T=CS	L-1=look & L+1=0
+5	1	T=CS	L-1=act
+5	1	T=CS	L-1=place
+5	1	T=CS	L-1=and
+5	1	T=CS	L-1=stand
+5	1	T=CS	W-1=stood
+5	1	T=CS	W-1=are
+5	1	T=CS	W-1=and
+4	20	T=CS~VV0	W-1=not & W+1=the & A-1=False & Ing-1=False & M+1=True & Ing+1=False & Inf-1=False & L+1=the & Ger+1=False & M-1=False & C-1=True & Gen+1=A & Ger-1=False & A+1=False & Inf+1=False & C+1=True & L-1=not & T-1=XX & Gen-1=X & T+1=AT
+4	18	T=CS~VV0	L-1=not & L+1=the & A-1=False & M+1=True & Ing+1=False & Inf-1=False & Gen-1=X & Ger+1=False & M-1=False & C-1=True & Gen+1=A & Ger-1=False & A+1=False & Inf+1=False & C+1=True & T-1=XX & Ing-1=False & T+1=AT
+4	16	T=CS~VV0	L-1=not & L+1=the & A-1=False & M+1=True & Ing+1=False & Inf-1=False & Ing-1=False & C-1=True & Gen+1=A & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & Ger+1=False & Gen-1=X
+4	14	T=II~VV0	Gen+1=D & Gen-1=X & A-1=False & M+1=True & Ing+1=False & C-1=True & M-1=False & Ger-1=False & A+1=False & Inf+1=False & Inf-1=False & C+1=True & Ger+1=False & Ing-1=False
+4	4	T=CS	Gen+1=D & Gen-1=V & C-1=True & Inf-1=True
+4	3	T=CS	Gen+1=N & Gen-1=R & C-1=True
+4	3	T=CS	Gen+1=D & Gen-1=R & C-1=True
+4	3	T=CS	Gen+1=R & Gen-1=V & C+1=False
+4	3	T=CS	L-1=be & L+1=a & T-1=VBZ
+4	2	T=CS	Gen+1=D & Gen-1=C
+4	2	T=VV0	Gen+1=P & Gen-1=T
+4	2	T=VV0	Gen+1=T & Gen-1=N
+4	2	T=CS	"L-1=, & L+1=they"
+4	2	T=CS	"L-1=, & L+1=that"
+4	2	T=VV0	L-1=0 & L+1=it
+4	2	T=CS	"W-1=, & L+1=they"
+4	2	T=CS	"W-1=, & L+1=that"
+4	2	T=CS	W-1=sounds & L+1=a
+4	2	T=CS	W-1=is & L+1=a
+4	1	T=CS	L-1=them
+4	1	T=CS	L-1=out
+4	1	T=CS	L-1=other
+4	1	T=CS	L-1=together
+4	1	T=CS	L-1=me
+4	1	T=VV0	L-1=will
+4	1	T=CS	W-1=them
+4	1	T=CS	W-1=out
+4	1	T=CS	W-1=together
+4	1	T=CS	W-1=place
+4	1	T=VV0	W-1=doesn't
+4	1	T=CS	W-1=me
+4	1	T=CS	W-1=others
+4	1	T=VV0	W-1=will
+4	1	T=CS	W-1=it's
+4	1	T=VV0	W-1=you'd
+3	20	T=II~CS	W-1=thing & L+1=that & A-1=True & M+1=True & W+1=that & Ing+1=False & Inf-1=False & Ing-1=False & Gen-1=N & Ger+1=False & M-1=False & C-1=False & Gen+1=D & Ger-1=False & A+1=False & Inf+1=False & C+1=True & T-1=NN1 & L-1=thing & T+1=DD1
+3	20	T=II~CS	W-1=anything & L+1=the & A-1=True & M+1=True & W+1=the & Ing+1=False & Inf-1=False & Ing-1=False & Gen-1=P & Ger+1=False & M-1=False & C-1=True & Gen+1=A & Ger-1=False & A+1=False & Inf+1=False & C+1=True & T-1=PN1 & L-1=anything & T+1=AT
+3	20	T=CS~JJ	W-1=was & L+1=. & A-1=False & M+1=False & W+1=. & Ing+1=False & Inf-1=False & Ing-1=False & Gen-1=V & Ger+1=False & M-1=False & C-1=True & Gen+1=Q & Ger-1=False & A+1=False & Inf+1=False & C+1=True & T-1=VBDZ & L-1=be & T+1=QEP
+3	18	T=CS~JJ	L-1=be & L+1=. & T-1=VBDZ & A-1=False & M+1=False & Ing+1=False & Inf-1=False & Gen-1=V & Ger+1=False & C-1=True & Gen+1=Q & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & Ing-1=False & T+1=QEP
+3	18	T=CS~VV0	L-1=not & L+1=0 & A-1=False & M+1=False & Ing+1=False & Inf-1=False & Gen-1=X & Ger+1=False & M-1=False & C-1=True & Gen+1=N & Ger-1=False & A+1=True & Inf+1=False & C+1=False & T-1=XX & Ing-1=False & T+1=NP1
+3	18	T=II~CS	L-1=thing & L+1=that & A-1=True & M+1=True & Ing+1=False & Inf-1=False & Gen-1=N & Ger+1=False & M-1=False & C-1=False & Gen+1=D & Ger-1=False & A+1=False & Inf+1=False & C+1=True & T-1=NN1 & Ing-1=False & T+1=DD1
+3	18	T=II~CS	L-1=someone & A-1=True & M+1=False & Ing-1=False & Ing+1=False & Inf-1=False & L+1=0 & Ger+1=False & M-1=False & C-1=True & Gen+1=N & Ger-1=False & A+1=True & Inf+1=False & C+1=False & T-1=PN1 & Gen-1=P & T+1=NP1
+3	18	T=II~CS	L-1=anything & L+1=the & A-1=True & M+1=True & Ing+1=False & Inf-1=False & Gen-1=P & Ger+1=False & M-1=False & C-1=True & Gen+1=A & Ger-1=False & A+1=False & Inf+1=False & C+1=True & T-1=PN1 & Ing-1=False & T+1=AT
+3	16	T=CS~VV0	L-1=not & L+1=0 & A-1=False & M+1=False & Ing+1=False & Inf-1=False & Ing-1=False & C-1=True & Gen+1=N & Ger-1=False & M-1=False & A+1=True & Inf+1=False & C+1=False & Ger+1=False & Gen-1=X
+3	16	T=II~CS	L-1=thing & L+1=that & A-1=True & M+1=True & Ing+1=False & Inf-1=False & Ing-1=False & C-1=False & Gen+1=D & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & Ger+1=False & Gen-1=N
+3	16	T=II~CS	L-1=man & L+1=0 & A-1=True & M+1=False & Ing+1=False & Inf-1=False & Ing-1=False & C-1=False & Gen+1=N & Ger-1=False & M-1=False & A+1=True & Inf+1=False & C+1=False & Ger+1=False & Gen-1=N
+3	16	T=CS~JJ	"L-1=look & L+1=, & A-1=False & M+1=False & Ing+1=False & Inf-1=False & Ing-1=False & C-1=False & Gen+1=Q & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & Ger+1=False & Gen-1=V"
+3	16	T=CS~VV0	L-1=0 & L+1=you & Gen-1=X & A-1=False & M+1=False & Ing+1=False & Inf-1=False & C-1=True & Gen+1=P & Ger-1=False & M-1=False & A+1=True & Inf+1=False & C+1=True & Ger+1=False & Ing-1=False
+3	16	T=CS~VV0	L-1=0 & L+1=. & Gen-1=V & A-1=False & M+1=False & Ing+1=False & Inf-1=False & C-1=True & Gen+1=Q & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & Ger+1=False & Ing-1=False
+3	16	T=II~CS	L-1=someone & A-1=True & M+1=False & Ing-1=False & Ing+1=False & Inf-1=False & L+1=0 & C-1=True & Gen+1=N & Ger-1=False & M-1=False & A+1=True & Inf+1=False & C+1=False & Ger+1=False & Gen-1=P
+3	16	T=II~CS	L-1=anything & L+1=the & A-1=True & M+1=True & Ing+1=False & Inf-1=False & Ing-1=False & C-1=True & Gen+1=A & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & Ger+1=False & Gen-1=P
+3	14	T=CS~VV0	Gen+1=V & Gen-1=X & A-1=False & M+1=False & Ing+1=True & C-1=True & M-1=False & Ger-1=False & A+1=False & Inf+1=True & Inf-1=False & C+1=False & Ger+1=True & Ing-1=False
+3	14	T=CS~JJ	Gen+1=N & Gen-1=D & A-1=False & M+1=False & Ing+1=False & C-1=True & M-1=True & Ger-1=False & A+1=True & Inf+1=False & Inf-1=False & C+1=False & Ger+1=False & Ing-1=False
+3	4	T=CS	Gen+1=V & Gen-1=V & C-1=True & C+1=True
+3	4	T=CS	Gen+1=P & Gen-1=V & C-1=False & Inf-1=True
+3	3	T=CS	L-1=0 & L+1=0 & Gen-1=N
+3	3	T=VV0	L-1=0 & L+1=the & Gen-1=X
+3	3	T=CS	L-1=0 & L+1=a & A-1=False
+3	3	T=VV0	L-1=0 & L+1=the & T-1=XX
+3	2	T=CS	Gen+1=V & Gen-1=N
+3	2	T=JJ	Gen+1=N & Gen-1=A
+3	2	T=VV0	Gen+1=D & Gen-1=T
+3	2	T=CS	Gen+1=A & Gen-1=D
+3	2	T=CS	Gen+1=I & C-1=False
+3	2	T=VV0	Gen+1=T & Gen-1=R
+3	2	T=CS	"L-1=, & L+1=some"
+3	2	T=CS	"L-1=, & L+1=most"
+3	2	T=CS	"L-1=, & L+1=himself"
+3	2	T=CS	L-1=be & L+1=being
+3	2	T=CS	L-1=look & L+1=one
+3	2	T=CS	L-1=things & L+1=that
+3	2	T=CS	L-1=- & L+1=0
+3	2	T=CS	L-1=anything & L+1=that
+3	2	T=CS	"W-1=, & L+1=some"
+3	2	T=CS	"W-1=, & L+1=most"
+3	2	T=CS	"W-1=, & L+1=himself"
+3	2	T=CS	W-1=looked & L+1=the
+3	2	T=CS	W-1=things & L+1=that
+3	2	T=CS	W-1=-- & L+1=0
+3	2	T=CS	W-1=anything & L+1=that
+3	2	T=CS	W-1=was & L+1=being
+3	1	T=CS	Gen+1=U
+3	1	T=VV0	L-1=we
+3	1	T=CS	L-1=story
+3	1	T=CS	L-1=gone
+3	1	T=CS	L-1=house
+3	1	T=CS	L-1=exactly
+3	1	T=CS	L-1=mouth
+3	1	T=VV0	L-1=they
+3	1	T=CS	L-1=go
+3	1	T=CS	L-1=dressed
+3	1	T=CS	L-1=play
+3	1	T=CS	L-1=somewhat
+3	1	T=CS	L-1=neck
+3	1	T=CS	L-1=almost
+3	1	T=CS	L-1=us
+3	1	T=CS	L-1=taste
+3	1	T=CS	L-1=quite
+3	1	T=VV0	W-1=we
+3	1	T=CS	W-1=act
+3	1	T=CS	W-1=gone
+3	1	T=CS	W-1=house
+3	1	T=CS	W-1=exactly
+3	1	T=CS	W-1=mouth
+3	1	T=VV0	W-1=they
+3	1	T=CS	W-1=dressed
+3	1	T=CS	W-1=somewhat
+3	1	T=CS	W-1=been
+3	1	T=CS	W-1=man
+3	1	T=CS	W-1=neck
+3	1	T=CS	W-1=almost
+3	1	T=CS	W-1=us
+3	1	T=CS	W-1=quite
+2	20	T=II~JJ	"W-1=the & L+1=, & A-1=False & M+1=False & W+1=, & Ing+1=False & Inf-1=False & Ing-1=False & Gen-1=A & Ger+1=False & M-1=True & C-1=True & Gen+1=Q & Ger-1=False & A+1=False & Inf+1=False & C+1=True & T-1=AT & L-1=the & T+1=QC"
+2	20	T=CS~JJ	"W-1=looked & L+1=, & A-1=False & M+1=False & W+1=, & Ing+1=False & Inf-1=False & Ing-1=False & Gen-1=V & Ger+1=False & M-1=False & C-1=False & Gen+1=Q & Ger-1=False & A+1=False & Inf+1=False & C+1=True & T-1=VVD & L-1=look & T+1=QC"
+2	20	T=CS~VV0	W-1=people & W+1=the & A-1=True & Ing-1=False & M+1=True & Ing+1=False & Inf-1=False & L+1=the & Ger+1=False & M-1=False & C-1=False & Gen+1=A & Ger-1=False & A+1=False & Inf+1=False & C+1=True & L-1=people & T-1=NN2 & Gen-1=N & T+1=AT
+2	18	T=II~JJ	"L-1=the & L+1=, & A-1=False & M+1=False & Ing+1=False & Inf-1=False & Gen-1=A & Ger+1=False & M-1=True & C-1=True & Gen+1=Q & Ger-1=False & A+1=False & Inf+1=False & C+1=True & T-1=AT & Ing-1=False & T+1=QC"
+2	18	T=CS~VV0	L-1=people & T+1=NP1 & A-1=True & Ing-1=False & M+1=False & Ing+1=False & Inf-1=False & L+1=0 & Ger+1=False & C-1=False & Gen+1=N & Ger-1=False & M-1=False & A+1=True & Inf+1=False & C+1=False & T-1=NN2 & Gen-1=N
+2	18	T=CS~VV0	L-1=people & T+1=AT & A-1=True & Ing-1=False & M+1=True & Ing+1=False & Inf-1=False & L+1=the & Ger+1=False & C-1=False & Gen+1=A & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & T-1=NN2 & Gen-1=N
+2	18	T=CS~JJ	"L-1=look & L+1=, & T-1=VVD & A-1=False & M+1=False & Ing+1=False & Inf-1=False & Gen-1=V & Ger+1=False & C-1=False & Gen+1=Q & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & Ing-1=False & T+1=QC"
+2	18	T=CS~VV0	L-1=0 & L+1=you & Gen-1=X & T+1=PPHO1 & A-1=False & M+1=False & Ing+1=False & Inf-1=False & Ger+1=False & C-1=True & Gen+1=P & Ger-1=False & M-1=False & A+1=True & Inf+1=False & C+1=True & T-1=XX & Ing-1=False
+2	18	T=II~VV0	L-1=0 & L+1=that & A-1=False & M+1=True & Ing+1=False & Inf-1=False & Gen-1=X & Ger+1=False & M-1=False & C-1=True & Gen+1=D & Ger-1=False & A+1=False & Inf+1=False & C+1=True & T-1=XX & Ing-1=False & T+1=DD1
+2	16	T=II~JJ	"L-1=the & L+1=, & A-1=False & M+1=False & Ing+1=False & Inf-1=False & Ing-1=False & C-1=True & Gen+1=Q & Ger-1=False & M-1=True & A+1=False & Inf+1=False & C+1=True & Ger+1=False & Gen-1=A"
+2	16	T=CS~VV0	L-1=people & A-1=True & M+1=False & Ing-1=False & Ing+1=False & Inf-1=False & L+1=you & C-1=False & Gen+1=P & Ger-1=False & M-1=False & A+1=True & Inf+1=False & C+1=True & Ger+1=False & Gen-1=N
+2	16	T=CS~VV0	L-1=people & A-1=True & M+1=False & Ing-1=False & Ing+1=False & Inf-1=False & L+1=0 & C-1=False & Gen+1=N & Ger-1=False & M-1=False & A+1=True & Inf+1=False & C+1=False & Ger+1=False & Gen-1=N
+2	16	T=CS~VV0	L-1=people & A-1=True & M+1=True & Ing-1=False & Ing+1=False & Inf-1=False & L+1=the & C-1=False & Gen+1=A & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & Ger+1=False & Gen-1=N
+2	16	T=CS~VV0	L-1=0 & L+1=the & Gen-1=V & A-1=False & M+1=True & Ing+1=False & Inf-1=False & C-1=True & Gen+1=A & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & Ger+1=False & Ing-1=False
+2	16	T=II~CS	L-1=0 & L+1=a & A-1=True & M+1=True & Ing+1=False & Inf-1=False & Ing-1=False & C-1=False & Gen+1=A & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & Ger+1=False & Gen-1=N
+2	16	T=II~VV0	L-1=0 & L+1=that & A-1=False & M+1=True & Ing+1=False & Inf-1=False & Ing-1=False & C-1=True & Gen+1=D & Ger-1=False & M-1=False & A+1=False & Inf+1=False & C+1=True & Ger+1=False & Gen-1=X
+2	14	T=CS~VV0	Gen+1=R & Gen-1=M & A-1=False & M+1=True & Ing+1=False & C-1=False & M-1=True & Ger-1=False & A+1=False & Inf+1=False & Inf-1=False & C+1=False & Ger+1=False & Ing-1=False
+2	5	T=CS	Gen+1=D & Gen-1=V & C-1=False & Inf-1=True & Ger-1=True
+2	4	T=CS	Gen+1=A & Gen-1=V & C-1=True & Inf-1=True
+2	4	T=VV0	Gen+1=I & C-1=True & Inf-1=False & Gen-1=V
+2	3	T=CS	Gen+1=R & Gen-1=N & C+1=True
+2	3	T=VV0	L-1=0 & L+1=you & Gen-1=V
+2	3	T=CS	L-1=man & L+1=0 & T-1=NN1
+2	3	T=VV0	L-1=0 & L+1=. & T-1=VM
+2	2	T=CS	Gen+1=V & Gen-1=P
+2	2	T=CS	Gen+1=N & Gen-1=J
+2	2	T=CS	Gen+1=A & Gen-1=C
+2	2	T=VV0	Gen+1=C & C-1=True
+2	2	T=CS	Gen+1=R & Gen-1=Q
+2	2	T=VV0	Gen+1=T & Gen-1=Q
+2	2	T=CS	"L-1=, & L+1=you"
+2	2	T=CS	"L-1=, & L+1=other"
+2	2	T=CS	"L-1=, & L+1=all"
+2	2	T=CS	"L-1=, & L+1=their"
+2	2	T=CS	"L-1=, & L+1=many"
+2	2	T=CS	"L-1=, & L+1=so"
+2	2	T=CS	"L-1=, & L+1=such"
+2	2	T=CS	"L-1=, & L+1=this"
+2	2	T=VV0	"L-1=, & L+1=to"
+2	2	T=VV0	L-1=you & L+1=to
+2	2	T=CS	L-1=you & L+1=a
+2	2	T=CS	L-1=be & L+1=0
+2	2	T=CS	L-1=be & L+1=this
+2	2	T=CS	L-1=behave & Ing-1=False
+2	2	T=II	L-1=behave & Ing-1=True
+2	2	T=VV0	L-1=state & L+1=0
+2	2	T=VV0	L-1=not & L+1=to
+2	2	T=CS	L-1=sounded & L+1=a
+2	2	T=CS	L-1=look & L+1=it
+2	2	T=CS	L-1=look & L+1=this
+2	2	T=CS	L-1=things & L+1=the
+2	2	T=CS	L-1=woman & L+1=that
+2	2	T=CS	L-1=sound & L+1=the
+2	2	T=CS	L-1=sound & L+1=record
+2	2	T=CS	L-1=- & L+1=a
+2	2	T=CS	L-1=more & L+1=0
+2	2	T=CS	"W-1=, & L+1=you"
+2	2	T=CS	"W-1=, & L+1=other"
+2	2	T=CS	"W-1=, & L+1=all"
+2	2	T=CS	"W-1=, & L+1=their"
+2	2	T=CS	"W-1=, & L+1=many"
+2	2	T=CS	"W-1=, & L+1=so"
+2	2	T=CS	"W-1=, & L+1=such"
+2	2	T=CS	"W-1=, & L+1=this"
+2	2	T=VV0	"W-1=, & L+1=to"
+2	2	T=VV0	W-1=you & L+1=to
+2	2	T=CS	W-1=you & L+1=a
+2	2	T=CS	W-1=looked & L+1=0
+2	2	T=CS	W-1=be & L+1=that
+2	2	T=CS	W-1=wasn't & M+1=False
+2	2	T=II	W-1=wasn't & M+1=True
+2	2	T=VV0	W-1=states & M+1=False
+2	2	T=VV0	W-1=not & W+1=to
+2	2	T=CS	W-1=sounded & L+1=a
+2	2	T=CS	W-1=look & L+1=0
+2	2	T=CS	W-1=look & L+1=this
+2	2	T=CS	W-1=things & L+1=the
+2	2	T=CS	W-1=-- & L+1=a
+2	2	T=CS	W-1=were & L+1=the
+2	2	T=CS	W-1=were & L+1=this
+2	2	T=CS	W-1=was & L+1=that
+2	1	T=CS	L-1=one
+2	1	T=CS	L-1=little
+2	1	T=CS	L-1=swim
+2	1	T=CS	L-1=point
+2	1	T=CS	L-1=day
+2	1	T=CS	L-1=around
+2	1	T=CS	L-1=shaped
+2	1	T=JJ	L-1=or
+2	1	T=VV0	L-1=boy
+2	1	T=CS	L-1=air
+2	1	T=CS	L-1=material
+2	1	T=CS	L-1=girl
+2	1	T=CS	L-1=hair
+2	1	T=CS	L-1=descend
+2	1	T=CS	L-1=living
+2	1	T=CS	L-1=friend
+2	1	T=CS	L-1=that
+2	1	T=CS	L-1=down
+2	1	T=CS	L-1=line
+2	1	T=CS	L-1=treated
+2	1	T=CS	L-1=so
+2	1	T=CS	L-1=standing
+2	1	T=CS	L-1=smile
+2	1	T=CS	L-1=but
+2	1	T=VV0	L-1=do
+2	1	T=CS	L-1=run
+2	1	T=CS	L-1=all
+2	1	T=CS	L-1=firm
+2	1	T=CS	L-1=dance
+2	1	T=CS	L-1=burn
+2	1	T=CS	L-1=group
+2	1	T=CS	L-1=fight
+2	1	T=CS	W-1=one
+2	1	T=CS	W-1=little
+2	1	T=CS	W-1=isn't
+2	1	T=CS	W-1=point
+2	1	T=CS	W-1=day
+2	1	T=CS	W-1=around
+2	1	T=CS	W-1=shaped
+2	1	T=JJ	W-1=or
+2	1	T=CS	W-1=tasted
+2	1	T=CS	W-1=air
+2	1	T=CS	W-1=girl
+2	1	T=CS	W-1=hair
+2	1	T=CS	W-1=living
+2	1	T=CS	W-1=that
+2	1	T=CS	W-1=down
+2	1	T=VV0	W-1=we'd
+2	1	T=CS	W-1=fought
+2	1	T=CS	W-1=play
+2	1	T=CS	W-1=seem
+2	1	T=CS	W-1=treated
+2	1	T=CS	W-1=so
+2	1	T=CS	W-1=descending
+2	1	T=CS	W-1=friends
+2	1	T=CS	W-1=standing
+2	1	T=CS	W-1=stories
+2	1	T=CS	W-1=but
+2	1	T=CS	W-1=all
+2	1	T=CS	W-1=burning
+2	1	T=VV0	W-1=boys
+2	1	T=CS	W-1=dance
+2	1	T=CS	W-1=goes
+2	1	T=CS	W-1=looking
+1	5	T=CS	Gen+1=V & Gen-1=V & C-1=True & C+1=False & Inf-1=True
+1	4	T=CS	Gen+1=I & C-1=True & Inf-1=False & Gen-1=Q
+1	4	T=CS	Gen+1=P & Gen-1=V & C-1=True & Inf-1=True
+1	4	T=II	Gen+1=Q & Gen-1=V & C-1=True & Inf-1=True
+1	4	T=CS	L-1=0 & L+1=you & Gen-1=X & T+1=PPHS2
+1	3	T=CS	Gen+1=I & C-1=True & Inf-1=True
+1	3	T=VV0	Gen+1=R & Gen-1=V & C+1=True
+1	3	T=VV0	Gen+1=R & Gen-1=N & C+1=False
+1	3	T=CS	L-1=be & L+1=a & Inf-1=True
+1	3	T=II	L-1=be & L+1=. & Inf-1=True
+1	3	T=CS	L-1=look & L+1=we & A-1=False
+1	3	T=VV0	L-1=look & L+1=we & A-1=True
+1	3	T=II	L-1=look & L+1=her & M+1=False
+1	3	T=CS	L-1=look & L+1=her & M+1=True
+1	3	T=VV0	L-1=0 & L+1=0 & Gen-1=X
+1	3	T=CS	L-1=0 & L+1=0 & Gen-1=J
+1	3	T=CS	L-1=0 & L+1=the & Gen-1=N
+1	3	T=VV0	L-1=0 & L+1=. & Gen-1=X
+1	3	T=VV0	L-1=0 & L+1=her & A-1=False
+1	3	T=CS	L-1=0 & L+1=her & A-1=True
+1	3	T=CS	L-1=be & L+1=a & T-1=VBN
+1	3	T=II	L-1=be & L+1=a & T-1=VBDR
+1	3	T=JJ	L-1=be & L+1=. & T-1=VBDR
+1	3	T=JJ	L-1=be & L+1=. & T-1=VBZ
+1	3	T=II	L-1=be & L+1=. & T-1=VB0
+1	3	T=II	L-1=man & L+1=0 & T-1=NN2
+1	3	T=CS	"L-1=look & L+1=, & T-1=VVZ"
+1	3	T=CS	L-1=0 & L+1=the & T-1=NN2
+1	3	T=VV0	L-1=0 & L+1=the & T-1=VM
+1	3	T=CS	L-1=0 & L+1=the & T-1=VBR
+1	3	T=II	L-1=0 & L+1=a & T-1=NP1
+1	3	T=CS	L-1=0 & L+1=a & T-1=VBZ
+1	3	T=CS	L-1=0 & L+1=a & T-1=RR
+1	3	T=CS	L-1=0 & L+1=a & T-1=GE
+1	3	T=CS	L-1=0 & L+1=a & T-1=NN1
+1	3	T=VV0	L-1=0 & L+1=. & T-1=XX
+1	3	T=CS	L-1=0 & L+1=. & T-1=VBZ
+1	3	T=CS	W-1=people & W+1=you & T+1=PPHS2
+1	3	T=VV0	W-1=people & W+1=you & T+1=PPHO1
+1	2	T=JJ	Gen+1=V & Gen-1=A
+1	2	T=CS	Gen+1=V & Gen-1=C
+1	2	T=CS	Gen+1=V & Gen-1=Q
+1	2	T=VV0	Gen+1=V & Gen-1=T
+1	2	T=CS	Gen+1=D & Gen-1=D
+1	2	T=CS	Gen+1=D & Gen-1=J
+1	2	T=CS	Gen+1=A & Gen-1=G
+1	2	T=CS	Gen+1=A & Gen-1=U
+1	2	T=CS	Gen+1=A & Gen-1=M
+1	2	T=CS	Gen+1=J & Gen-1=P
+1	2	T=CS	Gen+1=J & Gen-1=R
+1	2	T=CS	Gen+1=P & Gen-1=D
+1	2	T=II	Gen+1=P & Gen-1=I
+1	2	T=CS	Gen+1=C & C-1=False
+1	2	T=VV0	Gen+1=R & Gen-1=P
+1	2	T=II	Gen+1=R & Gen-1=X
+1	2	T=II	Gen+1=Q & Gen-1=Q
+1	2	T=VV0	Gen+1=Q & Gen-1=X
+1	2	T=VV0	Gen+1=Q & Gen-1=T
+1	2	T=JJ	L-1=the & L+1=month
+1	2	T=JJ	L-1=the & L+1=be
+1	2	T=JJ	L-1=the & L+1=period
+1	2	T=CS	L-1=on & L+1=thousand
+1	2	T=CS	L-1=on & L+1=this
+1	2	T=JJ	L-1=on & L+1=term
+1	2	T=CS	L-1=on & L+1=that
+1	2	T=CS	L-1=on & L+1=everything
+1	2	T=CS	"L-1=, & L+1=radar"
+1	2	T=JJ	"L-1=, & L+1=girl"
+1	2	T=CS	"L-1=, & L+1=bloody"
+1	2	T=CS	"L-1=, & L+1=those"
+1	2	T=CS	"L-1=, & L+1=ugly"
+1	2	T=CS	"L-1=, & L+1=ours"
+1	2	T=CS	"L-1=, & L+1=abrupt"
+1	2	T=CS	"L-1=, & L+1=lizard"
+1	2	T=CS	"L-1=, & L+1=its"
+1	2	T=CS	"L-1=, & L+1=metal"
+1	2	T=CS	"L-1=, & L+1=jack"
+1	2	T=CS	"L-1=, & L+1=children"
+1	2	T=CS	"L-1=, & L+1=there"
+1	2	T=CS	"L-1=, & L+1=telephone"
+1	2	T=CS	"L-1=, & L+1=leave"
+1	2	T=CS	"L-1=, & L+1=everybody"
+1	2	T=CS	"L-1=, & L+1=sex"
+1	2	T=CS	"L-1=, & L+1=x-ray"
+1	2	T=CS	"L-1=, & L+1=charcoal"
+1	2	T=CS	"L-1=, & L+1=fifty"
+1	2	T=VV0	"L-1=, & L+1=it"
+1	2	T=CS	"L-1=, & L+1=paradise"
+1	2	T=CS	"L-1=, & L+1=oh"
+1	2	T=CS	"L-1=, & L+1=live"
+1	2	T=CS	"L-1=, & L+1=foggy"
+1	2	T=CS	"L-1=, & L+1=congress"
+1	2	T=CS	"L-1=, & L+1=dining"
+1	2	T=CS	"L-1=, & L+1=on"
+1	2	T=CS	"L-1=, & L+1=people"
+1	2	T=II	"L-1=, & L+1=,"
+1	2	T=CS	"L-1=, & L+1=hey"
+1	2	T=CS	"L-1=, & L+1=splendid"
+1	2	T=CS	"L-1=, & L+1=two"
+1	2	T=CS	"L-1=, & L+1=her"
+1	2	T=CS	"L-1=, & L+1=automation"
+1	2	T=CS	"L-1=, & L+1=yourself"
+1	2	T=CS	"L-1=, & L+1=burnet"
+1	2	T=VV0	L-1=wall & M+1=False
+1	2	T=CS	L-1=wall & M+1=True
+1	2	T=VV0	L-1=you & L+1=-
+1	2	T=II	L-1=you & L+1=that
+1	2	T=VV0	"L-1=you & L+1=,"
+1	2	T=VV0	L-1=you & L+1=.
+1	2	T=VV0	L-1=you & L+1=game
+1	2	T=CS	L-1=be & L+1=you
+1	2	T=CS	L-1=be & L+1=propose
+1	2	T=CS	L-1=be & L+1=try
+1	2	T=CS	L-1=be & L+1=for
+1	2	T=CS	L-1=be & L+1=hand
+1	2	T=CS	L-1=be & L+1=every
+1	2	T=CS	L-1=be & L+1=;
+1	2	T=CS	L-1=be & L+1=unripe
+1	2	T=CS	L-1=be & L+1=lock
+1	2	T=CS	L-1=be & L+1=one
+1	2	T=CS	L-1=be & L+1=wax
+1	2	T=CS	L-1=be & L+1=new
+1	2	T=CS	L-1=be & L+1=charcoal
+1	2	T=CS	L-1=be & L+1=go
+1	2	T=CS	L-1=be & L+1=fight
+1	2	T=II	L-1=be & L+1=no
+1	2	T=CS	L-1=be & L+1=he
+1	2	T=CS	L-1=be & L+1=medical
+1	2	T=CS	L-1=be & L+1=what
+1	2	T=CS	"L-1=be & L+1=,"
+1	2	T=CS	L-1=be & L+1=hit
+1	2	T=CS	L-1=be & L+1=two
+1	2	T=CS	L-1=be & L+1=great
+1	2	T=CS	L-1=be & L+1=finally
+1	2	T=CS	L-1=be & L+1=candy
+1	2	T=CS	L-1=be & L+1=her
+1	2	T=JJ	L-1=be & L+1=to
+1	2	T=CS	L-1=be & L+1=today
+1	2	T=CS	L-1=state & L+1=the
+1	2	T=CS	L-1=state & L+1=ours
+1	2	T=CS	L-1=eye & L+1=a
+1	2	T=CS	L-1=eye & L+1=bubble
+1	2	T=CS	L-1=eye & L+1=two
+1	2	T=VV0	L-1=eye & L+1=hot
+1	2	T=CS	L-1=not & L+1=his
+1	2	T=CS	L-1=not & L+1=us
+1	2	T=VV0	L-1=not & L+1=what
+1	2	T=CS	L-1=not & L+1=a
+1	2	T=VV0	L-1=not & L+1=doing
+1	2	T=VV0	L-1=not & L+1=it
+1	2	T=VV0	L-1=who & L+1=poetry
+1	2	T=VV0	L-1=who & L+1=to
+1	2	T=CS	L-1=who & L+1=myself
+1	2	T=CS	L-1=time & L+1=the
+1	2	T=II	L-1=time & L+1=this
+1	2	T=VV0	L-1=time & L+1=those
+1	2	T=CS	L-1=sounded & L+1=cloth
+1	2	T=CS	L-1=sounded & L+1=the
+1	2	T=CS	L-1=sounded & L+1=signal
+1	2	T=CS	L-1=sounded & L+1=chicken
+1	2	T=JJ	L-1=sounded & L+1=.
+1	2	T=CS	L-1=thing & L+1=a
+1	2	T=CS	L-1=man & L+1=a
+1	2	T=CS	L-1=man & L+1=him
+1	2	T=VV0	L-1=man & L+1=themselves
+1	2	T=VV0	L-1=always & M+1=False
+1	2	T=CS	L-1=always & M+1=True
+1	2	T=VV0	L-1=question & L+1=this
+1	2	T=CS	L-1=question & L+1=that
+1	2	T=CS	L-1=question & L+1=those
+1	2	T=CS	L-1=look & L+1=any
+1	2	T=CS	L-1=look & L+1=accident
+1	2	T=CS	L-1=look & L+1=business
+1	2	T=CS	L-1=look & L+1=him
+1	2	T=CS	L-1=look & L+1=you
+1	2	T=CS	L-1=look & L+1=umbrella
+1	2	T=CS	L-1=look & L+1=off-duty
+1	2	T=CS	L-1=look & L+1=gigantic
+1	2	T=CS	L-1=look & L+1=food
+1	2	T=CS	L-1=look & L+1=peruvian
+1	2	T=JJ	L-1=look & L+1=i
+1	2	T=CS	L-1=look & L+1=wire
+1	2	T=CS	L-1=look & L+1=anything
+1	2	T=CS	L-1=look & L+1=.
+1	2	T=CS	L-1=look & L+1=go
+1	2	T=CS	L-1=look & L+1=as
+1	2	T=CS	L-1=look & L+1=such
+1	2	T=CS	L-1=look & L+1=he
+1	2	T=CS	L-1=look & L+1=what
+1	2	T=CS	L-1=look & L+1=at
+1	2	T=CS	L-1=look & L+1=perfect
+1	2	T=CS	L-1=look & L+1=that
+1	2	T=CS	L-1=moving & M+1=False
+1	2	T=II	L-1=moving & M+1=True
+1	2	T=II	L-1=of & L+1=me
+1	2	T=CS	L-1=of & L+1=golf
+1	2	T=JJ	L-1=of & L+1=obligation
+1	2	T=VV0	L-1=0 & L+1=any
+1	2	T=CS	L-1=0 & L+1=bang
+1	2	T=II	L-1=0 & L+1=him
+1	2	T=CS	L-1=0 & L+1=me
+1	2	T=CS	L-1=0 & L+1=ass
+1	2	T=CS	L-1=0 & L+1=other
+1	2	T=VV0	L-1=0 & L+1=every
+1	2	T=CS	L-1=0 & L+1=focus
+1	2	T=VV0	L-1=0 & L+1=best
+1	2	T=VV0	L-1=0 & L+1=cat
+1	2	T=CS	L-1=0 & L+1=she
+1	2	T=II	L-1=0 & L+1=so
+1	2	T=VV0	L-1=0 & L+1=living
+1	2	T=VV0	L-1=0 & L+1=as
+1	2	T=CS	L-1=0 & L+1=he
+1	2	T=VV0	"L-1=0 & L+1=,"
+1	2	T=CS	L-1=0 & L+1=himself
+1	2	T=VV0	L-1=0 & L+1=anybody
+1	2	T=VV0	L-1=0 & L+1=my
+1	2	T=CS	L-1=0 & L+1=get
+1	2	T=CS	L-1=0 & L+1=sweet
+1	2	T=CS	L-1=0 & L+1=carry
+1	2	T=VV0	L-1=things & L+1=this
+1	2	T=CS	L-1=things & L+1=terror
+1	2	T=VV0	L-1=things & L+1=0
+1	2	T=VV0	L-1=woman & L+1=even
+1	2	T=CS	L-1=sound & L+1=such
+1	2	T=CS	L-1=sound & L+1=cat
+1	2	T=CS	L-1=sound & L+1=hardy
+1	2	T=VV0	L-1=sound & L+1=real
+1	2	T=VV0	L-1=sound & L+1=what
+1	2	T=CS	L-1=- & L+1=fortress
+1	2	T=JJ	L-1=- & L+1=element
+1	2	T=CS	L-1=anything & L+1=this
+1	2	T=CS	L-1=anything & L+1=a
+1	2	T=CS	L-1=anything & L+1=compensation
+1	2	T=CS	L-1=more & L+1=everybody
+1	2	T=CS	L-1=more & L+1=the
+1	2	T=CS	L-1=more & L+1=twenty-five
+1	2	T=CS	L-1=more & L+1=her
+1	2	T=CS	L-1=more & L+1=they
+1	2	T=VV0	L-1=even & Ing+1=False
+1	2	T=CS	L-1=even & Ing+1=True
+1	2	T=JJ	L-1=in & M+1=False
+1	2	T=CS	L-1=in & M+1=True
+1	2	T=CS	L-1=people & T+1=PPHS2
+1	2	T=VV0	L-1=people & T+1=PPHO1
+1	2	T=CS	W-1=men & L+1=a
+1	2	T=VV0	W-1=men & L+1=themselves
+1	2	T=II	W-1=men & L+1=0
+1	2	T=JJ	W-1=the & L+1=month
+1	2	T=JJ	W-1=the & L+1=be
+1	2	T=JJ	W-1=the & L+1=period
+1	2	T=CS	W-1=on & L+1=thousand
+1	2	T=CS	W-1=on & L+1=this
+1	2	T=JJ	W-1=on & L+1=term
+1	2	T=CS	W-1=on & L+1=that
+1	2	T=CS	W-1=on & L+1=everything
+1	2	T=CS	"W-1=, & L+1=radar"
+1	2	T=JJ	"W-1=, & L+1=girl"
+1	2	T=CS	"W-1=, & L+1=bloody"
+1	2	T=CS	"W-1=, & L+1=those"
+1	2	T=CS	"W-1=, & L+1=ugly"
+1	2	T=CS	"W-1=, & L+1=ours"
+1	2	T=CS	"W-1=, & L+1=abrupt"
+1	2	T=CS	"W-1=, & L+1=lizard"
+1	2	T=CS	"W-1=, & L+1=its"
+1	2	T=CS	"W-1=, & L+1=metal"
+1	2	T=CS	"W-1=, & L+1=jack"
+1	2	T=CS	"W-1=, & L+1=children"
+1	2	T=CS	"W-1=, & L+1=there"
+1	2	T=CS	"W-1=, & L+1=telephone"
+1	2	T=CS	"W-1=, & L+1=leave"
+1	2	T=CS	"W-1=, & L+1=everybody"
+1	2	T=CS	"W-1=, & L+1=sex"
+1	2	T=CS	"W-1=, & L+1=x-ray"
+1	2	T=CS	"W-1=, & L+1=charcoal"
+1	2	T=CS	"W-1=, & L+1=fifty"
+1	2	T=VV0	"W-1=, & L+1=it"
+1	2	T=CS	"W-1=, & L+1=paradise"
+1	2	T=CS	"W-1=, & L+1=oh"
+1	2	T=CS	"W-1=, & L+1=live"
+1	2	T=CS	"W-1=, & L+1=foggy"
+1	2	T=CS	"W-1=, & L+1=congress"
+1	2	T=CS	"W-1=, & L+1=dining"
+1	2	T=CS	"W-1=, & L+1=on"
+1	2	T=CS	"W-1=, & L+1=people"
+1	2	T=II	"W-1=, & L+1=,"
+1	2	T=CS	"W-1=, & L+1=hey"
+1	2	T=CS	"W-1=, & L+1=splendid"
+1	2	T=CS	"W-1=, & L+1=two"
+1	2	T=CS	"W-1=, & L+1=her"
+1	2	T=CS	"W-1=, & L+1=automation"
+1	2	T=CS	"W-1=, & L+1=yourself"
+1	2	T=CS	"W-1=, & L+1=burnet"
+1	2	T=VV0	W-1=you & L+1=-
+1	2	T=II	W-1=you & L+1=that
+1	2	T=VV0	"W-1=you & L+1=,"
+1	2	T=VV0	W-1=you & L+1=.
+1	2	T=VV0	W-1=you & L+1=game
+1	2	T=CS	W-1=looked & L+1=as
+1	2	T=CS	W-1=looked & L+1=him
+1	2	T=CS	W-1=looked & L+1=umbrella
+1	2	T=CS	W-1=looked & L+1=off-duty
+1	2	T=II	W-1=looked & L+1=her
+1	2	T=CS	W-1=looked & L+1=it
+1	2	T=CS	W-1=looked & L+1=.
+1	2	T=CS	W-1=looked & L+1=at
+1	2	T=CS	W-1=be & L+1=fight
+1	2	T=CS	W-1=be & L+1=the
+1	2	T=CS	W-1=be & L+1=what
+1	2	T=II	W-1=be & L+1=.
+1	2	T=CS	W-1=be & L+1=for
+1	2	T=CS	W-1=sounds & L+1=such
+1	2	T=CS	W-1=sounds & L+1=cat
+1	2	T=CS	W-1=sounds & L+1=hardy
+1	2	T=VV0	W-1=sounds & L+1=real
+1	2	T=VV0	W-1=sounds & L+1=what
+1	2	T=CS	W-1=is & L+1=go
+1	2	T=CS	W-1=is & L+1=propose
+1	2	T=CS	W-1=is & L+1=unripe
+1	2	T=CS	W-1=is & L+1=medical
+1	2	T=CS	W-1=is & L+1=the
+1	2	T=CS	W-1=is & L+1=one
+1	2	T=JJ	W-1=is & L+1=to
+1	2	T=CS	W-1=is & L+1=that
+1	2	T=CS	W-1=is & L+1=0
+1	2	T=JJ	W-1=is & L+1=.
+1	2	T=CS	W-1=is & L+1=hand
+1	2	T=CS	W-1=states & M+1=True
+1	2	T=VV0	W-1=people & W+1=lucille
+1	2	T=CS	W-1=people & W+1=herold
+1	2	T=VV0	W-1=not & W+1=boxell
+1	2	T=CS	W-1=not & W+1=his
+1	2	T=CS	W-1=not & W+1=us
+1	2	T=CS	W-1=not & W+1=sam
+1	2	T=VV0	W-1=not & W+1=what
+1	2	T=CS	W-1=not & W+1=a
+1	2	T=VV0	W-1=not & W+1=doing
+1	2	T=VV0	W-1=not & W+1=dylan
+1	2	T=VV0	W-1=not & W+1=it
+1	2	T=VV0	W-1=women & L+1=even
+1	2	T=CS	W-1=women & L+1=that
+1	2	T=VV0	W-1=who & L+1=poetry
+1	2	T=VV0	W-1=who & L+1=to
+1	2	T=CS	W-1=who & L+1=myself
+1	2	T=CS	W-1=time & L+1=the
+1	2	T=II	W-1=time & L+1=this
+1	2	T=CS	W-1=sounded & L+1=cloth
+1	2	T=CS	W-1=sounded & L+1=the
+1	2	T=CS	W-1=sounded & L+1=signal
+1	2	T=CS	W-1=sounded & L+1=chicken
+1	2	T=JJ	W-1=sounded & L+1=.
+1	2	T=CS	W-1=thing & L+1=a
+1	2	T=VV0	W-1=always & M+1=False
+1	2	T=CS	W-1=always & M+1=True
+1	2	T=VV0	W-1=walls & M+1=False
+1	2	T=CS	W-1=walls & M+1=True
+1	2	T=CS	W-1=look & L+1=any
+1	2	T=CS	W-1=look & L+1=accident
+1	2	T=CS	W-1=look & L+1=business
+1	2	T=CS	W-1=look & L+1=peruvian
+1	2	T=CS	W-1=look & L+1=you
+1	2	T=CS	W-1=look & L+1=go
+1	2	T=CS	W-1=look & L+1=food
+1	2	T=CS	W-1=look & L+1=perfect
+1	2	T=JJ	W-1=look & L+1=i
+1	2	T=CS	W-1=look & L+1=wire
+1	2	T=CS	W-1=look & L+1=one
+1	2	T=CS	W-1=look & L+1=that
+1	2	T=CS	W-1=look & L+1=gigantic
+1	2	T=CS	W-1=look & L+1=what
+1	2	T=CS	W-1=look & L+1=anything
+1	2	T=CS	W-1=moving & M+1=False
+1	2	T=II	W-1=moving & M+1=True
+1	2	T=II	W-1=of & L+1=me
+1	2	T=CS	W-1=of & L+1=golf
+1	2	T=JJ	W-1=of & L+1=obligation
+1	2	T=VV0	W-1=things & L+1=this
+1	2	T=CS	W-1=things & L+1=terror
+1	2	T=VV0	W-1=things & L+1=0
+1	2	T=CS	W-1=-- & L+1=fortress
+1	2	T=JJ	W-1=-- & L+1=element
+1	2	T=CS	W-1=behaved & Ing-1=False
+1	2	T=II	W-1=behaved & Ing-1=True
+1	2	T=CS	W-1=were & L+1=two
+1	2	T=II	W-1=were & L+1=no
+1	2	T=CS	W-1=were & L+1=great
+1	2	T=CS	W-1=were & L+1=wax
+1	2	T=II	W-1=were & L+1=a
+1	2	T=JJ	W-1=were & L+1=.
+1	2	T=CS	W-1=someone & W+1=jess
+1	2	T=CS	W-1=someone & W+1=f.d.r.
+1	2	T=II	W-1=someone & W+1=stanley
+1	2	T=CS	W-1=eyes & L+1=a
+1	2	T=CS	W-1=eyes & L+1=bubble
+1	2	T=CS	W-1=eyes & L+1=two
+1	2	T=VV0	W-1=eyes & L+1=hot
+1	2	T=CS	W-1=anything & L+1=this
+1	2	T=CS	W-1=anything & L+1=a
+1	2	T=CS	W-1=anything & L+1=compensation
+1	2	T=VV0	W-1=looks & A-1=True
+1	2	T=VV0	W-1=questions & L+1=this
+1	2	T=CS	W-1=questions & L+1=that
+1	2	T=CS	W-1=questions & L+1=those
+1	2	T=CS	W-1=more & W+1=meg
+1	2	T=CS	W-1=more & W+1=everybody
+1	2	T=CS	W-1=more & W+1=an
+1	2	T=CS	W-1=more & W+1=the
+1	2	T=CS	W-1=more & W+1=twenty-five
+1	2	T=CS	W-1=more & W+1=her
+1	2	T=CS	W-1=more & W+1=they
+1	2	T=CS	W-1=more & W+1=freud's
+1	2	T=VV0	W-1=even & Ing+1=False
+1	2	T=CS	W-1=even & Ing+1=True
+1	2	T=JJ	W-1=in & M+1=False
+1	2	T=CS	W-1=in & M+1=True
+1	2	T=CS	W-1=was & L+1=every
+1	2	T=CS	W-1=was & L+1=you
+1	2	T=CS	W-1=was & L+1=he
+1	2	T=CS	W-1=was & L+1=finally
+1	2	T=CS	W-1=was & L+1=;
+1	2	T=CS	W-1=was & L+1=lock
+1	2	T=CS	W-1=was & L+1=0
+1	2	T=CS	W-1=was & L+1=try
+1	2	T=CS	W-1=was & L+1=new
+1	2	T=CS	W-1=was & L+1=charcoal
+1	2	T=CS	W-1=was & L+1=hit
+1	1	T=CS	Gen+1=E
+1	1	T=CS	Gen+1=F
+1	1	T=CS	L-1=roughly
+1	1	T=CS	L-1=bride
+1	1	T=II	L-1=crowd
+1	1	T=CS	L-1=cognac
+1	1	T=JJ	L-1=some
+1	1	T=CS	L-1=climb
+1	1	T=CS	L-1=mission
+1	1	T=CS	L-1=haunch
+1	1	T=CS	L-1=gray
+1	1	T=CS	L-1=prick
+1	1	T=CS	L-1=remark
+1	1	T=CS	L-1=object
+1	1	T=CS	L-1=another
+1	1	T=CS	L-1=here
+1	1	T=CS	L-1=painter
+1	1	T=VV0	L-1=device
+1	1	T=CS	L-1=surrealist
+1	1	T=CS	L-1=eternity
+1	1	T=CS	L-1=nick
+1	1	T=CS	L-1=brew
+1	1	T=CS	L-1=energy
+1	1	T=CS	L-1=suit
+1	1	T=CS	L-1=particularly
+1	1	T=JJ	L-1=justify
+1	1	T=CS	L-1=lurch
+1	1	T=VV0	L-1=might
+1	1	T=CS	L-1=quick
+1	1	T=CS	L-1=close
+1	1	T=CS	L-1=wildly
+1	1	T=CS	L-1=musket
+1	1	T=CS	L-1=case
+1	1	T=CS	L-1=hurt
+1	1	T=CS	L-1=emotion
+1	1	T=CS	L-1=squawk
+1	1	T=CS	L-1=whig
+1	1	T=CS	L-1=population
+1	1	T=CS	L-1=range
+1	1	T=CS	L-1=portent
+1	1	T=CS	L-1=weird
+1	1	T=CS	L-1=plain
+1	1	T=CS	L-1=dress
+1	1	T=CS	L-1=there
+1	1	T=CS	L-1=president
+1	1	T=CS	L-1=speaker
+1	1	T=CS	L-1=fly
+1	1	T=CS	L-1=reporter
+1	1	T=CS	L-1=haircut
+1	1	T=CS	L-1=block
+1	1	T=CS	L-1=store
+1	1	T=JJ	L-1=how
+1	1	T=CS	L-1=shimmy
+1	1	T=CS	L-1=die
+1	1	T=CS	L-1=rookie
+1	1	T=CS	L-1=fuel
+1	1	T=CS	L-1=libertarian
+1	1	T=CS	L-1=window
+1	1	T=CS	L-1=aggressive
+1	1	T=CS	L-1=lapel
+1	1	T=CS	L-1=haze
+1	1	T=CS	L-1=shuffled
+1	1	T=CS	L-1=zenith
+1	1	T=CS	L-1=constellation
+1	1	T=CS	L-1=touch
+1	1	T=CS	L-1=talk
+1	1	T=CS	L-1=chronology
+1	1	T=CS	L-1=driver
+1	1	T=CS	L-1=spark
+1	1	T=CS	L-1=spring
+1	1	T=CS	L-1=alliance
+1	1	T=CS	L-1=life
+1	1	T=CS	L-1=song
+1	1	T=CS	L-1=suspend
+1	1	T=CS	L-1=name
+1	1	T=CS	L-1=fuzz
+1	1	T=CS	L-1=thinker
+1	1	T=CS	L-1=cry
+1	1	T=CS	L-1=rain
+1	1	T=CS	L-1=used
+1	1	T=CS	L-1=face
+1	1	T=II	L-1=by
+1	1	T=CS	L-1=whoosh
+1	1	T=CS	L-1=noble
+1	1	T=CS	L-1=boss
+1	1	T=CS	L-1=novelty
+1	1	T=CS	L-1=hollow
+1	1	T=VV0	L-1=sure
+1	1	T=CS	L-1=lady
+1	1	T=CS	L-1=entrepreneur
+1	1	T=CS	L-1=shower
+1	1	T=CS	L-1=worked
+1	1	T=CS	L-1=guy
+1	1	T=CS	L-1=crush
+1	1	T=CS	L-1=poem
+1	1	T=CS	L-1=fog
+1	1	T=CS	L-1=country
+1	1	T=CS	L-1=gloriously
+1	1	T=CS	L-1=sob
+1	1	T=CS	L-1=pattern
+1	1	T=CS	L-1=graze
+1	1	T=CS	L-1=sun
+1	1	T=CS	L-1=burst
+1	1	T=VV0	L-1=reviewer
+1	1	T=CS	L-1=huddled
+1	1	T=CS	L-1=pair
+1	1	T=CS	L-1=awake
+1	1	T=CS	L-1=moved
+1	1	T=CS	L-1=hideous
+1	1	T=CS	L-1=rigid
+1	1	T=CS	L-1=stream
+1	1	T=CS	L-1=church
+1	1	T=CS	L-1=turn
+1	1	T=CS	L-1=clamp
+1	1	T=JJ	L-1=a
+1	1	T=CS	L-1=concept
+1	1	T=CS	L-1=idea
+1	1	T=CS	L-1=extremist
+1	1	T=JJ	L-1=under
+1	1	T=CS	L-1=grease
+1	1	T=VV0	L-1=word
+1	1	T=CS	L-1=body
+1	1	T=CS	L-1=tart
+1	1	T=CS	L-1=sway
+1	1	T=CS	L-1=evidence
+1	1	T=CS	L-1=writer
+1	1	T=CS	L-1=society
+1	1	T=VV0	L-1=hunter
+1	1	T=CS	L-1=work
+1	1	T=CS	L-1=chattering
+1	1	T=CS	L-1=canceled
+1	1	T=CS	L-1=peril
+1	1	T=CS	L-1=hand
+1	1	T=CS	L-1=essential
+1	1	T=CS	L-1=crow
+1	1	T=CS	L-1=earth
+1	1	T=CS	L-1=solo
+1	1	T=CS	L-1=communist
+1	1	T=CS	L-1=increasingly
+1	1	T=CS	L-1=flying
+1	1	T=CS	L-1=curb
+1	1	T=CS	L-1=quality
+1	1	T=CS	L-1=pastor
+1	1	T=CS	L-1=restaurant
+1	1	T=CS	L-1=paragraph
+1	1	T=CS	L-1=over
+1	1	T=CS	L-1=surface
+1	1	T=CS	L-1=egg
+1	1	T=CS	L-1=yet
+1	1	T=CS	L-1=argue
+1	1	T=CS	L-1=fall
+1	1	T=CS	L-1=fell
+1	1	T=VV0	L-1=organization
+1	1	T=JJ	L-1=remarkably
+1	1	T=CS	L-1=hung
+1	1	T=VV0	L-1=label
+1	1	T=CS	L-1=abreast
+1	1	T=CS	L-1=himself
+1	1	T=CS	L-1=think
+1	1	T=CS	L-1=blow
+1	1	T=CS	L-1=fool
+1	1	T=CS	L-1=equipment
+1	1	T=VV0	L-1=rather
+1	1	T=VV0	L-1=soul
+1	1	T=CS	L-1=title
+1	1	T=CS	L-1=continuity
+1	1	T=CS	L-1=bush
+1	1	T=CS	L-1=bow
+1	1	T=CS	L-1=thumb
+1	1	T=JJ	L-1=press
+1	1	T=VV0	L-1=drawing
+1	1	T=CS	L-1=strike
+1	1	T=CS	L-1=eleven
+1	1	T=CS	L-1=plant
+1	1	T=CS	L-1=privacy
+1	1	T=CS	L-1=somebody
+1	1	T=CS	L-1=lip
+1	1	T=CS	L-1=spread
+1	1	T=CS	L-1=motorist
+1	1	T=CS	L-1=snapped
+1	1	T=CS	L-1=bounce
+1	1	T=CS	L-1=draw
+1	1	T=CS	L-1=start
+1	1	T=CS	L-1=city
+1	1	T=CS	L-1=instrument
+1	1	T=CS	L-1=settled
+1	1	T=CS	L-1=paper
+1	1	T=CS	L-1=park
+1	1	T=CS	L-1=charge
+1	1	T=CS	L-1=marriage
+1	1	T=CS	L-1=combination
+1	1	T=II	L-1=jangle
+1	1	T=VV0	L-1=female
+1	1	T=CS	L-1=flow
+1	1	T=CS	L-1=world
+1	1	T=CS	L-1=glisten
+1	1	T=CS	L-1=protrude
+1	1	T=CS	L-1=uncoil
+1	1	T=CS	L-1=value
+1	1	T=CS	L-1=plywood
+1	1	T=CS	L-1=less
+1	1	T=CS	L-1=clustered
+1	1	T=CS	L-1=bloom
+1	1	T=CS	L-1=rise
+1	1	T=CS	L-1=alone
+1	1	T=CS	L-1=father
+1	1	T=CS	L-1=walk
+1	1	T=II	L-1=snap
+1	1	T=CS	L-1=animal
+1	1	T=CS	L-1=music
+1	1	T=CS	L-1=her
+1	1	T=CS	L-1=legislator
+1	1	T=VV0	L-1=slogan
+1	1	T=CS	L-1=hell
+1	1	T=CS	L-1=wiggle
+1	1	T=CS	L-1=for
+1	1	T=CS	L-1=ocean
+1	1	T=CS	L-1=stick
+1	1	T=CS	L-1=form
+1	1	T=CS	L-1=vista
+1	1	T=CS	L-1=valley
+1	1	T=CS	L-1=live
+1	1	T=CS	L-1=atmosphere
+1	1	T=CS	L-1=blue-eyed
+1	1	T=CS	L-1=clerk
+1	1	T=CS	L-1=break
+1	1	T=CS	L-1=gesture
+1	1	T=CS	L-1=lay
+1	1	T=CS	L-1=cling
+1	1	T=CS	L-1=end
+1	1	T=CS	L-1=often
+1	1	T=CS	L-1=kid
+1	1	T=CS	L-1=mind
+1	1	T=CS	L-1=wobble
+1	1	T=CS	L-1=forge
+1	1	T=VV0	L-1=simply
+1	1	T=VV0	L-1=cloud
+1	1	T=CS	L-1=as
+1	1	T=CS	L-1=chest
+1	1	T=CS	L-1=toe
+1	1	T=CS	L-1=shouted
+1	1	T=CS	L-1=lug
+1	1	T=CS	L-1=deceptively
+1	1	T=CS	L-1=night
+1	1	T=CS	L-1=heaven
+1	1	T=CS	L-1=visit
+1	1	T=CS	L-1=minute
+1	1	T=CS	L-1=town
+1	1	T=CS	L-1=boat
+1	1	T=CS	L-1=newspaperman
+1	1	T=CS	L-1=back
+1	1	T=CS	L-1=powerful
+1	1	T=CS	L-1=advance
+1	1	T=CS	L-1=component
+1	1	T=CS	L-1=character
+1	1	T=CS	L-1=off
+1	1	T=CS	L-1=preacher
+1	1	T=CS	L-1=bottle
+1	1	T=CS	L-1=ballad
+1	1	T=CS	L-1=resentment
+1	1	T=CS	L-1=craze
+1	1	T=CS	L-1=enemy
+1	1	T=CS	L-1=collapsed
+1	1	T=CS	L-1=ham
+1	1	T=CS	W-1=roughly
+1	1	T=CS	W-1=bride
+1	1	T=II	W-1=crowd
+1	1	T=CS	W-1=cognac
+1	1	T=CS	W-1=pricks
+1	1	T=CS	W-1=eggs
+1	1	T=JJ	W-1=some
+1	1	T=CS	W-1=countries
+1	1	T=CS	W-1=ideas
+1	1	T=CS	W-1=songs
+1	1	T=CS	W-1=restaurants
+1	1	T=CS	W-1=mission
+1	1	T=II	W-1=jangling
+1	1	T=CS	W-1=gray
+1	1	T=CS	W-1=another
+1	1	T=CS	W-1=here
+1	1	T=CS	W-1=jesus
+1	1	T=CS	W-1=painter
+1	1	T=CS	W-1=story
+1	1	T=VV0	W-1=won't
+1	1	T=CS	W-1=raining
+1	1	T=CS	W-1=eternity
+1	1	T=CS	W-1=nick
+1	1	T=CS	W-1=brew
+1	1	T=CS	W-1=constellations
+1	1	T=CS	W-1=energy
+1	1	T=CS	W-1=suit
+1	1	T=CS	W-1=advanced
+1	1	T=CS	W-1=particularly
+1	1	T=JJ	W-1=justify
+1	1	T=CS	W-1=trenchermen
+1	1	T=CS	W-1=plants
+1	1	T=CS	W-1=minutes
+1	1	T=CS	W-1=solos
+1	1	T=VV0	W-1=might
+1	1	T=CS	W-1=quick
+1	1	T=CS	W-1=close
+1	1	T=CS	W-1=wildly
+1	1	T=CS	W-1=musket
+1	1	T=CS	W-1=case
+1	1	T=CS	W-1=uncoiling
+1	1	T=CS	W-1=moontrack
+1	1	T=CS	W-1=squawk
+1	1	T=CS	W-1=population
+1	1	T=CS	W-1=range
+1	1	T=CS	W-1=towns
+1	1	T=CS	W-1=streamed
+1	1	T=VV0	W-1=females
+1	1	T=CS	W-1=weird
+1	1	T=CS	W-1=hans
+1	1	T=CS	W-1=plain
+1	1	T=CS	W-1=dress
+1	1	T=CS	W-1=lines
+1	1	T=CS	W-1=entrepreneurs
+1	1	T=CS	W-1=there
+1	1	T=CS	W-1=materials
+1	1	T=CS	W-1=president
+1	1	T=CS	W-1=playing
+1	1	T=CS	W-1=hollows
+1	1	T=VV0	W-1=clouds
+1	1	T=CS	W-1=block
+1	1	T=CS	W-1=a-crowing
+1	1	T=CS	W-1=hurts
+1	1	T=CS	W-1=store
+1	1	T=JJ	W-1=how
+1	1	T=CS	W-1=shimmy
+1	1	T=CS	W-1=behave
+1	1	T=CS	W-1=die
+1	1	T=CS	W-1=anarchist-adventurers
+1	1	T=VV0	W-1=labels
+1	1	T=CS	W-1=fuel
+1	1	T=CS	W-1=crowing
+1	1	T=CS	W-1=window
+1	1	T=CS	W-1=places
+1	1	T=CS	W-1=aggressive
+1	1	T=CS	W-1=haze
+1	1	T=CS	W-1=shuffled
+1	1	T=CS	W-1=zenith
+1	1	T=CS	W-1=touch
+1	1	T=CS	W-1=bushes
+1	1	T=CS	W-1=talk
+1	1	T=VV0	W-1=she'll
+1	1	T=CS	W-1=chronology
+1	1	T=CS	W-1=driver
+1	1	T=CS	W-1=nobles
+1	1	T=CS	W-1=speakers
+1	1	T=VV0	W-1=words
+1	1	T=CS	W-1=alliance
+1	1	T=CS	W-1=extremists
+1	1	T=CS	W-1=life
+1	1	T=CS	W-1=reporters
+1	1	T=CS	W-1=firms
+1	1	T=CS	W-1=thinker
+1	1	T=CS	W-1=cry
+1	1	T=CS	W-1=used
+1	1	T=CS	W-1=face
+1	1	T=CS	W-1=essentials
+1	1	T=CS	W-1=novelties
+1	1	T=CS	W-1=walked
+1	1	T=II	W-1=by
+1	1	T=CS	W-1=state
+1	1	T=CS	W-1=whoosh
+1	1	T=II	W-1=behaving
+1	1	T=CS	W-1=swam
+1	1	T=CS	W-1=remarks
+1	1	T=CS	W-1=wiggling
+1	1	T=VV0	W-1=slogans
+1	1	T=VV0	W-1=sure
+1	1	T=CS	W-1=portents
+1	1	T=CS	W-1=lady
+1	1	T=CS	W-1=tastes
+1	1	T=CS	W-1=smiling
+1	1	T=CS	W-1=worked
+1	1	T=CS	W-1=jist
+1	1	T=VV0	W-1=did
+1	1	T=CS	W-1=sparked
+1	1	T=CS	W-1=fog
+1	1	T=CS	W-1=gloriously
+1	1	T=CS	W-1=drawn
+1	1	T=CS	W-1=grazing
+1	1	T=CS	W-1=material
+1	1	T=CS	W-1=sun
+1	1	T=CS	W-1=burst
+1	1	T=CS	W-1=chests
+1	1	T=CS	W-1=huddled
+1	1	T=CS	W-1=fuzzed
+1	1	T=CS	W-1=awake
+1	1	T=CS	W-1=moved
+1	1	T=CS	W-1=hideous
+1	1	T=CS	W-1=rigid
+1	1	T=CS	W-1=church
+1	1	T=CS	W-1=bosses
+1	1	T=CS	W-1=turn
+1	1	T=CS	W-1=hands
+1	1	T=JJ	W-1=a
+1	1	T=JJ	W-1=under
+1	1	T=CS	W-1=flew
+1	1	T=CS	W-1=tart
+1	1	T=CS	W-1=line
+1	1	T=CS	W-1=whigs
+1	1	T=CS	W-1=evidence
+1	1	T=CS	W-1=work
+1	1	T=CS	W-1=chattering
+1	1	T=CS	W-1=clung
+1	1	T=CS	W-1=writers
+1	1	T=VV0	W-1=times
+1	1	T=CS	W-1=canceled
+1	1	T=CS	W-1=paragraphs
+1	1	T=CS	W-1=peril
+1	1	T=CS	W-1=earth
+1	1	T=CS	W-1=increasingly
+1	1	T=CS	W-1=flying
+1	1	T=CS	W-1=curb
+1	1	T=CS	W-1=lapels
+1	1	T=CS	W-1=quality
+1	1	T=CS	W-1=pastor
+1	1	T=CS	W-1=crushed
+1	1	T=VV0	W-1=shouldn't
+1	1	T=CS	W-1=guys
+1	1	T=CS	W-1=over
+1	1	T=CS	W-1=swimming
+1	1	T=CS	W-1=surface
+1	1	T=CS	W-1=yet
+1	1	T=CS	W-1=argue
+1	1	T=CS	W-1=fall
+1	1	T=CS	W-1=ran
+1	1	T=CS	W-1=fell
+1	1	T=CS	W-1=climbs
+1	1	T=VV0	W-1=1926
+1	1	T=CS	W-1=emotions
+1	1	T=JJ	W-1=remarkably
+1	1	T=CS	W-1=hung
+1	1	T=VV0	W-1=drawings
+1	1	T=CS	W-1=meltzer's
+1	1	T=CS	W-1=acting
+1	1	T=CS	W-1=rumdum
+1	1	T=CS	W-1=smile
+1	1	T=VV0	W-1=devices
+1	1	T=CS	W-1=abreast
+1	1	T=CS	W-1=himself
+1	1	T=CS	W-1=surrealists
+1	1	T=CS	W-1=blow
+1	1	T=CS	W-1=fool
+1	1	T=CS	W-1=hoydenish
+1	1	T=CS	W-1=struck
+1	1	T=CS	W-1=haunches
+1	1	T=CS	W-1=flowed
+1	1	T=CS	W-1=equipment
+1	1	T=VV0	W-1=rather
+1	1	T=CS	W-1=title
+1	1	T=CS	W-1=kennings
+1	1	T=II	W-1=weren't
+1	1	T=CS	W-1=continuity
+1	1	T=VV0	W-1=do
+1	1	T=CS	W-1=run
+1	1	T=CS	W-1=groups
+1	1	T=CS	W-1=bow
+1	1	T=CS	W-1=thumb
+1	1	T=CS	W-1=suspended
+1	1	T=JJ	W-1=press
+1	1	T=CS	W-1=eleven
+1	1	T=CS	W-1=privacy
+1	1	T=CS	W-1=somebody
+1	1	T=CS	W-1=greased
+1	1	T=CS	W-1=lip
+1	1	T=CS	W-1=spread
+1	1	T=CS	W-1=snapped
+1	1	T=CS	W-1=stinkpotters
+1	1	T=CS	W-1=woman
+1	1	T=CS	W-1=start
+1	1	T=CS	W-1=bodied
+1	1	T=VV0	W-1=hunters
+1	1	T=CS	W-1=instrument
+1	1	T=CS	W-1=settled
+1	1	T=CS	W-1=cities
+1	1	T=CS	W-1=concepts
+1	1	T=CS	W-1=park
+1	1	T=CS	W-1=charge
+1	1	T=CS	W-1=communists
+1	1	T=CS	W-1=springing
+1	1	T=CS	W-1=combination
+1	1	T=CS	W-1=feeling
+1	1	T=CS	W-1=shafer
+1	1	T=CS	W-1=world
+1	1	T=CS	W-1=went
+1	1	T=CS	W-1=toes
+1	1	T=CS	W-1=haircuts
+1	1	T=VV0	W-1=organizations
+1	1	T=CS	W-1=protrude
+1	1	T=CS	W-1=glistened
+1	1	T=CS	W-1=names
+1	1	T=CS	W-1=firm
+1	1	T=CS	W-1=value
+1	1	T=CS	W-1=plywood
+1	1	T=CS	W-1=you're
+1	1	T=CS	W-1=less
+1	1	T=CS	W-1=ones
+1	1	T=CS	W-1=clustered
+1	1	T=CS	W-1=bloom
+1	1	T=CS	W-1=rise
+1	1	T=CS	W-1=alone
+1	1	T=CS	W-1=father
+1	1	T=CS	W-1=libertarians
+1	1	T=CS	W-1=papers
+1	1	T=II	W-1=snap
+1	1	T=CS	W-1=components
+1	1	T=CS	W-1=animal
+1	1	T=CS	W-1=music
+1	1	T=CS	W-1=her
+1	1	T=CS	W-1=thinking
+1	1	T=CS	W-1=hell
+1	1	T=CS	W-1=for
+1	1	T=CS	W-1=ocean
+1	1	T=CS	W-1=nothin
+1	1	T=VV0	W-1=souls
+1	1	T=CS	W-1=stick
+1	1	T=CS	W-1=form
+1	1	T=CS	W-1=societies
+1	1	T=CS	W-1=valley
+1	1	T=CS	W-1=vista
+1	1	T=CS	W-1=clerks
+1	1	T=CS	W-1=patterns
+1	1	T=CS	W-1=live
+1	1	T=CS	W-1=atmosphere
+1	1	T=CS	W-1=blue-eyed
+1	1	T=CS	W-1=legislators
+1	1	T=CS	W-1=break
+1	1	T=CS	W-1=showering
+1	1	T=CS	W-1=gesture
+1	1	T=CS	W-1=lay
+1	1	T=CS	W-1=pairs
+1	1	T=CS	W-1=end
+1	1	T=CS	W-1=often
+1	1	T=CS	W-1=kid
+1	1	T=CS	W-1=mind
+1	1	T=CS	W-1=sobbed
+1	1	T=CS	W-1=near-synonyms
+1	1	T=CS	W-1=wobble
+1	1	T=CS	W-1=forge
+1	1	T=CS	W-1=characters
+1	1	T=VV0	W-1=simply
+1	1	T=CS	W-1=marriages
+1	1	T=CS	W-1=objects
+1	1	T=CS	W-1=as
+1	1	T=CS	W-1=shouted
+1	1	T=CS	W-1=rookies
+1	1	T=CS	W-1=swayed
+1	1	T=CS	W-1=motorists
+1	1	T=CS	W-1=bouncing
+1	1	T=CS	W-1=lug
+1	1	T=CS	W-1=deceptively
+1	1	T=VV0	W-1=he'd
+1	1	T=CS	W-1=night
+1	1	T=CS	W-1=heaven
+1	1	T=CS	W-1=visit
+1	1	T=CS	W-1=boat
+1	1	T=CS	W-1=poems
+1	1	T=CS	W-1=newspaperman
+1	1	T=CS	W-1=group
+1	1	T=CS	W-1=back
+1	1	T=VV0	W-1=reviewers
+1	1	T=CS	W-1=powerful
+1	1	T=CS	W-1=off
+1	1	T=CS	W-1=clamped
+1	1	T=CS	W-1=preacher
+1	1	T=II	W-1=dorado
+1	1	T=CS	W-1=bottle
+1	1	T=CS	W-1=ballad
+1	1	T=CS	W-1=resentment
+1	1	T=CS	W-1=craze
+1	1	T=CS	W-1=enemy
+1	1	T=CS	W-1=collapsed
+1	1	T=CS	W-1=acted
+1	1	T=CS	W-1=lurching
+1	1	T=CS	W-1=ham

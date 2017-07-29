@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{418EAFDD-19FF-4185-8577-C80ACC92E52B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bailiwick</RootNamespace>
+    <AssemblyName>Bailiwick</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Main.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="QuickGraph">
+      <HintPath>..\QuickGraph.dll</HintPath>
+    </Reference>
+    <Reference Include="QuickGraph.Data">
+      <HintPath>..\QuickGraph.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="QuickGraph.Glee">
+      <HintPath>..\QuickGraph.Glee.dll</HintPath>
+    </Reference>
+    <Reference Include="QuickGraph.Graphviz">
+      <HintPath>..\QuickGraph.Graphviz.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Analysis\ClassifierNode.cs" />
+    <Compile Include="Analysis\Extensions.cs" />
+    <Compile Include="Analysis\ForceConvert.cs" />
+    <Compile Include="Analysis\IncorrectClassification.cs" />
+    <Compile Include="Analysis\ISentenceOperation.cs" />
+    <Compile Include="Analysis\PhraseBuilders\IContext.cs" />
+    <Compile Include="Analysis\PhraseBuilders\IPhraseBuilder.cs" />
+    <Compile Include="Analysis\PhraseBuilders\IState.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BaseState.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Adjective.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Adposition.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Adverb.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Article.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\BeforeDeterminer.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Determiner.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\AcceptAndDone.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Existential.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Genitive.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Initial.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Interjection.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Letter.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\NO.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Not.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Noun.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Number.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Pronoun.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\PsuedoSimpleList.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\PsuedoConjunction.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\PsuedoInfinitive.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\PsuedoIgnore.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\Reject.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\PsuedoGerund.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\PsuedoBase.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\BuilderStates\RejectAndDone.cs" />
+    <Compile Include="Analysis\PhraseBuilders\Nouns\StateMachineBuilder.cs" />
+    <Compile Include="Analysis\PhraseBuilders\PhraseBuilderStatus.cs" />
+    <Compile Include="Analysis\PhraseBuilders\TracingContext.cs" />
+    <Compile Include="Analysis\PhraseDirector.cs" />
+    <Compile Include="Analysis\PostPhraseBuilder.cs" />
+    <Compile Include="Analysis\SyntaxEngine.cs" />
+    <Compile Include="Analysis\TryConvert.cs" />
+    <Compile Include="Analysis\VerbPhraseBuilder.cs" />
+    <Compile Include="Corpora\BrownCorpus.cs" />
+    <Compile Include="Corpora\CocaCorpus.cs" />
+    <Compile Include="Corpora\CorpusBase.cs" />
+    <Compile Include="DAL\PhrasalVerbFormatter.cs" />
+    <Compile Include="DAL\ProcessVerbFormatter.cs" />
+    <Compile Include="DAL\TabSeparatedFormatter.cs" />
+    <Compile Include="Models\GeneralWordClassComparer.cs" />
+    <Compile Include="Models\Phrases\AdjectivePhrase.cs" />
+    <Compile Include="Models\Phrases\AdverbPhrase.cs" />
+    <Compile Include="Models\ColocateDistribution.cs" />
+    <Compile Include="Models\Colocates.cs" />
+    <Compile Include="Models\Phrases\EllipsisNounPhrase.cs" />
+    <Compile Include="Models\IConvert.cs" />
+    <Compile Include="Models\ICorpus.cs" />
+    <Compile Include="Corpora\ScaffoldingCorpus.cs" />
+    <Compile Include="DAL\DistributionFormatter.cs" />
+    <Compile Include="Models\Extensions.cs" />
+    <Compile Include="Models\GlossComparer.cs" />
+    <Compile Include="Models\IGloss.cs" />
+    <Compile Include="Models\IPhrase.cs" />
+    <Compile Include="Models\ISentenceNode.cs" />
+    <Compile Include="Models\ISyntax.cs" />
+    <Compile Include="Models\Phrases\InterjectionPhrase.cs" />
+    <Compile Include="Models\Phrases\NounPhrase.cs" />
+    <Compile Include="Models\Percentage.cs" />
+    <Compile Include="Models\PhrasalVerb.cs" />
+    <Compile Include="Models\Phrases\PhraseBase.cs" />
+    <Compile Include="Models\Phrases\SuperlativePhrase.cs" />
+    <Compile Include="Models\ProcessVerb.cs" />
+    <Compile Include="Models\SentenceNodeComparer.cs" />
+    <Compile Include="Models\Phrases\SubordinatingPhrase.cs" />
+    <Compile Include="Models\Syntax.cs" />
+    <Compile Include="Models\SyntaxPair.cs" />
+    <Compile Include="Models\SyntaxScan.cs" />
+    <Compile Include="Models\SyntaxScanBuilder.cs" />
+    <Compile Include="Models\Phrases\VerbPhrase.cs" />
+    <Compile Include="Models\Thought.cs" />
+    <Compile Include="Models\WordCaseStatus.cs" />
+    <Compile Include="Models\WordInstanceComparer.cs" />
+    <Compile Include="Morphology\Classifier.cs" />
+    <Compile Include="Morphology\ClassifierNode.cs" />
+    <Compile Include="Morphology\IContext.cs" />
+    <Compile Include="Morphology\IState.cs" />
+    <Compile Include="Morphology\PredicatePipeline.cs" />
+    <Compile Include="Morphology\StateFactory.cs" />
+    <Compile Include="Morphology\States\Adjective.cs" />
+    <Compile Include="Morphology\States\Adposition.cs" />
+    <Compile Include="Morphology\States\Adverb.cs" />
+    <Compile Include="Morphology\States\Article.cs" />
+    <Compile Include="Morphology\States\AS.cs" />
+    <Compile Include="Morphology\States\Determiner.cs" />
+    <Compile Include="Morphology\States\ModalVerb.cs" />
+    <Compile Include="Morphology\States\Not.cs" />
+    <Compile Include="Morphology\States\Noun.cs" />
+    <Compile Include="Morphology\States\Null.cs" />
+    <Compile Include="Morphology\States\Pronoun.cs" />
+    <Compile Include="Morphology\States\PronounPersonalSubjective.cs" />
+    <Compile Include="Morphology\States\THAT.cs" />
+    <Compile Include="Morphology\States\THERE.cs" />
+    <Compile Include="Morphology\States\TO.cs" />
+    <Compile Include="Morphology\States\Verb.cs" />
+    <Compile Include="Morphology\States\Determiner_wh-.cs" />
+    <Compile Include="Morphology\TraceSources.cs" />
+    <Compile Include="Parsers\Context.cs" />
+    <Compile Include="Parsers\IContext.cs" />
+    <Compile Include="Parsers\IParsingState.cs" />
+    <Compile Include="Parsers\ParsingStateBase.cs" />
+    <Compile Include="Parsers\States\Comma.cs" />
+    <Compile Include="Parsers\States\Contraction.cs" />
+    <Compile Include="Parsers\States\NumberRange.cs" />
+    <Compile Include="Parsers\States\PsuedoDateTime.cs" />
+    <Compile Include="Parsers\States\Decimal.cs" />
+    <Compile Include="Parsers\States\EndOfSentence.cs" />
+    <Compile Include="Parsers\States\Initial.cs" />
+    <Compile Include="Parsers\States\Number.cs" />
+    <Compile Include="Parsers\States\Ordinal.cs" />
+    <Compile Include="Parsers\States\PsuedoComma.cs" />
+    <Compile Include="Parsers\States\PsuedoHyphen.cs" />
+    <Compile Include="Parsers\States\PsuedoPeriod.cs" />
+    <Compile Include="Parsers\States\PsuedoApostrophe.cs" />
+    <Compile Include="Parsers\States\SuffixedNumber.cs" />
+    <Compile Include="Parsers\States\Trim.cs" />
+    <Compile Include="Parsers\States\Unknown.cs" />
+    <Compile Include="Parsers\States\Word.cs" />
+    <Compile Include="Thoughts\Engine.cs" />
+    <Compile Include="Thoughts\IContext.cs" />
+    <Compile Include="Thoughts\IState.cs" />
+    <Compile Include="Thoughts\StateFactory.cs" />
+    <Compile Include="Thoughts\States\Accumulate.cs" />
+    <Compile Include="Thoughts\States\EOS.cs" />
+    <Compile Include="Thoughts\States\Exclamation.cs" />
+    <Compile Include="Thoughts\States\Interrogative.cs" />
+    <Compile Include="Thoughts\States\Period.cs" />
+    <Compile Include="UI\ColocatesOptions.xaml.cs">
+      <DependentUpon>ColocatesOptions.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ColocatesView.xaml.cs">
+      <DependentUpon>ColocatesView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ColocatesViewModel.cs" />
+    <Compile Include="UI\DecoratedSentenceView.xaml.cs">
+      <DependentUpon>DecoratedSentenceView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DecoratedSentenceViewModel.cs" />
+    <Compile Include="UI\IKwicStrategy.cs" />
+    <Compile Include="UI\IResultPane.cs" />
+    <Compile Include="UI\KwicOptions.xaml.cs">
+      <DependentUpon>KwicOptions.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\KwicView.xaml.cs">
+      <DependentUpon>KwicView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\KwicViewModel.cs" />
+    <Compile Include="UI\PhraseNetworkView.xaml.cs">
+      <DependentUpon>PhraseNetworkView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\PhraseNetworkViewModel.cs" />
+    <Compile Include="UI\ProgressViewModel.cs" />
+    <Compile Include="UI\SentenceTypeFrequencyView.xaml.cs">
+      <DependentUpon>SentenceTypeFrequencyView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SentenceTypeFrequencyViewModel.cs" />
+    <Compile Include="UI\Strategies\KwicLemma.cs" />
+    <Compile Include="UI\Strategies\KwicProcessVerb.cs" />
+    <Compile Include="UI\Strategies\KwicWord.cs" />
+    <Compile Include="UI\Strategies\KwicWordClassType.cs" />
+    <Compile Include="UI\WordFrequencyOptions.xaml.cs">
+      <DependentUpon>WordFrequencyOptions.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\WordFrequencyView.xaml.cs">
+      <DependentUpon>WordFrequencyView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\WordFrequencyViewModel.cs" />
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="Models\GlossDistribution.cs" />
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="UI\ColocatesOptions.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\ColocatesView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\DecoratedSentenceView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\KwicOptions.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\KwicView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\PhraseNetworkView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\SentenceTypeFrequencyView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\WordFrequencyOptions.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\WordFrequencyView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Frequency.cs" />
+    <Compile Include="Models\Gloss.cs" />
+    <Compile Include="Models\WordClass.cs" />
+    <Compile Include="Models\Sentence.cs" />
+    <Compile Include="Models\WordInstance.cs" />
+    <Compile Include="Parsers\ParsingEngine.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\lib\Esoteric\Common\Esoteric.Common.csproj">
+      <Project>{fe312eef-1669-44e0-a413-e56736b05e65}</Project>
+      <Name>Esoteric.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Corpora\BrownFrequency.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Corpora\BrownSyntax.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Corpora\Scaffold.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Corpora\BrownFrequencyRaw.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Main.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Corpora\COCA.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Analysis\PhrasalVerbs.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Analysis\StativeVerbs.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Analysis\CatenativeVerbs.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Analysis\ProcessVerbs.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Corpora\Abbreviations.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

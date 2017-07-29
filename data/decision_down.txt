@@ -1,0 +1,1484 @@
+Count	Path_Length	Result	Predicates
+2	2	T=II	Gen+1=D & Gen-1=N
+3	2	T=RP	Gen+1=D & Gen-1=P
+1	2	T=II	Gen+1=D & Gen-1=C
+8	14	T=RP~II	Gen+1=D & Gen-1=V & Inf-1=False & M+1=True & C+1=True & Ing-1=False & A+1=False & A-1=False & Ger-1=False & Ing+1=False & Inf+1=False & M-1=False & C-1=False & Ger+1=False
+4	14	T=RP~II	Gen+1=D & Gen-1=V & Inf-1=True & Ger-1=False & M+1=True & A+1=False & Ing-1=True & Inf+1=False & Ing+1=False & C+1=True & M-1=False & A-1=False & C-1=False & Ger+1=False
+1	4	T=RP	Gen+1=D & Gen-1=V & Inf-1=True & Ger-1=True
+2	2	T=II	Gen+1=D & Gen-1=R
+52	1	T=RP	Gen+1=C
+15	2	T=II	Gen+1=A & Gen-1=C
+21	2	T=II	Gen+1=A & Gen-1=N
+7	2	T=II	Gen+1=A & Gen-1=P
+105	14	T=RP~II	Gen+1=A & Gen-1=V & Ger-1=False & Inf-1=False & M+1=True & A+1=False & Ing-1=False & Inf+1=False & Ing+1=False & C+1=True & M-1=False & A-1=False & C-1=False & Ger+1=False
+11	14	T=RP~II	Gen+1=A & Gen-1=V & Ger-1=False & Inf-1=True & M+1=True & A+1=False & Ing-1=True & Inf+1=False & Ing+1=False & C+1=True & M-1=False & A-1=False & C-1=False & Ger+1=False
+27	14	T=RP~II	Gen+1=A & Gen-1=V & Ger-1=True & M+1=True & C+1=True & Inf-1=True & Ing-1=True & A+1=False & Inf+1=False & Ing+1=False & M-1=False & A-1=False & C-1=False & Ger+1=False
+4	2	T=II	Gen+1=A & Gen-1=Q
+24	2	T=II	Gen+1=A & Gen-1=R
+14	1	T=RP	Gen+1=T
+1	2	T=II	Gen+1=N & Gen-1=N
+3	14	T=II~JJ	Gen+1=N & Gen-1=C & M+1=False & C+1=False & Inf+1=False & Ing-1=False & Inf-1=False & A-1=False & A+1=True & Ing+1=False & M-1=False & C-1=True & Ger+1=False & Ger-1=False
+14	14	T=RP~II	Gen+1=N & Gen-1=V & Inf-1=False & M+1=False & C+1=False & Ing-1=False & A+1=True & A-1=False & Ger-1=False & Ing+1=False & Inf+1=False & M-1=False & C-1=False & Ger+1=False
+7	3	T=RP	Gen+1=N & Gen-1=V & Inf-1=True
+2	14	T=RP~RR	Gen+1=N & Gen-1=Q & M+1=False & C+1=False & Inf+1=False & Ing-1=False & Inf-1=False & A-1=False & A+1=True & Ing+1=False & M-1=False & C-1=True & Ger+1=False & Ger-1=False
+1	2	T=II	Gen+1=P & Gen-1=N
+2	2	T=RP	Gen+1=P & Gen-1=V
+1	2	T=NN1	Gen+1=V & Gen-1=J
+1	2	T=RP	Gen+1=V & Gen-1=P
+2	2	T=RP	Gen+1=V & Gen-1=C
+5	2	T=RP	Gen+1=V & Gen-1=V
+2	14	T=RP~II	Gen+1=M & Gen-1=V & C-1=False & M+1=True & C+1=False & Ing-1=False & Inf-1=False & A-1=False & A+1=False & Ing+1=False & Inf+1=False & M-1=False & Ger+1=False & Ger-1=False
+1	3	T=RP	Gen+1=M & Gen-1=V & C-1=True
+3	2	T=RP	Gen+1=M & Gen-1=Q
+2	14	T=RP~VV0	Gen+1=M & Gen-1=R & M+1=True & C+1=False & Inf+1=False & Ing-1=False & Inf-1=False & A-1=False & A+1=False & Ing+1=False & M-1=True & C-1=False & Ger+1=False & Ger-1=False
+8	2	T=RP	Gen+1=I & Gen-1=C
+46	14	T=RP~II	Gen+1=I & Gen-1=N & M+1=False & C+1=True & Inf+1=False & Ing-1=False & Inf-1=False & A-1=True & A+1=False & Ing+1=False & M-1=False & C-1=False & Ger+1=False & Ger-1=False
+24	2	T=RP	Gen+1=I & Gen-1=P
+205	3	T=RP	Gen+1=I & Gen-1=V & C-1=False
+4	14	T=RP~II	Gen+1=I & Gen-1=V & C-1=True & Inf-1=False & M+1=False & Ing-1=False & A+1=False & A-1=False & Inf+1=False & Ing+1=False & C+1=True & M-1=False & Ger-1=False & Ger+1=False
+1	4	T=RP	Gen+1=I & Gen-1=V & C-1=True & Inf-1=True
+2	2	T=RP	Gen+1=I & Gen-1=M
+5	2	T=RP	Gen+1=I & Gen-1=Q
+2	2	T=RP	Gen+1=I & Gen-1=J
+13	14	T=RP~II	Gen+1=I & Gen-1=R & C-1=False & M+1=False & C+1=True & Ing-1=False & Inf-1=False & A-1=False & A+1=False & Ing+1=False & Inf+1=False & M-1=True & Ger+1=False & Ger-1=False
+8	14	T=RP~II	Gen+1=I & Gen-1=R & C-1=True & M+1=False & C+1=True & Ing-1=False & Inf-1=False & A-1=False & A+1=False & Ing+1=False & Inf+1=False & M-1=True & Ger+1=False & Ger-1=False
+2	2	T=RP	Gen+1=Q & Gen-1=D
+6	2	T=RP	Gen+1=Q & Gen-1=C
+22	14	T=NP1~RP	Gen+1=Q & Gen-1=N & M+1=False & C+1=True & Inf+1=False & Ing-1=False & Inf-1=False & A-1=True & A+1=False & Ing+1=False & M-1=False & C-1=False & Ger+1=False & Ger-1=False
+14	2	T=RP	Gen+1=Q & Gen-1=P
+47	14	T=RP~RR	Gen+1=Q & Gen-1=V & Inf-1=False & C-1=False & M+1=False & Ing-1=False & A+1=False & A-1=False & Inf+1=False & Ing+1=False & C+1=True & M-1=False & Ger-1=False & Ger+1=False
+2	4	T=RP	Gen+1=Q & Gen-1=V & Inf-1=False & C-1=True
+31	3	T=RP	Gen+1=Q & Gen-1=V & Inf-1=True
+2	2	T=RP	Gen+1=Q & Gen-1=Q
+9	2	T=RP	Gen+1=Q & Gen-1=R
+1	2	T=II	Gen+1=J & Gen-1=N
+1	2	T=RP	Gen+1=J & Gen-1=X
+1	2	T=VV0	Gen+1=J & Gen-1=T
+8	14	T=RP~II	Gen+1=J & Gen-1=V & M+1=True & C+1=False & Inf+1=False & Ing-1=False & Inf-1=False & A-1=False & A+1=False & Ing+1=False & M-1=False & C-1=False & Ger+1=False & Ger-1=False
+1	2	T=II	Gen+1=J & Gen-1=R
+9	14	T=RP~II	Gen+1=R & C-1=False & C+1=False & Gen-1=N & M+1=True & Ing-1=False & A+1=False & A-1=True & Inf-1=False & Inf+1=False & Ing+1=False & M-1=False & Ger+1=False & Ger-1=False
+1	4	T=RP	Gen+1=R & C-1=False & C+1=False & Gen-1=J
+17	5	T=RP	Gen+1=R & C-1=False & C+1=False & Gen-1=V & Ger-1=False
+9	14	T=RP~II	Gen+1=R & C-1=False & C+1=False & Gen-1=V & Ger-1=True & Ing-1=True & A+1=False & M+1=True & Inf-1=True & A-1=False & Ing+1=False & M-1=False & Inf+1=False & Ger+1=False
+2	4	T=RP	Gen+1=R & C-1=False & C+1=False & Gen-1=R
+11	3	T=RP	Gen+1=R & C-1=False & C+1=True
+4	14	T=RP~II	Gen+1=R & C-1=True & Gen-1=P & C+1=False & M+1=True & Ing-1=False & Inf-1=False & A-1=True & A+1=False & Inf+1=False & Ing+1=False & M-1=False & Ger+1=False & Ger-1=False
+1	4	T=RP	Gen+1=R & C-1=True & Gen-1=P & C+1=True
+1	3	T=RP	Gen+1=R & C-1=True & Gen-1=I
+1	3	T=II	Gen+1=R & C-1=True & Gen-1=V
+2	3	T=RP	Gen+1=R & C-1=True & Gen-1=R
+Count	Path_Length	Result	Predicates
+1	1	T=RP	L+1=bathe
+1	1	T=RP	L+1=anyone
+1	1	T=II	L+1=five
+1	1	T=RP	L+1=governmental
+1	1	T=RP	L+1=word
+2	1	T=RP	L+1=next
+2	1	T=RP	L+1=during
+1	1	T=RP	L+1=three-quarters
+1	1	T=RP	L+1=right
+1	1	T=RP	L+1=among
+1	2	T=NP1	L+1=, & L-1=county
+1	2	T=RP	L+1=, & L-1=lean
+1	2	T=RP	L+1=, & L-1=burned
+1	2	T=RP	L+1=, & L-1=pour
+1	2	T=RP	L+1=, & L-1=quirt
+2	2	T=RP	L+1=, & L-1=and
+4	2	T=RP	L+1=, & L-1=upside
+1	2	T=RP	L+1=, & L-1=her
+1	2	T=RP	L+1=, & L-1=or
+1	2	T=RP	L+1=, & L-1=himself
+2	2	T=RP	L+1=, & L-1=foot
+1	2	T=RP	L+1=, & L-1=freeze
+1	2	T=RP	L+1=, & L-1=them
+3	2	T=RP	L+1=, & L-1=come
+1	2	T=RP	L+1=, & L-1=slow
+1	2	T=RP	L+1=, & L-1=head
+1	2	T=RP	L+1=, & L-1=be
+2	2	T=RP	L+1=, & L-1=bent
+6	2	T=RP	L+1=, & L-1=sat
+2	2	T=RP	L+1=, & L-1=calm
+4	2	T=RP	L+1=, & L-1=sit
+2	2	T=RP	L+1=, & L-1=,
+1	2	T=RP	L+1=, & L-1=you
+1	2	T=RP	L+1=, & L-1=demand
+1	2	T=RP	L+1=, & L-1=crash
+1	2	T=RP	L+1=, & L-1=candidate
+1	2	T=RP	L+1=, & L-1=held
+1	2	T=RP	L+1=, & L-1=him
+2	2	T=RP	L+1=, & L-1=run
+1	2	T=RP	L+1=, & L-1=coming
+1	2	T=RP	L+1=, & L-1=look
+2	2	T=RP	L+1=, & L-1=laid
+1	2	T=RP	L+1=, & L-1=flop
+2	16	T=RP~RR	L+1=, & L-1=go & M+1=False & Ing-1=False & Gen+1=Q & C+1=True & Inf+1=False & Inf-1=False & Ger+1=False & A+1=False & Gen-1=V & Ing+1=False & A-1=False & M-1=False & C-1=False & Ger-1=False
+1	2	T=RP	L+1=, & L-1=swim
+1	2	T=RP	L+1=, & L-1=knock
+1	2	T=RP	L+1=, & L-1=gone
+1	2	T=RP	L+1=, & L-1=rifle
+1	2	T=RP	L+1=, & L-1=hair
+1	2	T=RP	L+1=, & L-1=climb
+1	2	T=RP	L+1=, & L-1=simmer
+2	1	T=RP	L+1=after
+1	2	T=RP	L+1=full & Gen-1=N
+1	2	T=VV0	L+1=full & Gen-1=T
+1	1	T=RP	L+1=even
+2	1	T=RP	L+1=more
+1	1	T=II	L+1=him
+2	1	T=RP	L+1=these
+16	1	T=RP	L+1=from
+2	1	T=RP	L+1=so
+1	2	T=RP	L+1=that & L-1=bring
+1	2	T=RP	L+1=that & L-1=wash
+1	2	T=II	L+1=that & L-1=wildly
+1	2	T=RP	L+1=that & L-1=set
+1	2	T=II	L+1=that & L-1=fly
+1	1	T=RP	L+1=furiously
+1	1	T=JJ	L+1=payment
+1	1	T=RP	L+1=many
+8	1	T=RP	L+1=over
+1	1	T=RP	L+1=have
+1	1	T=RP	L+1=behind
+1	1	T=RP	L+1=if
+1	1	T=RR	L+1=home
+37	1	T=RP	L+1=and
+1	1	T=RP	L+1=under
+1	2	T=RP	L+1=both & Gen-1=V
+1	2	T=II	L+1=both & Gen-1=R
+14	1	T=RP	L+1=into
+1	2	T=II	L+1=this & L-1=ride
+1	2	T=RP	L+1=this & L-1=go
+1	2	T=RP	L+1=this & L-1=burn
+1	2	T=II	L+1=this & L-1=gone
+1	2	T=RP	L+1=this & L-1=it
+1	2	T=II	L+1=this & L-1=mile
+1	2	T=RP	L+1=on & L-1=cutting
+1	2	T=RP	L+1=on & L-1=0
+1	2	T=RP	L+1=on & L-1=plane
+2	2	T=RP	L+1=on & L-1=bear
+1	2	T=RP	L+1=on & L-1=face
+1	2	T=RP	L+1=on & L-1=themselves
+1	2	T=RP	L+1=on & L-1=bore
+1	2	T=RP	L+1=on & L-1=press
+1	2	T=RP	L+1=on & L-1=upside
+2	2	T=RP	L+1=on & L-1=lie
+1	2	T=RP	L+1=on & L-1=her
+1	2	T=RP	L+1=on & L-1=pinned
+1	2	T=RP	L+1=on & L-1=come
+1	2	T=RP	L+1=on & L-1=them
+1	2	T=RP	L+1=on & L-1=get
+1	2	T=RP	L+1=on & L-1=bite
+1	2	T=RP	L+1=on & L-1=be
+9	2	T=RP	L+1=on & L-1=sat
+1	2	T=RP	L+1=on & L-1=situate
+1	2	T=II	L+1=on & L-1=already
+1	2	T=RP	L+1=on & L-1=settle
+1	2	T=RP	L+1=on & L-1=tone
+1	2	T=RP	L+1=on & L-1=hunker
+1	2	T=RP	L+1=on & L-1=butt
+1	2	T=RP	L+1=on & L-1=sink
+1	2	T=RP	L+1=on & L-1=iron
+1	2	T=RP	L+1=on & L-1=hurtle
+1	2	T=RP	L+1=on & L-1=hold
+3	2	T=RP	L+1=on & L-1=cut
+1	2	T=RP	L+1=on & L-1=put
+4	2	T=RP	L+1=on & L-1=look
+1	2	T=RP	L+1=on & L-1=laid
+3	2	T=RP	L+1=on & L-1=go
+1	2	T=RP	L+1=on & L-1=set
+1	2	T=RP	L+1=on & L-1=chin
+3	1	T=RP	L+1=along
+1	1	T=NN1	L+1=float
+7	1	T=RP	L+1=before
+1	1	T=RP	L+1=fire
+4	1	T=RP	L+1=-
+1	1	T=RP	L+1=crux
+1	2	T=II	L+1=there & L-1=car
+1	2	T=RP	L+1=there & L-1=head
+1	2	T=RP	L+1=there & L-1=nice
+1	2	T=RP	L+1=there & L-1=codfish
+1	2	T=RP	L+1=there & L-1=run
+2	2	T=RP	L+1=there & L-1=look
+2	1	T=RP	L+1=when
+1	1	T=RP	L+1=heredity
+1	1	T=RP	L+1=too
+1	1	T=RP	L+1=telephone
+3	1	T=RP	L+1=!
+1	1	T=II	L+1=whose
+1	1	T=RP	L+1=racial
+1	1	T=RP	L+1=instantly
+9	1	T=RP	L+1=for
+1	1	T=RP	L+1=of
+1	1	T=RP	L+1=symbol
+61	1	T=RP	L+1=.
+1	1	T=RP	L+1=slowly
+4	1	T=RP	L+1=beside
+1	1	T=RP	L+1=new
+1	1	T=RP	L+1=flee
+1	1	T=RP	L+1=imply
+1	2	T=II	L+1=the & L-1=strut
+1	2	T=II	L+1=the & L-1=steamboat
+1	2	T=II	L+1=the & L-1=canter
+2	2	T=II	L+1=the & L-1=walking
+1	2	T=RP	L+1=the & L-1=play
+1	2	T=II	L+1=the & L-1=crawl
+2	2	T=II	L+1=the & L-1=stride
+1	2	T=RP	L+1=the & L-1=pinned
+1	2	T=II	L+1=the & L-1=them
+1	2	T=II	L+1=the & L-1=pointed
+1	2	T=II	L+1=the & L-1=right
+1	2	T=RP	L+1=the & L-1=ripped
+3	2	T=II	L+1=the & L-1=,
+3	2	T=RP	L+1=the & L-1=take
+1	2	T=II	L+1=the & L-1=half-way
+2	2	T=II	L+1=the & L-1=hurry
+1	2	T=II	L+1=the & L-1=him
+1	2	T=II	L+1=the & L-1=dad
+4	2	T=II	L+1=the & L-1=run
+4	2	T=RP	L+1=the & L-1=put
+2	2	T=II	L+1=the & L-1=look
+1	2	T=RP	L+1=the & L-1=smashed
+2	2	T=II	L+1=the & L-1=back
+1	2	T=II	L+1=the & L-1=buttocks
+1	2	T=II	L+1=the & L-1=mount
+5	2	T=II	L+1=the & L-1=ride
+1	2	T=II	L+1=the & L-1=discovery
+1	2	T=II	L+1=the & L-1=coolant
+1	2	T=II	L+1=the & L-1=way
+2	2	T=II	L+1=the & L-1=stroll
+2	2	T=RP	L+1=the & L-1=let
+1	2	T=II	L+1=the & L-1=gracefully
+1	2	T=II	L+1=the & L-1=somewhere
+1	2	T=II	L+1=the & L-1=extend
+2	2	T=II	L+1=the & L-1=running
+1	2	T=II	L+1=the & L-1=principally
+1	2	T=II	L+1=the & L-1=easily
+13	2	T=II	L+1=the & L-1=and
+1	2	T=II	L+1=the & L-1=sluice
+1	2	T=RP	L+1=the & L-1=beat
+1	2	T=RP	L+1=the & L-1=track
+3	2	T=II	L+1=the & L-1=come
+1	2	T=II	L+1=the & L-1=drive-in
+1	2	T=II	L+1=the & L-1=creep
+2	2	T=II	L+1=the & L-1=far
+4	2	T=II	L+1=the & L-1=on
+1	2	T=II	L+1=the & L-1=float
+1	2	T=II	L+1=the & L-1=turned
+1	2	T=II	L+1=the & L-1=live
+5	2	T=II	L+1=the & L-1=walk
+1	2	T=II	L+1=the & L-1=guy
+4	2	T=II	L+1=the & L-1=start
+3	2	T=II	L+1=the & L-1=clatter
+1	2	T=RP	L+1=the & L-1=hold
+1	2	T=II	L+1=the & L-1=left
+1	2	T=II	L+1=the & L-1=march
+1	2	T=II	L+1=the & L-1=stripe
+1	2	T=II	L+1=the & L-1=passed
+1	2	T=II	L+1=the & L-1=slowly
+1	2	T=RP	L+1=the & L-1=brush
+1	2	T=II	L+1=the & L-1=rushed
+1	2	T=II	L+1=the & L-1=gone
+2	2	T=II	L+1=the & L-1=flee
+1	2	T=II	L+1=the & L-1=scoot
+2	2	T=II	L+1=the & L-1=0
+1	2	T=II	L+1=the & L-1=whirl
+1	2	T=II	L+1=the & L-1=stumble
+2	2	T=II	L+1=the & L-1=halfway
+1	2	T=II	L+1=the & L-1=stare
+2	2	T=RP	L+1=the & L-1=throw
+2	2	T=II	L+1=the & L-1=disappeared
+1	2	T=II	L+1=the & L-1=again
+1	2	T=II	L+1=the & L-1=fearfully
+1	2	T=RP	L+1=the & L-1=hunt
+2	2	T=II	L+1=the & L-1=us
+1	2	T=II	L+1=the & L-1=thump
+1	2	T=RP	L+1=the & L-1=bring
+2	2	T=II	L+1=the & L-1=go
+1	2	T=II	L+1=the & L-1=tumbled
+1	2	T=II	L+1=the & L-1=dripped
+1	2	T=II	L+1=the & L-1=swiftly
+1	2	T=II	L+1=the & L-1=moved
+1	2	T=II	L+1=the & L-1=drove
+1	2	T=II	L+1=the & L-1=slide
+1	2	T=II	L+1=the & L-1=canoe
+1	2	T=II	L+1=the & L-1=her
+1	2	T=II	L+1=the & L-1=work
+1	2	T=II	L+1=the & L-1=mile
+1	2	T=II	L+1=the & L-1=dizzily
+2	3	T=RP	L+1=the & L-1=tear & Ger-1=False
+1	3	T=II	L+1=the & L-1=tear & Ger-1=True
+1	2	T=RP	L+1=the & L-1=ring
+1	2	T=II	L+1=the & L-1=doubled
+1	2	T=II	L+1=the & L-1=whoop
+1	3	T=II	L+1=the & L-1=fight & Gen-1=N
+2	3	T=RP	L+1=the & L-1=fight & Gen-1=V
+2	2	T=RP	L+1=the & L-1=laid
+1	2	T=RP	L+1=the & L-1=knock
+1	2	T=II	L+1=the & L-1=off
+1	2	T=II	L+1=the & L-1=then
+1	2	T=II	L+1=the & L-1=once
+2	16	T=RP~II	L+1=the & L-1=shoot & M+1=True & Ing-1=False & Gen+1=A & C+1=True & Inf+1=False & Inf-1=False & Ger+1=False & A+1=False & Gen-1=V & Ing+1=False & A-1=False & M-1=False & C-1=False & Ger-1=False
+1	2	T=II	L+1=the & L-1=rumble
+4	2	T=RP	L+1=the & L-1=break
+1	2	T=II	L+1=the & L-1=dropped
+1	1	T=RP	L+1=almost
+1	2	T=II	L+1=0 & L-1=moved
+1	2	T=II	L+1=0 & L-1=ride
+1	2	T=II	L+1=0 & L-1=meander
+1	2	T=RP	L+1=0 & L-1=be
+1	2	T=RP	L+1=0 & L-1=strike
+1	2	T=II	L+1=0 & L-1=block
+1	2	T=II	L+1=0 & L-1=race
+1	2	T=VV0	L+1=0 & L-1=somehow
+1	2	T=RP	L+1=0 & L-1=copy
+1	2	T=RP	L+1=0 & L-1=straight
+4	2	T=RP	L+1=0 & L-1=,
+1	2	T=RP	L+1=0 & L-1=know
+1	2	T=RP	L+1=0 & L-1=track
+4	1	T=RP	L+1=as
+1	1	T=RP	L+1=free
+1	1	T=II	L+1=those
+1	1	T=RP	L+1=without
+1	1	T=RP	L+1=frame
+1	1	T=RP	L+1=near
+1	1	T=RP	L+1=or
+1	2	T=RP	L+1=a & L-1=take
+1	2	T=II	L+1=a & L-1=rolled
+1	2	T=RP	L+1=a & L-1=strike
+1	2	T=II	L+1=a & L-1=him
+1	2	T=RP	L+1=a & L-1=lay
+1	2	T=II	L+1=a & L-1=fling
+1	2	T=II	L+1=a & L-1=and
+1	2	T=RP	L+1=a & L-1=quiet
+1	2	T=RP	L+1=a & L-1=tear
+1	2	T=II	L+1=a & L-1=sneak
+1	2	T=RP	L+1=a & L-1=settled
+1	2	T=II	L+1=a & L-1=,
+1	2	T=RP	L+1=a & L-1=put
+1	2	T=II	L+1=a & L-1=walk
+1	2	T=II	L+1=a & L-1=march
+1	2	T=II	L+1=its & L-1=slit
+1	2	T=II	L+1=its & L-1=0
+1	2	T=RP	L+1=its & L-1=lay
+1	2	T=II	L+1=its & L-1=fist
+1	1	T=RP	L+1=check
+2	1	T=RP	L+1=our
+1	1	T=RP	L+1=expense
+1	1	T=II	L+1=soggy
+1	1	T=RP	L+1=enough
+1	1	T=RP	L+1=some
+33	1	T=RP	L+1=at
+15	1	T=RP	L+1=by
+1	1	T=RP	L+1=three
+8	1	T=RP	L+1=again
+1	1	T=RP	L+1=fast
+1	2	T=RP	L+1=here & L-1=dark
+1	2	T=II	L+1=here & L-1=them
+1	2	T=II	L+1=here & L-1=come
+1	2	T=II	L+1=here & L-1=be
+1	2	T=RP	L+1=here & L-1=through
+1	2	T=RP	L+1=here & L-1=work
+1	2	T=RP	L+1=here & L-1=time
+1	1	T=II	L+1=stair
+8	1	T=RP	L+1=through
+14	1	T=RP	L+1=with
+2	1	T=RP	L+1=like
+1	1	T=RP	L+1=throughout
+2	1	T=II	L+1=main
+1	1	T=RP	L+1=movement
+1	1	T=RP	L+1=eskimo
+1	1	T=RP	L+1=barrier
+1	1	T=RP	L+1=everything
+2	1	T=RP	L+1=together
+2	1	T=RP	L+1=early
+1	1	T=RP	L+1=where
+3	1	T=RP	L+1=long
+2	2	T=RP	L+1=to & L-1=0
+1	2	T=RP	L+1=to & L-1=trip
+1	2	T=RP	L+1=to & L-1=stripped
+1	2	T=RP	L+1=to & L-1=messenger
+1	2	T=RP	L+1=to & L-1=drove
+1	2	T=RP	L+1=to & L-1=drift
+1	2	T=RP	L+1=to & L-1=bend
+1	2	T=RP	L+1=to & L-1=narrowed
+1	2	T=RP	L+1=to & L-1=and
+1	2	T=RP	L+1=to & L-1=bag
+1	2	T=RP	L+1=to & L-1=caravan
+1	2	T=RP	L+1=to & L-1=shouted
+1	2	T=RP	L+1=to & L-1=develop
+2	2	T=RP	L+1=to & L-1=carried
+9	2	T=RP	L+1=to & L-1=come
+1	2	T=RP	L+1=to & L-1=funneled
+1	2	T=RP	L+1=to & L-1=distil
+3	2	T=RP	L+1=to & L-1=get
+2	16	T=RP~II	L+1=to & L-1=be & M+1=False & Ing-1=False & Gen+1=I & C+1=True & Inf+1=False & Inf-1=False & Ger+1=False & A+1=False & Gen-1=V & Ing+1=False & A-1=False & M-1=False & C-1=True & Ger-1=False
+1	2	T=RP	L+1=to & L-1=knuckle
+2	2	T=RP	L+1=to & L-1=sat
+3	16	T=RP~II	L+1=to & L-1=on & M+1=False & Ing-1=False & Gen+1=I & C+1=True & Inf+1=False & Inf-1=False & Ger+1=False & A+1=False & Gen-1=R & Ing+1=False & A-1=False & M-1=True & C-1=True & Ger-1=False
+3	2	T=RP	L+1=to & L-1=right
+1	2	T=RP	L+1=to & L-1=driven
+1	2	T=RP	L+1=to & L-1=ladder
+1	2	T=RP	L+1=to & L-1=straight
+1	2	T=RP	L+1=to & L-1=,
+4	2	T=RP	L+1=to & L-1=settled
+1	2	T=RP	L+1=to & L-1=pushed
+1	2	T=RP	L+1=to & L-1=swoop
+2	2	T=RP	L+1=to & L-1=settle
+1	2	T=RP	L+1=to & L-1=wave
+1	2	T=RP	L+1=to & L-1=tied
+1	2	T=RP	L+1=to & L-1=stoop
+2	2	T=RP	L+1=to & L-1=lead
+1	2	T=RP	L+1=to & L-1=world
+1	2	T=RP	L+1=to & L-1=even
+1	2	T=RP	L+1=to & L-1=area
+1	2	T=RP	L+1=to & L-1=him
+1	2	T=RP	L+1=to & L-1=reach
+1	2	T=II	L+1=to & L-1=shape
+1	2	T=RP	L+1=to & L-1=run
+1	2	T=RP	L+1=to & L-1=eye
+6	2	T=RP	L+1=to & L-1=it
+1	2	T=RP	L+1=to & L-1=reign
+2	2	T=RP	L+1=to & L-1=back
+1	2	T=RP	L+1=to & L-1=boil
+1	2	T=RP	L+1=to & L-1=laid
+1	2	T=RP	L+1=to & L-1=car
+1	2	T=RP	L+1=to & L-1=kneel
+1	2	T=RP	L+1=to & L-1=me
+9	2	T=RP	L+1=to & L-1=go
+1	2	T=RP	L+1=to & L-1=swim
+1	2	T=RP	L+1=to & L-1=rare
+1	2	T=RP	L+1=to & L-1=shoot
+1	2	T=RP	L+1=to & L-1=hand
+1	2	T=RP	L+1=to & L-1=continue
+1	2	T=RP	L+1=to & L-1=hung
+1	2	T=RP	L+1=to & L-1=stroll
+1	2	T=RP	L+1=to & L-1=dropped
+1	2	T=RP	L+1=to & L-1=body
+1	2	T=RP	L+1=to & L-1=bow
+1	2	T=RP	L+1=to & L-1=temperature
+1	2	T=RP	L+1=his & L-1=wash
+1	2	T=II	L+1=his & L-1=key
+1	2	T=II	L+1=his & L-1=running
+1	2	T=II	L+1=his & L-1=get
+1	2	T=II	L+1=his & L-1=slide
+1	2	T=RP	L+1=his & L-1=choked
+1	2	T=II	L+1=his & L-1=finger
+1	2	T=II	L+1=his & L-1=pour
+1	2	T=II	L+1=his & L-1=dripped
+1	2	T=RP	L+1=his & L-1=lay
+1	2	T=RP	L+1=his & L-1=turned
+1	2	T=II	L+1=his & L-1=stream
+1	2	T=II	L+1=his & L-1=and
+1	2	T=II	L+1=his & L-1=haughtily
+1	2	T=RP	L+1=his & L-1=squeezed
+1	2	T=RP	L+1=his & L-1=run
+2	2	T=RP	L+1=his & L-1=put
+1	1	T=RP	L+1=just
+1	1	T=RP	L+1=distastefully
+1	1	T=RP	L+1=rather
+1	2	T=RP	L+1=her & L-1=set
+1	2	T=II	L+1=her & L-1=slide
+1	2	T=RP	L+1=her & L-1=reach
+1	2	T=RP	L+1=her & L-1=let
+1	2	T=RP	L+1=her & L-1=put
+1	2	T=II	L+1=her & L-1=it
+1	1	T=II	L+1=peony
+1	1	T=RP	L+1=long-term
+2	1	T=RP	L+1=while
+2	1	T=RP	L+1=be
+29	1	T=RP	L+1=in
+1	1	T=II	L+1=my
+1	1	T=RP	L+1=opposite
+1	1	T=RP	L+1=heavily
+6	1	T=RP	L+1=upon
+2	1	T=RP	L+1=considerably
+2	1	T=RP	L+1=down
+1	1	T=RP	L+1=against
+5	1	T=RP	L+1=;
+1	1	T=RP	L+1=each
+1	1	T=RP	L+1=fight
+2	1	T=RP	L+1=around
+1	1	T=RP	L+1=nazi
+1	1	T=RP	L+1=mighty
+2	1	T=RP	L+1=off
+1	1	T=RP	L+1=anyway
+3	1	T=RP	L+1=hard
+1	1	T=RP	L+1=drastically
+1	1	T=RP	L+1=enthusiasm
+1	1	T=RP	L+1=all
+Count	Path_Length	Result	Predicates
+1	1	T=RP	L+1=bathe
+1	1	T=RP	L+1=anyone
+1	1	T=II	L+1=five
+1	1	T=RP	L+1=governmental
+1	1	T=RP	L+1=word
+2	1	T=RP	L+1=next
+2	1	T=RP	L+1=during
+1	1	T=RP	L+1=three-quarters
+1	1	T=RP	L+1=right
+1	1	T=RP	L+1=among
+1	2	T=NP1	L+1=, & L-1=county
+1	2	T=RP	L+1=, & L-1=lean
+1	2	T=RP	L+1=, & L-1=burned
+1	2	T=RP	L+1=, & L-1=pour
+1	2	T=RP	L+1=, & L-1=quirt
+2	2	T=RP	L+1=, & L-1=and
+4	2	T=RP	L+1=, & L-1=upside
+1	2	T=RP	L+1=, & L-1=her
+1	2	T=RP	L+1=, & L-1=or
+1	2	T=RP	L+1=, & L-1=himself
+2	2	T=RP	L+1=, & L-1=foot
+1	2	T=RP	L+1=, & L-1=freeze
+1	2	T=RP	L+1=, & L-1=them
+3	2	T=RP	L+1=, & L-1=come
+1	2	T=RP	L+1=, & L-1=slow
+1	2	T=RP	L+1=, & L-1=head
+1	2	T=RP	L+1=, & L-1=be
+2	2	T=RP	L+1=, & L-1=bent
+6	2	T=RP	L+1=, & L-1=sat
+2	2	T=RP	L+1=, & L-1=calm
+4	2	T=RP	L+1=, & L-1=sit
+2	2	T=RP	L+1=, & L-1=,
+1	2	T=RP	L+1=, & L-1=you
+1	2	T=RP	L+1=, & L-1=demand
+1	2	T=RP	L+1=, & L-1=crash
+1	2	T=RP	L+1=, & L-1=candidate
+1	2	T=RP	L+1=, & L-1=held
+1	2	T=RP	L+1=, & L-1=him
+2	2	T=RP	L+1=, & L-1=run
+1	2	T=RP	L+1=, & L-1=coming
+1	2	T=RP	L+1=, & L-1=look
+2	2	T=RP	L+1=, & L-1=laid
+1	2	T=RP	L+1=, & L-1=flop
+2	18	T=RP~RR	L+1=, & L-1=go & T+1=QC & Ing-1=False & M+1=False & Gen+1=Q & C+1=True & Inf+1=False & A+1=False & T-1=VV0 & Inf-1=False & A-1=False & Gen-1=V & Ing+1=False & M-1=False & C-1=False & Ger+1=False & Ger-1=False
+1	2	T=RP	L+1=, & L-1=swim
+1	2	T=RP	L+1=, & L-1=knock
+1	2	T=RP	L+1=, & L-1=gone
+1	2	T=RP	L+1=, & L-1=rifle
+1	2	T=RP	L+1=, & L-1=hair
+1	2	T=RP	L+1=, & L-1=climb
+1	2	T=RP	L+1=, & L-1=simmer
+2	1	T=RP	L+1=after
+1	2	T=VV0	L+1=full & L-1=to
+1	2	T=RP	L+1=full & L-1=ball
+1	1	T=RP	L+1=even
+2	1	T=RP	L+1=more
+1	1	T=II	L+1=him
+2	1	T=RP	L+1=these
+16	1	T=RP	L+1=from
+2	1	T=RP	L+1=so
+1	2	T=RP	L+1=that & L-1=bring
+1	2	T=RP	L+1=that & L-1=wash
+1	2	T=II	L+1=that & L-1=wildly
+1	2	T=RP	L+1=that & L-1=set
+1	2	T=II	L+1=that & L-1=fly
+1	1	T=RP	L+1=furiously
+1	1	T=JJ	L+1=payment
+1	1	T=RP	L+1=many
+8	1	T=RP	L+1=over
+1	1	T=RP	L+1=have
+1	1	T=RP	L+1=behind
+1	1	T=RP	L+1=if
+1	1	T=RR	L+1=home
+37	1	T=RP	L+1=and
+1	1	T=RP	L+1=under
+1	2	T=II	L+1=both & L-1=back
+1	2	T=RP	L+1=both & L-1=torn
+14	1	T=RP	L+1=into
+1	2	T=II	L+1=this & L-1=ride
+1	2	T=RP	L+1=this & L-1=go
+1	2	T=RP	L+1=this & L-1=burn
+1	2	T=II	L+1=this & L-1=gone
+1	2	T=RP	L+1=this & L-1=it
+1	2	T=II	L+1=this & L-1=mile
+1	2	T=RP	L+1=on & L-1=cutting
+1	2	T=RP	L+1=on & L-1=0
+1	2	T=RP	L+1=on & L-1=plane
+2	2	T=RP	L+1=on & L-1=bear
+1	2	T=RP	L+1=on & L-1=face
+1	2	T=RP	L+1=on & L-1=themselves
+1	2	T=RP	L+1=on & L-1=bore
+1	2	T=RP	L+1=on & L-1=press
+1	2	T=RP	L+1=on & L-1=upside
+2	2	T=RP	L+1=on & L-1=lie
+1	2	T=RP	L+1=on & L-1=her
+1	2	T=RP	L+1=on & L-1=pinned
+1	2	T=RP	L+1=on & L-1=come
+1	2	T=RP	L+1=on & L-1=them
+1	2	T=RP	L+1=on & L-1=get
+1	2	T=RP	L+1=on & L-1=bite
+1	2	T=RP	L+1=on & L-1=be
+9	2	T=RP	L+1=on & L-1=sat
+1	2	T=RP	L+1=on & L-1=situate
+1	2	T=II	L+1=on & L-1=already
+1	2	T=RP	L+1=on & L-1=settle
+1	2	T=RP	L+1=on & L-1=tone
+1	2	T=RP	L+1=on & L-1=hunker
+1	2	T=RP	L+1=on & L-1=butt
+1	2	T=RP	L+1=on & L-1=sink
+1	2	T=RP	L+1=on & L-1=iron
+1	2	T=RP	L+1=on & L-1=hurtle
+1	2	T=RP	L+1=on & L-1=hold
+3	2	T=RP	L+1=on & L-1=cut
+1	2	T=RP	L+1=on & L-1=put
+4	2	T=RP	L+1=on & L-1=look
+1	2	T=RP	L+1=on & L-1=laid
+3	2	T=RP	L+1=on & L-1=go
+1	2	T=RP	L+1=on & L-1=set
+1	2	T=RP	L+1=on & L-1=chin
+3	1	T=RP	L+1=along
+1	1	T=NN1	L+1=float
+7	1	T=RP	L+1=before
+1	1	T=RP	L+1=fire
+4	1	T=RP	L+1=-
+1	1	T=RP	L+1=crux
+1	2	T=II	L+1=there & L-1=car
+1	2	T=RP	L+1=there & L-1=head
+1	2	T=RP	L+1=there & L-1=nice
+1	2	T=RP	L+1=there & L-1=codfish
+1	2	T=RP	L+1=there & L-1=run
+2	2	T=RP	L+1=there & L-1=look
+2	1	T=RP	L+1=when
+1	1	T=RP	L+1=heredity
+1	1	T=RP	L+1=too
+1	1	T=RP	L+1=telephone
+3	1	T=RP	L+1=!
+1	1	T=II	L+1=whose
+1	1	T=RP	L+1=racial
+1	1	T=RP	L+1=instantly
+9	1	T=RP	L+1=for
+1	1	T=RP	L+1=of
+1	1	T=RP	L+1=symbol
+61	1	T=RP	L+1=.
+1	1	T=RP	L+1=slowly
+4	1	T=RP	L+1=beside
+1	1	T=RP	L+1=new
+1	1	T=RP	L+1=flee
+1	1	T=RP	L+1=imply
+1	2	T=II	L+1=the & L-1=strut
+1	2	T=II	L+1=the & L-1=steamboat
+1	2	T=II	L+1=the & L-1=canter
+2	2	T=II	L+1=the & L-1=walking
+1	2	T=RP	L+1=the & L-1=play
+1	2	T=II	L+1=the & L-1=crawl
+2	2	T=II	L+1=the & L-1=stride
+1	2	T=RP	L+1=the & L-1=pinned
+1	2	T=II	L+1=the & L-1=them
+1	2	T=II	L+1=the & L-1=pointed
+1	2	T=II	L+1=the & L-1=right
+1	2	T=RP	L+1=the & L-1=ripped
+3	2	T=II	L+1=the & L-1=,
+3	2	T=RP	L+1=the & L-1=take
+1	2	T=II	L+1=the & L-1=half-way
+2	2	T=II	L+1=the & L-1=hurry
+1	2	T=II	L+1=the & L-1=him
+1	2	T=II	L+1=the & L-1=dad
+4	2	T=II	L+1=the & L-1=run
+4	2	T=RP	L+1=the & L-1=put
+2	2	T=II	L+1=the & L-1=look
+1	2	T=RP	L+1=the & L-1=smashed
+2	2	T=II	L+1=the & L-1=back
+1	2	T=II	L+1=the & L-1=buttocks
+1	2	T=II	L+1=the & L-1=mount
+5	2	T=II	L+1=the & L-1=ride
+1	2	T=II	L+1=the & L-1=discovery
+1	2	T=II	L+1=the & L-1=coolant
+1	2	T=II	L+1=the & L-1=way
+2	2	T=II	L+1=the & L-1=stroll
+2	2	T=RP	L+1=the & L-1=let
+1	2	T=II	L+1=the & L-1=gracefully
+1	2	T=II	L+1=the & L-1=somewhere
+1	2	T=II	L+1=the & L-1=extend
+2	2	T=II	L+1=the & L-1=running
+1	2	T=II	L+1=the & L-1=principally
+1	2	T=II	L+1=the & L-1=easily
+13	2	T=II	L+1=the & L-1=and
+1	2	T=II	L+1=the & L-1=sluice
+1	2	T=RP	L+1=the & L-1=beat
+1	2	T=RP	L+1=the & L-1=track
+3	2	T=II	L+1=the & L-1=come
+1	2	T=II	L+1=the & L-1=drive-in
+1	2	T=II	L+1=the & L-1=creep
+2	2	T=II	L+1=the & L-1=far
+4	2	T=II	L+1=the & L-1=on
+1	2	T=II	L+1=the & L-1=float
+1	2	T=II	L+1=the & L-1=turned
+1	2	T=II	L+1=the & L-1=live
+5	2	T=II	L+1=the & L-1=walk
+1	2	T=II	L+1=the & L-1=guy
+4	2	T=II	L+1=the & L-1=start
+3	2	T=II	L+1=the & L-1=clatter
+1	2	T=RP	L+1=the & L-1=hold
+1	2	T=II	L+1=the & L-1=left
+1	2	T=II	L+1=the & L-1=march
+1	2	T=II	L+1=the & L-1=stripe
+1	2	T=II	L+1=the & L-1=passed
+1	2	T=II	L+1=the & L-1=slowly
+1	2	T=RP	L+1=the & L-1=brush
+1	2	T=II	L+1=the & L-1=rushed
+1	2	T=II	L+1=the & L-1=gone
+2	2	T=II	L+1=the & L-1=flee
+1	2	T=II	L+1=the & L-1=scoot
+2	2	T=II	L+1=the & L-1=0
+1	2	T=II	L+1=the & L-1=whirl
+1	2	T=II	L+1=the & L-1=stumble
+2	2	T=II	L+1=the & L-1=halfway
+1	2	T=II	L+1=the & L-1=stare
+2	2	T=RP	L+1=the & L-1=throw
+2	2	T=II	L+1=the & L-1=disappeared
+1	2	T=II	L+1=the & L-1=again
+1	2	T=II	L+1=the & L-1=fearfully
+1	2	T=RP	L+1=the & L-1=hunt
+2	2	T=II	L+1=the & L-1=us
+1	2	T=II	L+1=the & L-1=thump
+1	2	T=RP	L+1=the & L-1=bring
+2	2	T=II	L+1=the & L-1=go
+1	2	T=II	L+1=the & L-1=tumbled
+1	2	T=II	L+1=the & L-1=dripped
+1	2	T=II	L+1=the & L-1=swiftly
+1	2	T=II	L+1=the & L-1=moved
+1	2	T=II	L+1=the & L-1=drove
+1	2	T=II	L+1=the & L-1=slide
+1	2	T=II	L+1=the & L-1=canoe
+1	2	T=II	L+1=the & L-1=her
+1	2	T=II	L+1=the & L-1=work
+1	2	T=II	L+1=the & L-1=mile
+1	2	T=II	L+1=the & L-1=dizzily
+2	3	T=RP	L+1=the & L-1=tear & Ger-1=False
+1	3	T=II	L+1=the & L-1=tear & Ger-1=True
+1	2	T=RP	L+1=the & L-1=ring
+1	2	T=II	L+1=the & L-1=doubled
+1	2	T=II	L+1=the & L-1=whoop
+1	3	T=II	L+1=the & L-1=fight & T-1=NN1
+1	3	T=RP	L+1=the & L-1=fight & T-1=VV0
+1	3	T=RP	L+1=the & L-1=fight & T-1=VVD
+2	2	T=RP	L+1=the & L-1=laid
+1	2	T=RP	L+1=the & L-1=knock
+1	2	T=II	L+1=the & L-1=off
+1	2	T=II	L+1=the & L-1=then
+1	2	T=II	L+1=the & L-1=once
+2	18	T=RP~II	L+1=the & L-1=shoot & T+1=AT & Ing-1=False & M+1=True & Gen+1=A & C+1=True & Inf+1=False & A+1=False & T-1=VVD & Inf-1=False & A-1=False & Gen-1=V & Ing+1=False & M-1=False & C-1=False & Ger+1=False & Ger-1=False
+1	2	T=II	L+1=the & L-1=rumble
+4	2	T=RP	L+1=the & L-1=break
+1	2	T=II	L+1=the & L-1=dropped
+1	1	T=RP	L+1=almost
+1	2	T=II	L+1=0 & L-1=moved
+1	2	T=II	L+1=0 & L-1=ride
+1	2	T=II	L+1=0 & L-1=meander
+1	2	T=RP	L+1=0 & L-1=be
+1	2	T=RP	L+1=0 & L-1=strike
+1	2	T=II	L+1=0 & L-1=block
+1	2	T=II	L+1=0 & L-1=race
+1	2	T=VV0	L+1=0 & L-1=somehow
+1	2	T=RP	L+1=0 & L-1=copy
+1	2	T=RP	L+1=0 & L-1=straight
+4	2	T=RP	L+1=0 & L-1=,
+1	2	T=RP	L+1=0 & L-1=know
+1	2	T=RP	L+1=0 & L-1=track
+4	1	T=RP	L+1=as
+1	1	T=RP	L+1=free
+1	1	T=II	L+1=those
+1	1	T=RP	L+1=without
+1	1	T=RP	L+1=frame
+1	1	T=RP	L+1=near
+1	1	T=RP	L+1=or
+1	2	T=RP	L+1=a & L-1=take
+1	2	T=II	L+1=a & L-1=rolled
+1	2	T=RP	L+1=a & L-1=strike
+1	2	T=II	L+1=a & L-1=him
+1	2	T=RP	L+1=a & L-1=lay
+1	2	T=II	L+1=a & L-1=fling
+1	2	T=II	L+1=a & L-1=and
+1	2	T=RP	L+1=a & L-1=quiet
+1	2	T=RP	L+1=a & L-1=tear
+1	2	T=II	L+1=a & L-1=sneak
+1	2	T=RP	L+1=a & L-1=settled
+1	2	T=II	L+1=a & L-1=,
+1	2	T=RP	L+1=a & L-1=put
+1	2	T=II	L+1=a & L-1=walk
+1	2	T=II	L+1=a & L-1=march
+1	2	T=II	L+1=its & L-1=slit
+1	2	T=II	L+1=its & L-1=0
+1	2	T=RP	L+1=its & L-1=lay
+1	2	T=II	L+1=its & L-1=fist
+1	1	T=RP	L+1=check
+2	1	T=RP	L+1=our
+1	1	T=RP	L+1=expense
+1	1	T=II	L+1=soggy
+1	1	T=RP	L+1=enough
+1	1	T=RP	L+1=some
+33	1	T=RP	L+1=at
+15	1	T=RP	L+1=by
+1	1	T=RP	L+1=three
+8	1	T=RP	L+1=again
+1	1	T=RP	L+1=fast
+1	2	T=RP	L+1=here & L-1=dark
+1	2	T=II	L+1=here & L-1=them
+1	2	T=II	L+1=here & L-1=come
+1	2	T=II	L+1=here & L-1=be
+1	2	T=RP	L+1=here & L-1=through
+1	2	T=RP	L+1=here & L-1=work
+1	2	T=RP	L+1=here & L-1=time
+1	1	T=II	L+1=stair
+8	1	T=RP	L+1=through
+14	1	T=RP	L+1=with
+2	1	T=RP	L+1=like
+1	1	T=RP	L+1=throughout
+2	1	T=II	L+1=main
+1	1	T=RP	L+1=movement
+1	1	T=RP	L+1=eskimo
+1	1	T=RP	L+1=barrier
+1	1	T=RP	L+1=everything
+2	1	T=RP	L+1=together
+2	1	T=RP	L+1=early
+1	1	T=RP	L+1=where
+3	1	T=RP	L+1=long
+2	2	T=RP	L+1=to & L-1=0
+1	2	T=RP	L+1=to & L-1=trip
+1	2	T=RP	L+1=to & L-1=stripped
+1	2	T=RP	L+1=to & L-1=messenger
+1	2	T=RP	L+1=to & L-1=drove
+1	2	T=RP	L+1=to & L-1=drift
+1	2	T=RP	L+1=to & L-1=bend
+1	2	T=RP	L+1=to & L-1=narrowed
+1	2	T=RP	L+1=to & L-1=and
+1	2	T=RP	L+1=to & L-1=bag
+1	2	T=RP	L+1=to & L-1=caravan
+1	2	T=RP	L+1=to & L-1=shouted
+1	2	T=RP	L+1=to & L-1=develop
+2	2	T=RP	L+1=to & L-1=carried
+9	2	T=RP	L+1=to & L-1=come
+1	2	T=RP	L+1=to & L-1=funneled
+1	2	T=RP	L+1=to & L-1=distil
+3	2	T=RP	L+1=to & L-1=get
+2	18	T=RP~II	L+1=to & L-1=be & T+1=II & Ing-1=False & M+1=False & Gen+1=I & C+1=True & Inf+1=False & A+1=False & T-1=VBDZ & Inf-1=False & A-1=False & Gen-1=V & Ing+1=False & M-1=False & C-1=True & Ger+1=False & Ger-1=False
+1	2	T=RP	L+1=to & L-1=knuckle
+2	2	T=RP	L+1=to & L-1=sat
+3	18	T=RP~II	L+1=to & L-1=on & T+1=II & Ing-1=False & M+1=False & Gen+1=I & C+1=True & Inf+1=False & A+1=False & T-1=RP & Inf-1=False & A-1=False & Gen-1=R & Ing+1=False & M-1=True & C-1=True & Ger+1=False & Ger-1=False
+3	2	T=RP	L+1=to & L-1=right
+1	2	T=RP	L+1=to & L-1=driven
+1	2	T=RP	L+1=to & L-1=ladder
+1	2	T=RP	L+1=to & L-1=straight
+1	2	T=RP	L+1=to & L-1=,
+4	2	T=RP	L+1=to & L-1=settled
+1	2	T=RP	L+1=to & L-1=pushed
+1	2	T=RP	L+1=to & L-1=swoop
+2	2	T=RP	L+1=to & L-1=settle
+1	2	T=RP	L+1=to & L-1=wave
+1	2	T=RP	L+1=to & L-1=tied
+1	2	T=RP	L+1=to & L-1=stoop
+2	2	T=RP	L+1=to & L-1=lead
+1	2	T=RP	L+1=to & L-1=world
+1	2	T=RP	L+1=to & L-1=even
+1	2	T=RP	L+1=to & L-1=area
+1	2	T=RP	L+1=to & L-1=him
+1	2	T=RP	L+1=to & L-1=reach
+1	2	T=II	L+1=to & L-1=shape
+1	2	T=RP	L+1=to & L-1=run
+1	2	T=RP	L+1=to & L-1=eye
+6	2	T=RP	L+1=to & L-1=it
+1	2	T=RP	L+1=to & L-1=reign
+2	2	T=RP	L+1=to & L-1=back
+1	2	T=RP	L+1=to & L-1=boil
+1	2	T=RP	L+1=to & L-1=laid
+1	2	T=RP	L+1=to & L-1=car
+1	2	T=RP	L+1=to & L-1=kneel
+1	2	T=RP	L+1=to & L-1=me
+9	2	T=RP	L+1=to & L-1=go
+1	2	T=RP	L+1=to & L-1=swim
+1	2	T=RP	L+1=to & L-1=rare
+1	2	T=RP	L+1=to & L-1=shoot
+1	2	T=RP	L+1=to & L-1=hand
+1	2	T=RP	L+1=to & L-1=continue
+1	2	T=RP	L+1=to & L-1=hung
+1	2	T=RP	L+1=to & L-1=stroll
+1	2	T=RP	L+1=to & L-1=dropped
+1	2	T=RP	L+1=to & L-1=body
+1	2	T=RP	L+1=to & L-1=bow
+1	2	T=RP	L+1=to & L-1=temperature
+1	2	T=RP	L+1=his & L-1=wash
+1	2	T=II	L+1=his & L-1=key
+1	2	T=II	L+1=his & L-1=running
+1	2	T=II	L+1=his & L-1=get
+1	2	T=II	L+1=his & L-1=slide
+1	2	T=RP	L+1=his & L-1=choked
+1	2	T=II	L+1=his & L-1=finger
+1	2	T=II	L+1=his & L-1=pour
+1	2	T=II	L+1=his & L-1=dripped
+1	2	T=RP	L+1=his & L-1=lay
+1	2	T=RP	L+1=his & L-1=turned
+1	2	T=II	L+1=his & L-1=stream
+1	2	T=II	L+1=his & L-1=and
+1	2	T=II	L+1=his & L-1=haughtily
+1	2	T=RP	L+1=his & L-1=squeezed
+1	2	T=RP	L+1=his & L-1=run
+2	2	T=RP	L+1=his & L-1=put
+1	1	T=RP	L+1=just
+1	1	T=RP	L+1=distastefully
+1	1	T=RP	L+1=rather
+1	2	T=RP	L+1=her & L-1=set
+1	2	T=II	L+1=her & L-1=slide
+1	2	T=RP	L+1=her & L-1=reach
+1	2	T=RP	L+1=her & L-1=let
+1	2	T=RP	L+1=her & L-1=put
+1	2	T=II	L+1=her & L-1=it
+1	1	T=II	L+1=peony
+1	1	T=RP	L+1=long-term
+2	1	T=RP	L+1=while
+2	1	T=RP	L+1=be
+29	1	T=RP	L+1=in
+1	1	T=II	L+1=my
+1	1	T=RP	L+1=opposite
+1	1	T=RP	L+1=heavily
+6	1	T=RP	L+1=upon
+2	1	T=RP	L+1=considerably
+2	1	T=RP	L+1=down
+1	1	T=RP	L+1=against
+5	1	T=RP	L+1=;
+1	1	T=RP	L+1=each
+1	1	T=RP	L+1=fight
+2	1	T=RP	L+1=around
+1	1	T=RP	L+1=nazi
+1	1	T=RP	L+1=mighty
+2	1	T=RP	L+1=off
+1	1	T=RP	L+1=anyway
+3	1	T=RP	L+1=hard
+1	1	T=RP	L+1=drastically
+1	1	T=RP	L+1=enthusiasm
+1	1	T=RP	L+1=all
+Count	Path_Length	Result	Predicates
+1	1	T=II	W-1=rolled
+1	1	T=RP	W-1=money
+1	1	T=RP	W-1=weighted
+2	1	T=II	W-1=walking
+1	1	T=RP	W-1=shouted
+2	1	T=RP	W-1=pinned
+1	2	T=RP	W-1=them & T+1=QEP
+1	2	T=II	W-1=them & T+1=AT
+4	2	T=RP	W-1=them & T+1=II
+1	2	T=RP	W-1=them & T+1=QC
+1	2	T=II	W-1=them & T+1=RR
+1	2	T=RP	W-1=looking & T+1=CC
+1	2	T=RP	W-1=looking & T+1=QEP
+4	2	T=RP	W-1=looking & T+1=II
+1	2	T=RP	W-1=looking & T+1=RR
+1	2	T=II	W-1=looking & T+1=AT
+1	1	T=RP	W-1=waco
+3	1	T=RP	W-1=take
+1	1	T=RP	W-1=butt
+1	1	T=RP	W-1=held
+1	1	T=II	W-1=haughtily
+3	1	T=RP	W-1=look
+1	2	T=II	W-1=back & T+1=JJT
+3	2	T=RP	W-1=back & T+1=II
+1	2	T=RP	W-1=back & T+1=RR
+1	2	T=II	W-1=back & T+1=DB2
+2	2	T=II	W-1=back & T+1=AT
+1	2	T=RP	W-1=looked & T+1=DA
+13	2	T=RP	W-1=looked & T+1=II
+1	2	T=RP	W-1=looked & T+1=CC
+2	2	T=RP	W-1=looked & T+1=QEP
+1	2	T=RP	W-1=looked & T+1=QC
+1	2	T=II	W-1=looked & T+1=AT
+1	1	T=II	W-1=raced
+1	1	T=II	W-1=fled
+1	1	T=II	W-1=comin
+1	1	T=II	W-1=swaggered
+1	1	T=RP	W-1=caravans
+1	1	T=RP	W-1=know
+1	1	T=II	W-1=somewhere
+1	1	T=RP	W-1=cutting
+1	1	T=RP	W-1=fans
+3	1	T=RP	W-1=face
+1	2	T=II	W-1=sluiced & T+1=AT
+1	2	T=RP	W-1=sluiced & T+1=CS
+1	1	T=II	W-1=easily
+1	2	T=RP	W-1=and & W+1=to
+1	2	T=II	W-1=and & W+1=his
+2	2	T=RP	W-1=and & W+1=.
+1	2	T=II	W-1=and & W+1=peony
+1	2	T=II	W-1=and & W+1=a
+1	2	T=II	W-1=and & W+1=those
+1	2	T=II	W-1=and & W+1=stairs
+2	2	T=RP	W-1=and & W+1=in
+1	2	T=JJ	W-1=and & W+1=payments
+2	2	T=RP	W-1=and & W+1=with
+3	2	T=RP	W-1=and & W+1=and
+1	2	T=RP	W-1=and & W+1=;
+1	2	T=RP	W-1=and & W+1=before
+2	2	T=RP	W-1=and & W+1=,
+1	2	T=RP	W-1=and & W+1=implies
+1	2	T=RP	W-1=and & W+1=frame
+1	2	T=RP	W-1=and & W+1=for
+1	2	T=RP	W-1=and & W+1=from
+13	2	T=II	W-1=and & W+1=the
+1	1	T=RP	W-1=loaded
+1	1	T=RP	W-1=continued
+2	1	T=RP	W-1=himself
+11	1	T=RP	W-1=come
+1	1	T=RP	W-1=handed
+2	2	T=II	W-1=far & T+1=AT
+1	2	T=RP	W-1=far & T+1=CS
+1	1	T=RP	W-1=guzzled
+1	1	T=II	W-1=already
+1	1	T=RP	W-1=live
+1	1	T=RP	W-1=plant
+1	1	T=II	W-1=guy
+1	1	T=RP	W-1=reach
+1	1	T=RP	W-1=sag
+1	1	T=II	W-1=hurrying
+1	1	T=RP	W-1=gets
+1	1	T=RP	W-1=popping
+1	2	T=RP	W-1=slowly & T+1=QEP
+1	2	T=II	W-1=slowly & T+1=AT
+1	2	T=II	W-1=tearing & T+1=AT
+1	2	T=RP	W-1=tearing & T+1=NN2
+1	1	T=RP	W-1=dresses
+1	1	T=RP	W-1=copy
+1	2	T=RP	W-1=ran & T+1=APPGE
+2	2	T=II	W-1=ran & T+1=AT
+1	2	T=RP	W-1=ran & T+1=QC
+1	2	T=RP	W-1=ran & T+1=II
+2	2	T=RP	W-1=ran & T+1=QEP
+1	1	T=RP	W-1=chin
+1	1	T=RP	W-1=trip
+1	1	T=RP	W-1=leered
+1	1	T=RP	W-1=quirt
+1	1	T=RP	W-1=slipped
+1	2	T=RP	W-1=strolling & T+1=II
+1	2	T=II	W-1=strolling & T+1=AT
+2	1	T=II	W-1=halfway
+1	1	T=RP	W-1=tumbling
+2	1	T=RP	W-1=bent
+1	1	T=RP	W-1=voted
+1	1	T=RP	W-1=voice
+1	1	T=II	W-1=scooted
+1	1	T=RP	W-1=peeping
+1	1	T=RP	W-1=you
+1	1	T=RP	W-1=carbine
+1	1	T=RP	W-1=messengers
+2	1	T=RP	W-1=frozen
+2	1	T=RP	W-1=hunt
+1	1	T=RP	W-1=candidates
+1	1	T=RP	W-1=house
+1	1	T=RP	W-1='im
+11	1	T=RP	W-1=cut
+3	1	T=RP	W-1=bring
+1	1	T=II	W-1=whooping
+3	2	T=RP	W-1=go & T+1=II
+1	2	T=RP	W-1=go & T+1=DD1
+1	2	T=RP	W-1=go & T+1=QEP
+1	2	T=RP	W-1=go & T+1=TO
+1	2	T=II	W-1=go & T+1=MC
+1	2	T=RP	W-1=go & T+1=CS
+2	20	T=RP~RR	W-1=go & T+1=QC & M+1=False & Ing-1=False & Gen+1=Q & C+1=True & Inf+1=False & A+1=False & Inf-1=False & M-1=False & C-1=False & T-1=VV0 & Ger+1=False & A-1=False & Gen-1=V & Ing+1=False & W+1=, & Ger-1=False & L+1=, & L-1=go
+1	2	T=RP	W-1=go & T+1=RR
+1	1	T=II	W-1=floated
+1	1	T=RP	W-1=stay
+1	1	T=RP	W-1=bow
+1	1	T=VV0	W-1=to
+1	1	T=II	W-1=clattering
+1	2	T=RP	W-1=drove & T+1=II
+1	2	T=RP	W-1=drove & T+1=RR
+1	2	T=II	W-1=drove & T+1=AT
+1	1	T=RP	W-1=looks
+1	1	T=RP	W-1=working
+1	1	T=II	W-1=wildly
+3	1	T=RP	W-1=crashing
+1	1	T=RP	W-1=knocking
+1	1	T=II	W-1=mile
+1	1	T=RP	W-1=pegging
+1	1	T=II	W-1=dizzily
+1	1	T=RP	W-1=call
+1	1	T=II	W-1=stripes
+2	1	T=RP	W-1=lay
+1	1	T=RP	W-1=written
+1	1	T=RP	W-1=wall
+1	1	T=RP	W-1=trotted
+1	1	T=RP	W-1=hair
+2	1	T=RP	W-1=swooping
+1	1	T=II	W-1=steamboat
+2	1	T=II	W-1=clattered
+3	1	T=RP	W-1=burned
+1	1	T=RP	W-1=funneled
+3	1	T=RP	W-1=bearing
+1	1	T=RP	W-1=crates
+1	1	T=RP	W-1=rex
+5	1	T=RP	W-1=straight
+1	1	T=RP	W-1=collegians
+2	1	T=RP	W-1=going
+1	1	T=RP	W-1=rapidly
+1	1	T=RP	W-1=wash
+1	1	T=RP	W-1=even
+1	1	T=RP	W-1=glowered
+9	1	T=RP	W-1=put
+1	1	T=RP	W-1=smashed
+1	1	T=RP	W-1=swooped
+1	1	T=RP	W-1=timing
+1	2	T=RP	W-1=way & T+1=QEP
+1	2	T=II	W-1=way & T+1=AT
+1	2	T=RP	W-1=way & T+1=II
+4	1	T=RP	W-1=let
+1	1	T=II	W-1=gracefully
+1	1	T=RP	W-1=bottoms
+1	1	T=II	W-1=principally
+1	1	T=RP	W-1=themselves
+1	1	T=RP	W-1=develop
+1	1	T=RP	W-1=beat
+1	1	T=RP	W-1=threw
+5	1	T=II	W-1=walked
+1	1	T=RP	W-1=putting
+1	1	T=RP	W-1=tone
+12	2	T=RP	W-1=went & T+1=II
+1	2	T=RP	W-1=went & T+1=QEP
+1	2	T=RP	W-1=went & T+1=TO
+1	2	T=RP	W-1=went & T+1=CS
+1	2	T=RP	W-1=went & T+1=JJ
+2	2	T=RP	W-1=went & T+1=RR
+2	2	T=II	W-1=went & T+1=AT
+1	1	T=II	W-1=miles
+1	1	T=II	W-1=start
+2	1	T=RP	W-1=hold
+1	1	T=RP	W-1=fall
+1	1	T=II	W-1=lives
+1	2	T=II	W-1=pouring & T+1=APPGE
+1	2	T=RP	W-1=pouring & T+1=QC
+1	1	T=RP	W-1=telegram
+1	1	T=RP	W-1=brush
+1	1	T=RP	W-1=wasn't
+1	1	T=II	W-1=whisky
+1	1	T=RP	W-1=distilled
+1	1	T=II	W-1=fist
+1	1	T=II	W-1=stumbled
+1	1	T=RP	W-1=property
+1	1	T=II	W-1=key
+2	1	T=RP	W-1=bend
+6	1	T=RP	W-1=lie
+1	1	T=II	W-1=fleeing
+1	1	T=RP	W-1=pin
+1	1	T=II	W-1=flown
+1	1	T=RP	W-1=time
+1	1	T=RP	W-1=watered
+1	1	T=RP	W-1=further
+1	1	T=II	W-1=fearfully
+1	1	T=RP	W-1=club
+1	1	T=RP	W-1=squeezed
+1	2	T=RP	W-1=us & T+1=QS
+1	2	T=RP	W-1=us & T+1=QEP
+2	2	T=II	W-1=us & T+1=AT
+2	2	T=RP	W-1=shot & T+1=II
+1	2	T=RP	W-1=shot & T+1=RR
+2	20	T=RP~II	W-1=shot & T+1=AT & M+1=True & Ing-1=False & Gen+1=A & C+1=True & Inf+1=False & A+1=False & Inf-1=False & M-1=False & C-1=False & T-1=VVD & Ger+1=False & A-1=False & Gen-1=V & Ing+1=False & W+1=the & Ger-1=False & L+1=the & L-1=shoot
+1	1	T=RP	W-1=demands
+4	1	T=RP	W-1=broke
+1	1	T=II	W-1=tumbled
+1	1	T=RP	W-1=cost
+2	1	T=RP	W-1=body
+1	1	T=II	W-1=swiftly
+1	1	T=II	W-1=streamed
+2	1	T=RP	W-1=got
+1	1	T=RP	W-1=simmer
+2	1	T=II	W-1=moved
+1	1	T=II	W-1=strutted
+2	1	T=RP	W-1=broken
+1	1	T=RP	W-1=knelt
+1	1	T=RP	W-1=washing
+8	1	T=RP	W-1=upside
+1	1	T=RP	W-1=temperatures
+1	1	T=RP	W-1=parade
+2	1	T=RP	W-1=carried
+1	1	T=RP	W-1=letting
+6	1	T=RP	W-1=slow
+2	1	T=RP	W-1=head
+2	1	T=RP	W-1=get
+1	1	T=RP	W-1=tore
+1	1	T=RP	W-1=pushed
+1	1	T=RP	W-1=ring
+1	1	T=RP	W-1=nice
+2	1	T=RP	W-1=down
+1	1	T=RP	W-1=flopped
+1	1	T=RP	W-1=bogged
+2	1	T=RP	W-1=swimming
+1	1	T=RP	W-1=leaning
+12	1	T=RP	W-1=laid
+1	1	T=II	W-1=jeep
+1	1	T=RP	W-1=codfish
+1	1	T=RP	W-1=ryan
+1	1	T=II	W-1=block
+1	1	T=RP	W-1=rifle
+2	2	T=RP	W-1=dropped & T+1=II
+1	2	T=II	W-1=dropped & T+1=AT
+2	1	T=II	W-1=runnin'
+1	1	T=RP	W-1=jumped
+2	1	T=RP	W-1=plane
+1	1	T=RP	W-1=kneeled
+1	1	T=RP	W-1=basket
+1	1	T=RP	W-1=hands
+1	1	T=RP	W-1=frost-bitten
+3	1	T=RP	W-1=bore
+1	1	T=RP	W-1=play
+3	1	T=RP	W-1=torn
+1	1	T=RP	W-1=gun
+1	1	T=RP	W-1=investment
+1	1	T=II	W-1=pointed
+1	1	T=RP	W-1=choked
+3	2	T=RP	W-1=right & T+1=II
+1	2	T=II	W-1=right & T+1=AT
+1	1	T=RP	W-1=touched
+1	1	T=RP	W-1=winchester
+1	1	T=RP	W-1=boiled
+1	1	T=II	W-1=dad
+3	1	T=RP	W-1=reached
+1	1	T=RP	W-1=that
+1	1	T=RP	W-1=talking
+1	1	T=II	W-1=mount
+1	1	T=RP	W-1=knuckles
+1	1	T=II	W-1=coolant
+1	1	T=RP	W-1=hurtling
+1	1	T=II	W-1=stroll
+1	1	T=II	W-1=thumping
+1	1	T=RP	W-1=strikes
+3	1	T=II	W-1=slid
+1	1	T=RP	W-1=bag
+1	1	T=RP	W-1=pare
+1	1	T=RP	W-1=lucille
+3	1	T=RP	W-1=comes
+1	1	T=RP	W-1=spreading
+40	1	T=RP	W-1=sat
+1	1	T=RP	W-1=drips
+2	2	T=RP	W-1=turned & T+1=QH
+1	2	T=RP	W-1=turned & T+1=II
+1	2	T=RP	W-1=turned & T+1=APPGE
+1	2	T=RP	W-1=turned & T+1=MC
+1	2	T=RP	W-1=turned & T+1=RR
+1	2	T=II	W-1=turned & T+1=AT
+1	1	T=RP	W-1=passing
+2	1	T=RP	W-1=one
+4	1	T=RP	W-1=settle
+1	2	T=RP	W-1=walk & T+1=II
+1	2	T=II	W-1=walk & T+1=AT
+1	1	T=RP	W-1=took
+1	1	T=RP	W-1=bastards
+1	1	T=RP	W-1=tied
+2	1	T=RP	W-1=burn
+1	1	T=II	W-1=meandered
+1	1	T=RP	W-1=mystery
+1	1	T=II	W-1=shape
+1	1	T=II	W-1=trippin'
+1	1	T=II	W-1=left
+1	1	T=RP	W-1=voltaire
+1	1	T=II	W-1=rushed
+3	1	T=II	W-1=started
+1	1	T=II	W-1=flung
+1	1	T=II	W-1=cantered
+1	1	T=RP	W-1=dark
+1	1	T=RP	W-1=huts
+1	1	T=RP	W-1=narrowed
+2	1	T=RP	W-1=hunkered
+1	1	T=RP	W-1=or
+1	1	T=RP	W-1=jotting
+3	1	T=RP	W-1=skirt
+3	1	T=RP	W-1=settling
+1	1	T=RP	W-1=calm
+1	1	T=RP	W-1=ball
+1	1	T=II	W-1=rumbled
+1	1	T=RP	W-1=iron
+1	1	T=RP	W-1=pull
+1	1	T=RP	W-1=through
+1	1	T=RP	W-1=extended
+1	1	T=RP	W-1=sifted
+1	1	T=RP	W-1=situated
+2	1	T=RP	W-1=led
+1	1	T=RP	W-1=clothes
+1	1	T=II	W-1=breathing
+1	1	T=RP	W-1=stamping
+1	1	T=II	W-1=whirling
+1	1	T=RP	W-1=driven
+10	1	T=RP	W-1=sit
+2	1	T=RP	W-1=tear
+1	1	T=RP	W-1=eerily
+1	1	T=RP	W-1=george
+1	1	T=RP	W-1=washed
+1	1	T=II	W-1=doubled
+1	1	T=RP	W-1=peered
+1	1	T=RP	W-1=curling
+1	1	T=RP	W-1=tamp
+1	1	T=RP	W-1=boils
+1	1	T=RP	W-1=door
+3	1	T=II	W-1=riding
+3	1	T=RP	W-1=set
+5	1	T=RP	W-1=knocked
+1	1	T=II	W-1=off
+1	1	T=RP	W-1=shoot
+7	1	T=RP	W-1=break
+1	1	T=RP	W-1=all
+1	1	T=RP	W-1=stepping
+2	1	T=RP	W-1=quieted
+1	1	T=II	W-1=slit
+1	1	T=RP	W-1=shining
+1	1	T=RP	W-1=secretary
+1	1	T=RP	W-1=fought
+1	1	T=II	W-1=crawl
+3	1	T=RP	W-1=calmed
+1	1	T=II	W-1=marching
+1	1	T=II	W-1=stride
+1	1	T=RP	W-1=edged
+1	1	T=RP	W-1=ladder
+1	1	T=RP	W-1=ripped
+5	2	T=RP	W-1=, & T+1=II
+1	2	T=RP	W-1=, & T+1=NN1
+1	2	T=RR	W-1=, & T+1=NN
+3	2	T=RP	W-1=, & T+1=MC
+2	2	T=RP	W-1=, & T+1=QC
+4	2	T=II	W-1=, & T+1=AT
+1	1	T=RP	W-1=stooped
+1	1	T=RP	W-1=bottle
+1	1	T=II	W-1=half-way
+1	2	T=RP	W-1=him & T+1=DD
+2	2	T=RP	W-1=him & T+1=II
+1	2	T=RP	W-1=him & T+1=QH
+2	2	T=RP	W-1=him & T+1=QEP
+2	2	T=RP	W-1=him & T+1=RR
+1	2	T=RP	W-1=him & T+1=QC
+2	2	T=II	W-1=him & T+1=AT
+1	2	T=II	W-1=hurry & T+1=AT
+1	2	T=RP	W-1=hurry & T+1=CS
+1	1	T=RP	W-1=hooves
+3	1	T=RP	W-1=climbed
+2	2	T=RP	W-1=run & T+1=QEP
+2	2	T=II	W-1=run & T+1=AT
+1	2	T=RP	W-1=run & T+1=NN1
+1	2	T=RP	W-1=run & T+1=RR
+1	2	T=RP	W-1=run & T+1=QC
+2	1	T=RP	W-1=coming
+1	2	T=RP	W-1=it & T+1=RG
+14	2	T=RP	W-1=it & T+1=II
+1	2	T=RP	W-1=it & T+1=DD2
+1	2	T=RP	W-1=it & T+1=DD1
+1	2	T=RP	W-1=it & T+1=CC
+3	2	T=RP	W-1=it & T+1=QEP
+1	2	T=II	W-1=it & T+1=APPGE
+1	2	T=RP	W-1=it & T+1=CS
+1	2	T=RP	W-1=it & T+1=RR
+2	1	T=RP	W-1=lays
+1	1	T=II	W-1=buttocks
+2	1	T=II	W-1=ride
+1	1	T=II	W-1=discovery
+1	1	T=RP	W-1=aimed
+1	2	T=RP	W-1=running & T+1=RG
+2	2	T=II	W-1=running & T+1=AT
+1	2	T=RP	W-1=running & T+1=QH
+1	2	T=RP	W-1=running & T+1=VBDZ
+1	2	T=II	W-1=running & T+1=APPGE
+2	1	T=RP	W-1=tracking
+1	1	T=RP	W-1=cascade
+2	1	T=RP	W-1=eyes
+1	1	T=RP	W-1=backed
+1	1	T=RP	W-1=track
+1	1	T=RP	W-1=bucks
+2	1	T=RP	W-1=bit
+1	1	T=II	W-1=drive-in
+1	1	T=RP	W-1=weeds
+1	2	T=RP	W-1=on & T+1=QEP
+3	20	T=RP~II	W-1=on & T+1=II & M+1=False & Ing-1=False & Gen+1=I & C+1=True & Inf+1=False & A+1=False & Inf-1=False & M-1=True & C-1=True & T-1=RP & Ger+1=False & A-1=False & Gen-1=R & Ing+1=False & W+1=to & Ger-1=False & L+1=to & L-1=on
+4	2	T=II	W-1=on & T+1=AT
+1	1	T=II	W-1=strode
+1	1	T=RP	W-1=pulled
+1	1	T=RP	W-1=narrows
+1	1	T=RP	W-1=waving
+1	1	T=RP	W-1=of
+1	1	T=II	W-1=sneak
+1	1	T=RP	W-1=drifts
+2	20	T=RP~II	W-1=was & W+1=to & T+1=II & Ing-1=False & M+1=False & Gen+1=I & C+1=True & Inf+1=False & A+1=False & Inf-1=False & M-1=False & T-1=VBDZ & C-1=True & A-1=False & Ger+1=False & Gen-1=V & Ing+1=False & Ger-1=False & L+1=to & L-1=be
+1	2	T=RP	W-1=was & W+1=.
+1	2	T=RP	W-1=was & W+1=on
+1	2	T=RP	W-1=was & W+1=with
+1	2	T=RP	W-1=was & W+1=and
+1	2	T=RP	W-1=was & W+1=,
+1	1	T=RP	W-1=dropping
+1	1	T=RP	W-1=glanced
+1	1	T=II	W-1=passed
+1	2	T=II	W-1=gone & T+1=DD1
+1	2	T=II	W-1=gone & T+1=AT
+1	2	T=RP	W-1=gone & T+1=II
+1	2	T=RP	W-1=gone & T+1=QC
+1	2	T=RP	W-1=gone & T+1=VVG
+1	1	T=RP	W-1=stripped
+1	1	T=II	W-1=marched
+1	1	T=VV0	W-1=somehow
+2	1	T=RP	W-1=sitting
+3	1	T=RP	W-1=sank
+2	1	T=RP	W-1=feet
+2	2	T=RP	W-1=stared & T+1=II
+1	2	T=II	W-1=stared & T+1=AT
+1	1	T=RP	W-1=shots
+1	1	T=RP	W-1=were
+1	1	T=RP	W-1=myself
+1	1	T=RP	W-1=throw
+2	1	T=II	W-1=disappeared
+1	1	T=II	W-1=crept
+1	1	T=RP	W-1=world
+1	1	T=II	W-1=again
+1	1	T=RP	W-1=strike
+1	1	T=RP	W-1=area
+1	1	T=RP	W-1=via
+1	2	T=II	W-1=rode & T+1=NP1
+1	2	T=II	W-1=rode & T+1=AT
+1	2	T=RP	W-1=rode & T+1=II
+2	1	T=RP	W-1=floating
+1	1	T=RP	W-1=reign
+1	1	T=RP	W-1=blew
+1	1	T=RP	W-1=car
+1	1	T=RP	W-1=brought
+1	1	T=II	W-1=extending
+1	1	T=RP	W-1=rare
+1	1	T=II	W-1=finger
+1	2	T=II	W-1=dripped & T+1=APPGE
+1	2	T=RP	W-1=dripped & T+1=II
+1	2	T=II	W-1=dripped & T+1=AT
+1	1	T=RP	W-1=force
+1	1	T=RP	W-1=peering
+5	2	T=RP	W-1=came & T+1=II
+1	2	T=RP	W-1=came & T+1=RRQ
+1	2	T=RP	W-1=came & T+1=QEP
+1	2	T=RP	W-1=came & T+1=TO
+2	2	T=RP	W-1=came & T+1=QC
+1	2	T=RP	W-1=came & T+1=QEE
+3	2	T=II	W-1=came & T+1=AT
+1	1	T=NP1	W-1=county
+1	1	T=II	W-1=canoe
+1	1	T=RP	W-1=bedded
+1	2	T=II	W-1=her & T+1=AT
+1	2	T=RP	W-1=her & T+1=QC
+1	2	T=RP	W-1=her & T+1=CS
+1	2	T=RP	W-1=her & T+1=II
+1	1	T=II	W-1=work
+3	1	T=RP	W-1=slowed
+1	1	T=II	W-1=redwoods
+2	1	T=RP	W-1=pressing
+1	2	T=RP	W-1=be & T+1=II
+1	2	T=II	W-1=be & T+1=RR
+1	1	T=II	W-1=cars
+1	1	T=RP	W-1=dies
+7	1	T=RP	W-1=settled
+1	1	T=RP	W-1=shut
+2	1	T=RP	W-1=hat
+1	1	T=RP	W-1=bundle
+1	1	T=NN1	W-1=yellow
+1	2	T=II	W-1=fight & Gen-1=N
+1	2	T=RP	W-1=fight & Gen-1=V
+1	1	T=RP	W-1=probably
+1	1	T=RP	W-1=boil
+1	1	T=RP	W-1=arguments
+2	1	T=RP	W-1=wrote
+1	1	T=RP	W-1=knock
+1	1	T=RP	W-1=me
+1	2	T=II	W-1=then & T+1=AT
+1	2	T=RP	W-1=then & T+1=II
+1	1	T=II	W-1=once
+1	1	T=RP	W-1=drifted
+3	1	T=RP	W-1=hung
+1	1	T=RP	W-1=lying
+1	2	T=II	W-1=getting & T+1=APPGE
+1	2	T=RP	W-1=getting & T+1=II
+1	1	T=RP	W-1=fell

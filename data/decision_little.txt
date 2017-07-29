@@ -1,0 +1,1720 @@
+Count	Path_Length	Result	Predicates
+5	14	T=JJ~DA	Gen+1=J & Gen-1=J & A-1=False & Ger-1=False & Inf+1=False & M+1=True & Inf-1=False & C-1=False & M-1=True & Ing+1=False & Ing-1=False & C+1=False & Ger+1=False & A+1=False
+1	2	T=JJ	Gen+1=J & Gen-1=Q
+87	14	T=JJ~DA~RG	Gen+1=J & Gen-1=A & A-1=False & Ger-1=False & Inf+1=False & M+1=True & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=False & Ger+1=False & A+1=False
+4	2	T=DA	Gen+1=J & Gen-1=V
+2	2	T=DA	Gen+1=J & Gen-1=I
+1	2	T=JJ	Gen+1=J & Gen-1=G
+1	2	T=DA	Gen+1=J & Gen-1=R
+3	14	T=JJ~DA	Gen+1=J & Gen-1=D & A-1=False & Ger-1=False & Inf+1=False & M+1=True & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=False & Ger+1=False & A+1=False
+2	2	T=JJ	Gen+1=J & Gen-1=M
+1	2	T=DA	Gen+1=J & Gen-1=C
+20	14	T=JJ~DA	Gen+1=Q & Gen-1=A & A-1=False & Ger-1=False & Inf+1=False & M+1=False & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=True & Ger+1=False & A+1=False
+4	2	T=DA	Gen+1=Q & Gen-1=V
+1	2	T=DA	Gen+1=Q & Gen-1=I
+1	2	T=DA	Gen+1=Q & Gen-1=R
+1	2	T=DA	Gen+1=Q & Gen-1=N
+1	2	T=JJ	Gen+1=Q & Gen-1=P
+1	2	T=DA	Gen+1=Q & Gen-1=D
+1	2	T=JJ	Gen+1=Q & Gen-1=C
+1	1	T=DA	Gen+1=A
+13	1	T=DA	Gen+1=T
+6	14	T=JJ~RG~DA	Gen+1=V & Gen-1=A & Ger+1=False & A-1=False & Ger-1=False & C-1=True & Inf-1=False & M+1=False & M-1=True & Ing+1=True & Ing-1=False & C+1=False & Inf+1=True & A+1=False
+2	14	T=JJ~RG	Gen+1=V & Gen-1=A & Ger+1=True & A-1=False & Ger-1=False & C-1=True & Inf-1=False & M+1=False & M-1=True & Ing+1=True & Ing-1=False & C+1=False & Inf+1=True & A+1=False
+2	3	T=DA	Gen+1=V & Gen-1=R & Inf+1=False
+4	14	T=RG~DA	Gen+1=V & Gen-1=R & Inf+1=True & Ger+1=False & A-1=False & C-1=True & Inf-1=False & M+1=False & M-1=True & Ing+1=True & Ger-1=False & Ing-1=False & A+1=False & C+1=False
+1	4	T=DA	Gen+1=V & Gen-1=R & Inf+1=True & Ger+1=True
+2	14	T=RR~RG	Gen+1=V & Gen-1=V & A-1=False & Ger-1=False & Inf+1=True & M+1=False & Inf-1=False & C-1=True & M-1=False & Ing+1=True & Ing-1=False & C+1=False & Ger+1=False & A+1=False
+2	3	T=DA	Gen+1=V & Gen-1=C & Inf+1=False
+1	3	T=RG	Gen+1=V & Gen-1=C & Inf+1=True
+1	2	T=DA	Gen+1=V & Gen-1=D
+18	14	T=JJ~DA	Gen+1=I & Gen-1=A & A-1=False & Ger-1=False & Inf+1=False & M+1=False & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=True & Ger+1=False & A+1=False
+8	14	T=RR~JJ~DA	Gen+1=I & Gen-1=R & A-1=False & Ger-1=False & Inf+1=False & M+1=False & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=True & Ger+1=False & A+1=False
+7	2	T=DA	Gen+1=I & Gen-1=V
+1	2	T=DA	Gen+1=I & Gen-1=D
+1	2	T=DA	Gen+1=I & Gen-1=P
+63	14	T=JJ~DA	Gen+1=N & Gen-1=J & A-1=False & Ger-1=False & Inf+1=False & M+1=False & Inf-1=False & C-1=False & M-1=True & Ing+1=False & Ing-1=False & C+1=False & Ger+1=False & A+1=True
+9	14	T=JJ~DA	Gen+1=N & Gen-1=Q & A-1=False & Ger-1=False & Inf+1=False & M+1=False & Inf-1=False & C-1=True & M-1=False & Ing+1=False & Ing-1=False & C+1=False & Ger+1=False & A+1=True
+199	14	T=JJ~DA~RG	Gen+1=N & Gen-1=A & A-1=False & Ger-1=False & Inf+1=False & M+1=False & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=False & Ger+1=False & A+1=True
+27	14	T=JJ~DA	Gen+1=N & Gen-1=V & Ing-1=False & C-1=False & A-1=False & M+1=False & Inf-1=False & M-1=False & Ing+1=False & Ger-1=False & Inf+1=False & C+1=False & Ger+1=False & A+1=True
+54	14	T=JJ~DA	Gen+1=N & Gen-1=V & Ing-1=False & C-1=True & Inf-1=False & M+1=False & M-1=False & A-1=False & Ing+1=False & Ger-1=False & Inf+1=False & C+1=False & Ger+1=False & A+1=True
+3	5	T=DA	Gen+1=N & Gen-1=V & Ing-1=False & C-1=True & Inf-1=True
+4	14	T=JJ~DA	Gen+1=N & Gen-1=V & Ing-1=True & Ger-1=False & A-1=False & C-1=False & M+1=False & Inf-1=True & M-1=False & Ing+1=False & Inf+1=False & C+1=False & Ger+1=False & A+1=True
+4	14	T=JJ~DA	Gen+1=N & Gen-1=V & Ing-1=True & Ger-1=False & A-1=False & C-1=True & M+1=False & Inf-1=True & M-1=False & Ing+1=False & Inf+1=False & C+1=False & Ger+1=False & A+1=True
+3	14	T=JJ~DA	Gen+1=N & Gen-1=V & Ing-1=True & Ger-1=True & A-1=False & C-1=False & M+1=False & Inf-1=True & M-1=False & Ing+1=False & Inf+1=False & C+1=False & Ger+1=False & A+1=True
+34	14	T=JJ~DA	Gen+1=N & Gen-1=I & A-1=False & Ger-1=False & Inf+1=False & M+1=False & Inf-1=False & C-1=True & M-1=False & Ing+1=False & Ing-1=False & C+1=False & Ger+1=False & A+1=True
+10	2	T=JJ	Gen+1=N & Gen-1=G
+3	14	T=JJ~DA	Gen+1=N & Gen-1=R & C-1=False & A-1=False & Ger-1=False & M+1=False & Inf-1=False & M-1=True & Ing+1=False & Inf+1=False & Ing-1=False & C+1=False & Ger+1=False & A+1=True
+23	14	T=JJ~DA	Gen+1=N & Gen-1=R & C-1=True & A-1=False & Ger-1=False & M+1=False & Inf-1=False & M-1=True & Ing+1=False & Inf+1=False & Ing-1=False & C+1=False & Ger+1=False & A+1=True
+3	14	T=JJ~DA	Gen+1=N & Gen-1=N & A-1=True & Ger-1=False & Inf+1=False & M+1=False & Inf-1=False & C-1=False & M-1=False & Ing+1=False & Ing-1=False & C+1=False & Ger+1=False & A+1=True
+1	2	T=DA	Gen+1=N & Gen-1=P
+26	14	T=JJ~DA	Gen+1=N & Gen-1=D & A-1=False & Ger-1=False & Inf+1=False & M+1=False & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=False & Ger+1=False & A+1=True
+12	14	T=JJ~DA	Gen+1=N & Gen-1=C & A-1=False & Ger-1=False & Inf+1=False & M+1=False & Inf-1=False & C-1=True & M-1=False & Ing+1=False & Ing-1=False & C+1=False & Ger+1=False & A+1=True
+2	2	T=JJ	Gen+1=N & Gen-1=M
+1	2	T=DA	Gen+1=R & Gen-1=I
+23	14	T=JJ~RG~DA	Gen+1=R & Gen-1=A & C+1=False & A-1=False & Ger-1=False & C-1=True & M+1=True & Inf-1=False & M-1=True & Ing+1=False & Ing-1=False & Ger+1=False & Inf+1=False & A+1=False
+19	14	T=JJ~DA~RG	Gen+1=R & Gen-1=A & C+1=True & A-1=False & Ger-1=False & C-1=True & M+1=True & Inf-1=False & M-1=True & Ing+1=False & Ing-1=False & Ger+1=False & Inf+1=False & A+1=False
+1	3	T=DA	Gen+1=R & Gen-1=V & Inf-1=False
+1	3	T=RG	Gen+1=R & Gen-1=V & Inf-1=True
+5	2	T=DA	Gen+1=P & Gen-1=A
+1	2	T=DA	Gen+1=P & Gen-1=R
+1	2	T=JJ	Gen+1=P & Gen-1=V
+2	2	T=DA	Gen+1=P & Gen-1=D
+3	2	T=RG	Gen+1=D & Gen-1=I
+13	2	T=RG	Gen+1=D & Gen-1=A
+1	2	T=RG	Gen+1=D & Gen-1=R
+1	4	T=RR	Gen+1=D & Gen-1=V & C-1=False & Inf-1=False
+1	4	T=RG	Gen+1=D & Gen-1=V & C-1=False & Inf-1=True
+6	14	T=RG~DA	Gen+1=D & Gen-1=V & C-1=True & Ger-1=False & Inf-1=False & M+1=True & M-1=False & Inf+1=False & Ing+1=False & A-1=False & Ing-1=False & C+1=True & Ger+1=False & A+1=False
+1	5	T=DA	Gen+1=D & Gen-1=V & C-1=True & Ger-1=False & Inf-1=True
+1	4	T=RG	Gen+1=D & Gen-1=V & C-1=True & Ger-1=True
+1	2	T=DA	Gen+1=D & Gen-1=P
+1	1	T=DA	Gen+1=F
+1	2	T=DA	Gen+1=C & Gen-1=Q
+6	2	T=DA	Gen+1=C & Gen-1=A
+9	2	T=DA	Gen+1=C & Gen-1=V
+3	2	T=DA	Gen+1=C & Gen-1=I
+8	14	T=RR~JJ~DA~RG	Gen+1=C & Gen-1=R & A-1=False & Ger-1=False & Inf+1=False & M+1=False & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=True & Ger+1=False & A+1=False
+1	2	T=NP1	Gen+1=C & Gen-1=N
+1	2	T=DA	Gen+1=C & Gen-1=C
+2	1	T=JJ	Gen+1=M
+Count	Path_Length	Result	Predicates
+1	1	T=RG	L+1=sad
+1	1	T=DA	L+1=housewife
+1	1	T=JJ	L+1=mystery
+1	1	T=JJ	L+1=plot
+1	1	T=DA	L+1=initiative
+1	1	T=JJ	L+1=box
+1	1	T=JJ	L+1=machine
+1	1	T=DA	L+1=prop
+1	1	T=DA	L+1=dream
+1	1	T=DA	L+1=else
+1	1	T=JJ	L+1=draw
+1	2	T=DA	L+1=job & L-1=safe
+1	2	T=JJ	L+1=job & L-1=a
+1	2	T=DA	L+1=problem & L-1=pose
+1	2	T=JJ	L+1=problem & L-1=these
+1	1	T=DA	L+1=pine
+4	1	T=RG	L+1=sick
+2	1	T=DA	L+1=but
+8	1	T=JJ	L+1=boy
+1	1	T=RG	L+1=querulous
+1	1	T=JJ	L+1=dinner
+2	1	T=DA	L+1=value
+1	1	T=JJ	L+1=jack
+3	1	T=JJ	L+1=eye
+1	2	T=JJ	L+1=about & L-1=very
+1	2	T=DA	L+1=about & L-1=know
+2	1	T=JJ	L+1=child
+1	1	T=DA	L+1=pertinence
+1	1	T=RG	L+1=tire
+1	1	T=JJ	L+1=lord
+2	1	T=DA	L+1=application
+2	1	T=DA	L+1=real
+2	1	T=JJ	L+1=demonstration
+2	1	T=DA	L+1=profit
+2	1	T=JJ	L+1=parable
+1	1	T=JJ	L+1=hollow
+1	2	T=RR	L+1=and & L-1=very
+1	2	T=NP1	L+1=and & L-1=0
+2	2	T=DA	L+1=and & L-1=a
+2	1	T=DA	L+1=sand
+1	1	T=JJ	L+1=groggy
+2	16	T=DA~RG	L+1=far & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=R & M+1=True & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=False & A+1=False & Gen-1=A
+1	1	T=JJ	L+1=tract
+1	1	T=DA	L+1=fast
+1	1	T=JJ	L+1=bay
+1	1	T=DA	L+1=blood
+1	1	T=JJ	L+1=pyre
+2	1	T=DA	L+1=cabana
+1	1	T=DA	L+1=because
+1	1	T=RG	L+1=cooler
+1	1	T=DA	L+1=night
+1	1	T=DA	L+1=left
+1	1	T=JJ	L+1=frame
+3	1	T=DA	L+1=money
+1	1	T=JJ	L+1=bag
+1	2	T=JJ	L+1=house & L-1=her
+1	2	T=DA	L+1=house & L-1=grubby
+1	2	T=DA	L+1=house & L-1=a
+1	2	T=JJ	L+1=time & L-1=some
+3	2	T=DA	L+1=time & L-1=have
+1	2	T=DA	L+1=time & L-1=so
+1	2	T=DA	L+1=time & L-1=be
+3	2	T=DA	L+1=time & L-1=a
+1	1	T=JJ	L+1=daughter
+4	1	T=DA	L+1=difference
+2	1	T=JJ	L+1=plant
+1	1	T=JJ	L+1=people
+1	1	T=JJ	L+1=lump
+1	1	T=JJ	L+1=net
+1	1	T=RG	L+1=tender
+1	1	T=JJ	L+1=hug
+1	1	T=DA	L+1=ready
+1	1	T=JJ	L+1=sweet
+1	1	T=DA	L+1=depth
+1	1	T=JJ	L+1=hell
+1	1	T=JJ	L+1=triplet
+1	1	T=RG	L+1=pale
+2	2	T=RG	L+1=late & Gen+1=J
+5	16	T=JJ~DA~RG	L+1=late & Gen+1=R & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Ger+1=False & M+1=True & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=False & A+1=False & Gen-1=A
+1	1	T=DA	L+1=plan
+1	1	T=RG	L+1=sadly
+1	1	T=JJ	L+1=nod
+1	1	T=DA	L+1=lady
+1	1	T=DA	L+1=hydrogen
+1	1	T=JJ	L+1=hearth
+1	1	T=DA	L+1=bastard
+1	1	T=JJ	L+1=animal
+1	1	T=RG	L+1=better
+2	16	T=JJ~DA	L+1=over & Gen+1=I & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Ger+1=False & M+1=False & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=True & A+1=False & Gen-1=A
+1	2	T=JJ	L+1=over & Gen+1=R
+1	1	T=JJ	L+1=fire
+1	1	T=DA	L+1=light
+1	1	T=DA	L+1=legal
+1	1	T=DA	L+1=courtesy
+1	1	T=DA	L+1=analysis
+1	1	T=JJ	L+1=classical
+1	1	T=DA	L+1=secret
+1	1	T=JJ	L+1=unsinkable
+1	1	T=DA	L+1=means
+1	1	T=JJ	L+1=mound
+1	1	T=RG	L+1=wary
+1	1	T=RG	L+1=weary
+1	1	T=DA	L+1=milk
+1	1	T=JJ	L+1=flock
+1	1	T=JJ	L+1=hour
+1	1	T=RG	L+1=chilly
+1	1	T=DA	L+1=wallet
+1	1	T=DA	L+1=stream
+11	1	T=JJ	L+1=girl
+1	2	T=DA	L+1=corner & L-1=secret
+1	2	T=JJ	L+1=corner & L-1=the
+1	2	T=JJ	L+1=group & L-1=with
+2	16	T=JJ~DA	L+1=group & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=False & A+1=True & Gen-1=A
+1	1	T=RG	L+1=thick
+1	1	T=DA	L+1=argument
+1	1	T=JJ	L+1=riot
+1	2	T=JJ	L+1=pig & L-1=his
+1	2	T=DA	L+1=pig & L-1=with
+1	2	T=JJ	L+1=white & L-1=a
+1	2	T=JJ	L+1=white & L-1=their
+1	2	T=JJ	L+1=white & L-1=her
+1	2	T=RG	L+1=white & L-1=the
+1	2	T=JJ	L+1=, & L-1=the
+1	2	T=JJ	L+1=, & L-1=nothing
+1	2	T=DA	L+1=, & L-1=undergo
+1	2	T=DA	L+1=, & L-1=by
+1	2	T=DA	L+1=, & L-1=said
+1	2	T=DA	L+1=, & L-1=few
+1	2	T=DA	L+1=, & L-1=0
+8	16	T=JJ~DA	L+1=, & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=Q & M+1=False & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=True & A+1=False & Gen-1=A
+1	1	T=JJ	L+1=flush
+1	1	T=JJ	L+1=kid
+2	1	T=DA	L+1=out
+1	1	T=JJ	L+1=bar
+2	1	T=DA	L+1=distance
+2	1	T=DA	L+1=like
+1	1	T=JJ	L+1=hanger
+1	1	T=RG	L+1=ill
+8	1	T=JJ	L+1=rock
+1	1	T=RG	L+1=pretentious
+1	1	T=DA	L+1=frank
+2	16	T=DA~RG	L+1=long & Gen+1=J & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Ger+1=False & M+1=True & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=False & A+1=False & Gen-1=A
+2	2	T=RG	L+1=long & Gen+1=R
+1	1	T=DA	L+1=trick
+1	1	T=JJ	L+1=blossom
+3	16	T=DA~RG	L+1=high & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=J & M+1=True & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=False & A+1=False & Gen-1=A
+3	1	T=JJ	L+1=big
+3	1	T=DA	L+1=reason
+1	1	T=JJ	L+1=isle
+1	2	T=JJ	L+1=speech & L-1=0
+1	2	T=DA	L+1=speech & L-1=her
+1	1	T=JJ	L+1=thrift
+1	1	T=JJ	L+1=children
+2	1	T=DA	L+1=trouble
+1	1	T=JJ	L+1=neck
+1	1	T=JJ	L+1=book
+1	1	T=JJ	L+1=chicken
+1	1	T=JJ	L+1=surgeon
+1	1	T=DA	L+1=land
+1	1	T=JJ	L+1=body
+1	1	T=JJ	L+1=plane
+1	1	T=DA	L+1=now
+11	1	T=DA	L+1=or
+1	1	T=RG	L+1=get
+1	1	T=RR	L+1=what
+1	1	T=DA	L+1=relief
+1	1	T=DA	L+1=bitterness
+1	2	T=DA	L+1=interest & L-1=have
+1	2	T=DA	L+1=interest & L-1=show
+1	2	T=RG	L+1=interest & L-1=be
+4	16	T=DA~RG	L+1=less & Gen+1=R & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Ger+1=False & M+1=True & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=True & A+1=False & Gen-1=A
+2	2	T=RG	L+1=less & Gen+1=D
+3	1	T=DA	L+1=at
+1	1	T=JJ	L+1=mustache
+1	1	T=DA	L+1=his
+1	1	T=JJ	L+1=cluster
+1	1	T=RG	L+1=strange
+1	1	T=JJ	L+1=hideout
+1	1	T=DA	L+1=vessel
+2	16	T=JJ~DA	L+1=tolerance & L-1=have & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & C-1=True & Inf-1=False & M-1=False & Ing-1=False & Ger+1=False & C+1=False & A+1=True & Gen-1=V
+1	1	T=RG	L+1=enough
+1	1	T=DA	L+1=fruit
+1	2	T=JJ	L+1=place & L-1=modest
+1	2	T=DA	L+1=place & L-1=a
+1	1	T=RG	L+1=fuzzy
+1	1	T=JJ	L+1=pansy
+1	1	T=JJ	L+1=suburb
+1	1	T=DA	L+1=puncher
+1	1	T=JJ	L+1=anecdote
+2	1	T=RG	L+1=low
+1	1	T=JJ	L+1=peanut
+1	1	T=RG	L+1=superficial
+1	1	T=RR	L+1=by
+1	2	T=RR	L+1=concern & L-1=have
+1	2	T=DA	L+1=concern & L-1=of
+1	1	T=JJ	L+1=recitation
+1	1	T=DA	L+1=heap
+1	1	T=DA	L+1=toad
+1	1	T=RG	L+1=quiet
+1	1	T=DA	L+1=wonder
+1	1	T=DA	L+1=evident
+1	1	T=DA	L+1=relation
+2	1	T=DA	L+1=room
+1	1	T=JJ	L+1=volcano
+2	1	T=DA	L+1=be
+1	1	T=RG	L+1=expensive
+1	1	T=JJ	L+1=window
+1	1	T=DA	L+1=five-and-dime
+1	1	T=DA	L+1=arable
+1	1	T=JJ	L+1=mexican
+1	1	T=JJ	L+1=artifice
+1	1	T=DA	L+1=except
+1	1	T=DA	L+1=action
+2	1	T=JJ	L+1=song
+1	1	T=JJ	L+1=rise
+1	1	T=JJ	L+1=helper
+1	1	T=JJ	L+1=cafe
+1	1	T=JJ	L+1=twist
+1	1	T=DA	L+1=knowledge
+1	1	T=DA	L+1=cause
+3	1	T=DA	L+1=patience
+1	1	T=DA	L+1=anyone
+4	1	T=DA	L+1=information
+7	16	T=JJ~DA	L+1=while & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=False & A+1=True & Gen-1=A
+1	1	T=DA	L+1=perplex
+2	1	T=JJ	L+1=joke
+1	1	T=JJ	L+1=ivy
+1	1	T=JJ	L+1=way
+1	1	T=DA	L+1=drink
+1	1	T=DA	L+1=stash
+1	1	T=JJ	L+1=produce
+1	1	T=DA	L+1=democracy
+1	1	T=DA	L+1=past
+1	1	T=JJ	L+1=ginger
+1	1	T=RG	L+1=loud
+1	1	T=JJ	L+1=me
+1	1	T=DA	L+1=salt
+2	1	T=DA	L+1=we
+2	1	T=DA	L+1=something
+1	1	T=DA	L+1=motel
+1	1	T=DA	L+1=content
+1	1	T=JJ	L+1=tooth
+1	1	T=JJ	L+1=horse
+1	1	T=DA	L+1=optimism
+1	1	T=RG	L+1=wildly
+1	1	T=JJ	L+1=grecian
+1	1	T=DA	L+1=brute
+1	1	T=DA	L+1=prestige
+1	1	T=JJ	L+1=twinge
+1	1	T=DA	L+1=bravado
+1	1	T=JJ	L+1=flick
+1	1	T=DA	L+1=half-smile
+1	1	T=JJ	L+1=scale
+1	1	T=RG	L+1=immature
+1	1	T=DA	L+1=private
+1	1	T=JJ	L+1=rental
+1	1	T=RG	L+1=fix
+1	1	T=JJ	L+1=tin
+1	1	T=JJ	L+1=bunch
+1	1	T=JJ	L+1=before
+1	1	T=RG	L+1=self-pitying
+1	1	T=DA	L+1=bill
+1	1	T=DA	L+1=ball
+2	1	T=DA	L+1=appreciation
+1	1	T=RG	L+1=short
+1	1	T=JJ	L+1=filament
+1	1	T=JJ	L+1=niche
+1	1	T=RG	L+1=nervously
+1	1	T=DA	L+1=heed
+1	1	T=DA	L+1=development
+1	1	T=JJ	L+1=nap
+1	1	T=JJ	L+1=chunk
+1	1	T=DA	L+1=above
+1	1	T=DA	L+1=imagination
+2	1	T=DA	L+1=water
+1	1	T=DA	L+1=twitter
+1	1	T=DA	L+1=work
+1	1	T=DA	L+1=mare
+1	1	T=JJ	L+1=blitz
+3	1	T=DA	L+1=help
+1	1	T=DA	L+1=contribution
+2	1	T=DA	L+1=chance
+1	1	T=RG	L+1=young
+1	1	T=DA	L+1=discovery
+1	1	T=RG	L+1=further
+2	1	T=DA	L+1=lawn
+1	2	T=JJ	L+1=things & L-1=across
+1	2	T=JJ	L+1=things & L-1=to
+1	2	T=JJ	L+1=things & L-1=sickly
+1	2	T=DA	L+1=things & L-1=by
+1	1	T=DA	L+1=damage
+1	1	T=DA	L+1=contact
+1	1	T=DA	L+1=easy
+3	1	T=DA	L+1=likelihood
+1	1	T=DA	L+1=joy
+1	1	T=DA	L+1=credit
+2	1	T=DA	L+1=influence
+1	2	T=DA	L+1=guidance & L-1=but
+1	2	T=JJ	L+1=guidance & L-1=a
+1	2	T=DA	L+1=more & L-1=him
+1	2	T=RG	L+1=more & L-1=into
+3	2	T=DA	L+1=more & L-1=be
+1	2	T=DA	L+1=more & L-1=at
+2	2	T=RG	L+1=more & L-1=do
+2	2	T=RG	L+1=more & L-1=have
+1	2	T=RG	L+1=more & L-1=by
+1	2	T=RG	L+1=more & L-1=of
+1	2	T=RG	L+1=more & L-1=often
+3	4	T=RG	L+1=more & L-1=a & Gen+1=R & C+1=False
+5	16	T=RG~DA	L+1=more & L-1=a & Gen+1=R & C+1=True & A-1=False & Ger-1=False & Inf+1=False & C-1=True & M+1=True & Inf-1=False & M-1=True & Ing+1=False & Ing-1=False & Ger+1=False & Gen-1=A & A+1=False
+12	3	T=RG	L+1=more & L-1=a & Gen+1=D
+1	1	T=JJ	L+1=three-masted
+1	1	T=DA	L+1=polymerization
+1	1	T=DA	L+1=dull
+1	1	T=DA	L+1=yellow
+1	1	T=DA	L+1=publicity
+1	1	T=DA	L+1=magnum
+1	1	T=DA	L+1=enthusiasm
+2	2	T=DA	L+1=as & Gen+1=I
+7	16	T=RR~JJ~DA~RG	L+1=as & Gen+1=C & L-1=as & A-1=False & Ger-1=False & Inf+1=False & Ger+1=False & M+1=False & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=True & A+1=False & Gen-1=R
+1	3	T=DA	L+1=as & Gen+1=C & L-1=a
+1	1	T=JJ	L+1=timber
+1	1	T=DA	L+1=dose
+1	1	T=DA	L+1=correspondence
+1	1	T=RG	L+1=somber
+1	2	T=DA	L+1=. & L-1=know
+1	2	T=DA	L+1=. & L-1=so
+1	2	T=JJ	L+1=. & L-1=and
+11	16	T=JJ~DA	L+1=. & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=Q & M+1=False & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=True & A+1=False & Gen-1=A
+1	1	T=JJ	L+1=tiny
+1	1	T=RG	L+1=reckless
+1	1	T=JJ	L+1=character
+2	1	T=DA	L+1=nuclear
+1	1	T=DA	L+1=suggestion
+1	1	T=RG	L+1=used
+1	1	T=JJ	L+1=sport
+1	1	T=DA	L+1=tangible
+1	1	T=JJ	L+1=wife
+1	1	T=DA	L+1=confidence
+2	1	T=JJ	L+1=world
+1	1	T=DA	L+1=;
+1	1	T=DA	L+1=have
+1	1	T=JJ	L+1=well
+3	1	T=JJ	L+1=car
+2	1	T=JJ	L+1=adventure
+1	1	T=DA	L+1=history
+1	1	T=JJ	L+1=pout
+1	1	T=RG	L+1=soft
+1	1	T=RG	L+1=up-to-date
+1	1	T=DA	L+1=appetite
+1	1	T=DA	L+1=distinction
+1	1	T=JJ	L+1=depot
+1	1	T=JJ	L+1=scene
+3	1	T=DA	L+1=effort
+1	1	T=DA	L+1=after
+1	1	T=RG	L+1=known
+1	1	T=DA	L+1=heavy
+1	1	T=JJ	L+1=horn
+2	16	T=JJ~DA	L+1=engine & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=False & A+1=True & Gen-1=A
+1	1	T=JJ	L+1=stove
+1	1	T=DA	L+1=european
+1	1	T=JJ	L+1=pink
+1	1	T=JJ	L+1=game
+1	2	T=JJ	L+1=thing & L-1=jazzy
+1	2	T=JJ	L+1=thing & L-1=nice
+1	2	T=JJ	L+1=thing & L-1=dear
+2	16	T=JJ~DA	L+1=thing & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=False & A+1=True & Gen-1=A
+1	1	T=RG	L+1=sight-seeing
+3	16	T=DA~RG	L+1=extra & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=J & M+1=True & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=False & A+1=False & Gen-1=A
+1	2	T=DA	L+1=on & L-1=him
+3	16	T=JJ~DA	L+1=on & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=I & M+1=False & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=True & A+1=False & Gen-1=A
+1	1	T=DA	L+1=wisdom
+1	1	T=RG	L+1=deserved
+1	1	T=DA	L+1=take
+1	1	T=RG	L+1=bitter
+2	1	T=JJ	L+1=red
+1	1	T=DA	L+1=merit
+2	1	T=RG	L+1=different
+1	1	T=DA	L+1=effect
+1	1	T=DA	L+1=resemblance
+1	1	T=DA	L+1=north
+1	1	T=JJ	L+1=brown
+1	1	T=DA	L+1=waste
+1	1	T=JJ	L+1=coffee
+14	1	T=DA	L+1=doubt
+1	1	T=JJ	L+1=office
+1	1	T=JJ	L+1=touch
+1	1	T=JJ	L+1=item
+1	1	T=DA	L+1=love
+1	1	T=RG	L+1=off-color
+1	1	T=JJ	L+1=spreading
+1	1	T=JJ	L+1=flower
+1	2	T=JJ	L+1=piece & L-1=precious
+1	2	T=JJ	L+1=piece & L-1=gay
+1	2	T=JJ	L+1=piece & L-1=that
+3	16	T=JJ~DA	L+1=piece & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=False & A+1=True & Gen-1=A
+1	1	T=DA	L+1=investigation
+1	1	T=JJ	L+1=cottage
+1	1	T=JJ	L+1=poseur
+1	2	T=JJ	L+1=man & L-1=a
+1	2	T=JJ	L+1=man & L-1=those
+1	2	T=JJ	L+1=man & L-1=,
+1	2	T=JJ	L+1=man & L-1=spineless
+1	2	T=DA	L+1=man & L-1=dark
+1	2	T=DA	L+1=man & L-1=strange
+1	2	T=JJ	L+1=man & L-1=pompous
+3	16	T=JJ~DA	L+1=man & L-1=the & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=False & A+1=True & Gen-1=A
+2	16	T=DA~RG	L+1=hard & Gen+1=J & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Ger+1=False & M+1=True & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=False & A+1=False & Gen-1=A
+3	16	T=DA~RG	L+1=hard & Gen+1=R & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Ger+1=False & M+1=True & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=False & A+1=False & Gen-1=A
+1	1	T=JJ	L+1=green
+2	1	T=DA	L+1=experience
+1	2	T=DA	L+1=spark & L-1=this
+2	2	T=JJ	L+1=spark & L-1=that
+2	1	T=DA	L+1=freedom
+1	1	T=JJ	L+1=dance
+1	1	T=JJ	L+1=face
+1	1	T=DA	L+1=talk
+3	1	T=JJ	L+1=operetta
+1	1	T=DA	L+1=sugar
+1	1	T=JJ	L+1=drunkenness
+1	1	T=RG	L+1=special
+2	16	T=DA~RG	L+1=fussy & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=J & M+1=True & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=False & A+1=False & Gen-1=A
+1	1	T=DA	L+1=ashamed
+1	1	T=JJ	L+1=creature
+3	1	T=DA	L+1=attention
+1	1	T=DA	L+1=demand
+1	1	T=JJ	L+1=colony
+1	1	T=JJ	L+1=heel
+2	1	T=DA	L+1=contest
+1	1	T=JJ	L+1=tableau
+2	1	T=JJ	L+1=black
+1	1	T=JJ	L+1=japanese
+4	1	T=DA	L+1=in
+1	1	T=DA	L+1=rag
+1	1	T=DA	L+1=home
+1	1	T=JJ	L+1=drama
+1	1	T=JJ	L+1=fortress
+1	1	T=DA	L+1=sturdy
+1	1	T=JJ	L+1=accident
+1	1	T=DA	L+1=ego
+1	1	T=DA	L+1=since
+1	1	T=JJ	L+1=gesture
+1	1	T=JJ	L+1=bang
+1	1	T=JJ	L+1=one
+1	1	T=DA	L+1=tackle
+1	2	T=DA	L+1=to & L-1=cost
+1	2	T=DA	L+1=to & L-1=so
+3	2	T=DA	L+1=to & L-1=very
+4	2	T=DA	L+1=to & L-1=do
+4	2	T=DA	L+1=to & L-1=have
+2	16	T=JJ~DA	L+1=to & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=I & M+1=False & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=True & A+1=False & Gen-1=A
+1	1	T=DA	L+1=glamour
+1	1	T=DA	L+1=danger
+1	1	T=DA	L+1=if
+1	1	T=JJ	L+1=tabernacle
+1	1	T=DA	L+1=protozoan
+1	1	T=DA	L+1=conscious
+1	1	T=DA	L+1=variation
+1	1	T=JJ	L+1=snow
+1	1	T=JJ	L+1=visitor
+7	16	T=JJ~DA	L+1=bite & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=False & A+1=True & Gen-1=A
+1	1	T=JJ	L+1=regard
+2	1	T=JJ	L+1=image
+1	1	T=DA	L+1=practical
+6	1	T=DA	L+1=evidence
+1	2	T=DA	L+1=theater & L-1=,
+1	2	T=JJ	L+1=theater & L-1=local
+8	16	T=DA~RG	L+1=too & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=R & M+1=True & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=True & A+1=False & Gen-1=A
+1	1	T=JJ	L+1=official
+1	1	T=DA	L+1=hydrate
+1	1	T=RG	L+1=cold
+1	1	T=DA	L+1=apartment
+2	1	T=DA	L+1=he
+1	1	T=DA	L+1=prove
+1	1	T=DA	L+1=lapse
+1	1	T=JJ	L+1=korean
+1	1	T=JJ	L+1=vacation
+1	1	T=DA	L+1=hand
+1	1	T=JJ	L+1=one-act
+1	1	T=DA	L+1=when
+1	1	T=JJ	L+1=race
+1	1	T=JJ	L+1=whisky
+1	2	T=JJ	L+1=square & L-1=charming
+1	2	T=DA	L+1=square & L-1=a
+1	1	T=DA	L+1=occasion
+2	1	T=JJ	L+1=woman
+2	1	T=RG	L+1=uncertain
+1	1	T=DA	L+1=control
+1	1	T=JJ	L+1=idiosyncrasy
+2	1	T=JJ	L+1=patch
+1	1	T=DA	L+1=draft
+1	1	T=JJ	L+1=oyster
+1	1	T=DA	L+1=i
+3	1	T=JJ	L+1=sister
+2	16	T=RG~DA	L+1=0 & L-1=a & Gen+1=J & A-1=False & Ger-1=False & Inf+1=False & Ger+1=False & M+1=True & Inf-1=False & C-1=True & M-1=True & Ing+1=False & Ing-1=False & C+1=False & A+1=False & Gen-1=A
+4	3	T=JJ	L+1=0 & L-1=a & Gen+1=N
+1	2	T=DA	L+1=0 & L-1=sneaky
+1	2	T=JJ	L+1=0 & L-1=pure
+1	2	T=JJ	L+1=0 & L-1=this
+1	2	T=JJ	L+1=0 & L-1=so
+1	2	T=DA	L+1=0 & L-1=that
+2	2	T=JJ	L+1=0 & L-1=,
+1	2	T=DA	L+1=0 & L-1=have
+1	2	T=JJ	L+1=0 & L-1=saw
+1	2	T=JJ	L+1=0 & L-1=of
+1	2	T=JJ	L+1=0 & L-1=mountainous
+1	2	T=DA	L+1=0 & L-1=his
+3	2	T=JJ	L+1=0 & L-1=and
+1	2	T=JJ	L+1=0 & L-1=on
+1	2	T=DA	L+1=0 & L-1=with
+1	2	T=JJ	L+1=0 & L-1=then
+8	2	T=JJ	L+1=0 & L-1=the
+1	1	T=JJ	L+1=foreign
+1	1	T=DA	L+1=pocket
+1	1	T=DA	L+1=understood
+1	1	T=JJ	L+1=dead
+2	16	T=JJ~RG	L+1=surprise & L-1=a & A-1=False & Ger-1=False & Inf+1=True & Gen+1=V & M+1=False & Ing+1=True & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=False & A+1=False & Gen-1=A
+2	1	T=JJ	L+1=dog
+1	1	T=JJ	L+1=blue
+1	1	T=JJ	L+1=stone
+1	1	T=DA	L+1=scar
+1	1	T=JJ	L+1=scoop
+2	1	T=DA	L+1=mercy
+2	1	T=JJ	L+1=figure
+2	1	T=JJ	L+1=melody
+1	1	T=DA	L+1=table
+1	1	T=JJ	L+1=dry
+1	1	T=JJ	L+1=missile
+1	1	T=JJ	L+1=smooth
+1	1	T=JJ	L+1=head
+1	1	T=JJ	L+1=gadget
+1	2	T=DA	L+1=of & L-1=remembered
+1	2	T=DA	L+1=of & L-1=comprehend
+1	2	T=DA	L+1=of & L-1=how
+1	2	T=DA	L+1=of & L-1=see
+1	2	T=DA	L+1=of & L-1=saw
+3	16	T=JJ~DA	L+1=of & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=I & M+1=False & Ing+1=False & C-1=True & Inf-1=False & M-1=True & Ing-1=False & Ger+1=False & C+1=True & A+1=False & Gen-1=A
+1	1	T=JJ	L+1=note
+1	1	T=DA	L+1=beast
+Count	Path_Length	Result	Predicates
+1	1	T=RG	L+1=sad
+1	1	T=DA	L+1=housewife
+1	1	T=JJ	L+1=mystery
+1	1	T=JJ	L+1=plot
+1	1	T=DA	L+1=initiative
+1	1	T=JJ	L+1=box
+1	1	T=JJ	L+1=machine
+1	1	T=DA	L+1=prop
+1	1	T=DA	L+1=dream
+1	1	T=DA	L+1=else
+1	1	T=JJ	L+1=draw
+1	2	T=DA	L+1=job & L-1=safe
+1	2	T=JJ	L+1=job & L-1=a
+1	2	T=DA	L+1=problem & L-1=pose
+1	2	T=JJ	L+1=problem & L-1=these
+1	1	T=DA	L+1=pine
+4	1	T=RG	L+1=sick
+2	1	T=DA	L+1=but
+8	1	T=JJ	L+1=boy
+1	1	T=RG	L+1=querulous
+1	1	T=JJ	L+1=dinner
+2	1	T=DA	L+1=value
+1	1	T=JJ	L+1=jack
+3	1	T=JJ	L+1=eye
+1	2	T=JJ	L+1=about & L-1=very
+1	2	T=DA	L+1=about & L-1=know
+2	1	T=JJ	L+1=child
+1	1	T=DA	L+1=pertinence
+1	1	T=RG	L+1=tire
+1	1	T=JJ	L+1=lord
+2	1	T=DA	L+1=application
+2	1	T=DA	L+1=real
+2	1	T=JJ	L+1=demonstration
+2	1	T=DA	L+1=profit
+2	1	T=JJ	L+1=parable
+1	1	T=JJ	L+1=hollow
+1	2	T=RR	L+1=and & L-1=very
+1	2	T=NP1	L+1=and & L-1=0
+2	2	T=DA	L+1=and & L-1=a
+2	1	T=DA	L+1=sand
+1	1	T=JJ	L+1=groggy
+2	18	T=DA~RG	L+1=far & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=R & M+1=True & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=RGR & Ing-1=False & Ger+1=False & C+1=False & T-1=AT & A+1=False
+1	1	T=JJ	L+1=tract
+1	1	T=DA	L+1=fast
+1	1	T=JJ	L+1=bay
+1	1	T=DA	L+1=blood
+1	1	T=JJ	L+1=pyre
+2	1	T=DA	L+1=cabana
+1	1	T=DA	L+1=because
+1	1	T=RG	L+1=cooler
+1	1	T=DA	L+1=night
+1	1	T=DA	L+1=left
+1	1	T=JJ	L+1=frame
+3	1	T=DA	L+1=money
+1	1	T=JJ	L+1=bag
+1	2	T=JJ	L+1=house & L-1=her
+1	2	T=DA	L+1=house & L-1=grubby
+1	2	T=DA	L+1=house & L-1=a
+1	2	T=JJ	L+1=time & L-1=some
+3	2	T=DA	L+1=time & L-1=have
+1	2	T=DA	L+1=time & L-1=so
+1	2	T=DA	L+1=time & L-1=be
+3	2	T=DA	L+1=time & L-1=a
+1	1	T=JJ	L+1=daughter
+4	1	T=DA	L+1=difference
+2	1	T=JJ	L+1=plant
+1	1	T=JJ	L+1=people
+1	1	T=JJ	L+1=lump
+1	1	T=JJ	L+1=net
+1	1	T=RG	L+1=tender
+1	1	T=JJ	L+1=hug
+1	1	T=DA	L+1=ready
+1	1	T=JJ	L+1=sweet
+1	1	T=DA	L+1=depth
+1	1	T=JJ	L+1=hell
+1	1	T=JJ	L+1=triplet
+1	1	T=RG	L+1=pale
+2	2	T=RG	L+1=late & Gen+1=J
+5	18	T=JJ~DA~RG	L+1=late & Gen+1=R & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Ger+1=False & C-1=True & M+1=True & M-1=True & Inf-1=False & T+1=RGR & Ing+1=False & Ing-1=False & A+1=False & C+1=False & T-1=AT & Gen-1=A
+1	1	T=DA	L+1=plan
+1	1	T=RG	L+1=sadly
+1	1	T=JJ	L+1=nod
+1	1	T=DA	L+1=lady
+1	1	T=DA	L+1=hydrogen
+1	1	T=JJ	L+1=hearth
+1	1	T=DA	L+1=bastard
+1	1	T=JJ	L+1=animal
+1	1	T=RG	L+1=better
+2	18	T=JJ~DA	L+1=over & Gen+1=I & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Ger+1=False & C-1=True & M+1=False & M-1=True & Inf-1=False & T+1=II & Ing+1=False & Ing-1=False & A+1=False & C+1=True & T-1=AT & Gen-1=A
+1	2	T=JJ	L+1=over & Gen+1=R
+1	1	T=JJ	L+1=fire
+1	1	T=DA	L+1=light
+1	1	T=DA	L+1=legal
+1	1	T=DA	L+1=courtesy
+1	1	T=DA	L+1=analysis
+1	1	T=JJ	L+1=classical
+1	1	T=DA	L+1=secret
+1	1	T=JJ	L+1=unsinkable
+1	1	T=DA	L+1=means
+1	1	T=JJ	L+1=mound
+1	1	T=RG	L+1=wary
+1	1	T=RG	L+1=weary
+1	1	T=DA	L+1=milk
+1	1	T=JJ	L+1=flock
+1	1	T=JJ	L+1=hour
+1	1	T=RG	L+1=chilly
+1	1	T=DA	L+1=wallet
+1	1	T=DA	L+1=stream
+11	1	T=JJ	L+1=girl
+1	2	T=DA	L+1=corner & L-1=secret
+1	2	T=JJ	L+1=corner & L-1=the
+1	2	T=JJ	L+1=group & L-1=with
+2	18	T=JJ~DA	L+1=group & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=NN1 & Ing-1=False & Ger+1=False & C+1=False & T-1=AT & A+1=True
+1	1	T=RG	L+1=thick
+1	1	T=DA	L+1=argument
+1	1	T=JJ	L+1=riot
+1	2	T=JJ	L+1=pig & L-1=his
+1	2	T=DA	L+1=pig & L-1=with
+1	2	T=JJ	L+1=white & L-1=a
+1	2	T=JJ	L+1=white & L-1=their
+1	2	T=JJ	L+1=white & L-1=her
+1	2	T=RG	L+1=white & L-1=the
+1	2	T=JJ	L+1=, & L-1=the
+1	2	T=JJ	L+1=, & L-1=nothing
+1	2	T=DA	L+1=, & L-1=undergo
+1	2	T=DA	L+1=, & L-1=by
+1	2	T=DA	L+1=, & L-1=said
+1	2	T=DA	L+1=, & L-1=few
+1	2	T=DA	L+1=, & L-1=0
+8	18	T=JJ~DA	L+1=, & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=Q & M+1=False & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=QC & Ing-1=False & Ger+1=False & C+1=True & T-1=AT & A+1=False
+1	1	T=JJ	L+1=flush
+1	1	T=JJ	L+1=kid
+2	1	T=DA	L+1=out
+1	1	T=JJ	L+1=bar
+2	1	T=DA	L+1=distance
+2	1	T=DA	L+1=like
+1	1	T=JJ	L+1=hanger
+1	1	T=RG	L+1=ill
+8	1	T=JJ	L+1=rock
+1	1	T=RG	L+1=pretentious
+1	1	T=DA	L+1=frank
+2	18	T=DA~RG	L+1=long & Gen+1=J & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Ger+1=False & C-1=True & M+1=True & M-1=True & Inf-1=False & T+1=JJR & Ing+1=False & Ing-1=False & A+1=False & C+1=False & T-1=AT & Gen-1=A
+2	2	T=RG	L+1=long & Gen+1=R
+1	1	T=DA	L+1=trick
+1	1	T=JJ	L+1=blossom
+2	18	T=RG~DA	L+1=high & T+1=JJ & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=J & M+1=True & Ger+1=False & C-1=True & Inf-1=False & M-1=True & Ing+1=False & Ing-1=False & A+1=False & C+1=False & T-1=AT & Gen-1=A
+1	2	T=DA	L+1=high & T+1=JJR
+3	1	T=JJ	L+1=big
+3	1	T=DA	L+1=reason
+1	1	T=JJ	L+1=isle
+1	2	T=JJ	L+1=speech & L-1=0
+1	2	T=DA	L+1=speech & L-1=her
+1	1	T=JJ	L+1=thrift
+1	1	T=JJ	L+1=children
+2	1	T=DA	L+1=trouble
+1	1	T=JJ	L+1=neck
+1	1	T=JJ	L+1=book
+1	1	T=JJ	L+1=chicken
+1	1	T=JJ	L+1=surgeon
+1	1	T=DA	L+1=land
+1	1	T=JJ	L+1=body
+1	1	T=JJ	L+1=plane
+1	1	T=DA	L+1=now
+11	1	T=DA	L+1=or
+1	1	T=RG	L+1=get
+1	1	T=RR	L+1=what
+1	1	T=DA	L+1=relief
+1	1	T=DA	L+1=bitterness
+1	2	T=DA	L+1=interest & L-1=have
+1	2	T=DA	L+1=interest & L-1=show
+1	2	T=RG	L+1=interest & L-1=be
+4	18	T=DA~RG	L+1=less & Gen+1=R & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Ger+1=False & C-1=True & M+1=True & M-1=True & Inf-1=False & T+1=RG & Ing+1=False & Ing-1=False & A+1=False & C+1=True & T-1=AT & Gen-1=A
+2	2	T=RG	L+1=less & Gen+1=D
+3	1	T=DA	L+1=at
+1	1	T=JJ	L+1=mustache
+1	1	T=DA	L+1=his
+1	1	T=JJ	L+1=cluster
+1	1	T=RG	L+1=strange
+1	1	T=JJ	L+1=hideout
+1	1	T=DA	L+1=vessel
+2	18	T=JJ~DA	L+1=tolerance & L-1=have & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Gen-1=V & C-1=True & Inf-1=False & M-1=False & T+1=NN1 & Ing-1=False & Ger+1=False & C+1=False & T-1=VHD & A+1=True
+1	1	T=RG	L+1=enough
+1	1	T=DA	L+1=fruit
+1	2	T=JJ	L+1=place & L-1=modest
+1	2	T=DA	L+1=place & L-1=a
+1	1	T=RG	L+1=fuzzy
+1	1	T=JJ	L+1=pansy
+1	1	T=JJ	L+1=suburb
+1	1	T=DA	L+1=puncher
+1	1	T=JJ	L+1=anecdote
+2	1	T=RG	L+1=low
+1	1	T=JJ	L+1=peanut
+1	1	T=RG	L+1=superficial
+1	1	T=RR	L+1=by
+1	2	T=RR	L+1=concern & L-1=have
+1	2	T=DA	L+1=concern & L-1=of
+1	1	T=JJ	L+1=recitation
+1	1	T=DA	L+1=heap
+1	1	T=DA	L+1=toad
+1	1	T=RG	L+1=quiet
+1	1	T=DA	L+1=wonder
+1	1	T=DA	L+1=evident
+1	1	T=DA	L+1=relation
+2	1	T=DA	L+1=room
+1	1	T=JJ	L+1=volcano
+2	1	T=DA	L+1=be
+1	1	T=RG	L+1=expensive
+1	1	T=JJ	L+1=window
+1	1	T=DA	L+1=five-and-dime
+1	1	T=DA	L+1=arable
+1	1	T=JJ	L+1=mexican
+1	1	T=JJ	L+1=artifice
+1	1	T=DA	L+1=except
+1	1	T=DA	L+1=action
+2	1	T=JJ	L+1=song
+1	1	T=JJ	L+1=rise
+1	1	T=JJ	L+1=helper
+1	1	T=JJ	L+1=cafe
+1	1	T=JJ	L+1=twist
+1	1	T=DA	L+1=knowledge
+1	1	T=DA	L+1=cause
+3	1	T=DA	L+1=patience
+1	1	T=DA	L+1=anyone
+4	1	T=DA	L+1=information
+7	18	T=JJ~DA	L+1=while & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=NN1 & Ing-1=False & Ger+1=False & C+1=False & T-1=AT & A+1=True
+1	1	T=DA	L+1=perplex
+2	1	T=JJ	L+1=joke
+1	1	T=JJ	L+1=ivy
+1	1	T=JJ	L+1=way
+1	1	T=DA	L+1=drink
+1	1	T=DA	L+1=stash
+1	1	T=JJ	L+1=produce
+1	1	T=DA	L+1=democracy
+1	1	T=DA	L+1=past
+1	1	T=JJ	L+1=ginger
+1	1	T=RG	L+1=loud
+1	1	T=JJ	L+1=me
+1	1	T=DA	L+1=salt
+2	1	T=DA	L+1=we
+2	1	T=DA	L+1=something
+1	1	T=DA	L+1=motel
+1	1	T=DA	L+1=content
+1	1	T=JJ	L+1=tooth
+1	1	T=JJ	L+1=horse
+1	1	T=DA	L+1=optimism
+1	1	T=RG	L+1=wildly
+1	1	T=JJ	L+1=grecian
+1	1	T=DA	L+1=brute
+1	1	T=DA	L+1=prestige
+1	1	T=JJ	L+1=twinge
+1	1	T=DA	L+1=bravado
+1	1	T=JJ	L+1=flick
+1	1	T=DA	L+1=half-smile
+1	1	T=JJ	L+1=scale
+1	1	T=RG	L+1=immature
+1	1	T=DA	L+1=private
+1	1	T=JJ	L+1=rental
+1	1	T=RG	L+1=fix
+1	1	T=JJ	L+1=tin
+1	1	T=JJ	L+1=bunch
+1	1	T=JJ	L+1=before
+1	1	T=RG	L+1=self-pitying
+1	1	T=DA	L+1=bill
+1	1	T=DA	L+1=ball
+2	1	T=DA	L+1=appreciation
+1	1	T=RG	L+1=short
+1	1	T=JJ	L+1=filament
+1	1	T=JJ	L+1=niche
+1	1	T=RG	L+1=nervously
+1	1	T=DA	L+1=heed
+1	1	T=DA	L+1=development
+1	1	T=JJ	L+1=nap
+1	1	T=JJ	L+1=chunk
+1	1	T=DA	L+1=above
+1	1	T=DA	L+1=imagination
+2	1	T=DA	L+1=water
+1	1	T=DA	L+1=twitter
+1	1	T=DA	L+1=work
+1	1	T=DA	L+1=mare
+1	1	T=JJ	L+1=blitz
+3	1	T=DA	L+1=help
+1	1	T=DA	L+1=contribution
+2	1	T=DA	L+1=chance
+1	1	T=RG	L+1=young
+1	1	T=DA	L+1=discovery
+1	1	T=RG	L+1=further
+2	1	T=DA	L+1=lawn
+1	2	T=JJ	L+1=things & L-1=across
+1	2	T=JJ	L+1=things & L-1=to
+1	2	T=JJ	L+1=things & L-1=sickly
+1	2	T=DA	L+1=things & L-1=by
+1	1	T=DA	L+1=damage
+1	1	T=DA	L+1=contact
+1	1	T=DA	L+1=easy
+3	1	T=DA	L+1=likelihood
+1	1	T=DA	L+1=joy
+1	1	T=DA	L+1=credit
+2	1	T=DA	L+1=influence
+1	2	T=DA	L+1=guidance & L-1=but
+1	2	T=JJ	L+1=guidance & L-1=a
+1	2	T=DA	L+1=more & L-1=him
+1	2	T=RG	L+1=more & L-1=into
+3	2	T=DA	L+1=more & L-1=be
+1	2	T=DA	L+1=more & L-1=at
+2	2	T=RG	L+1=more & L-1=do
+2	2	T=RG	L+1=more & L-1=have
+1	2	T=RG	L+1=more & L-1=by
+1	2	T=RG	L+1=more & L-1=of
+1	2	T=RG	L+1=more & L-1=often
+12	3	T=RG	L+1=more & L-1=a & T+1=DA
+5	18	T=RG~DA	L+1=more & L-1=a & T+1=RG & A-1=False & Ger-1=False & Inf+1=False & Gen+1=R & M+1=True & Ger+1=False & C-1=True & Inf-1=False & M-1=True & Ing+1=False & Ing-1=False & A+1=False & C+1=True & T-1=AT & Gen-1=A
+3	3	T=RG	L+1=more & L-1=a & T+1=RGR
+1	1	T=JJ	L+1=three-masted
+1	1	T=DA	L+1=polymerization
+1	1	T=DA	L+1=dull
+1	1	T=DA	L+1=yellow
+1	1	T=DA	L+1=publicity
+1	1	T=DA	L+1=magnum
+1	1	T=DA	L+1=enthusiasm
+2	2	T=DA	L+1=as & Gen+1=I
+7	18	T=RR~JJ~DA~RG	L+1=as & Gen+1=C & L-1=as & A-1=False & Ger-1=False & Inf+1=False & Ger+1=False & C-1=True & M+1=False & M-1=True & Inf-1=False & T+1=CS & Ing+1=False & Ing-1=False & A+1=False & C+1=True & T-1=RG & Gen-1=R
+1	3	T=DA	L+1=as & Gen+1=C & L-1=a
+1	1	T=JJ	L+1=timber
+1	1	T=DA	L+1=dose
+1	1	T=DA	L+1=correspondence
+1	1	T=RG	L+1=somber
+1	2	T=DA	L+1=. & L-1=know
+1	2	T=DA	L+1=. & L-1=so
+1	2	T=JJ	L+1=. & L-1=and
+11	18	T=JJ~DA	L+1=. & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=Q & M+1=False & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=QEP & Ing-1=False & Ger+1=False & C+1=True & T-1=AT & A+1=False
+1	1	T=JJ	L+1=tiny
+1	1	T=RG	L+1=reckless
+1	1	T=JJ	L+1=character
+2	1	T=DA	L+1=nuclear
+1	1	T=DA	L+1=suggestion
+1	1	T=RG	L+1=used
+1	1	T=JJ	L+1=sport
+1	1	T=DA	L+1=tangible
+1	1	T=JJ	L+1=wife
+1	1	T=DA	L+1=confidence
+2	1	T=JJ	L+1=world
+1	1	T=DA	L+1=;
+1	1	T=DA	L+1=have
+1	1	T=JJ	L+1=well
+3	1	T=JJ	L+1=car
+2	1	T=JJ	L+1=adventure
+1	1	T=DA	L+1=history
+1	1	T=JJ	L+1=pout
+1	1	T=RG	L+1=soft
+1	1	T=RG	L+1=up-to-date
+1	1	T=DA	L+1=appetite
+1	1	T=DA	L+1=distinction
+1	1	T=JJ	L+1=depot
+1	1	T=JJ	L+1=scene
+3	1	T=DA	L+1=effort
+1	1	T=DA	L+1=after
+1	1	T=RG	L+1=known
+1	1	T=DA	L+1=heavy
+1	1	T=JJ	L+1=horn
+2	18	T=JJ~DA	L+1=engine & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=NN1 & Ing-1=False & Ger+1=False & C+1=False & T-1=AT & A+1=True
+1	1	T=JJ	L+1=stove
+1	1	T=DA	L+1=european
+1	1	T=JJ	L+1=pink
+1	1	T=JJ	L+1=game
+1	2	T=JJ	L+1=thing & L-1=jazzy
+1	2	T=JJ	L+1=thing & L-1=nice
+1	2	T=JJ	L+1=thing & L-1=dear
+2	18	T=JJ~DA	L+1=thing & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=NN1 & Ing-1=False & Ger+1=False & C+1=False & T-1=AT & A+1=True
+1	1	T=RG	L+1=sight-seeing
+3	18	T=DA~RG	L+1=extra & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=J & M+1=True & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=JJ & Ing-1=False & Ger+1=False & C+1=False & T-1=AT & A+1=False
+1	2	T=DA	L+1=on & L-1=him
+3	18	T=JJ~DA	L+1=on & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=I & M+1=False & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=II & Ing-1=False & Ger+1=False & C+1=True & T-1=AT & A+1=False
+1	1	T=DA	L+1=wisdom
+1	1	T=RG	L+1=deserved
+1	1	T=DA	L+1=take
+1	1	T=RG	L+1=bitter
+2	1	T=JJ	L+1=red
+1	1	T=DA	L+1=merit
+2	1	T=RG	L+1=different
+1	1	T=DA	L+1=effect
+1	1	T=DA	L+1=resemblance
+1	1	T=DA	L+1=north
+1	1	T=JJ	L+1=brown
+1	1	T=DA	L+1=waste
+1	1	T=JJ	L+1=coffee
+14	1	T=DA	L+1=doubt
+1	1	T=JJ	L+1=office
+1	1	T=JJ	L+1=touch
+1	1	T=JJ	L+1=item
+1	1	T=DA	L+1=love
+1	1	T=RG	L+1=off-color
+1	1	T=JJ	L+1=spreading
+1	1	T=JJ	L+1=flower
+1	2	T=JJ	L+1=piece & L-1=precious
+1	2	T=JJ	L+1=piece & L-1=gay
+1	2	T=JJ	L+1=piece & L-1=that
+3	18	T=JJ~DA	L+1=piece & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=NN1 & Ing-1=False & Ger+1=False & C+1=False & T-1=AT & A+1=True
+1	1	T=DA	L+1=investigation
+1	1	T=JJ	L+1=cottage
+1	1	T=JJ	L+1=poseur
+1	2	T=JJ	L+1=man & L-1=a
+1	2	T=JJ	L+1=man & L-1=those
+1	2	T=JJ	L+1=man & L-1=,
+1	2	T=JJ	L+1=man & L-1=spineless
+1	2	T=DA	L+1=man & L-1=dark
+1	2	T=DA	L+1=man & L-1=strange
+1	2	T=JJ	L+1=man & L-1=pompous
+3	18	T=JJ~DA	L+1=man & L-1=the & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=NN1 & Ing-1=False & Ger+1=False & C+1=False & T-1=AT & A+1=True
+1	2	T=RG	L+1=hard & T+1=JJ
+1	2	T=DA	L+1=hard & T+1=JJR
+3	18	T=DA~RG	L+1=hard & T+1=RGR & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=R & M+1=True & Ger+1=False & C-1=True & Inf-1=False & M-1=True & Ing+1=False & Ing-1=False & A+1=False & C+1=False & T-1=AT & Gen-1=A
+1	1	T=JJ	L+1=green
+2	1	T=DA	L+1=experience
+1	2	T=DA	L+1=spark & L-1=this
+2	2	T=JJ	L+1=spark & L-1=that
+2	1	T=DA	L+1=freedom
+1	1	T=JJ	L+1=dance
+1	1	T=JJ	L+1=face
+1	1	T=DA	L+1=talk
+3	1	T=JJ	L+1=operetta
+1	1	T=DA	L+1=sugar
+1	1	T=JJ	L+1=drunkenness
+1	1	T=RG	L+1=special
+2	18	T=DA~RG	L+1=fussy & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=J & M+1=True & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=JJ & Ing-1=False & Ger+1=False & C+1=False & T-1=AT & A+1=False
+1	1	T=DA	L+1=ashamed
+1	1	T=JJ	L+1=creature
+3	1	T=DA	L+1=attention
+1	1	T=DA	L+1=demand
+1	1	T=JJ	L+1=colony
+1	1	T=JJ	L+1=heel
+2	1	T=DA	L+1=contest
+1	1	T=JJ	L+1=tableau
+2	1	T=JJ	L+1=black
+1	1	T=JJ	L+1=japanese
+4	1	T=DA	L+1=in
+1	1	T=DA	L+1=rag
+1	1	T=DA	L+1=home
+1	1	T=JJ	L+1=drama
+1	1	T=JJ	L+1=fortress
+1	1	T=DA	L+1=sturdy
+1	1	T=JJ	L+1=accident
+1	1	T=DA	L+1=ego
+1	1	T=DA	L+1=since
+1	1	T=JJ	L+1=gesture
+1	1	T=JJ	L+1=bang
+1	1	T=JJ	L+1=one
+1	1	T=DA	L+1=tackle
+1	2	T=DA	L+1=to & L-1=cost
+1	2	T=DA	L+1=to & L-1=so
+3	2	T=DA	L+1=to & L-1=very
+4	2	T=DA	L+1=to & L-1=do
+4	2	T=DA	L+1=to & L-1=have
+2	18	T=JJ~DA	L+1=to & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=I & M+1=False & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=II & Ing-1=False & Ger+1=False & C+1=True & T-1=AT & A+1=False
+1	1	T=DA	L+1=glamour
+1	1	T=DA	L+1=danger
+1	1	T=DA	L+1=if
+1	1	T=JJ	L+1=tabernacle
+1	1	T=DA	L+1=protozoan
+1	1	T=DA	L+1=conscious
+1	1	T=DA	L+1=variation
+1	1	T=JJ	L+1=snow
+1	1	T=JJ	L+1=visitor
+7	18	T=JJ~DA	L+1=bite & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=NN1 & Ing-1=False & Ger+1=False & C+1=False & T-1=AT & A+1=True
+1	1	T=JJ	L+1=regard
+2	1	T=JJ	L+1=image
+1	1	T=DA	L+1=practical
+6	1	T=DA	L+1=evidence
+1	2	T=DA	L+1=theater & L-1=,
+1	2	T=JJ	L+1=theater & L-1=local
+8	18	T=DA~RG	L+1=too & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=R & M+1=True & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=RG & Ing-1=False & Ger+1=False & C+1=True & T-1=AT & A+1=False
+1	1	T=JJ	L+1=official
+1	1	T=DA	L+1=hydrate
+1	1	T=RG	L+1=cold
+1	1	T=DA	L+1=apartment
+2	1	T=DA	L+1=he
+1	1	T=DA	L+1=prove
+1	1	T=DA	L+1=lapse
+1	1	T=JJ	L+1=korean
+1	1	T=JJ	L+1=vacation
+1	1	T=DA	L+1=hand
+1	1	T=JJ	L+1=one-act
+1	1	T=DA	L+1=when
+1	1	T=JJ	L+1=race
+1	1	T=JJ	L+1=whisky
+1	2	T=JJ	L+1=square & L-1=charming
+1	2	T=DA	L+1=square & L-1=a
+1	1	T=DA	L+1=occasion
+2	1	T=JJ	L+1=woman
+2	1	T=RG	L+1=uncertain
+1	1	T=DA	L+1=control
+1	1	T=JJ	L+1=idiosyncrasy
+2	1	T=JJ	L+1=patch
+1	1	T=DA	L+1=draft
+1	1	T=JJ	L+1=oyster
+1	1	T=DA	L+1=i
+3	1	T=JJ	L+1=sister
+3	3	T=JJ	L+1=0 & L-1=a & T+1=NN1
+1	3	T=JJ	L+1=0 & L-1=a & T+1=NP1
+1	3	T=DA	L+1=0 & L-1=a & T+1=JJ
+1	3	T=RG	L+1=0 & L-1=a & T+1=JJR
+1	2	T=DA	L+1=0 & L-1=sneaky
+1	2	T=JJ	L+1=0 & L-1=pure
+1	2	T=JJ	L+1=0 & L-1=this
+1	2	T=JJ	L+1=0 & L-1=so
+1	2	T=DA	L+1=0 & L-1=that
+2	2	T=JJ	L+1=0 & L-1=,
+1	2	T=DA	L+1=0 & L-1=have
+1	2	T=JJ	L+1=0 & L-1=saw
+1	2	T=JJ	L+1=0 & L-1=of
+1	2	T=JJ	L+1=0 & L-1=mountainous
+1	2	T=DA	L+1=0 & L-1=his
+3	2	T=JJ	L+1=0 & L-1=and
+1	2	T=JJ	L+1=0 & L-1=on
+1	2	T=DA	L+1=0 & L-1=with
+1	2	T=JJ	L+1=0 & L-1=then
+8	2	T=JJ	L+1=0 & L-1=the
+1	1	T=JJ	L+1=foreign
+1	1	T=DA	L+1=pocket
+1	1	T=DA	L+1=understood
+1	1	T=JJ	L+1=dead
+2	18	T=JJ~RG	L+1=surprise & L-1=a & A-1=False & Ger-1=False & Inf+1=True & Gen+1=V & M+1=False & Ing+1=True & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=VVN & Ing-1=False & Ger+1=False & C+1=False & T-1=AT & A+1=False
+2	1	T=JJ	L+1=dog
+1	1	T=JJ	L+1=blue
+1	1	T=JJ	L+1=stone
+1	1	T=DA	L+1=scar
+1	1	T=JJ	L+1=scoop
+2	1	T=DA	L+1=mercy
+2	1	T=JJ	L+1=figure
+2	1	T=JJ	L+1=melody
+1	1	T=DA	L+1=table
+1	1	T=JJ	L+1=dry
+1	1	T=JJ	L+1=missile
+1	1	T=JJ	L+1=smooth
+1	1	T=JJ	L+1=head
+1	1	T=JJ	L+1=gadget
+1	2	T=DA	L+1=of & L-1=remembered
+1	2	T=DA	L+1=of & L-1=comprehend
+1	2	T=DA	L+1=of & L-1=how
+1	2	T=DA	L+1=of & L-1=see
+1	2	T=DA	L+1=of & L-1=saw
+3	18	T=JJ~DA	L+1=of & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Gen+1=I & M+1=False & Ing+1=False & Gen-1=A & C-1=True & Inf-1=False & M-1=True & T+1=II & Ing-1=False & Ger+1=False & C+1=True & T-1=AT & A+1=False
+1	1	T=JJ	L+1=note
+1	1	T=DA	L+1=beast
+Count	Path_Length	Result	Predicates
+1	1	T=RG	W+1=sad
+1	1	T=JJ	W+1=plot
+1	1	T=DA	W+1=initiative
+1	1	T=JJ	W+1=box
+1	1	T=DA	W+1=stashed
+1	1	T=JJ	W+1=machine
+1	1	T=JJ	W+1=children's
+1	1	T=JJ	W+1=problems
+1	1	T=DA	W+1=dream
+1	1	T=DA	W+1=else
+1	1	T=JJ	W+1=job
+1	1	T=DA	W+1=problem
+1	1	T=DA	W+1=pine
+4	1	T=RG	W+1=sick
+2	1	T=DA	W+1=but
+6	1	T=JJ	W+1=boy
+1	1	T=RG	W+1=querulous
+1	1	T=JJ	W+1=zeme
+2	1	T=DA	W+1=value
+1	1	T=JJ	W+1=jack
+3	1	T=JJ	W+1=eye
+1	2	T=JJ	W+1=about & L-1=very
+1	2	T=DA	W+1=about & L-1=know
+2	1	T=JJ	W+1=child
+1	1	T=DA	W+1=pertinence
+1	1	T=JJ	W+1=lord
+2	1	T=DA	W+1=application
+2	1	T=DA	W+1=real
+1	1	T=JJ	W+1=mysteries
+2	1	T=JJ	W+1=women
+2	1	T=JJ	W+1=demonstration
+2	1	T=DA	W+1=profit
+2	1	T=JJ	W+1=parable
+1	1	T=JJ	W+1=hollow
+1	2	T=RR	W+1=and & L-1=very
+1	2	T=NP1	W+1=and & L-1=0
+2	2	T=DA	W+1=and & L-1=a
+2	1	T=DA	W+1=sand
+1	1	T=JJ	W+1=groggy
+1	1	T=JJ	W+1=tract
+1	1	T=JJ	W+1=esther
+1	1	T=JJ	W+1=dinners
+1	1	T=JJ	W+1=bay
+1	1	T=DA	W+1=blood
+1	1	T=JJ	W+1=pyre
+1	1	T=JJ	W+1=boxed-in
+2	1	T=DA	W+1=cabana
+1	1	T=JJ	W+1=gestures
+1	1	T=DA	W+1=because
+1	1	T=DA	W+1=night
+1	1	T=RG	W+1=cooler
+1	1	T=DA	W+1=left
+1	1	T=JJ	W+1=frame
+1	2	T=DA	W+1=harder & Gen+1=J
+3	20	T=DA~RG	W+1=harder & Gen+1=R & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Ing-1=False & Ger+1=False & C-1=True & Ing+1=False & Gen-1=A & L+1=hard & M+1=True & M-1=True & Inf-1=False & T+1=RGR & W-1=a & C+1=False & T-1=AT & A+1=False
+3	1	T=DA	W+1=money
+1	1	T=JJ	W+1=bag
+1	2	T=JJ	W+1=house & L-1=her
+1	2	T=DA	W+1=house & L-1=grubby
+1	2	T=DA	W+1=house & L-1=a
+1	1	T=JJ	W+1=tabernacles
+1	2	T=JJ	W+1=time & L-1=some
+3	2	T=DA	W+1=time & L-1=have
+1	2	T=DA	W+1=time & L-1=so
+1	2	T=DA	W+1=time & L-1=be
+3	2	T=DA	W+1=time & L-1=a
+1	1	T=JJ	W+1=daughter
+4	1	T=DA	W+1=difference
+1	1	T=JJ	W+1=plant
+1	1	T=JJ	W+1=people
+1	1	T=RG	W+1=tender
+1	1	T=JJ	W+1=net
+1	1	T=JJ	W+1=hug
+1	1	T=DA	W+1=ready
+2	1	T=JJ	W+1=figures
+1	1	T=JJ	W+1=sweet
+1	1	T=JJ	W+1=dogs
+1	1	T=DA	W+1=esprit
+1	1	T=DA	W+1=depth
+1	1	T=JJ	W+1=hell
+1	1	T=JJ	W+1=triplet
+1	1	T=RG	W+1=pale
+2	1	T=RG	W+1=late
+1	1	T=RG	W+1=sadly
+1	1	T=JJ	W+1=nod
+1	1	T=DA	W+1=lady
+1	1	T=DA	W+1=hydrogen
+1	1	T=JJ	W+1=hearth
+1	1	T=DA	W+1=bastard
+1	1	T=JJ	W+1=animal
+1	1	T=RG	W+1=better
+2	20	T=JJ~DA	W+1=over & Gen+1=I & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Ing-1=False & Ger+1=False & C-1=True & Ing+1=False & Gen-1=A & L+1=over & M+1=False & M-1=True & Inf-1=False & T+1=II & W-1=a & C+1=True & T-1=AT & A+1=False
+1	2	T=JJ	W+1=over & Gen+1=R
+1	1	T=DA	W+1=light
+1	1	T=DA	W+1=legal
+1	1	T=DA	W+1=courtesy
+1	1	T=DA	W+1=analysis
+1	1	T=JJ	W+1=classical
+1	1	T=JJ	W+1=unsinkable
+1	1	T=DA	W+1=means
+1	1	T=RG	W+1=wary
+1	1	T=DA	W+1=secrets
+1	1	T=RG	W+1=weary
+1	1	T=DA	W+1=milk
+1	1	T=JJ	W+1=flock
+1	1	T=RG	W+1=chilly
+1	1	T=DA	W+1=wallet
+1	1	T=DA	W+1=stream
+5	1	T=JJ	W+1=girl
+1	2	T=DA	W+1=corner & L-1=secret
+1	2	T=JJ	W+1=corner & L-1=the
+1	1	T=DA	W+1=higher
+2	20	T=JJ~DA	W+1=group & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Ger+1=False & Gen-1=A & L+1=group & C-1=True & M-1=True & Inf-1=False & T+1=NN1 & W-1=a & C+1=False & T-1=AT & A+1=True
+1	1	T=RG	W+1=thick
+1	1	T=DA	W+1=argument
+1	1	T=JJ	W+1=riot
+1	2	T=JJ	W+1=pig & L-1=his
+1	2	T=DA	W+1=pig & L-1=with
+1	2	T=JJ	W+1=white & L-1=a
+1	2	T=JJ	W+1=white & L-1=their
+1	2	T=JJ	W+1=white & L-1=her
+1	2	T=RG	W+1=white & L-1=the
+1	2	T=JJ	W+1=, & L-1=the
+1	2	T=JJ	W+1=, & L-1=nothing
+1	2	T=DA	W+1=, & L-1=undergo
+1	2	T=DA	W+1=, & L-1=by
+1	2	T=DA	W+1=, & L-1=said
+1	2	T=DA	W+1=, & L-1=few
+1	2	T=DA	W+1=, & L-1=0
+8	20	T=JJ~DA	W+1=, & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=Q & M+1=False & Ing+1=False & Ger+1=False & Gen-1=A & L+1=, & C-1=True & M-1=True & Inf-1=False & T+1=QC & W-1=a & C+1=True & T-1=AT & A+1=False
+2	20	T=JJ~RG	W+1=surprised & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=True & Gen+1=V & M+1=False & Ing+1=True & Ger+1=False & Gen-1=A & L+1=surprise & C-1=True & M-1=True & Inf-1=False & T+1=VVN & W-1=a & C+1=False & T-1=AT & A+1=False
+1	1	T=JJ	W+1=flush
+1	1	T=JJ	W+1=kid
+2	1	T=DA	W+1=out
+1	1	T=JJ	W+1=bar
+1	1	T=JJ	W+1=lumps
+2	1	T=DA	W+1=distance
+2	1	T=DA	W+1=like
+1	1	T=RG	W+1=ill
+8	1	T=JJ	W+1=rock
+1	1	T=DA	W+1=rooms
+1	1	T=DA	W+1=frank
+1	1	T=RG	W+1=pretentious
+1	1	T=JJ	W+1=blossom
+2	20	T=RG~DA	W+1=high & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=J & M+1=True & Ing+1=False & Ger+1=False & Gen-1=A & L+1=high & C-1=True & M-1=True & Inf-1=False & T+1=JJ & W-1=a & C+1=False & T-1=AT & A+1=False
+3	1	T=JJ	W+1=big
+3	1	T=DA	W+1=reason
+1	1	T=JJ	W+1=isle
+1	2	T=JJ	W+1=speech & L-1=0
+1	2	T=DA	W+1=speech & L-1=her
+1	1	T=JJ	W+1=thrift
+1	1	T=JJ	W+1=children
+2	1	T=DA	W+1=trouble
+1	1	T=JJ	W+1=neck
+1	1	T=JJ	W+1=book
+1	1	T=DA	W+1=parkish
+1	1	T=JJ	W+1=chicken
+1	1	T=JJ	W+1=surgeon
+1	1	T=JJ	W+1=idiosyncrasies
+1	1	T=DA	W+1=planning
+1	1	T=DA	W+1=proves
+1	1	T=DA	W+1=land
+1	1	T=JJ	W+1=body
+1	1	T=RG	W+1=interested
+1	1	T=JJ	W+1=plane
+11	1	T=DA	W+1=or
+1	1	T=DA	W+1=now
+1	1	T=RR	W+1=what
+1	1	T=DA	W+1=relief
+1	1	T=DA	W+1=bitterness
+2	1	T=DA	W+1=interest
+4	20	T=DA~RG	W+1=less & Gen+1=R & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Ing-1=False & Ger+1=False & C-1=True & Ing+1=False & Gen-1=A & L+1=less & M+1=True & M-1=True & Inf-1=False & T+1=RG & W-1=a & C+1=True & T-1=AT & A+1=False
+2	2	T=RG	W+1=less & Gen+1=D
+3	1	T=DA	W+1=at
+1	1	T=JJ	W+1=mustache
+1	1	T=DA	W+1=his
+1	1	T=RG	W+1=strange
+1	1	T=DA	W+1=protozoa
+1	1	T=RG	W+1=getting
+1	1	T=JJ	W+1=hideout
+1	1	T=DA	W+1=talking
+1	1	T=DA	W+1=vessel
+2	20	T=JJ~DA	W+1=tolerance & L-1=have & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Ger+1=False & Gen-1=V & L+1=tolerance & C-1=True & M-1=False & Inf-1=False & T+1=NN1 & W-1=had & C+1=False & T-1=VHD & A+1=True
+1	1	T=RG	W+1=enough
+1	1	T=DA	W+1=fruit
+1	2	T=JJ	W+1=place & L-1=modest
+1	2	T=DA	W+1=place & L-1=a
+1	1	T=RG	W+1=fuzzy
+1	1	T=JJ	W+1=suburb
+2	1	T=JJ	W+1=boys
+1	1	T=DA	W+1=puncher
+1	1	T=RG	W+1=softer
+1	1	T=JJ	W+1=anecdote
+1	1	T=JJ	W+1=peanut
+1	1	T=RG	W+1=superficial
+1	1	T=JJ	W+1=boy's
+1	1	T=RR	W+1=by
+1	1	T=DA	W+1=concern
+1	1	T=DA	W+1=balls
+1	1	T=JJ	W+1=men
+1	1	T=JJ	W+1=recitation
+1	1	T=DA	W+1=heap
+1	1	T=DA	W+1=toad
+1	1	T=DA	W+1=wonder
+1	1	T=DA	W+1=evident
+1	1	T=DA	W+1=relation
+1	1	T=DA	W+1=room
+1	1	T=DA	W+1=jobs
+1	1	T=JJ	W+1=han'
+1	1	T=RG	W+1=expensive
+1	1	T=JJ	W+1=heels
+1	1	T=JJ	W+1=window
+1	1	T=DA	W+1=five-and-dime
+1	1	T=DA	W+1=arable
+1	1	T=JJ	W+1=mexican
+1	1	T=JJ	W+1=artifice
+1	1	T=DA	W+1=except
+1	1	T=DA	W+1=action
+1	1	T=JJ	W+1=flicks
+1	1	T=JJ	W+1=rise
+1	1	T=JJ	W+1=helper
+1	1	T=DA	W+1=ragged
+1	1	T=JJ	W+1=cafe
+1	1	T=JJ	W+1=twist
+2	1	T=JJ	W+1=billy
+1	1	T=JJ	W+1=drew
+1	1	T=DA	W+1=knowledge
+1	1	T=DA	W+1=cause
+1	1	T=JJ	W+1=targo
+3	1	T=DA	W+1=patience
+1	1	T=DA	W+1=anyone
+2	1	T=DA	W+1=is
+4	1	T=DA	W+1=information
+7	20	T=JJ~DA	W+1=while & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Ger+1=False & Gen-1=A & L+1=while & C-1=True & M-1=True & Inf-1=False & T+1=NN1 & W-1=a & C+1=False & T-1=AT & A+1=True
+2	1	T=JJ	W+1=joke
+1	1	T=JJ	W+1=ivy
+1	1	T=JJ	W+1=touches
+1	1	T=JJ	W+1=hangers
+1	1	T=JJ	W+1=way
+1	1	T=DA	W+1=drink
+1	1	T=JJ	W+1=produce
+1	1	T=DA	W+1=democracy
+1	1	T=DA	W+1=past
+1	1	T=JJ	W+1=ginger
+1	1	T=JJ	W+1=me
+1	1	T=DA	W+1=sucess
+1	1	T=DA	W+1=salt
+2	1	T=DA	W+1=we
+1	1	T=JJ	W+1=fires
+2	1	T=DA	W+1=something
+1	1	T=DA	W+1=motel
+1	1	T=DA	W+1=content
+1	1	T=DA	W+1=optimism
+1	1	T=RG	W+1=wildly
+1	1	T=DA	W+1=has
+1	1	T=JJ	W+1=grecian
+1	1	T=RG	W+1=younguh
+1	1	T=DA	W+1=brute
+1	1	T=DA	W+1=prestige
+1	1	T=JJ	W+1=twinge
+1	1	T=DA	W+1=bravado
+1	1	T=DA	W+1=half-smile
+2	1	T=JJ	W+1=songs
+1	1	T=JJ	W+1=jane
+1	1	T=JJ	W+1=scale
+1	1	T=RG	W+1=immature
+1	1	T=DA	W+1=private
+1	1	T=JJ	W+1=rental
+1	1	T=JJ	W+1=tin
+1	1	T=JJ	W+1=bunch
+1	1	T=JJ	W+1=before
+1	1	T=RG	W+1=self-pitying
+1	1	T=JJ	W+1=cousins'
+2	1	T=DA	W+1=appreciation
+1	1	T=DA	W+1=faster
+1	1	T=DA	W+1=hydrated
+1	1	T=RG	W+1=short
+1	1	T=JJ	W+1=niche
+1	1	T=RG	W+1=nervously
+1	1	T=JJ	W+1=pennsylvania
+1	1	T=JJ	W+1=sports
+1	1	T=DA	W+1=heed
+1	1	T=DA	W+1=development
+1	1	T=JJ	W+1=nap
+1	1	T=JJ	W+1=chunk
+1	1	T=DA	W+1=above
+1	1	T=DA	W+1=imagination
+1	1	T=JJ	W+1=bangs
+1	1	T=RG	W+1=fixed
+1	1	T=DA	W+1=twittering
+2	1	T=DA	W+1=water
+1	1	T=DA	W+1=work
+1	1	T=DA	W+1=seventeen-inch
+1	1	T=DA	W+1=mare
+1	1	T=JJ	W+1=blitz
+3	1	T=DA	W+1=help
+1	1	T=DA	W+1=contribution
+2	1	T=DA	W+1=chance
+1	1	T=RG	W+1=young
+1	1	T=DA	W+1=discovery
+1	1	T=RG	W+1=further
+2	1	T=DA	W+1=lawn
+1	2	T=JJ	W+1=things & L-1=across
+1	2	T=JJ	W+1=things & L-1=to
+1	2	T=JJ	W+1=things & L-1=sickly
+1	2	T=DA	W+1=things & L-1=by
+1	1	T=JJ	W+1=poseurs
+1	1	T=JJ	W+1=ito
+1	1	T=DA	W+1=damage
+1	1	T=JJ	W+1=elena
+1	1	T=DA	W+1=contact
+1	1	T=DA	W+1=easy
+3	1	T=DA	W+1=likelihood
+1	1	T=DA	W+1=joy
+1	1	T=DA	W+1=credit
+2	1	T=DA	W+1=influence
+1	2	T=DA	W+1=guidance & L-1=but
+1	2	T=JJ	W+1=guidance & L-1=a
+1	2	T=DA	W+1=more & L-1=him
+1	2	T=RG	W+1=more & L-1=into
+3	2	T=DA	W+1=more & L-1=be
+1	2	T=DA	W+1=more & L-1=at
+2	2	T=RG	W+1=more & L-1=do
+2	2	T=RG	W+1=more & L-1=have
+1	2	T=RG	W+1=more & L-1=by
+1	2	T=RG	W+1=more & L-1=of
+1	2	T=RG	W+1=more & L-1=often
+12	3	T=RG	W+1=more & L-1=a & T+1=DA
+5	20	T=RG~DA	W+1=more & L-1=a & T+1=RG & A-1=False & Ger-1=False & Inf+1=False & Gen+1=R & M+1=True & Ing+1=False & Ger+1=False & Gen-1=A & L+1=more & C-1=True & M-1=True & Inf-1=False & W-1=a & Ing-1=False & C+1=True & T-1=AT & A+1=False
+3	3	T=RG	W+1=more & L-1=a & T+1=RGR
+1	1	T=JJ	W+1=three-masted
+1	1	T=DA	W+1=polymerization
+1	1	T=DA	W+1=yellow
+1	1	T=DA	W+1=publicity
+1	1	T=DA	W+1=magnum
+1	1	T=DA	W+1=enthusiasm
+2	2	T=DA	W+1=as & Gen+1=I
+7	20	T=RR~JJ~DA~RG	W+1=as & Gen+1=C & L-1=as & A-1=False & Ger-1=False & Inf+1=False & Ing-1=False & Ger+1=False & C-1=True & Ing+1=False & Gen-1=R & L+1=as & M+1=False & M-1=True & Inf-1=False & T+1=CS & W-1=as & C+1=True & T-1=RG & A+1=False
+1	3	T=DA	W+1=as & Gen+1=C & L-1=a
+1	1	T=JJ	W+1=timber
+1	1	T=DA	W+1=dose
+1	1	T=DA	W+1=props
+1	1	T=DA	W+1=correspondence
+1	1	T=RG	W+1=somber
+1	2	T=DA	W+1=. & L-1=know
+1	2	T=DA	W+1=. & L-1=so
+1	2	T=JJ	W+1=. & L-1=and
+11	20	T=JJ~DA	W+1=. & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=Q & M+1=False & Ing+1=False & Ger+1=False & Gen-1=A & L+1=. & C-1=True & M-1=True & Inf-1=False & T+1=QEP & W-1=a & C+1=True & T-1=AT & A+1=False
+1	1	T=JJ	W+1=teeth
+1	1	T=JJ	W+1=tiny
+1	1	T=JJ	W+1=visitors
+1	1	T=RG	W+1=reckless
+1	1	T=JJ	W+1=character
+2	1	T=DA	W+1=nuclear
+1	1	T=DA	W+1=suggestion
+1	1	T=RG	W+1=used
+1	1	T=DA	W+1=tangible
+1	1	T=JJ	W+1=wife
+1	1	T=DA	W+1=confidence
+2	1	T=JJ	W+1=world
+1	1	T=DA	W+1=;
+4	1	T=JJ	W+1=newt
+1	1	T=JJ	W+1=well
+3	1	T=JJ	W+1=car
+2	1	T=JJ	W+1=adventure
+1	1	T=DA	W+1=history
+1	1	T=JJ	W+1=pout
+1	1	T=RG	W+1=up-to-date
+1	1	T=DA	W+1=appetite
+1	1	T=DA	W+1=distinction
+1	1	T=JJ	W+1=depot
+1	1	T=JJ	W+1=scene
+3	1	T=DA	W+1=effort
+1	1	T=DA	W+1=after
+1	1	T=RG	W+1=known
+1	1	T=DA	W+1=heavy
+1	1	T=JJ	W+1=horn
+1	1	T=JJ	W+1=oysters
+2	20	T=JJ~DA	W+1=engine & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Ger+1=False & Gen-1=A & L+1=engine & C-1=True & M-1=True & Inf-1=False & T+1=NN1 & W-1=a & C+1=False & T-1=AT & A+1=True
+1	1	T=JJ	W+1=stove
+1	1	T=JJ	W+1=fox-terrier
+5	20	T=JJ~DA~RG	W+1=later & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=R & M+1=True & Ing+1=False & Ger+1=False & Gen-1=A & L+1=late & C-1=True & M-1=True & Inf-1=False & T+1=RGR & W-1=a & C+1=False & T-1=AT & A+1=False
+1	1	T=DA	W+1=european
+1	1	T=JJ	W+1=pink
+1	1	T=JJ	W+1=game
+1	2	T=JJ	W+1=thing & L-1=jazzy
+1	2	T=JJ	W+1=thing & L-1=nice
+1	2	T=JJ	W+1=thing & L-1=dear
+2	20	T=JJ~DA	W+1=thing & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Ger+1=False & Gen-1=A & L+1=thing & C-1=True & M-1=True & Inf-1=False & T+1=NN1 & W-1=a & C+1=False & T-1=AT & A+1=True
+1	1	T=RG	W+1=colder
+1	1	T=RG	W+1=sight-seeing
+1	1	T=JJ	W+1=groups
+3	20	T=DA~RG	W+1=extra & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=J & M+1=True & Ing+1=False & Ger+1=False & Gen-1=A & L+1=extra & C-1=True & M-1=True & Inf-1=False & T+1=JJ & W-1=a & C+1=False & T-1=AT & A+1=False
+1	2	T=DA	W+1=on & L-1=him
+3	20	T=JJ~DA	W+1=on & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=I & M+1=False & Ing+1=False & Ger+1=False & Gen-1=A & L+1=on & C-1=True & M-1=True & Inf-1=False & T+1=II & W-1=a & C+1=True & T-1=AT & A+1=False
+2	1	T=JJ	W+1=melodies
+1	1	T=DA	W+1=wisdom
+1	1	T=RG	W+1=deserved
+1	1	T=DA	W+1=take
+1	1	T=RG	W+1=bitter
+2	1	T=JJ	W+1=red
+1	1	T=DA	W+1=housewives
+1	1	T=DA	W+1=merit
+2	1	T=RG	W+1=different
+1	1	T=DA	W+1=effect
+1	1	T=DA	W+1=resemblance
+1	1	T=DA	W+1=north
+2	20	T=DA~RG	W+1=farther & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=R & M+1=True & Ing+1=False & Ger+1=False & Gen-1=A & L+1=far & C-1=True & M-1=True & Inf-1=False & T+1=RGR & W-1=a & C+1=False & T-1=AT & A+1=False
+1	1	T=JJ	W+1=brown
+1	1	T=DA	W+1=waste
+1	1	T=JJ	W+1=coffee
+14	1	T=DA	W+1=doubt
+6	1	T=JJ	W+1=girls
+1	1	T=DA	W+1=duller
+1	1	T=JJ	W+1=office
+1	1	T=JJ	W+1=item
+1	1	T=DA	W+1=love
+1	1	T=RG	W+1=off-color
+1	1	T=JJ	W+1=spreading
+1	1	T=JJ	W+1=flower
+1	2	T=JJ	W+1=piece & L-1=precious
+1	2	T=JJ	W+1=piece & L-1=gay
+1	2	T=JJ	W+1=piece & L-1=that
+3	20	T=JJ~DA	W+1=piece & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Ger+1=False & Gen-1=A & L+1=piece & C-1=True & M-1=True & Inf-1=False & T+1=NN1 & W-1=a & C+1=False & T-1=AT & A+1=True
+1	1	T=DA	W+1=investigation
+1	1	T=JJ	W+1=cottage
+1	2	T=JJ	W+1=man & L-1=a
+1	2	T=JJ	W+1=man & L-1=,
+1	2	T=JJ	W+1=man & L-1=spineless
+1	2	T=DA	W+1=man & L-1=dark
+1	2	T=DA	W+1=man & L-1=strange
+1	2	T=JJ	W+1=man & L-1=pompous
+3	20	T=JJ~DA	W+1=man & L-1=the & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Ger+1=False & Gen-1=A & L+1=man & C-1=True & M-1=True & Inf-1=False & T+1=NN1 & W-1=the & C+1=False & T-1=AT & A+1=True
+1	1	T=RG	W+1=hard
+1	1	T=JJ	W+1=green
+2	1	T=DA	W+1=experience
+1	2	T=DA	W+1=spark & L-1=this
+2	2	T=JJ	W+1=spark & L-1=that
+2	1	T=DA	W+1=freedom
+1	1	T=JJ	W+1=dance
+1	1	T=JJ	W+1=ones
+1	1	T=JJ	W+1=face
+1	1	T=JJ	W+1=tommy
+1	1	T=JJ	W+1=pansies
+3	1	T=JJ	W+1=operetta
+1	1	T=JJ	W+1=laos
+1	1	T=DA	W+1=sugar
+1	1	T=JJ	W+1=drunkenness
+1	1	T=RG	W+1=special
+1	1	T=DA	W+1=lapses
+2	20	T=DA~RG	W+1=fussy & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=J & M+1=True & Ing+1=False & Ger+1=False & Gen-1=A & L+1=fussy & C-1=True & M-1=True & Inf-1=False & T+1=JJ & W-1=a & C+1=False & T-1=AT & A+1=False
+1	1	T=DA	W+1=ashamed
+1	1	T=DA	W+1=tricks
+1	1	T=JJ	W+1=creature
+1	1	T=RR	W+1=concerned
+3	1	T=DA	W+1=attention
+1	1	T=RG	W+1=quieter
+1	1	T=DA	W+1=demand
+1	1	T=JJ	W+1=colony
+1	1	T=JJ	W+1=clusters
+2	1	T=DA	W+1=contest
+1	1	T=DA	W+1=bills
+1	1	T=JJ	W+1=tableau
+2	1	T=JJ	W+1=black
+1	1	T=JJ	W+1=japanese
+4	1	T=DA	W+1=in
+1	1	T=DA	W+1=home
+1	1	T=JJ	W+1=hours
+1	1	T=DA	W+1=eden
+1	1	T=JJ	W+1=drama
+1	1	T=JJ	W+1=fortress
+1	1	T=JJ	W+1=volcanos
+1	1	T=DA	W+1=jenny
+1	1	T=JJ	W+1=mounds
+1	1	T=JJ	W+1=gadgets
+1	1	T=DA	W+1=sturdy
+1	1	T=DA	W+1=ego
+1	1	T=DA	W+1=since
+1	1	T=DA	W+1=perplexed
+1	1	T=JJ	W+1=one
+1	1	T=DA	W+1=tackle
+1	1	T=RG	W+1=tired
+1	2	T=DA	W+1=to & L-1=cost
+1	2	T=DA	W+1=to & L-1=so
+3	2	T=DA	W+1=to & L-1=very
+4	2	T=DA	W+1=to & L-1=do
+4	2	T=DA	W+1=to & L-1=have
+2	20	T=JJ~DA	W+1=to & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=I & M+1=False & Ing+1=False & Ger+1=False & Gen-1=A & L+1=to & C-1=True & M-1=True & Inf-1=False & T+1=II & W-1=a & C+1=True & T-1=AT & A+1=False
+1	1	T=DA	W+1=glamour
+1	1	T=DA	W+1=danger
+1	1	T=DA	W+1=if
+1	1	T=DA	W+1=conscious
+1	1	T=DA	W+1=variation
+1	1	T=JJ	W+1=snow
+1	1	T=JJ	W+1=20
+1	1	T=JJ	W+1=regard
+2	1	T=JJ	W+1=image
+1	1	T=DA	W+1=practical
+7	20	T=JJ~DA	W+1=bit & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=N & M+1=False & Ing+1=False & Ger+1=False & Gen-1=A & L+1=bite & C-1=True & M-1=True & Inf-1=False & T+1=NN1 & W-1=a & C+1=False & T-1=AT & A+1=True
+6	1	T=DA	W+1=evidence
+1	2	T=DA	W+1=theater & L-1=,
+1	2	T=JJ	W+1=theater & L-1=local
+1	1	T=RG	W+1=louder
+8	20	T=DA~RG	W+1=too & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=R & M+1=True & Ing+1=False & Ger+1=False & Gen-1=A & L+1=too & C-1=True & M-1=True & Inf-1=False & T+1=RG & W-1=a & C+1=True & T-1=AT & A+1=False
+1	1	T=JJ	W+1=official
+1	1	T=JJ	W+1=fountain-falls
+1	1	T=DA	W+1=apartment
+1	1	T=JJ	W+1=squares
+2	1	T=DA	W+1=he
+1	1	T=JJ	W+1=korean
+1	1	T=JJ	W+1=vacation
+1	1	T=DA	W+1=hand
+1	1	T=JJ	W+1=plants
+1	1	T=JJ	W+1=one-act
+1	1	T=DA	W+1=when
+1	1	T=JJ	W+1=filaments
+1	1	T=JJ	W+1=accidents
+2	20	T=DA~RG	W+1=longer & Gen+1=J & L-1=a & A-1=False & Ger-1=False & Inf+1=False & Ing-1=False & Ger+1=False & C-1=True & Ing+1=False & Gen-1=A & L+1=long & M+1=True & M-1=True & Inf-1=False & T+1=JJR & W-1=a & C+1=False & T-1=AT & A+1=False
+2	2	T=RG	W+1=longer & Gen+1=R
+1	1	T=JJ	W+1=race
+1	1	T=JJ	W+1=whisky
+1	1	T=DA	W+1=square
+1	1	T=DA	W+1=occasion
+2	1	T=RG	W+1=uncertain
+1	1	T=DA	W+1=control
+1	1	T=JJ	W+1=jack's
+2	1	T=JJ	W+1=patch
+1	1	T=DA	W+1=draft
+1	1	T=DA	W+1=i
+3	1	T=JJ	W+1=sister
+1	1	T=JJ	W+1=foreign
+1	1	T=DA	W+1=pocket
+1	1	T=DA	W+1=understood
+1	1	T=JJ	W+1=dead
+1	1	T=JJ	W+1=dog
+1	1	T=JJ	W+1=blue
+1	1	T=JJ	W+1=stone
+1	1	T=DA	W+1=scar
+1	1	T=JJ	W+1=scoop
+2	1	T=RG	W+1=lower
+2	1	T=DA	W+1=mercy
+1	1	T=DA	W+1=table
+1	1	T=JJ	W+1=dry
+1	1	T=JJ	W+1=missile
+1	1	T=JJ	W+1=smooth
+1	1	T=JJ	W+1=head
+1	2	T=DA	W+1=of & L-1=remembered
+1	2	T=DA	W+1=of & L-1=comprehend
+1	2	T=DA	W+1=of & L-1=how
+1	2	T=DA	W+1=of & L-1=see
+1	2	T=DA	W+1=of & L-1=saw
+3	20	T=JJ~DA	W+1=of & L-1=a & A-1=False & Ger-1=False & Ing-1=False & Inf+1=False & Gen+1=I & M+1=False & Ing+1=False & Ger+1=False & Gen-1=A & L+1=of & C-1=True & M-1=True & Inf-1=False & T+1=II & W-1=a & C+1=True & T-1=AT & A+1=False
+1	1	T=JJ	W+1=note
+1	1	T=DA	W+1=beast
+1	1	T=JJ	W+1=horses

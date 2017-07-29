@@ -1,0 +1,3184 @@
+Count	Path_Length	Result	Predicates
+682	10	T=APPGE~PPHO1	Gen+1=N & Gen-1=I & C-1=True & M+1=False & Inf+1=False & Inf-1=False & M-1=False & Ing+1=False & Ing-1=False & Ger+1=False
+522	10	T=APPGE~PPHO1	T+1=NN1 & T-1=II & C-1=True & M+1=False & Ger+1=False & Inf+1=False & Gen-1=I & Inf-1=False & M-1=False & Ing+1=False
+314	10	T=APPGE~PPHO1	Gen+1=N & Gen-1=V & Inf-1=False & C-1=False & M+1=False & C+1=False & M-1=False & Ing+1=False & Ger+1=False & Ing-1=False
+296	1	T=PPHO1	Gen+1=Q
+174	1	T=PPHO1	Gen+1=I
+174	1	T=PPHO1	T+1=II
+166	1	T=PPHO1	T+1=QEP
+166	1	T=PPHO1	L+1=.
+166	1	T=PPHO1	W+1=.
+152	10	T=APPGE~PPHO1	Gen+1=J & Gen-1=I & C-1=True & M+1=True & Inf+1=False & Inf-1=False & M-1=False & Ing+1=False & Ing-1=False & Ger+1=False
+149	10	T=APPGE~PPHO1	T+1=NN2 & T-1=II & C-1=True & M+1=False & Ger+1=False & Inf+1=False & Gen-1=I & Inf-1=False & M-1=False & Ing+1=False
+147	10	T=APPGE~PPHO1	T+1=JJ & T-1=II & C-1=True & M+1=True & Ger+1=False & Inf+1=False & Gen-1=I & Inf-1=False & M-1=False & Ing+1=False
+143	2	T=APPGE	Gen+1=N & Gen-1=C
+116	10	T=APPGE~PPHO1	T+1=NN1 & T-1=VVD & C-1=False & M+1=False & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=False & M-1=False & Ing+1=False
+113	1	T=PPHO1	T+1=QC
+113	1	T=PPHO1	"L+1=,"
+113	1	T=PPHO1	"W+1=,"
+103	10	T=APPGE~PPHO1	T+1=NN1 & T-1=VV0 & C-1=False & M+1=False & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=False & M-1=False & Ing+1=False
+91	4	T=APPGE	Gen+1=N & Gen-1=V & Inf-1=True & Ger-1=True
+89	1	T=PPHO1	Gen+1=C
+86	2	T=APPGE	Gen+1=N & Gen-1=Q
+76	2	T=APPGE	T+1=NN1 & T-1=VVG
+73	2	T=APPGE	T+1=NN1 & T-1=CC
+55	2	T=APPGE	T+1=NN1 & T-1=QC
+53	1	T=PPHO1	T+1=CS
+50	2	T=APPGE	Gen+1=N & Gen-1=R
+50	1	T=PPHO1	Gen+1=A
+47	1	T=PPHO1	T+1=AT
+44	1	T=APPGE	L+1=own
+44	1	T=APPGE	W+1=own
+43	10	T=APPGE~PPHO1	Gen+1=J & Gen-1=V & C-1=False & Ger-1=False & Ing-1=False & Inf-1=False & M-1=False & A-1=False & Ing+1=False & M+1=True
+40	4	T=PPHO1	Gen+1=R & Gen-1=V & Ing-1=False & C+1=False
+40	10	T=APPGE~PPHO1	T+1=NN2 & T-1=VVD & C-1=False & M+1=False & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=False & M-1=False & Ing+1=False
+40	2	T=APPGE	T+1=NN1 & T-1=CS
+38	10	T=APPGE~PPHO1	Gen+1=T & Gen-1=V & Ing-1=False & C-1=False & M+1=False & Inf-1=False & M-1=False & Ing+1=False & Ger-1=False & A-1=False
+36	2	T=APPGE	Gen+1=J & Gen-1=C
+36	1	T=PPHO1	T+1=CC
+35	10	T=APPGE~PPHO1	Gen+1=R & Gen-1=V & Ing-1=False & C+1=True & C-1=False & Inf-1=False & M-1=False & Ing+1=False & M+1=True & Ger-1=False
+33	10	T=APPGE~PPHO1	Gen+1=N & Gen-1=V & Inf-1=True & Ger-1=False & C-1=False & C+1=False & Ing-1=True & M-1=False & Ing+1=False & M+1=False
+31	1	T=PPHO1	L+1=in
+31	1	T=PPHO1	L+1=and
+31	1	T=PPHO1	W+1=in
+31	1	T=PPHO1	W+1=and
+28	10	T=APPGE~PPHO1	T+1=NN2 & T-1=VV0 & C-1=False & M+1=False & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=False & M-1=False & Ing+1=False
+27	2	T=APPGE	Gen+1=J & Gen-1=Q
+27	1	T=PPHO1	L+1=a
+26	10	T=APPGE~PPHO1	T+1=JJ & T-1=VVD & C-1=False & M+1=True & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=False & M-1=False & Ing+1=False
+26	2	T=APPGE	T+1=JJ & T-1=QC
+25	10	T=APPGE~PPHO1	Gen+1=R & Gen-1=I & C+1=False & C-1=True & M+1=True & Inf-1=False & M-1=False & Ing+1=False & Ing-1=False & Ger+1=False
+25	10	T=APPGE~PPHO1	T+1=RR & T-1=II & C-1=True & M+1=True & Ger+1=False & Inf+1=False & Gen-1=I & Inf-1=False & M-1=False & Ing+1=False
+25	2	T=APPGE	T+1=NN1 & T-1=VVN
+25	1	T=PPHO1	W+1=a
+24	10	T=APPGE~PPHO1	Gen+1=V & Gen-1=V & Ing+1=False & Ger-1=False & C+1=False & C-1=False & Inf-1=False & M-1=False & Ing-1=False & Ger+1=False
+24	4	T=APPGE	Gen+1=N & Gen-1=V & Inf-1=False & C-1=True
+24	2	T=APPGE	T+1=NN2 & T-1=QC
+24	1	T=PPHO1	L+1=as
+24	1	T=APPGE	L+1=father
+24	1	T=PPHO1	W+1=as
+24	1	T=APPGE	W+1=father
+22	1	T=APPGE	L+1=mind
+22	1	T=APPGE	W+1=mind
+21	10	T=APPGE~PPHO1	Gen+1=V & Gen-1=I & Ing+1=True & C+1=False & Ger+1=True & C-1=True & Inf-1=False & M-1=False & M+1=False & Ger-1=False
+21	2	T=PPHO1	T+1=TO & T-1=VVD
+21	10	T=APPGE~PPHO1	T+1=VVG & T-1=II & C-1=True & M+1=False & Ger+1=True & Inf+1=True & Gen-1=I & Inf-1=False & M-1=False & Ing+1=True
+20	2	T=APPGE	Gen+1=N & Gen-1=N
+20	1	T=PPHO1	L+1=the
+20	1	T=PPHO1	W+1=the
+19	2	T=APPGE	T+1=JJ & T-1=CC
+19	2	T=PPHO1	T+1=RR & T-1=VVD
+19	2	T=PPHO1	T+1=RR & T-1=VV0
+18	2	T=PPHO1	Gen+1=T & Gen-1=I
+18	2	T=PPHO1	T+1=TO & T-1=II
+18	1	T=PPHO1	L+1=that
+18	1	T=PPHO1	L+1=with
+18	1	T=PPHO1	W+1=that
+18	1	T=APPGE	W+1=hands
+18	1	T=PPHO1	W+1=with
+17	10	T=APPGE~PPHO1	Gen+1=V & Gen-1=I & Ing+1=True & C+1=False & Ger+1=False & C-1=True & Inf-1=False & M-1=False & M+1=False & Ger-1=False
+17	10	T=APPGE~PPHO1	T+1=VVN & T-1=II & C-1=True & M+1=False & Ger+1=False & Inf+1=True & Gen-1=I & Inf-1=False & M-1=False & Ing+1=True
+17	1	T=PPHO1	L+1=for
+17	2	T=APPGE	L+1=first & T+1=MD
+17	1	T=PPHO1	W+1=for
+16	10	T=APPGE~PPHO1	Gen+1=J & Gen-1=V & C-1=False & Ger-1=True & M+1=True & Inf-1=True & M-1=False & A-1=False & Ger+1=False & Ing+1=False
+16	2	T=APPGE	T+1=NN2 & T-1=CC
+16	10	T=APPGE~PPHO1	T+1=TO & T-1=VV0 & C-1=False & M+1=False & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=False & M-1=False & Ing+1=False
+16	10	T=APPGE~PPHO1	T+1=JJ & T-1=VVG & C-1=False & M+1=True & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=True & M-1=False & Ing+1=False
+16	1	T=PPHO1	L+1=at
+16	1	T=PPHO1	W+1=at
+15	10	T=APPGE~PPHO1	Gen+1=M & Gen-1=I & C-1=True & M+1=True & Inf+1=False & Inf-1=False & M-1=False & Ing+1=False & Ing-1=False & Ger+1=False
+15	1	T=PPHO1	Gen+1=P
+15	10	T=APPGE~PPHO1	T+1=JJ & T-1=VV0 & C-1=False & M+1=True & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=False & M-1=False & Ing+1=False
+15	2	T=APPGE	T+1=NN1 & T-1=RP
+15	1	T=PPHO1	L+1=on
+15	1	T=APPGE	L+1=room
+15	1	T=PPHO1	W+1=on
+14	2	T=APPGE	Gen+1=J & Gen-1=R
+14	2	T=APPGE	T+1=NN2 & T-1=VVG
+14	2	T=APPGE	T+1=JJ & T-1=CS
+14	1	T=APPGE	L+1=way
+14	1	T=APPGE	W+1=way
+14	1	T=APPGE	W+1=room
+13	10	T=APPGE~PPHO1	T+1=VV0 & T-1=VV0 & C-1=False & M+1=False & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=False & M-1=False & Ing+1=False
+13	2	T=APPGE	T+1=NN1 & T-1=RR
+13	1	T=APPGE	L+1=hair
+13	2	T=PPHO1	L+1=to & L-1=for
+13	1	T=APPGE	L+1=voice
+13	1	T=APPGE	W+1=hair
+13	2	T=PPHO1	W+1=to & W-1=for
+13	1	T=APPGE	W+1=voice
+12	3	T=PPHO1	Gen+1=T & Gen-1=V & Ing-1=True
+12	10	T=APPGE~PPHO1	T+1=MD & Gen-1=I & C-1=True & M+1=True & Inf+1=False & Ing-1=False & Inf-1=False & M-1=False & T-1=II & Ing+1=False
+12	2	T=PPHO1	T+1=RG & Gen-1=V
+12	2	T=APPGE	T+1=NN1 & T-1=VVZ
+12	2	T=APPGE	T+1=NN1 & T-1=VBDZ
+12	1	T=APPGE	L+1=arm
+12	1	T=APPGE	L+1=son
+12	1	T=APPGE	W+1=father's
+11	4	T=PPHO1	Gen+1=D & Gen-1=V & C-1=False & Ger-1=False
+11	10	T=APPGE~PPHO1	Gen+1=R & Gen-1=V & Ing-1=True & C+1=False & Ger-1=False & C-1=False & Inf-1=True & M-1=False & Ing+1=False & M+1=True
+11	1	T=PPHO1	T+1=QH
+11	10	T=APPGE~PPHO1	T+1=VV0 & T-1=VVD & C-1=False & M+1=False & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=False & M-1=False & Ing+1=False
+11	1	T=PPHO1	T+1=RRQ
+11	10	T=APPGE~PPHO1	T+1=RR & T-1=VVN & C-1=False & M+1=True & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=True & M-1=False & Ing+1=False
+11	10	T=APPGE~PPHO1	T+1=RP & T-1=VVD & C-1=False & M+1=True & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=False & M-1=False & Ing+1=False
+11	2	T=APPGE	T+1=NN1 & T-1=NN1
+11	1	T=PPHO1	L+1=up
+11	1	T=PPHO1	L+1=-
+11	1	T=PPHO1	W+1=up
+11	1	T=PPHO1	W+1=--
+11	1	T=APPGE	W+1=son
+10	10	T=APPGE~PPHO1	Gen+1=D & Gen-1=I & C-1=True & M+1=True & Inf+1=False & Inf-1=False & M-1=False & Ing+1=False & Ing-1=False & Ger+1=False
+10	2	T=APPGE	T+1=NN2 & T-1=CS
+10	1	T=PPHO1	T+1=PPHS1
+10	1	T=APPGE	T+1=JJT
+10	2	T=PPHO1	T+1=NP1 & Gen-1=V
+10	1	T=APPGE	L+1=nose
+10	10	T=APPGE~PPHO1	L+1=eye & L-1=in & T+1=NN2 & C-1=True & Ger+1=False & M+1=False & Inf+1=False & Ing-1=False & Gen-1=I & Inf-1=False
+10	1	T=APPGE	W+1=nose
+10	10	T=APPGE~PPHO1	W+1=eyes & W-1=in & C-1=True & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=I & Ing-1=False
+9	2	T=PPHO1	T+1=TO & T-1=VVG
+9	2	T=APPGE	T+1=NN1 & T-1=RRQ
+9	1	T=PPHO1	L+1=out
+9	1	T=APPGE	W+1=mother's
+9	1	T=PPHO1	W+1=out
+9	2	T=APPGE	W+1=body & C-1=True
+8	3	T=PPHO1	Gen+1=R & Gen-1=I & C+1=True
+8	4	T=PPHO1	Gen+1=R & Gen-1=V & Ing-1=True & C+1=True
+8	10	T=APPGE~PPHO1	Gen+1=V & Gen-1=V & Ing+1=True & Ger+1=True & Ing-1=False & C-1=False & Inf-1=False & M-1=False & M+1=False & Ger-1=False
+8	2	T=APPGE	Gen+1=N & Gen-1=D
+8	10	T=APPGE~PPHO1	T+1=NN2 & T-1=VVN & C-1=False & M+1=False & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=True & M-1=False & Ing+1=False
+8	2	T=APPGE	T+1=NN2 & T-1=RP
+8	2	T=PPHO1	T+1=RP & T-1=VV0
+8	1	T=APPGE	L+1=neck
+8	10	T=APPGE~PPHO1	L+1=0 & L-1=of & T+1=NN1 & C-1=True & Ger+1=False & M+1=False & Inf+1=False & Ing-1=False & Gen-1=I & Inf-1=False
+8	2	T=APPGE	"L+1=eye & L-1=,"
+8	1	T=APPGE	W+1=arm
+8	1	T=APPGE	W+1=neck
+8	2	T=APPGE	"W+1=eyes & W-1=,"
+7	2	T=APPGE	Gen+1=J & Gen-1=N
+7	10	T=APPGE~PPHO1	Gen+1=V & Gen-1=V & Ing+1=True & Ger+1=False & C-1=False & Ger-1=False & Inf-1=False & M-1=False & M+1=False & A-1=False
+7	1	T=PPHO1	T+1=DD1
+7	2	T=APPGE	L+1=foot & L-1=on
+7	1	T=APPGE	L+1=parent
+7	1	T=APPGE	L+1=marriage
+7	1	T=PPHO1	L+1=into
+7	1	T=PPHO1	L+1=from
+7	2	T=PPHO1	L+1=to & L-1=ask
+7	2	T=APPGE	L+1=best & C-1=True
+7	1	T=APPGE	L+1=brother
+7	1	T=APPGE	L+1=friend
+7	1	T=PPHO1	L+1=of
+7	1	T=APPGE	W+1=marriage
+7	1	T=PPHO1	W+1=into
+7	1	T=PPHO1	W+1=from
+7	1	T=APPGE	W+1=parents
+7	2	T=APPGE	W+1=best & C-1=True
+7	1	T=APPGE	W+1=brother
+7	2	T=APPGE	W+1=feet & W-1=on
+7	1	T=PPHO1	W+1=of
+6	3	T=APPGE	Gen+1=J & Gen-1=V & C-1=True
+6	4	T=PPHO1	Gen+1=V & Gen-1=V & Ing+1=False & Ger-1=True
+6	10	T=APPGE~PPHO1	Gen+1=V & Gen-1=I & Ing+1=True & C+1=True & C-1=True & Inf-1=False & M-1=False & M+1=False & Ing-1=False & Ger+1=True
+6	2	T=APPGE	T+1=MD & Gen-1=V
+6	2	T=APPGE	T+1=JJ & T-1=RP
+6	2	T=APPGE	T+1=JJ & T-1=RR
+6	10	T=APPGE~PPHO1	T+1=NP1 & Gen-1=I & C-1=True & M+1=False & Inf+1=False & Ing-1=False & Inf-1=False & M-1=False & T-1=II & Ing+1=False
+6	1	T=APPGE	L+1=letter
+6	1	T=APPGE	L+1=place
+6	1	T=PPHO1	L+1=even
+6	1	T=APPGE	L+1=finger
+6	1	T=APPGE	L+1=name
+6	1	T=PPHO1	L+1=when
+6	1	T=APPGE	L+1=throat
+6	1	T=APPGE	L+1=left
+6	2	T=APPGE	L+1=head & L-1=over
+6	1	T=APPGE	L+1=clothe
+6	2	T=APPGE	L+1=0 & L-1=in
+6	2	T=APPGE	L+1=0 & L-1=and
+6	1	T=APPGE	L+1=dress
+6	2	T=PPHO1	L+1=to & L-1=tell
+6	1	T=APPGE	W+1=place
+6	1	T=PPHO1	W+1=even
+6	1	T=APPGE	W+1=name
+6	1	T=PPHO1	W+1=when
+6	1	T=APPGE	W+1=throat
+6	1	T=APPGE	W+1=left
+6	2	T=APPGE	W+1=head & W-1=over
+6	1	T=APPGE	W+1=clothes
+5	10	T=APPGE~PPHO1	Gen+1=J & Gen-1=V & C-1=False & Ger-1=False & Ing-1=True & Inf-1=True & M-1=False & A-1=False & Ing+1=False & M+1=True
+5	5	T=PPHO1	Gen+1=R & Gen-1=V & Ing-1=True & C+1=False & Ger-1=True
+5	2	T=APPGE	Gen+1=V & Gen-1=R
+5	3	T=APPGE	Gen+1=V & Gen-1=C & C+1=False
+5	10	T=APPGE~PPHO1	Gen+1=V & Gen-1=I & Ing+1=False & C+1=True & C-1=True & Inf-1=False & M-1=False & M+1=False & Ing-1=False & Ger+1=False
+5	10	T=APPGE~PPHO1	T+1=JJ & T-1=VVN & C-1=False & M+1=True & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=True & M-1=False & Ing+1=False
+5	2	T=PPHO1	T+1=VV0 & T-1=VVG
+5	10	T=APPGE~PPHO1	T+1=VVG & T-1=VVD & C-1=False & M+1=False & Ger+1=True & Inf+1=True & Gen-1=V & Inf-1=False & M-1=False & Ing+1=True
+5	10	T=APPGE~PPHO1	T+1=NN & Gen-1=I & C-1=True & M+1=False & Inf+1=False & Ing-1=False & Inf-1=False & M-1=False & T-1=II & Ing+1=False
+5	2	T=PPHO1	T+1=RR & T-1=VVG
+5	2	T=APPGE	T+1=NN1 & T-1=QH
+5	2	T=APPGE	T+1=NN1 & T-1=DB
+5	1	T=PPHO1	L+1=by
+5	2	T=APPGE	L+1=foot & L-1=to
+5	1	T=PPHO1	L+1=about
+5	2	T=APPGE	L+1=husband & L-1=and
+5	2	T=APPGE	"L+1=husband & L-1=,"
+5	10	T=APPGE~PPHO1	L+1=head & L-1=shake & Ger-1=False & C-1=False & Ger+1=False & M+1=False & Inf+1=False & Ing-1=False & Gen-1=V & Inf-1=False
+5	2	T=APPGE	L+1=0 & L-1=to
+5	1	T=APPGE	L+1=death
+5	2	T=APPGE	L+1=home & L-1=at
+5	1	T=APPGE	L+1=child
+5	1	T=PPHO1	L+1=now
+5	1	T=APPGE	L+1=old
+5	1	T=PPHO1	L+1=if
+5	1	T=PPHO1	L+1=through
+5	1	T=APPGE	L+1=cheek
+5	1	T=PPHO1	L+1=around
+5	1	T=PPHO1	L+1=she
+5	1	T=APPGE	L+1=fellow
+5	1	T=PPHO1	L+1=look
+5	1	T=APPGE	L+1=age
+5	2	T=APPGE	L+1=young & C-1=True
+5	1	T=PPHO1	W+1=by
+5	1	T=PPHO1	W+1=about
+5	1	T=APPGE	W+1=knees
+5	2	T=APPGE	W+1=husband & W-1=and
+5	2	T=APPGE	"W+1=husband & W-1=,"
+5	10	T=APPGE~PPHO1	W+1=head & W-1=shook & C-1=False & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=V & Ing-1=False
+5	1	T=APPGE	W+1=death
+5	2	T=APPGE	W+1=home & W-1=at
+5	1	T=APPGE	W+1=dress
+5	2	T=PPHO1	W+1=to & W-1=asked
+5	1	T=APPGE	W+1=child
+5	1	T=PPHO1	W+1=now
+5	1	T=APPGE	W+1=old
+5	1	T=PPHO1	W+1=if
+5	1	T=PPHO1	W+1=through
+5	1	T=PPHO1	W+1=around
+5	1	T=PPHO1	W+1=she
+5	1	T=APPGE	W+1=fellow
+5	1	T=APPGE	W+1=age
+5	2	T=APPGE	W+1=feet & W-1=to
+4	3	T=APPGE	Gen+1=M & Gen-1=V & C-1=True
+4	5	T=PPHO1	Gen+1=V & Gen-1=V & Ing+1=False & Ger-1=False & C+1=True
+4	2	T=APPGE	T+1=JJ & T-1=NN1
+4	2	T=PPHO1	T+1=RG & Gen-1=I
+4	1	T=PPHO1	T+1=QS
+4	10	T=APPGE~PPHO1	T+1=VHG & C-1=True & Ger+1=True & M+1=False & Inf+1=True & Ing-1=False & Gen-1=I & Inf-1=False & M-1=False & T-1=II
+4	1	T=APPGE	L+1=door
+4	1	T=APPGE	L+1=past
+4	1	T=PPHO1	L+1=more
+4	1	T=PPHO1	L+1=until
+4	2	T=APPGE	L+1=husband & L-1=by
+4	1	T=APPGE	L+1=luggage
+4	1	T=APPGE	L+1=sight
+4	2	T=APPGE	L+1=face & L-1=and
+4	1	T=APPGE	L+1=bosom
+4	2	T=APPGE	L+1=mouth & L-1=in
+4	2	T=APPGE	L+1=mother & L-1=to
+4	2	T=PPHO1	L+1=0 & L-1=tell
+4	1	T=PPHO1	L+1=down
+4	2	T=PPHO1	L+1=close & C-1=False
+4	2	T=PPHO1	L+1=to & L-1=lead
+4	1	T=APPGE	L+1=physical
+4	1	T=APPGE	L+1=spirit
+4	1	T=APPGE	L+1=attention
+4	1	T=APPGE	L+1=job
+4	1	T=PPHO1	L+1=;
+4	1	T=APPGE	L+1=strength
+4	1	T=APPGE	L+1=beauty
+4	1	T=APPGE	L+1=stomach
+4	1	T=APPGE	L+1=uncle
+4	2	T=APPGE	"L+1=hand & L-1=,"
+4	1	T=PPHO1	L+1=again
+4	1	T=APPGE	W+1=door
+4	1	T=APPGE	W+1=letter
+4	1	T=APPGE	W+1=past
+4	1	T=PPHO1	W+1=more
+4	1	T=PPHO1	W+1=until
+4	2	T=APPGE	W+1=husband & W-1=by
+4	1	T=APPGE	W+1=luggage
+4	2	T=APPGE	W+1=face & W-1=and
+4	1	T=APPGE	W+1=arms
+4	1	T=APPGE	W+1=bosom
+4	2	T=APPGE	W+1=mouth & W-1=in
+4	2	T=APPGE	W+1=mother & W-1=to
+4	1	T=PPHO1	W+1=down
+4	2	T=PPHO1	W+1=close & C-1=False
+4	1	T=APPGE	W+1=friends
+4	1	T=APPGE	W+1=physical
+4	1	T=APPGE	W+1=attention
+4	1	T=APPGE	W+1=job
+4	1	T=PPHO1	W+1=;
+4	1	T=APPGE	W+1=strength
+4	1	T=APPGE	W+1=beauty
+4	1	T=APPGE	W+1=fingers
+4	1	T=APPGE	W+1=stomach
+4	1	T=PPHO1	W+1=look
+4	1	T=APPGE	W+1=uncle
+4	1	T=PPHO1	W+1=again
+3	10	T=APPGE~PPHO1	Gen+1=M & Gen-1=V & C-1=False & Ger-1=False & Ing-1=False & Inf-1=False & M-1=False & A-1=False & Ing+1=False & M+1=True
+3	2	T=APPGE	Gen+1=M & Gen-1=C
+3	10	T=APPGE~PPHO1	Gen+1=V & Gen-1=V & Ing+1=False & Ger-1=False & C+1=False & C-1=False & Inf-1=True & M-1=False & Ing-1=True & Ger+1=False
+3	10	T=APPGE~PPHO1	Gen+1=V & Gen-1=V & Ing+1=True & Ger+1=True & Ing-1=True & C-1=False & Inf-1=True & M-1=False & M+1=False & Ger-1=False
+3	10	T=APPGE~PPHO1	Gen+1=V & Gen-1=I & Ing+1=False & C+1=False & C-1=True & Inf-1=False & M-1=False & M+1=False & Ing-1=False & Ger+1=False
+3	2	T=APPGE	Gen+1=N & Gen-1=J
+3	2	T=APPGE	Gen+1=N & Gen-1=P
+3	5	T=APPGE	Gen+1=N & Gen-1=V & Inf-1=True & Ger-1=False & C-1=True
+3	2	T=APPGE	Gen+1=N & Gen-1=T
+3	2	T=APPGE	T+1=NN2 & T-1=VVZ
+3	2	T=APPGE	T+1=NN2 & T-1=RR
+3	2	T=PPHO1	T+1=TO & T-1=VVN
+3	1	T=PPHO1	T+1=DD
+3	2	T=APPGE	T+1=JJ & T-1=NP1
+3	2	T=PPHO1	T+1=DA & T-1=VVD
+3	2	T=APPGE	T+1=DA & T-1=II
+3	10	T=APPGE~PPHO1	T+1=VV0 & T-1=VVN & C-1=False & M+1=False & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=True & M-1=False & Ing+1=False
+3	10	T=APPGE~PPHO1	T+1=VVN & T-1=VV0 & C-1=False & M+1=False & Ger+1=False & Inf+1=True & Gen-1=V & Inf-1=False & M-1=False & Ing+1=True
+3	2	T=APPGE	T+1=VVG & T-1=CC
+3	2	T=PPHO1	T+1=VVG & T-1=VV0
+3	10	T=APPGE~PPHO1	T+1=VVG & T-1=VVN & C-1=False & M+1=False & Ger+1=True & Inf+1=True & Gen-1=V & Inf-1=True & M-1=False & Ing+1=True
+3	1	T=PPHO1	T+1=VVD
+3	10	T=APPGE~PPHO1	T+1=MC & Gen-1=I & C-1=True & M+1=True & Inf+1=False & Ing-1=False & Inf-1=False & M-1=False & T-1=II & Ing+1=False
+3	2	T=PPHO1	T+1=MC & Gen-1=V
+3	2	T=APPGE	T+1=NP1 & Gen-1=C
+3	1	T=PPHO1	T+1=VHD
+3	2	T=APPGE	T+1=NN1 & T-1=NN2
+3	2	T=APPGE	T+1=NN1 & T-1=VBDR
+3	2	T=APPGE	T+1=NN1 & T-1=VBZ
+3	2	T=APPGE	T+1=NN1 & T-1=VB0
+3	2	T=APPGE	T+1=NN1 & T-1=PN1
+3	1	T=PPHO1	T+1=APPGE
+3	2	T=PPHO1	L+1=off & T-1=VVG
+3	10	T=APPGE~PPHO1	L+1=heart & L-1=of & C-1=True & M+1=False & Ger+1=False & A-1=False & M-1=False & Gen-1=I & Ing-1=False & Inf-1=False
+3	1	T=APPGE	L+1=favor
+3	1	T=APPGE	L+1=being
+3	10	T=APPGE~PPHO1	L+1=go & C-1=False & Ger+1=False & A-1=False & M+1=False & Gen-1=V & Ing-1=False & Inf+1=False & Inf-1=False & M-1=False
+3	1	T=PPHO1	L+1=but
+3	1	T=PPHO1	L+1=upstairs
+3	1	T=APPGE	L+1=children
+3	10	T=APPGE~PPHO1	L+1=life & L-1=of & C-1=True & M+1=False & Ger+1=False & A-1=False & M-1=False & Gen-1=I & Ing-1=False & Inf-1=False
+3	1	T=APPGE	L+1=lodge
+3	1	T=APPGE	L+1=partner
+3	1	T=APPGE	L+1=will
+3	1	T=APPGE	L+1=little
+3	1	T=APPGE	L+1=car
+3	1	T=APPGE	L+1=lap
+3	1	T=APPGE	L+1=modern
+3	1	T=APPGE	L+1=bedroom
+3	1	T=APPGE	L+1=boy
+3	1	T=APPGE	L+1=brain
+3	1	T=APPGE	L+1=business
+3	2	T=APPGE	L+1=husband & L-1=to
+3	2	T=APPGE	L+1=husband & L-1=but
+3	1	T=APPGE	L+1=honor
+3	1	T=APPGE	L+1=lover
+3	2	T=APPGE	"L+1=face & L-1=,"
+3	1	T=APPGE	L+1=work
+3	1	T=APPGE	L+1=soul
+3	1	T=APPGE	L+1=tongue
+3	2	T=PPHO1	L+1=have & L-1=of
+3	1	T=APPGE	L+1=favorite
+3	2	T=APPGE	L+1=mouth & L-1=to
+3	2	T=APPGE	L+1=back & L-1=on
+3	1	T=APPGE	L+1=part
+3	1	T=PPHO1	L+1=so
+3	1	T=APPGE	L+1=full
+3	1	T=APPGE	L+1=delight
+3	2	T=APPGE	L+1=0 & L-1=be
+3	2	T=APPGE	L+1=0 & L-1=for
+3	2	T=PPHO1	L+1=0 & L-1=called
+3	2	T=APPGE	L+1=0 & L-1=after
+3	2	T=APPGE	"L+1=0 & L-1=,"
+3	1	T=APPGE	L+1=position
+3	2	T=APPGE	L+1=shoulder & L-1=to
+3	1	T=APPGE	L+1=white
+3	2	T=PPHO1	L+1=to & L-1=persuade
+3	2	T=PPHO1	L+1=to & L-1=expect
+3	2	T=PPHO1	L+1=to & L-1=wanted
+3	1	T=APPGE	L+1=adolescence
+3	1	T=APPGE	L+1=nephew
+3	1	T=APPGE	L+1=folk
+3	1	T=PPHO1	L+1=all
+3	1	T=APPGE	L+1=feeling
+3	1	T=APPGE	L+1=plan
+3	1	T=PPHO1	L+1=some
+3	1	T=APPGE	L+1=family
+3	1	T=APPGE	L+1=great
+3	1	T=APPGE	L+1=ear
+3	1	T=APPGE	L+1=ankle
+3	1	T=PPHO1	L+1=because
+3	1	T=APPGE	L+1=shell
+3	1	T=APPGE	L+1=experience
+3	3	T=APPGE	L+1=body & L-1=of & T+1=NN1
+3	1	T=APPGE	L+1=profession
+3	2	T=APPGE	L+1=hand & L-1=put
+3	2	T=APPGE	L+1=hand & L-1=with
+3	2	T=APPGE	L+1=hand & L-1=in
+3	2	T=APPGE	L+1=hand & L-1=of
+3	10	T=APPGE~PPHO1	L+1=side & L-1=at & C-1=True & M+1=False & Ger+1=False & A-1=False & M-1=False & Gen-1=I & Ing-1=False & Inf-1=False
+3	10	T=APPGE~PPHO1	L+1=house & L-1=of & C-1=True & M+1=False & Ger+1=False & A-1=False & M-1=False & Gen-1=I & Ing-1=False & Inf-1=False
+3	2	T=APPGE	L+1=breath & T-1=CC
+3	2	T=APPGE	L+1=right & C-1=True
+3	10	T=APPGE~PPHO1	W+1=heart & W-1=of & C-1=True & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=I & Ing-1=False
+3	1	T=APPGE	W+1=being
+3	10	T=APPGE~PPHO1	W+1=go & C-1=False & W-1=let & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=V & Ing-1=False
+3	1	T=PPHO1	W+1=but
+3	1	T=PPHO1	W+1=upstairs
+3	1	T=APPGE	W+1=children
+3	10	T=APPGE~PPHO1	W+1=life & W-1=of & C-1=True & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=I & Ing-1=False
+3	1	T=APPGE	W+1=lodge
+3	1	T=PPHO1	W+1=had
+3	1	T=APPGE	W+1=will
+3	1	T=APPGE	W+1=little
+3	1	T=APPGE	W+1=car
+3	1	T=APPGE	W+1=lap
+3	1	T=APPGE	W+1=modern
+3	1	T=APPGE	W+1=foot
+3	1	T=APPGE	W+1=bedroom
+3	1	T=APPGE	W+1=boy
+3	1	T=APPGE	W+1=feelings
+3	1	T=APPGE	W+1=brain
+3	1	T=APPGE	W+1=business
+3	2	T=APPGE	W+1=husband & W-1=to
+3	2	T=APPGE	W+1=husband & W-1=but
+3	1	T=APPGE	W+1=sight
+3	1	T=APPGE	W+1=honor
+3	1	T=APPGE	W+1=lover
+3	2	T=APPGE	"W+1=face & W-1=,"
+3	1	T=APPGE	W+1=work
+3	1	T=APPGE	W+1=soul
+3	1	T=APPGE	W+1=tongue
+3	1	T=APPGE	W+1=spirits
+3	1	T=APPGE	W+1=favorite
+3	2	T=APPGE	W+1=mouth & W-1=to
+3	2	T=APPGE	W+1=back & W-1=on
+3	1	T=APPGE	W+1=part
+3	1	T=PPHO1	W+1=so
+3	1	T=APPGE	W+1=full
+3	1	T=APPGE	W+1=delight
+3	1	T=APPGE	W+1=position
+3	1	T=APPGE	W+1=cheeks
+3	1	T=APPGE	W+1=white
+3	1	T=APPGE	W+1=folks
+3	2	T=PPHO1	W+1=to & W-1=told
+3	2	T=PPHO1	W+1=to & W-1=led
+3	2	T=PPHO1	W+1=to & W-1=tell
+3	2	T=PPHO1	W+1=to & W-1=wanted
+3	1	T=APPGE	W+1=adolescence
+3	2	T=PPHO1	W+1=having & W-1=of
+3	1	T=PPHO1	W+1=all
+3	1	T=PPHO1	W+1=some
+3	1	T=APPGE	W+1=family
+3	1	T=APPGE	W+1=leg
+3	1	T=APPGE	W+1=great
+3	1	T=APPGE	W+1=daughter's
+3	1	T=APPGE	W+1=friend
+3	1	T=PPHO1	W+1=because
+3	1	T=APPGE	W+1=shell
+3	1	T=APPGE	W+1=profession
+3	2	T=APPGE	W+1=hand & W-1=with
+3	2	T=APPGE	W+1=hand & W-1=in
+3	10	T=APPGE~PPHO1	W+1=side & W-1=at & C-1=True & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=I & Ing-1=False
+3	10	T=APPGE~PPHO1	W+1=house & W-1=of & C-1=True & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=I & Ing-1=False
+3	2	T=APPGE	W+1=right & C-1=True
+2	2	T=APPGE	Gen+1=M & Gen-1=Q
+2	2	T=APPGE	Gen+1=M & Gen-1=N
+2	3	T=APPGE	Gen+1=R & Gen-1=C & C+1=True
+2	2	T=APPGE	Gen+1=V & Gen-1=Q
+2	7	T=PPHO1	Gen+1=V & Gen-1=V & Ing+1=True & Ger+1=False & C-1=False & Ger-1=False & Inf-1=True
+2	5	T=PPHO1	Gen+1=V & Gen-1=V & Ing+1=True & Ger+1=False & C-1=True
+2	1	T=PPHO1	Gen+1=X
+2	2	T=APPGE	T+1=NN2 & T-1=NN2
+2	2	T=APPGE	T+1=NN2 & T-1=NN1
+2	1	T=PPHO1	T+1=PPHS2
+2	2	T=APPGE	T+1=MD & Gen-1=Q
+2	2	T=APPGE	T+1=MD & Gen-1=N
+2	2	T=APPGE	T+1=JJ & T-1=VBZ
+2	10	T=APPGE~PPHO1	T+1=JJ & T-1=VVZ & C-1=False & M+1=True & Ger+1=False & Inf+1=False & Gen-1=V & Inf-1=False & M-1=False & Ing+1=False
+2	1	T=PPHO1	T+1=VH0
+2	1	T=PPHO1	T+1=PPX1
+2	1	T=APPGE	T+1=VBG
+2	2	T=APPGE	T+1=RG & Gen-1=C
+2	1	T=PPHO1	T+1=XX
+2	10	T=APPGE~PPHO1	T+1=VVN & T-1=VVD & C-1=False & M+1=False & Ger+1=False & Inf+1=True & Gen-1=V & Inf-1=False & M-1=False & Ing+1=True
+2	2	T=APPGE	T+1=VVN & T-1=VVZ
+2	2	T=APPGE	T+1=VVN & T-1=CC
+2	2	T=PPHO1	T+1=VVN & T-1=VVN
+2	1	T=PPHO1	T+1=DB
+2	2	T=APPGE	T+1=VVG & T-1=RR
+2	1	T=APPGE	T+1=JJR
+2	1	T=APPGE	T+1=NP2
+2	10	T=APPGE~PPHO1	T+1=NN & Gen-1=V & C-1=False & M+1=False & Inf+1=False & Ing-1=False & Inf-1=False & M-1=False & T-1=VV0 & Ing+1=False
+2	2	T=APPGE	T+1=MC & Gen-1=C
+2	2	T=PPHO1	T+1=RP & T-1=VVN
+2	2	T=PPHO1	T+1=RP & T-1=VVG
+2	1	T=PPHO1	T+1=QEE
+2	10	T=APPGE~PPHO1	T+1=VBDZ & C-1=True & Ger+1=False & M+1=False & Inf+1=False & Ing-1=False & Gen-1=I & Inf-1=False & M-1=False & T-1=II
+2	2	T=APPGE	T+1=NN1 & T-1=TO
+2	2	T=APPGE	T+1=NN1 & T-1=NP1
+2	1	T=APPGE	L+1=bouquet
+2	1	T=APPGE	L+1=bureau
+2	1	T=APPGE	L+1=share
+2	1	T=APPGE	L+1=sleep
+2	1	T=APPGE	L+1=breast
+2	2	T=PPHO1	L+1=off & T-1=VV0
+2	1	T=APPGE	L+1=walk
+2	1	T=APPGE	L+1=write
+2	1	T=PPHO1	L+1=slack
+2	1	T=APPGE	L+1=people
+2	1	T=PPHO1	L+1=than
+2	1	T=APPGE	L+1=sister
+2	1	T=APPGE	L+1=grandmother
+2	1	T=APPGE	L+1=reputation
+2	1	T=APPGE	L+1=mirror
+2	1	T=APPGE	L+1=apron
+2	1	T=APPGE	L+1=coffee
+2	1	T=APPGE	L+1=figure
+2	1	T=APPGE	L+1=ego
+2	1	T=APPGE	L+1=opinion
+2	1	T=PPHO1	L+1=it
+2	1	T=PPHO1	L+1=!
+2	2	T=APPGE	L+1=foot & L-1=off
+2	2	T=APPGE	L+1=foot & L-1=squeeze
+2	1	T=APPGE	L+1=imagination
+2	1	T=APPGE	L+1=glass
+2	1	T=PPHO1	L+1=how
+2	1	T=APPGE	L+1=morning
+2	1	T=APPGE	L+1=window
+2	1	T=APPGE	L+1=high
+2	1	T=APPGE	L+1=wet
+2	1	T=APPGE	L+1=discovery
+2	1	T=PPHO1	L+1=except
+2	1	T=APPGE	L+1=master
+2	1	T=APPGE	L+1=chair
+2	1	T=APPGE	L+1=day
+2	1	T=APPGE	L+1=plight
+2	1	T=APPGE	L+1=blow
+2	1	T=PPHO1	L+1=much
+2	1	T=APPGE	L+1=shoe
+2	1	T=APPGE	L+1=audience
+2	2	T=APPGE	L+1=husband & L-1=that
+2	2	T=APPGE	L+1=husband & L-1=with
+2	2	T=PPHO1	L+1=come & C-1=False
+2	2	T=APPGE	L+1=thigh & C-1=True
+2	1	T=APPGE	L+1=late
+2	2	T=APPGE	L+1=head & L-1=above
+2	2	T=APPGE	"L+1=head & L-1=,"
+2	2	T=APPGE	L+1=head & L-1=turn
+2	1	T=PPHO1	L+1=start
+2	1	T=APPGE	L+1=dominion
+2	1	T=APPGE	L+1=concern
+2	2	T=APPGE	L+1=face & L-1=see
+2	2	T=APPGE	L+1=face & L-1=touched
+2	2	T=APPGE	L+1=face & L-1=on
+2	2	T=APPGE	L+1=face & L-1=in
+2	1	T=APPGE	L+1=song
+2	1	T=APPGE	L+1=conviction
+2	1	T=PPHO1	L+1=here
+2	1	T=APPGE	L+1=intellectual
+2	1	T=APPGE	L+1=smile
+2	1	T=APPGE	L+1=chin
+2	1	T=APPGE	L+1=color
+2	1	T=APPGE	L+1=action
+2	1	T=APPGE	L+1=method
+2	1	T=PPHO1	L+1=not
+2	1	T=APPGE	L+1=act
+2	1	T=PPHO1	L+1=too
+2	1	T=APPGE	L+1=pale
+2	10	T=APPGE~PPHO1	L+1=mouth & L-1=of & C-1=True & M+1=False & Ger+1=False & A-1=False & M-1=False & Gen-1=I & Ing-1=False & Inf-1=False
+2	1	T=APPGE	L+1=subsequent
+2	2	T=APPGE	L+1=back & L-1=with
+2	2	T=APPGE	"L+1=back & L-1=,"
+2	10	T=APPGE~PPHO1	L+1=back & L-1=of & C-1=True & M+1=False & Ger+1=False & A-1=False & M-1=False & Gen-1=I & Ing-1=False & Inf-1=False
+2	1	T=APPGE	L+1=travel
+2	2	T=APPGE	L+1=tooth & L-1=and
+2	1	T=APPGE	L+1=extreme
+2	2	T=APPGE	L+1=mother & L-1=that
+2	2	T=APPGE	L+1=mother & L-1=then
+2	2	T=APPGE	L+1=mother & L-1=and
+2	10	T=APPGE~PPHO1	L+1=mother & L-1=of & C-1=True & M+1=False & Ger+1=False & A-1=False & M-1=False & Gen-1=I & Ing-1=False & Inf-1=False
+2	2	T=APPGE	L+1=mother & L-1=something
+2	2	T=APPGE	L+1=mother & L-1=for
+2	1	T=APPGE	L+1=broken
+2	1	T=APPGE	L+1=hotel
+2	1	T=APPGE	L+1=second
+2	1	T=APPGE	L+1=various
+2	1	T=APPGE	L+1=divorce
+2	1	T=APPGE	L+1=embrace
+2	2	T=PPHO1	L+1=0 & L-1=give
+2	2	T=APPGE	L+1=0 & L-1=with
+2	2	T=APPGE	L+1=0 & L-1=at
+2	2	T=APPGE	L+1=0 & L-1=under
+2	2	T=APPGE	L+1=0 & L-1=on
+2	2	T=APPGE	L+1=0 & L-1=by
+2	2	T=APPGE	L+1=two & C-1=True
+2	1	T=PPHO1	L+1=without
+2	1	T=APPGE	L+1=law
+2	1	T=APPGE	L+1=suite
+2	1	T=APPGE	L+1=living
+2	1	T=APPGE	L+1=brow
+2	1	T=APPGE	L+1=defense
+2	1	T=APPGE	L+1=picture
+2	10	T=APPGE~PPHO1	L+1=program & L-1=of & C-1=True & M+1=False & Ger+1=False & A-1=False & M-1=False & Gen-1=I & Ing-1=False & Inf-1=False
+2	1	T=APPGE	L+1=debut
+2	2	T=APPGE	L+1=shoulder & L-1=around
+2	2	T=APPGE	L+1=shoulder & L-1=on
+2	2	T=APPGE	L+1=dark & Gen-1=Q
+2	2	T=APPGE	L+1=dark & Gen-1=V
+2	1	T=APPGE	L+1=pretty
+2	1	T=APPGE	L+1=sharp
+2	1	T=APPGE	L+1=whole
+2	1	T=APPGE	L+1=constant
+2	1	T=APPGE	L+1=cold
+2	1	T=APPGE	L+1=waist
+2	1	T=APPGE	L+1=need
+2	2	T=PPHO1	L+1=to & L-1=to
+2	2	T=PPHO1	L+1=to & L-1=direct
+2	2	T=PPHO1	L+1=to & L-1=want
+2	2	T=PPHO1	L+1=to & L-1=take
+2	2	T=PPHO1	L+1=to & L-1=enable
+2	1	T=APPGE	L+1=roman
+2	1	T=PPHO1	L+1=he
+2	1	T=APPGE	L+1=dedication
+2	2	T=APPGE	L+1=stay & C-1=True
+2	1	T=PPHO1	L+1=away
+2	1	T=APPGE	L+1=pride
+2	1	T=APPGE	L+1=desire
+2	1	T=APPGE	L+1=long
+2	1	T=APPGE	L+1=beautifully
+2	2	T=APPGE	L+1=daughter & L-1=and
+2	1	T=APPGE	L+1=murder
+2	1	T=APPGE	L+1=brown
+2	1	T=PPHO1	L+1=yet
+2	1	T=PPHO1	L+1=before
+2	1	T=APPGE	L+1=tone
+2	1	T=APPGE	L+1=entire
+2	1	T=PPHO1	L+1=feel
+2	2	T=APPGE	L+1=skirt & T-1=VVG
+2	1	T=APPGE	L+1=wish
+2	1	T=APPGE	L+1=kind
+2	1	T=APPGE	L+1=interest
+2	1	T=APPGE	L+1=aunt
+2	1	T=PPHO1	L+1=across
+2	1	T=APPGE	L+1=bed
+2	1	T=APPGE	L+1=sex
+2	1	T=PPHO1	L+1=wait
+2	1	T=PPHO1	L+1=over
+2	10	T=APPGE~PPHO1	L+1=purse & L-1=from & C-1=True & M+1=False & Ger+1=False & A-1=False & M-1=False & Gen-1=I & Ing-1=False & Inf-1=False
+2	1	T=APPGE	L+1=teach
+2	1	T=APPGE	L+1=birthday
+2	2	T=APPGE	L+1=book & T+1=NN2
+2	10	T=APPGE~PPHO1	L+1=book & T+1=NN1 & C-1=True & M+1=False & Ger+1=False & Inf+1=False & A-1=False & Gen-1=I & Ing-1=False & Inf-1=False
+2	1	T=APPGE	L+1=virtue
+2	10	T=APPGE~PPHO1	L+1=love & C-1=True & Ger+1=False & A-1=False & M+1=False & Gen-1=I & Ing-1=False & Inf+1=False & Inf-1=False & M-1=False
+2	1	T=APPGE	L+1=parlor
+2	1	T=APPGE	L+1=skill
+2	1	T=APPGE	L+1=story
+2	1	T=APPGE	L+1=wise
+2	2	T=APPGE	L+1=duty & L-1=to
+2	2	T=PPHO1	L+1=widow & L-1=of
+2	1	T=APPGE	L+1=superiority
+2	1	T=APPGE	L+1=tail
+2	1	T=APPGE	L+1=dinner
+2	1	T=APPGE	L+1=statement
+2	2	T=APPGE	"L+1=body & L-1=,"
+2	2	T=APPGE	L+1=body & L-1=in
+2	1	T=PPHO1	L+1=gently
+2	1	T=APPGE	L+1=ability
+2	2	T=APPGE	L+1=hand & L-1=out
+2	2	T=APPGE	L+1=hand & L-1=clasped
+2	2	T=APPGE	L+1=hand & L-1=take
+2	2	T=APPGE	L+1=hand & L-1=on
+2	1	T=APPGE	L+1=decision
+2	1	T=APPGE	L+1=date
+2	2	T=APPGE	L+1=guest & L-1=greet
+2	2	T=APPGE	L+1=side & L-1=on
+2	1	T=APPGE	L+1=doll
+2	1	T=APPGE	L+1=last
+2	1	T=PPHO1	L+1=either
+2	1	T=APPGE	L+1=condition
+2	1	T=APPGE	L+1=host
+2	1	T=APPGE	L+1=thin
+2	1	T=APPGE	L+1=land
+2	2	T=APPGE	L+1=eye & L-1=with
+2	2	T=APPGE	L+1=eye & L-1=closed
+2	2	T=APPGE	L+1=eye & L-1=opened
+2	3	T=APPGE	L+1=eye & L-1=in & T+1=NN1
+2	2	T=APPGE	L+1=eye & L-1=into
+2	2	T=PPHO1	L+1=eye & L-1=of
+2	1	T=APPGE	L+1=bag
+2	1	T=APPGE	L+1=lawyer
+2	1	T=APPGE	W+1=coloring
+2	1	T=APPGE	W+1=bouquet
+2	1	T=APPGE	W+1=bureau
+2	1	T=APPGE	W+1=share
+2	1	T=APPGE	W+1=sleep
+2	10	T=APPGE~PPHO1	W+1=husband's & W-1=of & C-1=True & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=I & Ing-1=False
+2	1	T=APPGE	W+1=skirts
+2	1	T=APPGE	W+1=people
+2	1	T=PPHO1	W+1=than
+2	1	T=APPGE	W+1=partner
+2	1	T=PPHO1	W+1=an
+2	1	T=APPGE	W+1=grandmother
+2	1	T=APPGE	W+1=reputation
+2	2	T=APPGE	W+1=shoulders & W-1=around
+2	2	T=APPGE	W+1=shoulders & W-1=on
+2	2	T=APPGE	W+1=shoulders & W-1=to
+2	1	T=PPHO1	W+1=waiting
+2	1	T=APPGE	W+1=mirror
+2	1	T=APPGE	W+1=apron
+2	1	T=APPGE	W+1=coffee
+2	1	T=APPGE	W+1=figure
+2	1	T=APPGE	W+1=ego
+2	1	T=APPGE	W+1=opinion
+2	1	T=PPHO1	W+1=it
+2	1	T=PPHO1	W+1=!
+2	1	T=APPGE	W+1=imagination
+2	1	T=APPGE	W+1=glass
+2	1	T=APPGE	W+1=sisters
+2	1	T=PPHO1	W+1=how
+2	1	T=APPGE	W+1=morning
+2	1	T=APPGE	W+1=finger
+2	1	T=APPGE	W+1=wet
+2	1	T=APPGE	W+1=discovery
+2	1	T=APPGE	W+1=shoes
+2	1	T=PPHO1	W+1=except
+2	1	T=APPGE	W+1=master
+2	1	T=APPGE	W+1=chair
+2	1	T=APPGE	W+1=day
+2	1	T=APPGE	W+1=plight
+2	1	T=PPHO1	W+1=slacks
+2	1	T=PPHO1	W+1=much
+2	1	T=APPGE	W+1=needs
+2	1	T=APPGE	W+1=fears
+2	1	T=APPGE	W+1=audience
+2	2	T=APPGE	W+1=husband & W-1=that
+2	2	T=APPGE	W+1=husband & W-1=with
+2	2	T=APPGE	W+1=teeth & W-1=and
+2	1	T=APPGE	W+1=late
+2	2	T=APPGE	W+1=head & W-1=above
+2	2	T=APPGE	"W+1=head & W-1=,"
+2	1	T=APPGE	W+1=dominion
+2	1	T=APPGE	W+1=concern
+2	2	T=APPGE	W+1=face & W-1=see
+2	2	T=APPGE	W+1=face & W-1=touched
+2	2	T=APPGE	W+1=face & W-1=on
+2	2	T=APPGE	W+1=face & W-1=in
+2	1	T=PPHO1	W+1=here
+2	1	T=APPGE	W+1=intellectual
+2	1	T=APPGE	W+1=smile
+2	1	T=PPHO1	W+1=have
+2	2	T=APPGE	W+1=thighs & C-1=True
+2	1	T=APPGE	W+1=chin
+2	1	T=PPHO1	W+1=not
+2	2	T=APPGE	W+1=guests & W-1=greet
+2	1	T=PPHO1	W+1=too
+2	1	T=APPGE	W+1=pale
+2	10	T=APPGE~PPHO1	W+1=mouth & W-1=of & C-1=True & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=I & Ing-1=False
+2	1	T=APPGE	W+1=subsequent
+2	2	T=APPGE	W+1=back & W-1=with
+2	2	T=APPGE	"W+1=back & W-1=,"
+2	10	T=APPGE~PPHO1	W+1=back & W-1=of & C-1=True & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=I & Ing-1=False
+2	1	T=APPGE	W+1=extreme
+2	2	T=APPGE	W+1=mother & W-1=that
+2	2	T=APPGE	W+1=mother & W-1=then
+2	2	T=APPGE	W+1=mother & W-1=and
+2	10	T=APPGE~PPHO1	W+1=mother & W-1=of & C-1=True & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=I & Ing-1=False
+2	2	T=APPGE	W+1=mother & W-1=something
+2	2	T=APPGE	W+1=mother & W-1=for
+2	1	T=APPGE	W+1=broken
+2	1	T=APPGE	W+1=hotel
+2	1	T=APPGE	W+1=second
+2	1	T=APPGE	W+1=books
+2	1	T=APPGE	W+1=various
+2	2	T=PPHO1	W+1=widowed & W-1=of
+2	1	T=APPGE	W+1=ankles
+2	2	T=APPGE	W+1=two & C-1=True
+2	1	T=PPHO1	W+1=without
+2	1	T=APPGE	W+1=suite
+2	1	T=APPGE	W+1=living
+2	2	T=APPGE	W+1=eyes & W-1=with
+2	2	T=APPGE	W+1=eyes & W-1=closed
+2	2	T=APPGE	W+1=eyes & W-1=opened
+2	2	T=APPGE	W+1=eyes & W-1=into
+2	2	T=PPHO1	W+1=eyes & W-1=of
+2	1	T=APPGE	W+1=brow
+2	1	T=APPGE	W+1=duties
+2	10	T=APPGE~PPHO1	W+1=program & W-1=of & C-1=True & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=I & Ing-1=False
+2	1	T=APPGE	W+1=debut
+2	2	T=APPGE	"W+1=dark & W-1=,"
+2	1	T=APPGE	W+1=pretty
+2	1	T=APPGE	W+1=sharp
+2	1	T=APPGE	W+1=whole
+2	1	T=APPGE	W+1=constant
+2	1	T=APPGE	W+1=cold
+2	1	T=APPGE	W+1=waist
+2	2	T=PPHO1	W+1=to & W-1=took
+2	2	T=PPHO1	W+1=to & W-1=to
+2	2	T=PPHO1	W+1=to & W-1=persuading
+2	2	T=PPHO1	W+1=to & W-1=enable
+2	2	T=PPHO1	W+1=to & W-1=expecting
+2	1	T=APPGE	W+1=roman
+2	1	T=PPHO1	W+1=he
+2	1	T=APPGE	W+1=dedication
+2	2	T=APPGE	W+1=stay & C-1=True
+2	1	T=PPHO1	W+1=away
+2	1	T=APPGE	W+1=favors
+2	1	T=APPGE	W+1=pride
+2	1	T=APPGE	W+1=desire
+2	1	T=APPGE	W+1=long
+2	1	T=APPGE	W+1=nephew
+2	1	T=APPGE	W+1=writing
+2	1	T=APPGE	W+1=beautifully
+2	2	T=APPGE	W+1=daughter & W-1=and
+2	1	T=APPGE	W+1=murder
+2	1	T=APPGE	W+1=brown
+2	1	T=PPHO1	W+1=yet
+2	1	T=PPHO1	W+1=before
+2	1	T=APPGE	W+1=tone
+2	1	T=APPGE	W+1=entire
+2	1	T=PPHO1	W+1=feel
+2	1	T=APPGE	W+1=kind
+2	1	T=APPGE	W+1=interest
+2	1	T=APPGE	W+1=plan
+2	1	T=APPGE	W+1=aunt
+2	1	T=APPGE	W+1=letters
+2	1	T=APPGE	W+1=songs
+2	1	T=APPGE	W+1=cheek
+2	1	T=PPHO1	W+1=across
+2	1	T=APPGE	W+1=bed
+2	1	T=APPGE	W+1=sex
+2	1	T=APPGE	W+1=breasts
+2	1	T=PPHO1	W+1=over
+2	10	T=APPGE~PPHO1	W+1=purse & W-1=from & C-1=True & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=I & Ing-1=False
+2	1	T=APPGE	W+1=younger
+2	1	T=APPGE	W+1=birthday
+2	2	T=APPGE	W+1=first & W-1=was
+2	2	T=APPGE	W+1=first & W-1=during
+2	2	T=APPGE	W+1=first & W-1=of
+2	2	T=APPGE	W+1=first & W-1=for
+2	10	T=APPGE~PPHO1	W+1=book & C-1=True & W-1=of & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=I & Ing-1=False
+2	1	T=APPGE	W+1=virtue
+2	10	T=APPGE~PPHO1	W+1=love & C-1=True & W-1=of & M+1=False & Ger+1=False & M-1=False & A-1=False & Inf+1=False & Gen-1=I & Ing-1=False
+2	1	T=APPGE	W+1=parlor
+2	1	T=APPGE	W+1=teaching
+2	1	T=APPGE	W+1=story
+2	1	T=APPGE	W+1=wise
+2	1	T=APPGE	W+1=superiority
+2	1	T=APPGE	W+1=tail
+2	1	T=APPGE	W+1=dinner
+2	1	T=APPGE	W+1=experience
+2	1	T=PPHO1	W+1=gently
+2	1	T=APPGE	W+1=ability
+2	2	T=APPGE	"W+1=hand & W-1=,"
+2	2	T=APPGE	W+1=hand & W-1=took
+2	2	T=APPGE	W+1=hand & W-1=of
+2	2	T=APPGE	W+1=hand & W-1=out
+2	1	T=APPGE	W+1=date
+2	1	T=APPGE	W+1=ears
+2	2	T=APPGE	W+1=side & W-1=on
+2	1	T=APPGE	W+1=last
+2	1	T=PPHO1	W+1=either
+2	1	T=APPGE	W+1=host
+2	2	T=APPGE	W+1=breath & W-1=or
+2	2	T=APPGE	W+1=feet & W-1=off
+2	1	T=APPGE	W+1=lip
+2	1	T=APPGE	W+1=thin
+2	1	T=APPGE	W+1=land
+2	2	T=APPGE	W+1=eye & C-1=True
+2	2	T=APPGE	W+1=young & C-1=True
+2	1	T=APPGE	W+1=bag
+1	2	T=APPGE	Gen+1=J & Gen-1=J
+1	2	T=APPGE	Gen+1=J & Gen-1=D
+1	2	T=APPGE	Gen+1=J & Gen-1=P
+1	2	T=APPGE	Gen+1=J & Gen-1=X
+1	2	T=APPGE	Gen+1=M & Gen-1=R
+1	5	T=PPHO1	Gen+1=M & Gen-1=V & C-1=False & Ger-1=False & Ing-1=True
+1	4	T=APPGE	Gen+1=M & Gen-1=V & C-1=False & Ger-1=True
+1	2	T=APPGE	Gen+1=D & Gen-1=R
+1	4	T=APPGE	Gen+1=D & Gen-1=V & C-1=False & Ger-1=True
+1	3	T=APPGE	Gen+1=D & Gen-1=V & C-1=True
+1	2	T=APPGE	Gen+1=R & Gen-1=Q
+1	3	T=PPHO1	Gen+1=R & Gen-1=C & C+1=False
+1	2	T=APPGE	Gen+1=R & Gen-1=R
+1	2	T=APPGE	Gen+1=V & Gen-1=D
+1	6	T=APPGE	Gen+1=V & Gen-1=V & Ing+1=False & Ger-1=False & C+1=False & C-1=True
+1	6	T=APPGE	Gen+1=V & Gen-1=V & Ing+1=True & Ger+1=False & C-1=False & Ger-1=True
+1	3	T=PPHO1	Gen+1=V & Gen-1=C & C+1=True
+1	1	T=PPHO1	Gen+1=U
+1	2	T=APPGE	Gen+1=N & Gen-1=M
+1	2	T=APPGE	Gen+1=N & Gen-1=X
+1	2	T=PPHO1	Gen+1=T & Gen-1=R
+1	2	T=APPGE	T+1=NN2 & T-1=TO
+1	2	T=APPGE	T+1=NN2 & T-1=QH
+1	2	T=APPGE	T+1=NN2 & T-1=JJ
+1	2	T=APPGE	T+1=NN2 & T-1=VH0
+1	2	T=APPGE	T+1=NN2 & T-1=VDD
+1	2	T=APPGE	T+1=NN2 & T-1=DB
+1	2	T=APPGE	T+1=NN2 & T-1=RGR
+1	2	T=APPGE	T+1=NN2 & T-1=MC
+1	2	T=APPGE	T+1=NN2 & T-1=VHD
+1	2	T=APPGE	T+1=NN2 & T-1=VHG
+1	2	T=PPHO1	T+1=TO & T-1=VVZ
+1	2	T=PPHO1	T+1=TO & T-1=RR
+1	1	T=PPHO1	T+1=DD2
+1	2	T=APPGE	T+1=MD & Gen-1=R
+1	2	T=APPGE	T+1=MD & Gen-1=C
+1	2	T=APPGE	T+1=JJ & T-1=RRQ
+1	2	T=APPGE	T+1=JJ & T-1=VDZ
+1	2	T=APPGE	T+1=JJ & T-1=VBDZ
+1	2	T=APPGE	T+1=JJ & T-1=JJ
+1	2	T=APPGE	T+1=JJ & T-1=XX
+1	2	T=APPGE	T+1=JJ & T-1=PPHS1
+1	2	T=APPGE	T+1=JJ & T-1=DB
+1	1	T=PPHO1	T+1=DDQ
+1	2	T=PPHO1	T+1=DA & T-1=VVN
+1	2	T=APPGE	T+1=DA & T-1=VH0
+1	2	T=APPGE	T+1=DA & T-1=RR
+1	2	T=APPGE	T+1=DA & T-1=VVG
+1	1	T=PPHO1	T+1=VBDR
+1	1	T=PPHO1	T+1=VBZ
+1	2	T=APPGE	T+1=VV0 & T-1=II
+1	2	T=APPGE	T+1=VV0 & T-1=RP
+1	2	T=APPGE	T+1=VV0 & T-1=VHD
+1	2	T=PPHO1	T+1=VVN & T-1=VHG
+1	2	T=APPGE	T+1=VVN & T-1=QC
+1	2	T=PPHO1	T+1=VVN & T-1=VH0
+1	2	T=APPGE	T+1=VVN & T-1=RR
+1	2	T=APPGE	T+1=VVN & T-1=VVG
+1	2	T=APPGE	T+1=VVG & T-1=RP
+1	2	T=APPGE	T+1=VVG & T-1=DB
+1	2	T=APPGE	T+1=VVG & T-1=QC
+1	1	T=PPHO1	T+1=RGR
+1	1	T=PPHO1	T+1=PN1
+1	2	T=APPGE	T+1=NN & Gen-1=Q
+1	2	T=PPHO1	T+1=RR & T-1=CS
+1	2	T=APPGE	T+1=RR & T-1=QC
+1	2	T=APPGE	T+1=RR & T-1=RR
+1	2	T=APPGE	T+1=NP1 & Gen-1=R
+1	2	T=PPHO1	T+1=RP & T-1=VVZ
+1	1	T=PPHO1	T+1=UH
+1	2	T=APPGE	T+1=NN1 & T-1=JJ
+1	2	T=APPGE	T+1=NN1 & T-1=DDQ
+1	2	T=APPGE	T+1=NN1 & T-1=VHZ
+1	2	T=APPGE	T+1=NN1 & T-1=XX
+1	2	T=APPGE	T+1=NN1 & T-1=JJR
+1	2	T=APPGE	T+1=NN1 & T-1=DD1
+1	2	T=APPGE	T+1=NN1 & T-1=VD0
+1	1	T=PPHO1	T+1=VM
+1	1	T=PPHO1	T+1=RGT
+1	1	T=APPGE	L+1=bible
+1	1	T=APPGE	L+1=radish
+1	1	T=PPHO1	L+1=further
+1	1	T=APPGE	L+1=resource
+1	1	T=APPGE	L+1=supervise
+1	1	T=PPHO1	L+1=short-cut
+1	1	T=APPGE	L+1=lunch
+1	1	T=APPGE	L+1=quiet
+1	1	T=PPHO1	L+1=bay
+1	1	T=PPHO1	L+1=listener
+1	1	T=APPGE	L+1=specifically
+1	1	T=PPHO1	L+1=shake
+1	1	T=APPGE	L+1=sinister
+1	1	T=APPGE	L+1=sophomore
+1	1	T=APPGE	L+1=milk
+1	1	T=PPHO1	L+1=settled
+1	1	T=APPGE	L+1=deep
+1	2	T=APPGE	L+1=off & T-1=VVD
+1	2	T=APPGE	L+1=heart & L-1=at
+1	2	T=APPGE	L+1=heart & L-1=into
+1	2	T=APPGE	L+1=heart & L-1=bless
+1	1	T=APPGE	L+1=regular
+1	1	T=APPGE	L+1=contract
+1	1	T=APPGE	L+1=den
+1	1	T=PPHO1	L+1=please
+1	1	T=PPHO1	L+1=skin
+1	2	T=PPHO1	L+1=go & C-1=True
+1	1	T=APPGE	L+1=claim
+1	1	T=APPGE	L+1=classic
+1	1	T=APPGE	L+1=verse
+1	1	T=APPGE	L+1=fur
+1	1	T=APPGE	L+1=attend
+1	1	T=APPGE	L+1=sexual
+1	1	T=APPGE	L+1=screechy
+1	1	T=APPGE	L+1=lack
+1	1	T=APPGE	L+1=gay
+1	1	T=APPGE	L+1=sneakers
+1	1	T=APPGE	L+1=renunciation
+1	1	T=APPGE	L+1=blonde
+1	1	T=APPGE	L+1=eligible
+1	1	T=APPGE	L+1=surgeon
+1	1	T=APPGE	L+1=sail
+1	1	T=APPGE	L+1=equal
+1	1	T=PPHO1	L+1=blister
+1	2	T=APPGE	L+1=life & L-1=be
+1	2	T=APPGE	L+1=life & L-1=devote
+1	2	T=APPGE	L+1=life & L-1=save
+1	2	T=APPGE	L+1=life & L-1=in
+1	2	T=APPGE	L+1=life & L-1=as
+1	2	T=APPGE	L+1=life & L-1=into
+1	2	T=APPGE	L+1=life & L-1=all
+1	2	T=APPGE	L+1=life & L-1=out
+1	1	T=APPGE	L+1=hip
+1	1	T=APPGE	L+1=impulse
+1	1	T=PPHO1	L+1=several
+1	1	T=APPGE	L+1=teacher
+1	1	T=APPGE	L+1=lesson
+1	1	T=APPGE	L+1=confession
+1	1	T=APPGE	L+1=holy
+1	1	T=APPGE	L+1=hickory
+1	1	T=APPGE	L+1=affair
+1	1	T=APPGE	L+1=golden
+1	1	T=APPGE	L+1=shrill
+1	1	T=APPGE	L+1=sense
+1	2	T=PPHO1	L+1=board & Inf+1=False
+1	2	T=APPGE	L+1=board & Inf+1=True
+1	1	T=APPGE	L+1=open
+1	1	T=APPGE	L+1=grown-up
+1	1	T=PPHO1	L+1=traditional
+1	1	T=APPGE	L+1=weak
+1	1	T=APPGE	L+1=circle
+1	1	T=APPGE	L+1=passport
+1	1	T=APPGE	L+1=independence
+1	2	T=APPGE	L+1=wrist & L-1=on
+1	2	T=PPHO1	L+1=wrist & L-1=from
+1	2	T=PPHO1	L+1=wrist & L-1=grab
+1	2	T=APPGE	L+1=wrist & L-1=around
+1	2	T=PPHO1	L+1=wrist & L-1=caught
+1	1	T=APPGE	L+1=horn
+1	1	T=APPGE	L+1=heave
+1	1	T=APPGE	L+1=hit
+1	1	T=PPHO1	L+1=circumspectly
+1	1	T=APPGE	L+1=piano
+1	1	T=APPGE	L+1=beef
+1	1	T=APPGE	L+1=blue-black
+1	1	T=APPGE	L+1=community
+1	1	T=APPGE	L+1=role
+1	1	T=APPGE	L+1=frantic
+1	1	T=PPHO1	L+1=under
+1	1	T=APPGE	L+1=pilgrimage
+1	1	T=PPHO1	L+1=rejected
+1	1	T=APPGE	L+1=reward
+1	1	T=APPGE	L+1=identity
+1	2	T=APPGE	L+1=foot & L-1=set
+1	2	T=APPGE	L+1=foot & L-1=stamp
+1	2	T=APPGE	L+1=foot & L-1=under
+1	2	T=PPHO1	L+1=foot & L-1=beside
+1	1	T=APPGE	L+1=rose
+1	1	T=APPGE	L+1=dish
+1	1	T=PPHO1	L+1=clammy
+1	1	T=APPGE	L+1=captor
+1	1	T=APPGE	L+1=stepmother
+1	1	T=APPGE	L+1=departure
+1	1	T=APPGE	L+1=damn
+1	1	T=APPGE	L+1=excellent
+1	1	T=APPGE	L+1=booze
+1	1	T=APPGE	L+1=pantry
+1	1	T=APPGE	L+1=persistent
+1	1	T=APPGE	L+1=amaze
+1	1	T=APPGE	L+1=check
+1	1	T=APPGE	L+1=support
+1	1	T=APPGE	L+1=return
+1	1	T=APPGE	L+1=personality
+1	1	T=APPGE	L+1=vanity
+1	1	T=APPGE	L+1=partially
+1	1	T=APPGE	L+1=muzzle
+1	1	T=APPGE	L+1=nature
+1	1	T=APPGE	L+1=small
+1	1	T=APPGE	L+1=inflection
+1	1	T=APPGE	L+1=stocking
+1	1	T=PPHO1	L+1=rudely
+1	1	T=PPHO1	L+1=his
+1	1	T=APPGE	L+1=image
+1	1	T=APPGE	L+1=repetition
+1	1	T=APPGE	L+1=disgusting
+1	1	T=APPGE	L+1=unusual
+1	1	T=PPHO1	L+1=yesterday
+1	1	T=APPGE	L+1=paper
+1	1	T=APPGE	L+1=truthfulness
+1	1	T=APPGE	L+1=bloom
+1	1	T=APPGE	L+1=chest
+1	1	T=APPGE	L+1=bedspread
+1	1	T=APPGE	L+1=widely
+1	1	T=APPGE	L+1=bent
+1	1	T=APPGE	L+1=farm
+1	1	T=APPGE	L+1=childhood
+1	1	T=APPGE	L+1=imagery
+1	1	T=APPGE	L+1=choice
+1	1	T=APPGE	L+1=lost
+1	1	T=PPHO1	L+1=one
+1	2	T=APPGE	L+1=garden & C-1=False
+1	2	T=PPHO1	L+1=garden & C-1=True
+1	1	T=APPGE	L+1=trip
+1	1	T=APPGE	L+1=emancipation
+1	1	T=APPGE	L+1=drink
+1	1	T=APPGE	L+1=really
+1	1	T=APPGE	L+1=phone
+1	1	T=APPGE	L+1=psyche
+1	2	T=PPHO1	L+1=be & T+1=VBZ
+1	3	T=PPHO1	L+1=be & T+1=VBDZ & L-1=at
+1	3	T=APPGE	L+1=be & T+1=VBDZ & L-1=about
+1	2	T=PPHO1	L+1=be & T+1=VBDR
+1	1	T=PPHO1	L+1=commence
+1	1	T=APPGE	L+1=threat
+1	1	T=APPGE	L+1=aspiration
+1	1	T=APPGE	L+1=bully
+1	2	T=PPHO1	L+1=free & C-1=False
+1	2	T=APPGE	L+1=free & C-1=True
+1	1	T=PPHO1	L+1=visibly
+1	1	T=APPGE	L+1=ambulatory
+1	1	T=APPGE	L+1=crew
+1	1	T=APPGE	L+1=portfolio
+1	1	T=PPHO1	L+1=fall
+1	1	T=PPHO1	L+1=every
+1	1	T=APPGE	L+1=wheel
+1	1	T=APPGE	L+1=copy
+1	1	T=APPGE	L+1=forthright
+1	1	T=APPGE	L+1=ostensible
+1	1	T=APPGE	L+1=ravenous
+1	1	T=PPHO1	L+1=inside
+1	1	T=APPGE	L+1=italian
+1	1	T=APPGE	L+1=encore
+1	1	T=APPGE	L+1=innocence
+1	1	T=APPGE	L+1=forebear
+1	1	T=APPGE	L+1=grim
+1	1	T=APPGE	L+1=homemade
+1	1	T=APPGE	L+1=arrival
+1	1	T=PPHO1	L+1=soundly
+1	1	T=PPHO1	L+1=myself
+1	1	T=APPGE	L+1=multitude
+1	1	T=APPGE	L+1=breathe
+1	1	T=APPGE	L+1=few
+1	1	T=APPGE	L+1=scratchy
+1	1	T=APPGE	L+1=society
+1	1	T=PPHO1	L+1=clubbed
+1	1	T=APPGE	L+1=conqueror
+1	1	T=APPGE	L+1=special
+1	1	T=APPGE	L+1=unhappiness
+1	1	T=APPGE	L+1=partisan
+1	1	T=APPGE	L+1=fourth
+1	1	T=APPGE	L+1=pointed
+1	1	T=APPGE	L+1=career
+1	2	T=APPGE	L+1=fear & T-1=VVD
+1	2	T=PPHO1	L+1=fear & T-1=VV0
+1	2	T=APPGE	L+1=fear & T-1=CC
+1	2	T=APPGE	L+1=fear & T-1=VVG
+1	1	T=APPGE	L+1=egg
+1	1	T=APPGE	L+1=grip
+1	1	T=APPGE	L+1=ice
+1	1	T=APPGE	L+1=hubby
+1	1	T=APPGE	L+1=bone-weary
+1	1	T=APPGE	L+1=gloved
+1	1	T=APPGE	L+1=tremble
+1	1	T=APPGE	L+1=fresh
+1	1	T=APPGE	L+1=pure
+1	1	T=APPGE	L+1=gaze
+1	1	T=APPGE	L+1=lady
+1	1	T=PPHO1	L+1=another
+1	1	T=APPGE	L+1=alcoholic
+1	1	T=APPGE	L+1=liveried
+1	1	T=APPGE	L+1=quack
+1	1	T=APPGE	L+1=university
+1	1	T=APPGE	L+1=linoleum
+1	1	T=PPHO1	L+1=greatly
+1	1	T=APPGE	L+1=enthusiastic
+1	1	T=APPGE	L+1=polo
+1	2	T=APPGE	L+1=husband & L-1=think
+1	2	T=APPGE	L+1=husband & L-1=unless
+1	2	T=APPGE	L+1=husband & L-1=be
+1	2	T=APPGE	L+1=husband & L-1=find
+1	2	T=APPGE	L+1=husband & L-1=inform
+1	2	T=APPGE	L+1=husband & L-1=against
+1	2	T=APPGE	L+1=husband & L-1=how
+1	2	T=APPGE	L+1=husband & L-1=for
+1	2	T=APPGE	L+1=husband & L-1=corporation
+1	2	T=APPGE	L+1=husband & L-1=while
+1	2	T=APPGE	L+1=husband & L-1=manipulate
+1	2	T=APPGE	L+1=husband & L-1=dominated
+1	2	T=PPHO1	L+1=husband & L-1=about
+1	2	T=APPGE	L+1=husband & L-1=compel
+1	2	T=APPGE	L+1=husband & L-1=at
+1	2	T=APPGE	L+1=husband & L-1=when
+1	2	T=APPGE	L+1=husband & L-1=help
+1	2	T=APPGE	L+1=husband & L-1=though
+1	2	T=APPGE	L+1=husband & L-1=remind
+1	2	T=APPGE	L+1=husband & L-1=persuade
+1	2	T=APPGE	L+1=husband & L-1=take
+1	2	T=APPGE	L+1=husband & L-1=lost
+1	2	T=APPGE	L+1=husband & L-1=on
+1	2	T=APPGE	L+1=husband & L-1=informed
+1	2	T=APPGE	L+1=husband & L-1=of
+1	2	T=APPGE	L+1=come & C-1=True
+1	1	T=PPHO1	L+1=self-imposed
+1	1	T=APPGE	L+1=permission
+1	1	T=APPGE	L+1=midwestern
+1	1	T=APPGE	L+1=toe
+1	1	T=APPGE	L+1=present
+1	1	T=PPHO1	L+1=lightly
+1	1	T=PPHO1	L+1=swipe
+1	1	T=APPGE	L+1=guitar
+1	1	T=APPGE	L+1=behalf
+1	1	T=PPHO1	L+1=swell
+1	1	T=APPGE	L+1=heel
+1	1	T=PPHO1	L+1=where
+1	2	T=PPHO1	L+1=thigh & C-1=False
+1	1	T=APPGE	L+1=washed
+1	1	T=APPGE	L+1=woman
+1	1	T=PPHO1	L+1=leave
+1	1	T=APPGE	L+1=stepson
+1	1	T=APPGE	L+1=black
+1	1	T=PPHO1	L+1=benighted
+1	1	T=APPGE	L+1=testimony
+1	1	T=PPHO1	L+1=american
+1	1	T=APPGE	L+1=mid-fifties
+1	1	T=APPGE	L+1=wedding
+1	1	T=APPGE	L+1=make-up
+1	1	T=APPGE	L+1=pleasure
+1	1	T=APPGE	L+1=yellow
+1	1	T=APPGE	L+1=gaiety
+1	2	T=PPHO1	L+1=cause & T+1=VVD
+1	2	T=APPGE	L+1=cause & T+1=NN1
+1	1	T=APPGE	L+1=effort
+1	1	T=APPGE	L+1=unobtrusive
+1	1	T=APPGE	L+1=adaptation
+1	1	T=APPGE	L+1=search
+1	2	T=APPGE	L+1=head & L-1=dropped
+1	3	T=APPGE	L+1=head & L-1=shake & Ger-1=True
+1	2	T=APPGE	L+1=head & L-1=with
+1	2	T=APPGE	L+1=head & L-1=bob
+1	2	T=APPGE	L+1=head & L-1=upon
+1	2	T=APPGE	L+1=head & L-1=hung
+1	2	T=APPGE	L+1=head & L-1=toss
+1	2	T=APPGE	L+1=head & L-1=held
+1	2	T=APPGE	L+1=head & L-1=0
+1	3	T=PPHO1	L+1=head & L-1=lift & T-1=VVD
+1	3	T=APPGE	L+1=head & L-1=lift & T-1=VV0
+1	2	T=PPHO1	L+1=head & L-1=lowered
+1	2	T=APPGE	L+1=head & L-1=carry
+1	2	T=APPGE	L+1=head & L-1=lost
+1	2	T=APPGE	L+1=head & L-1=make
+1	2	T=APPGE	L+1=head & L-1=on
+1	2	T=APPGE	L+1=head & L-1=turned
+1	2	T=APPGE	L+1=head & L-1=pushed
+1	2	T=APPGE	L+1=head & L-1=of
+1	2	T=APPGE	L+1=head & L-1=bury
+1	1	T=PPHO1	L+1=once
+1	1	T=APPGE	L+1=step
+1	1	T=APPGE	L+1=complete
+1	1	T=APPGE	L+1=honey
+1	1	T=PPHO1	L+1=peanut
+1	1	T=APPGE	L+1=analysis
+1	1	T=PPHO1	L+1=removed
+1	1	T=APPGE	L+1=wide
+1	1	T=APPGE	L+1=committee
+1	1	T=APPGE	L+1=brassy
+1	1	T=APPGE	L+1=brood
+1	1	T=APPGE	L+1=flat
+1	1	T=APPGE	L+1=dear
+1	1	T=APPGE	L+1=answer
+1	1	T=APPGE	L+1=soft
+1	1	T=PPHO1	L+1=ride
+1	2	T=APPGE	L+1=face & L-1=across
+1	2	T=APPGE	L+1=face & L-1=that
+1	2	T=APPGE	L+1=face & L-1=rub
+1	2	T=APPGE	L+1=face & L-1=washed
+1	2	T=APPGE	L+1=face & L-1=hold
+1	2	T=APPGE	L+1=face & L-1=wipe
+1	2	T=APPGE	L+1=face & L-1=off
+1	2	T=APPGE	L+1=face & L-1=remember
+1	2	T=APPGE	L+1=face & L-1=turned
+1	2	T=APPGE	L+1=face & L-1=from
+1	2	T=PPHO1	L+1=face & L-1=raised
+1	2	T=APPGE	L+1=face & L-1=to
+1	2	T=APPGE	L+1=face & L-1=of
+1	2	T=APPGE	L+1=face & L-1=held
+1	2	T=APPGE	L+1=face & L-1=seeing
+1	1	T=APPGE	L+1=highschool
+1	1	T=APPGE	L+1=subjective
+1	1	T=APPGE	L+1=output
+1	1	T=PPHO1	L+1=poison
+1	1	T=APPGE	L+1=development
+1	1	T=APPGE	L+1=depth
+1	1	T=APPGE	L+1=domineering
+1	1	T=APPGE	L+1=bathe
+1	1	T=APPGE	L+1=tumbled
+1	2	T=PPHO1	L+1=balance & T-1=VVD
+1	2	T=APPGE	L+1=balance & T-1=VV0
+1	1	T=APPGE	L+1=course
+1	1	T=APPGE	L+1=sinewy
+1	2	T=APPGE	L+1=have & L-1=without
+1	2	T=PPHO1	L+1=have & L-1=see
+1	2	T=PPHO1	L+1=have & L-1=let
+1	2	T=PPHO1	L+1=have & L-1=command
+1	2	T=PPHO1	L+1=have & L-1=have
+1	2	T=PPHO1	L+1=have & L-1=like
+1	1	T=APPGE	L+1=gray
+1	1	T=PPHO1	L+1=pregnant
+1	1	T=PPHO1	L+1=very
+1	1	T=APPGE	L+1=limitation
+1	1	T=APPGE	L+1=moment
+1	1	T=PPHO1	L+1=stare
+1	1	T=APPGE	L+1=final
+1	1	T=APPGE	L+1=hoof
+1	1	T=APPGE	L+1=rocker
+1	1	T=PPHO1	L+1=outsize
+1	1	T=APPGE	L+1=perennial
+1	1	T=PPHO1	L+1=strangled
+1	1	T=APPGE	L+1=unusually
+1	2	T=PPHO1	L+1=shawl & Inf-1=False
+1	2	T=APPGE	L+1=shawl & Inf-1=True
+1	1	T=APPGE	L+1=misfortune
+1	1	T=APPGE	L+1=rare
+1	1	T=APPGE	L+1=conscious
+1	1	T=PPHO1	L+1=expectantly
+1	1	T=PPHO1	L+1=hacksaw
+1	1	T=PPHO1	L+1=dozen
+1	1	T=APPGE	L+1=menarche
+1	1	T=APPGE	L+1=attic
+1	1	T=APPGE	L+1=portrayal
+1	1	T=APPGE	L+1=manikin
+1	1	T=APPGE	L+1=nuclear
+1	1	T=APPGE	L+1=courtier
+1	1	T=APPGE	L+1=escapade
+1	2	T=PPHO1	L+1=grief & C-1=False
+1	2	T=APPGE	L+1=grief & C-1=True
+1	1	T=APPGE	L+1=bid
+1	1	T=APPGE	L+1=soma
+1	1	T=PPHO1	L+1=knock
+1	1	T=APPGE	L+1=frigid
+1	1	T=PPHO1	L+1=fatso
+1	1	T=APPGE	L+1=critical
+1	1	T=APPGE	L+1=things
+1	2	T=APPGE	L+1=mouth & L-1=over
+1	2	T=APPGE	L+1=mouth & L-1=and
+1	2	T=APPGE	L+1=mouth & L-1=split
+1	2	T=APPGE	L+1=mouth & L-1=around
+1	2	T=APPGE	L+1=mouth & L-1=open
+1	2	T=APPGE	L+1=mouth & L-1=from
+1	2	T=APPGE	L+1=mouth & L-1=taste
+1	2	T=APPGE	L+1=mouth & L-1=keep
+1	2	T=PPHO1	L+1=mouth & L-1=about
+1	1	T=PPHO1	L+1=meet
+1	1	T=APPGE	L+1=mastery
+1	2	T=PPHO1	L+1=back & L-1=kiss
+1	2	T=APPGE	L+1=back & L-1=rub
+1	2	T=PPHO1	L+1=back & L-1=send
+1	2	T=PPHO1	L+1=back & L-1=fling
+1	2	T=PPHO1	L+1=back & L-1=from
+1	2	T=APPGE	L+1=back & L-1=against
+1	2	T=PPHO1	L+1=back & L-1=want
+1	2	T=PPHO1	L+1=back & L-1=yank
+1	2	T=PPHO1	L+1=back & L-1=call
+1	1	T=APPGE	L+1=vaginal
+1	1	T=PPHO1	L+1=tell
+1	1	T=APPGE	L+1=slender
+1	2	T=APPGE	L+1=tooth & L-1=between
+1	2	T=PPHO1	L+1=tooth & L-1=given
+1	2	T=PPHO1	L+1=tooth & L-1=with
+1	2	T=APPGE	L+1=tooth & L-1=behind
+1	2	T=APPGE	L+1=tooth & L-1=under
+1	2	T=APPGE	L+1=tooth & L-1=on
+1	2	T=APPGE	L+1=tooth & L-1=in
+1	2	T=APPGE	L+1=tooth & L-1=study
+1	1	T=APPGE	L+1=ultimate
+1	1	T=APPGE	L+1=scrutiny
+1	1	T=PPHO1	L+1=assign
+1	1	T=PPHO1	L+1=take
+1	2	T=APPGE	L+1=word & L-1=to
+1	2	T=PPHO1	L+1=word & L-1=of
+1	2	T=APPGE	L+1=word & L-1=enunciate
+1	1	T=PPHO1	L+1=along
+1	1	T=APPGE	L+1=womanly
+1	1	T=APPGE	L+1=crossed
+1	2	T=APPGE	L+1=mother & L-1=kimono
+1	2	T=APPGE	L+1=mother & L-1=party
+1	2	T=APPGE	L+1=mother & L-1=but
+1	2	T=APPGE	L+1=mother & L-1=say
+1	2	T=APPGE	L+1=mother & L-1=admonish
+1	2	T=APPGE	L+1=mother & L-1=with
+1	2	T=APPGE	"L+1=mother & L-1=,"
+1	2	T=APPGE	L+1=mother & L-1=outdistance
+1	2	T=APPGE	L+1=mother & L-1=even
+1	2	T=PPHO1	L+1=mother & L-1=beside
+1	2	T=APPGE	L+1=mother & L-1=how
+1	2	T=APPGE	L+1=mother & L-1=by
+1	1	T=APPGE	L+1=four
+1	1	T=APPGE	L+1=exuberant
+1	1	T=APPGE	L+1=circumstance
+1	1	T=APPGE	L+1=crowd
+1	1	T=APPGE	L+1=follower
+1	1	T=APPGE	L+1=birdlike
+1	1	T=APPGE	L+1=rosy
+1	1	T=PPHO1	L+1=harness
+1	1	T=APPGE	L+1=musicianship
+1	1	T=APPGE	L+1=metabolism
+1	1	T=PPHO1	L+1=fumble
+1	2	T=APPGE	L+1=knee & L-1=constrict
+1	2	T=APPGE	L+1=knee & L-1=under
+1	2	T=APPGE	"L+1=knee & L-1=,"
+1	2	T=APPGE	L+1=knee & L-1=upon
+1	2	T=APPGE	L+1=knee & L-1=touched
+1	2	T=PPHO1	L+1=knee & L-1=against
+1	2	T=APPGE	L+1=knee & L-1=to
+1	1	T=APPGE	L+1=biographical
+1	1	T=PPHO1	L+1=give
+1	1	T=APPGE	L+1=cat
+1	1	T=APPGE	L+1=given
+1	1	T=APPGE	L+1=behind
+1	1	T=PPHO1	L+1=yourself
+1	1	T=APPGE	L+1=crab
+1	1	T=APPGE	L+1=legion
+1	1	T=APPGE	L+1=current
+1	1	T=APPGE	L+1=reprieve
+1	1	T=APPGE	L+1=third
+1	1	T=APPGE	L+1=earthy
+1	1	T=PPHO1	L+1=beau
+1	1	T=PPHO1	L+1=till
+1	1	T=APPGE	L+1=pace
+1	1	T=APPGE	L+1=simple
+1	1	T=APPGE	L+1=normal
+1	1	T=APPGE	L+1=apartment
+1	1	T=PPHO1	L+1=exactly
+1	1	T=APPGE	L+1=endearment
+1	1	T=APPGE	L+1=difficulty
+1	1	T=APPGE	L+1=panties
+1	1	T=PPHO1	L+1=sixteenth
+1	1	T=APPGE	L+1=environment
+1	1	T=PPHO1	L+1=never
+1	1	T=APPGE	L+1=swim
+1	1	T=APPGE	L+1=commission
+1	1	T=APPGE	L+1=fat
+1	2	T=APPGE	L+1=0 & L-1=that
+1	2	T=APPGE	L+1=0 & L-1=start
+1	2	T=APPGE	L+1=0 & L-1=into
+1	2	T=APPGE	L+1=0 & L-1=against
+1	2	T=APPGE	L+1=0 & L-1=like
+1	2	T=APPGE	L+1=0 & L-1=share
+1	2	T=APPGE	L+1=0 & L-1=borrow
+1	2	T=APPGE	L+1=0 & L-1=over
+1	2	T=APPGE	L+1=0 & L-1=manipulate
+1	2	T=APPGE	L+1=0 & L-1=while
+1	2	T=APPGE	L+1=0 & L-1=as
+1	2	T=APPGE	L+1=0 & L-1=lightly
+1	2	T=APPGE	L+1=0 & L-1=till
+1	2	T=APPGE	L+1=0 & L-1=left
+1	2	T=PPHO1	L+1=0 & L-1=win
+1	2	T=APPGE	L+1=0 & L-1=wiggle
+1	2	T=APPGE	L+1=0 & L-1=serve
+1	3	T=PPHO1	L+1=0 & L-1=before & T+1=NN2
+1	3	T=APPGE	L+1=0 & L-1=before & T+1=NN1
+1	3	T=APPGE	L+1=0 & L-1=from & M+1=False
+1	3	T=PPHO1	L+1=0 & L-1=from & M+1=True
+1	2	T=APPGE	L+1=0 & L-1=play
+1	2	T=APPGE	L+1=0 & L-1=0
+1	2	T=APPGE	L+1=0 & L-1=but
+1	2	T=APPGE	L+1=0 & L-1=use
+1	2	T=APPGE	L+1=0 & L-1=rebuff
+1	2	T=APPGE	L+1=0 & L-1=beneath
+1	2	T=PPHO1	L+1=0 & L-1=christened
+1	3	T=APPGE	L+1=0 & L-1=of & T+1=NN2
+1	3	T=APPGE	L+1=0 & L-1=of & T+1=NP1
+1	2	T=APPGE	L+1=0 & L-1=greet
+1	1	T=PPHO1	L+1=tomorrow
+1	1	T=PPHO1	L+1=previous
+1	1	T=PPHO1	L+1=attractive
+1	2	T=PPHO1	L+1=two & C-1=False
+1	1	T=PPHO1	L+1=murmur
+1	1	T=APPGE	L+1=sudden
+1	1	T=APPGE	L+1=suburban
+1	1	T=PPHO1	L+1=poise
+1	2	T=PPHO1	L+1=time & L-1=give
+1	2	T=APPGE	L+1=time & L-1=in
+1	2	T=APPGE	L+1=time & L-1=when
+1	2	T=PPHO1	L+1=time & L-1=for
+1	2	T=APPGE	L+1=time & L-1=all
+1	1	T=APPGE	L+1=depart
+1	1	T=APPGE	L+1=reign
+1	1	T=PPHO1	L+1=great-grandfather
+1	1	T=PPHO1	L+1=entry
+1	1	T=PPHO1	L+1=boast
+1	1	T=PPHO1	L+1=half-drunk
+1	1	T=APPGE	L+1=food
+1	1	T=APPGE	L+1=suitcase
+1	1	T=PPHO1	L+1=emerge
+1	1	T=APPGE	L+1=touch
+1	2	T=APPGE	L+1=home & L-1=to
+1	2	T=PPHO1	L+1=home & L-1=take
+1	2	T=APPGE	"L+1=home & L-1=,"
+1	2	T=APPGE	L+1=home & L-1=visit
+1	1	T=APPGE	L+1=forefinger
+1	1	T=APPGE	L+1=type
+1	1	T=PPHO1	L+1=unwanted
+1	1	T=APPGE	L+1=absorption
+1	1	T=APPGE	L+1=somewhere
+1	1	T=PPHO1	L+1=choose
+1	2	T=PPHO1	L+1=direction & L-1=of
+1	2	T=APPGE	L+1=direction & L-1=in
+1	2	T=APPGE	L+1=program & L-1=on
+1	2	T=APPGE	L+1=program & L-1=but
+1	1	T=APPGE	L+1=limp
+1	1	T=APPGE	L+1=news
+1	1	T=PPHO1	L+1=partly
+1	1	T=APPGE	L+1=lung
+1	1	T=APPGE	L+1=variation
+1	1	T=APPGE	L+1=progress
+1	1	T=APPGE	L+1=sweater
+1	1	T=APPGE	L+1=gorgeous
+1	2	T=APPGE	L+1=close & C-1=True
+1	2	T=APPGE	L+1=shoulder & L-1=behind
+1	2	T=PPHO1	L+1=shoulder & L-1=under
+1	2	T=APPGE	L+1=shoulder & L-1=from
+1	2	T=APPGE	L+1=shoulder & L-1=hug
+1	2	T=APPGE	L+1=shoulder & L-1=shrug
+1	2	T=APPGE	L+1=shoulder & L-1=caress
+1	2	T=PPHO1	L+1=dark & Gen-1=I
+1	2	T=APPGE	L+1=dark & Gen-1=C
+1	1	T=APPGE	L+1=mania
+1	1	T=APPGE	L+1=hindquarter
+1	1	T=APPGE	L+1=gift
+1	1	T=PPHO1	L+1=deeply
+1	1	T=PPHO1	L+1=slim
+1	1	T=APPGE	L+1=princess
+1	1	T=APPGE	L+1=government
+1	1	T=PPHO1	L+1=blouse
+1	1	T=APPGE	L+1=dance
+1	1	T=APPGE	L+1=twenties
+1	1	T=APPGE	L+1=many
+1	1	T=APPGE	L+1=knowledge
+1	1	T=APPGE	L+1=paranormal
+1	1	T=APPGE	L+1=horse
+1	1	T=APPGE	L+1=tear
+1	2	T=PPHO1	L+1=talk & C-1=False
+1	2	T=APPGE	L+1=talk & C-1=True
+1	1	T=APPGE	L+1=companion
+1	1	T=APPGE	L+1=patient
+1	1	T=APPGE	L+1=vigorous
+1	1	T=APPGE	L+1=central
+1	1	T=PPHO1	L+1=or
+1	2	T=PPHO1	L+1=freedom & Inf-1=False
+1	2	T=APPGE	L+1=freedom & Inf-1=True
+1	1	T=APPGE	L+1=captain
+1	1	T=APPGE	L+1=sincerity
+1	1	T=APPGE	L+1=invitation
+1	1	T=APPGE	L+1=spoken
+1	1	T=APPGE	L+1=off-duty
+1	2	T=PPHO1	L+1=to & L-1=encourage
+1	2	T=PPHO1	L+1=to & L-1=pay
+1	2	T=PPHO1	L+1=to & L-1=urge
+1	2	T=PPHO1	L+1=to & L-1=bring
+1	2	T=PPHO1	L+1=to & L-1=lure
+1	2	T=PPHO1	L+1=to & L-1=helped
+1	2	T=PPHO1	L+1=to & L-1=excite
+1	2	T=PPHO1	L+1=to & L-1=order
+1	2	T=PPHO1	L+1=to & L-1=known
+1	2	T=PPHO1	L+1=to & L-1=shake
+1	2	T=PPHO1	L+1=to & L-1=over
+1	2	T=PPHO1	L+1=to & L-1=reduced
+1	2	T=PPHO1	L+1=to & L-1=behind
+1	2	T=PPHO1	L+1=to & L-1=teach
+1	2	T=PPHO1	L+1=to & L-1=expected
+1	2	T=PPHO1	L+1=to & L-1=taught
+1	2	T=PPHO1	L+1=to & L-1=about
+1	2	T=PPHO1	L+1=to & L-1=called
+1	2	T=PPHO1	L+1=to & L-1=pressed
+1	2	T=PPHO1	L+1=to & L-1=compel
+1	2	T=PPHO1	L+1=to & L-1=describe
+1	2	T=PPHO1	L+1=to & L-1=exhort
+1	2	T=PPHO1	L+1=to & L-1=pull
+1	2	T=PPHO1	L+1=to & L-1=permitted
+1	2	T=PPHO1	L+1=to & L-1=upon
+1	2	T=PPHO1	L+1=to & L-1=judged
+1	2	T=PPHO1	L+1=to & L-1=from
+1	2	T=PPHO1	L+1=to & L-1=introduced
+1	2	T=APPGE	L+1=to & L-1=defend
+1	2	T=PPHO1	L+1=to & L-1=guide
+1	2	T=PPHO1	L+1=to & L-1=send
+1	2	T=PPHO1	L+1=to & L-1=confide
+1	2	T=PPHO1	L+1=to & L-1=beg
+1	2	T=PPHO1	L+1=to & L-1=command
+1	2	T=PPHO1	L+1=to & L-1=overcome
+1	2	T=PPHO1	L+1=to & L-1=cause
+1	2	T=PPHO1	L+1=to & L-1=move
+1	2	T=PPHO1	L+1=to & L-1=of
+1	2	T=PPHO1	L+1=to & L-1=believe
+1	1	T=APPGE	L+1=manner
+1	1	T=APPGE	L+1=anxiety
+1	1	T=PPHO1	L+1=harm
+1	1	T=APPGE	L+1=only
+1	2	T=PPHO1	L+1=thought & T-1=VVD
+1	2	T=APPGE	L+1=thought & T-1=VV0
+1	2	T=APPGE	L+1=thought & T-1=QH
+1	2	T=APPGE	L+1=thought & T-1=CS
+1	2	T=APPGE	L+1=thought & T-1=VVG
+1	1	T=APPGE	L+1=retreat
+1	1	T=APPGE	L+1=classmate
+1	2	T=APPGE	L+1=big & L-1=of
+1	2	T=PPHO1	L+1=big & L-1=into
+1	1	T=APPGE	L+1=affection
+1	1	T=APPGE	L+1=field
+1	1	T=APPGE	L+1=professional
+1	1	T=APPGE	L+1=conduct
+1	1	T=APPGE	L+1=country
+1	2	T=PPHO1	L+1=stay & C-1=False
+1	1	T=APPGE	L+1=note
+1	1	T=APPGE	L+1=eighteenth
+1	1	T=APPGE	L+1=ship
+1	1	T=PPHO1	L+1=stoop
+1	1	T=APPGE	L+1=breakfast
+1	1	T=APPGE	L+1=meager
+1	2	T=PPHO1	L+1=inner & M-1=False
+1	2	T=APPGE	L+1=inner & M-1=True
+1	1	T=PPHO1	L+1=addressed
+1	1	T=PPHO1	L+1=anything
+1	1	T=PPHO1	L+1=someplace
+1	1	T=APPGE	L+1=journey
+1	1	T=APPGE	L+1=sixth
+1	1	T=PPHO1	L+1=directly
+1	1	T=APPGE	L+1=outside
+1	1	T=APPGE	L+1=rehearsed
+1	2	T=PPHO1	L+1=best & C-1=False
+1	1	T=APPGE	L+1=objection
+1	1	T=PPHO1	L+1=entirely
+1	1	T=APPGE	L+1=vomit
+1	1	T=APPGE	L+1=chosen
+1	1	T=PPHO1	L+1=onto
+1	1	T=APPGE	L+1=poor
+1	1	T=APPGE	L+1=deliverance
+1	1	T=PPHO1	L+1=wrack
+1	1	T=APPGE	L+1=control
+1	1	T=APPGE	L+1=next-door
+1	1	T=APPGE	L+1=minister
+1	1	T=APPGE	L+1=curiosity
+1	1	T=APPGE	L+1=plumpness
+1	1	T=APPGE	L+1=extra
+1	1	T=APPGE	L+1=logic
+1	1	T=PPHO1	L+1=your
+1	1	T=APPGE	L+1=key
+1	2	T=APPGE	L+1=daughter & L-1=that
+1	2	T=PPHO1	L+1=daughter & L-1=from
+1	2	T=APPGE	L+1=daughter & L-1=ago
+1	2	T=APPGE	L+1=daughter & L-1=of
+1	2	T=APPGE	L+1=daughter & L-1=for
+1	1	T=PPHO1	L+1=propriety
+1	1	T=APPGE	L+1=blond
+1	1	T=APPGE	L+1=attempt
+1	1	T=APPGE	L+1=pass
+1	1	T=APPGE	L+1=bubble
+1	1	T=PPHO1	L+1=reluctantly
+1	1	T=APPGE	L+1=social
+1	1	T=APPGE	L+1=complexion
+1	1	T=APPGE	L+1=counsel
+1	2	T=PPHO1	L+1=surprise & C-1=False
+1	2	T=APPGE	L+1=surprise & C-1=True
+1	1	T=APPGE	L+1=arrange
+1	1	T=APPGE	L+1=canvas
+1	1	T=PPHO1	L+1=also
+1	1	T=APPGE	L+1=bow
+1	1	T=PPHO1	L+1=raised
+1	1	T=APPGE	L+1=opportunity
+1	1	T=APPGE	L+1=livelihood
+1	1	T=PPHO1	L+1=means
+1	1	T=PPHO1	L+1=romantic
+1	1	T=APPGE	L+1=remark
+1	1	T=APPGE	L+1=bill
+1	2	T=PPHO1	L+1=skirt & T-1=VVD
+1	2	T=PPHO1	L+1=skirt & T-1=VV0
+1	2	T=APPGE	L+1=skirt & T-1=CC
+1	1	T=APPGE	L+1=microscopic
+1	1	T=APPGE	L+1=passion
+1	1	T=APPGE	L+1=mink
+1	1	T=APPGE	L+1=prettiness
+1	1	T=PPHO1	L+1=study
+1	1	T=PPHO1	L+1=no
+1	1	T=APPGE	L+1=readiness
+1	1	T=APPGE	L+1=stall
+1	1	T=APPGE	L+1=canon
+1	1	T=PPHO1	L+1=good-night
+1	2	T=PPHO1	L+1=box & C-1=False
+1	2	T=APPGE	L+1=box & C-1=True
+1	1	T=APPGE	L+1=summary
+1	1	T=APPGE	L+1=flower
+1	1	T=APPGE	L+1=gown
+1	1	T=APPGE	L+1=chore
+1	1	T=APPGE	L+1=sandal
+1	1	T=PPHO1	L+1=gesture
+1	1	T=PPHO1	L+1=listen
+1	1	T=APPGE	L+1=suspicious
+1	1	T=APPGE	L+1=navy
+1	2	T=APPGE	L+1=neighbor & L-1=of
+1	2	T=PPHO1	L+1=neighbor & L-1=among
+1	1	T=APPGE	L+1=succession
+1	1	T=APPGE	L+1=luxurious
+1	2	T=APPGE	L+1=memory & L-1=of
+1	2	T=PPHO1	L+1=memory & L-1=between
+1	1	T=APPGE	L+1=loss
+1	1	T=APPGE	L+1=fortune
+1	1	T=APPGE	L+1=appraisal
+1	1	T=APPGE	L+1=equanimity
+1	2	T=APPGE	L+1=flesh & Gen-1=V
+1	2	T=PPHO1	L+1=flesh & Gen-1=I
+1	2	T=APPGE	L+1=flesh & Gen-1=T
+1	1	T=APPGE	L+1=gingham
+1	1	T=APPGE	L+1=panic
+1	1	T=APPGE	L+1=native
+1	1	T=APPGE	L+1=worth
+1	1	T=PPHO1	L+1=movement
+1	1	T=APPGE	L+1=blame
+1	2	T=PPHO1	L+1=marry & C-1=False
+1	2	T=APPGE	L+1=marry & C-1=True
+1	1	T=APPGE	L+1=bran
+1	1	T=APPGE	L+1=cigarette
+1	1	T=APPGE	L+1=paint
+1	1	T=APPGE	L+1=correct
+1	1	T=APPGE	L+1=mark
+1	1	T=APPGE	L+1=jeweled
+1	1	T=APPGE	L+1=purpose
+1	1	T=PPHO1	L+1=junior
+1	1	T=PPHO1	L+1=may
+1	1	T=APPGE	L+1=taste
+1	1	T=APPGE	L+1=newly
+1	1	T=PPHO1	L+1=sharply
+1	1	T=APPGE	L+1=neighborhood
+1	1	T=APPGE	L+1=plastic
+1	1	T=APPGE	L+1=thumb
+1	1	T=APPGE	L+1=conscience
+1	2	T=PPHO1	L+1=jaw & Gen-1=I
+1	2	T=APPGE	L+1=jaw & Gen-1=Q
+1	1	T=PPHO1	L+1=god
+1	1	T=APPGE	L+1=inability
+1	1	T=APPGE	L+1=wardrobe
+1	1	T=APPGE	L+1=religion
+1	1	T=APPGE	L+1=pain
+1	1	T=APPGE	L+1=parasol
+1	1	T=PPHO1	L+1=during
+1	1	T=APPGE	L+1=nutrient
+1	1	T=APPGE	L+1=purr
+1	1	T=APPGE	L+1=maternal
+1	2	T=APPGE	L+1=hard & L-1=to
+1	2	T=PPHO1	L+1=hard & L-1=with
+1	1	T=APPGE	L+1=housekeeping
+1	1	T=APPGE	L+1=dowry
+1	2	T=APPGE	L+1=purse & L-1=on
+1	1	T=APPGE	L+1=dramatic
+1	1	T=PPHO1	L+1=curt
+1	1	T=PPHO1	L+1=searchingly
+1	2	T=APPGE	L+1=leg & L-1=around
+1	2	T=PPHO1	L+1=leg & L-1=draw
+1	2	T=APPGE	L+1=leg & L-1=on
+1	2	T=APPGE	L+1=leg & L-1=pulled
+1	2	T=PPHO1	L+1=leg & L-1=swing
+1	2	T=APPGE	L+1=leg & L-1=from
+1	2	T=APPGE	L+1=leg & L-1=twitch
+1	2	T=APPGE	L+1=destination & L-1=to
+1	2	T=PPHO1	L+1=destination & L-1=towards
+1	2	T=APPGE	L+1=destination & L-1=for
+1	1	T=APPGE	L+1=horizon
+1	1	T=APPGE	L+1=private
+1	1	T=APPGE	L+1=apparent
+1	1	T=APPGE	L+1=weight
+1	1	T=PPHO1	L+1=those
+1	1	T=PPHO1	L+1=upright
+1	1	T=APPGE	L+1=talent
+1	1	T=APPGE	L+1=vision
+1	1	T=APPGE	L+1=term
+1	2	T=PPHO1	L+1=first & T+1=RR
+1	1	T=APPGE	L+1=hamburger
+1	1	T=APPGE	L+1=pink
+1	1	T=APPGE	L+1=irritability
+1	1	T=PPHO1	L+1=coldly
+1	1	T=APPGE	L+1=baptismal
+1	1	T=APPGE	L+1=kit
+1	1	T=APPGE	L+1=frighten
+1	1	T=PPHO1	L+1=become
+1	1	T=APPGE	L+1=emotion
+1	1	T=APPGE	L+1=silvery
+1	2	T=PPHO1	L+1=round & C-1=False
+1	2	T=APPGE	L+1=round & C-1=True
+1	2	T=APPGE	L+1=stand & Inf+1=False
+1	2	T=PPHO1	L+1=stand & Inf+1=True
+1	1	T=APPGE	L+1=meal
+1	1	T=APPGE	L+1=terrace
+1	1	T=PPHO1	L+1=somewhat
+1	1	T=APPGE	L+1=calf
+1	1	T=APPGE	L+1=peace
+1	1	T=PPHO1	L+1=terribly
+1	1	T=APPGE	L+1=calm
+1	1	T=APPGE	L+1=sing
+1	1	T=PPHO1	L+1=almost
+1	1	T=APPGE	L+1=poverty
+1	1	T=PPHO1	L+1=actually
+1	1	T=APPGE	L+1=everlasting
+1	1	T=PPHO1	L+1=aristocratic
+1	1	T=APPGE	L+1=sleeve
+1	1	T=PPHO1	L+1=knowingly
+1	1	T=PPHO1	L+1=against
+1	1	T=APPGE	L+1=occasional
+1	1	T=PPHO1	L+1=snapped
+1	1	T=PPHO1	L+1=consort
+1	1	T=APPGE	L+1=cotillion
+1	1	T=APPGE	L+1=stern
+1	1	T=APPGE	L+1=purchase
+1	1	T=APPGE	L+1=hold
+1	1	T=APPGE	L+1=retard
+1	1	T=APPGE	L+1=giggle
+1	1	T=APPGE	L+1=mamma
+1	1	T=APPGE	L+1=curious
+1	1	T=APPGE	L+1=top
+1	1	T=PPHO1	L+1=scold
+1	1	T=PPHO1	L+1=severely
+1	1	T=APPGE	L+1=due
+1	1	T=APPGE	L+1=cheekbone
+1	1	T=PPHO1	L+1=garment
+1	1	T=APPGE	L+1=legal
+1	1	T=APPGE	L+1=whisper
+1	1	T=APPGE	L+1=underclothes
+1	1	T=PPHO1	L+1=crouched
+1	1	T=APPGE	L+1=infidelity
+1	1	T=PPHO1	L+1=mineral
+1	1	T=APPGE	L+1=suffer
+1	1	T=PPHO1	L+1=this
+1	1	T=APPGE	L+1=short
+1	1	T=APPGE	L+1=careworn
+1	1	T=APPGE	L+1=once-a-month
+1	1	T=APPGE	L+1=son-in-law
+1	1	T=APPGE	L+1=placid
+1	2	T=APPGE	L+1=duty & L-1=but
+1	2	T=PPHO1	L+1=duty & L-1=with
+1	2	T=APPGE	L+1=duty & L-1=make
+1	1	T=APPGE	L+1=service
+1	1	T=APPGE	L+1=money
+1	1	T=PPHO1	L+1=inviolate
+1	1	T=APPGE	L+1=errand
+1	1	T=APPGE	L+1=rear
+1	1	T=APPGE	L+1=benevolence
+1	1	T=APPGE	L+1=bereavement
+1	1	T=APPGE	L+1=style
+1	2	T=PPHO1	L+1=mental & Gen-1=I
+1	2	T=APPGE	L+1=mental & Gen-1=Q
+1	1	T=APPGE	L+1=limit
+1	1	T=PPHO1	L+1=acquitted
+1	1	T=APPGE	L+1=argument
+1	1	T=APPGE	L+1=indignation
+1	1	T=PPHO1	L+1=coat
+1	1	T=APPGE	L+1=regret
+1	1	T=APPGE	L+1=wrinkle
+1	2	T=APPGE	L+1=widow & L-1=by
+1	1	T=PPHO1	L+1=tweed
+1	1	T=APPGE	L+1=lively
+1	1	T=APPGE	L+1=neat
+1	1	T=APPGE	L+1=mansion
+1	1	T=APPGE	L+1=desk
+1	1	T=APPGE	L+1=engagement
+1	1	T=APPGE	L+1=cookie
+1	2	T=PPHO1	L+1=anger & C-1=False
+1	2	T=APPGE	L+1=anger & C-1=True
+1	1	T=APPGE	L+1=kidney
+1	1	T=PPHO1	L+1=well
+1	1	T=APPGE	L+1=income
+1	1	T=APPGE	L+1=sitter
+1	1	T=APPGE	L+1=credit
+1	1	T=APPGE	L+1=fluency
+1	1	T=PPHO1	L+1=why
+1	1	T=APPGE	L+1=hind
+1	1	T=PPHO1	L+1=appearance
+1	1	T=PPHO1	L+1=like
+1	1	T=APPGE	L+1=hawaiian
+1	1	T=APPGE	L+1=shop
+1	1	T=APPGE	L+1=army
+1	1	T=PPHO1	L+1=urging
+1	1	T=APPGE	L+1=congratulations
+1	1	T=APPGE	L+1=citizen
+1	1	T=APPGE	L+1=technical
+1	2	T=PPHO1	L+1=company & L-1=kept
+1	2	T=APPGE	L+1=company & L-1=enjoy
+1	2	T=APPGE	L+1=company & L-1=in
+1	1	T=APPGE	L+1=unwed
+1	1	T=APPGE	L+1=feed
+1	2	T=APPGE	L+1=body & L-1=across
+1	2	T=APPGE	L+1=body & L-1=down
+1	3	T=PPHO1	L+1=body & L-1=of & T+1=NN2
+1	2	T=PPHO1	L+1=body & L-1=enter
+1	1	T=APPGE	L+1=coldness
+1	2	T=APPGE	L+1=hand & L-1=wash
+1	2	T=APPGE	L+1=hand & L-1=remove
+1	2	T=APPGE	L+1=hand & L-1=into
+1	2	T=APPGE	L+1=hand & L-1=slip
+1	2	T=APPGE	L+1=hand & L-1=up
+1	2	T=PPHO1	L+1=hand & L-1=saw
+1	2	T=APPGE	L+1=hand & L-1=overplay
+1	2	T=APPGE	L+1=hand & L-1=relinquish
+1	2	T=APPGE	L+1=hand & L-1=get
+1	2	T=APPGE	L+1=hand & L-1=hold
+1	2	T=APPGE	L+1=hand & L-1=down
+1	2	T=APPGE	L+1=hand & L-1=nail
+1	2	T=APPGE	L+1=hand & L-1=at
+1	2	T=APPGE	L+1=hand & L-1=when
+1	2	T=APPGE	L+1=hand & L-1=from
+1	2	T=APPGE	L+1=hand & L-1=filch
+1	2	T=APPGE	L+1=hand & L-1=try
+1	2	T=APPGE	L+1=hand & L-1=but
+1	2	T=APPGE	L+1=hand & L-1=kiss
+1	2	T=APPGE	L+1=hand & L-1=late
+1	2	T=APPGE	L+1=hand & L-1=and
+1	2	T=APPGE	L+1=hand & L-1=let
+1	2	T=APPGE	L+1=hand & L-1=clap
+1	1	T=APPGE	L+1=identification
+1	1	T=APPGE	L+1=loose
+1	1	T=PPHO1	L+1=mobile
+1	1	T=PPHO1	L+1=shiver
+1	1	T=APPGE	L+1=nipple
+1	1	T=APPGE	L+1=reason
+1	1	T=APPGE	L+1=desperation
+1	1	T=APPGE	L+1=wit
+1	2	T=APPGE	L+1=guest & L-1=to
+1	2	T=APPGE	L+1=guest & L-1=with
+1	2	T=PPHO1	L+1=guest & L-1=among
+1	2	T=APPGE	L+1=guest & L-1=for
+1	1	T=APPGE	L+1=mission
+1	2	T=APPGE	L+1=side & L-1=to
+1	1	T=APPGE	L+1=journal
+1	1	T=PPHO1	L+1=i
+1	1	T=APPGE	L+1=basket
+1	1	T=PPHO1	L+1=dearly
+1	1	T=PPHO1	L+1=seem
+1	1	T=PPHO1	L+1=intensely
+1	1	T=APPGE	L+1=checkbook
+1	1	T=PPHO1	L+1=grandparent
+1	1	T=APPGE	L+1=request
+1	1	T=APPGE	L+1=source
+1	1	T=APPGE	L+1=baby
+1	1	T=APPGE	L+1=knight
+1	1	T=APPGE	L+1=church
+1	1	T=APPGE	L+1=whereabouts
+1	1	T=PPHO1	L+1=what
+1	1	T=APPGE	L+1=insistence
+1	1	T=APPGE	L+1=fork
+1	1	T=PPHO1	L+1=soulfully
+1	1	T=APPGE	L+1=chaperon
+1	1	T=PPHO1	L+1=enough
+1	1	T=APPGE	L+1=idea
+1	1	T=APPGE	L+1=frustration
+1	1	T=APPGE	L+1=destiny
+1	1	T=PPHO1	L+1=fancy
+1	1	T=APPGE	L+1=ring
+1	1	T=APPGE	L+1=doctor
+1	1	T=APPGE	L+1=handbag
+1	1	T=APPGE	L+1=maiden
+1	1	T=PPHO1	L+1=wherever
+1	2	T=PPHO1	L+1=house & L-1=with
+1	2	T=APPGE	L+1=house & L-1=leave
+1	2	T=APPGE	L+1=house & L-1=at
+1	2	T=APPGE	L+1=house & L-1=in
+1	2	T=APPGE	L+1=house & L-1=to
+1	2	T=APPGE	L+1=house & L-1=left
+1	1	T=APPGE	L+1=resentment
+1	2	T=APPGE	L+1=breath & T-1=VVD
+1	2	T=APPGE	L+1=breath & T-1=NN1
+1	2	T=APPGE	L+1=breath & T-1=CS
+1	2	T=PPHO1	L+1=breath & T-1=VV0
+1	2	T=APPGE	L+1=breath & T-1=QC
+1	2	T=APPGE	L+1=breath & T-1=VVG
+1	1	T=PPHO1	L+1=call
+1	1	T=APPGE	L+1=sherry
+1	2	T=APPGE	L+1=lip & L-1=lift
+1	2	T=APPGE	L+1=lip & L-1=chew
+1	2	T=APPGE	"L+1=lip & L-1=,"
+1	2	T=APPGE	L+1=lip & L-1=make
+1	2	T=APPGE	L+1=lip & L-1=on
+1	2	T=PPHO1	L+1=lip & L-1=pursed
+1	2	T=PPHO1	L+1=lip & L-1=from
+1	2	T=APPGE	L+1=lip & L-1=move
+1	2	T=APPGE	L+1=lip & L-1=to
+1	1	T=APPGE	L+1=serve
+1	2	T=PPHO1	L+1=right & C-1=False
+1	1	T=PPHO1	L+1=my
+1	1	T=APPGE	L+1=impression
+1	1	T=PPHO1	L+1=there
+1	1	T=APPGE	L+1=toilsome
+1	1	T=APPGE	L+1=portly
+1	1	T=PPHO1	L+1=nude
+1	1	T=APPGE	L+1=ancestor
+1	2	T=APPGE	L+1=eye & L-1=kept
+1	2	T=APPGE	L+1=eye & L-1=lowered
+1	2	T=APPGE	L+1=eye & L-1=that
+1	2	T=PPHO1	L+1=eye & L-1=rub
+1	2	T=APPGE	L+1=eye & L-1=adjusted
+1	2	T=APPGE	L+1=eye & L-1=and
+1	2	T=PPHO1	L+1=eye & L-1=scratch
+1	2	T=APPGE	L+1=eye & L-1=bring
+1	2	T=PPHO1	L+1=eye & L-1=caught
+1	2	T=PPHO1	L+1=eye & L-1=at
+1	2	T=APPGE	L+1=eye & L-1=raise
+1	2	T=APPGE	L+1=eye & L-1=swing
+1	2	T=APPGE	L+1=eye & L-1=turn
+1	2	T=APPGE	L+1=eye & L-1=perhaps
+1	2	T=APPGE	L+1=new & L-1=of
+1	2	T=PPHO1	L+1=new & L-1=give
+1	2	T=APPGE	L+1=new & L-1=in
+1	2	T=APPGE	L+1=new & L-1=flaunt
+1	1	T=APPGE	L+1=nation
+1	1	T=APPGE	L+1=bearded
+1	1	T=APPGE	L+1=green
+1	1	T=APPGE	L+1=vein
+1	1	T=APPGE	L+1=real
+1	1	T=APPGE	L+1=run
+1	1	T=PPHO1	L+1=vocal
+1	1	T=APPGE	L+1=winter
+1	2	T=PPHO1	L+1=young & C-1=False
+1	1	T=APPGE	L+1=class
+1	1	T=APPGE	L+1=nest
+1	1	T=APPGE	L+1=lingerie
+1	1	T=APPGE	W+1=bible
+1	1	T=APPGE	W+1=encores
+1	1	T=APPGE	W+1=sitters
+1	1	T=APPGE	W+1=radish
+1	1	T=PPHO1	W+1=further
+1	1	T=PPHO1	W+1=short-cut
+1	1	T=APPGE	W+1=lunch
+1	1	T=APPGE	W+1=quiet
+1	1	T=APPGE	W+1=feeding
+1	1	T=APPGE	W+1=specifically
+1	1	T=APPGE	W+1=sinister
+1	1	T=APPGE	W+1=sophomore
+1	1	T=APPGE	W+1=limitations
+1	1	T=APPGE	W+1=milk
+1	1	T=APPGE	W+1=married
+1	1	T=PPHO1	W+1=settled
+1	1	T=APPGE	W+1=deep
+1	2	T=PPHO1	W+1=off & W-1=cutting
+1	2	T=PPHO1	W+1=off & W-1=tugging
+1	2	T=PPHO1	W+1=off & W-1=set
+1	2	T=PPHO1	W+1=off & W-1=pay
+1	2	T=APPGE	W+1=off & W-1=shoved
+1	2	T=PPHO1	W+1=off & W-1=dragging
+1	2	T=APPGE	W+1=heart & W-1=at
+1	2	T=APPGE	W+1=heart & W-1=into
+1	2	T=APPGE	W+1=heart & W-1=bless
+1	1	T=APPGE	W+1=walk
+1	1	T=APPGE	W+1=favor
+1	1	T=APPGE	W+1=regular
+1	1	T=APPGE	W+1=contract
+1	1	T=APPGE	W+1=den
+1	1	T=PPHO1	W+1=please
+1	2	T=APPGE	W+1=husband's & W-1=rebuffed
+1	2	T=APPGE	W+1=husband's & W-1=shared
+1	2	T=APPGE	W+1=husband's & W-1=at
+1	2	T=APPGE	W+1=husband's & W-1=on
+1	2	T=APPGE	W+1=husband's & W-1=in
+1	2	T=APPGE	W+1=husband's & W-1=greeted
+1	2	T=APPGE	W+1=husband's & W-1=to
+1	2	T=APPGE	W+1=thoughts & W-1=--
+1	2	T=APPGE	W+1=thoughts & W-1=pulling
+1	2	T=APPGE	W+1=thoughts & W-1=that
+1	2	T=PPHO1	W+1=thoughts & W-1=focused
+1	2	T=APPGE	W+1=thoughts & W-1=keep
+1	1	T=PPHO1	W+1=skin
+1	1	T=APPGE	W+1=wheels
+1	1	T=PPHO1	W+1=looking
+1	1	T=APPGE	W+1=claim
+1	1	T=APPGE	W+1=classic
+1	1	T=APPGE	W+1=fur
+1	1	T=APPGE	W+1=attend
+1	1	T=APPGE	W+1=sherman
+1	1	T=APPGE	W+1=sexual
+1	1	T=APPGE	W+1=screechy
+1	1	T=APPGE	W+1=lack
+1	1	T=APPGE	W+1=gay
+1	1	T=PPHO1	W+1=studies
+1	1	T=APPGE	W+1=verses
+1	1	T=APPGE	W+1=sneakers
+1	1	T=APPGE	W+1=renunciation
+1	1	T=APPGE	W+1=producer-hubby
+1	1	T=APPGE	W+1=blonde
+1	1	T=APPGE	W+1=eligible
+1	1	T=APPGE	W+1=surgeon
+1	1	T=APPGE	W+1=equal
+1	1	T=APPGE	W+1=friend's
+1	1	T=PPHO1	W+1=blister
+1	2	T=APPGE	W+1=life & W-1=was
+1	2	T=APPGE	W+1=life & W-1=devote
+1	2	T=APPGE	W+1=life & W-1=in
+1	2	T=APPGE	W+1=life & W-1=as
+1	2	T=APPGE	W+1=life & W-1=into
+1	2	T=APPGE	W+1=life & W-1=all
+1	2	T=APPGE	W+1=life & W-1=saving
+1	2	T=APPGE	W+1=life & W-1=out
+1	1	T=APPGE	W+1=impulse
+1	1	T=PPHO1	W+1=several
+1	1	T=APPGE	W+1=notes
+1	2	T=PPHO1	W+1=jaws & W-1=of
+1	2	T=APPGE	"W+1=jaws & W-1=,"
+1	1	T=APPGE	W+1=confession
+1	1	T=PPHO1	W+1=i'd
+1	1	T=APPGE	W+1=holy
+1	1	T=APPGE	W+1=hickory
+1	2	T=APPGE	W+1=shoulders & W-1=shrugged
+1	2	T=APPGE	W+1=shoulders & W-1=caressed
+1	2	T=APPGE	W+1=shoulders & W-1=behind
+1	2	T=PPHO1	W+1=shoulders & W-1=under
+1	2	T=APPGE	W+1=shoulders & W-1=hugging
+1	2	T=APPGE	W+1=shoulders & W-1=from
+1	1	T=PPHO1	W+1=started
+1	1	T=APPGE	W+1=golden
+1	1	T=APPGE	W+1=shrill
+1	1	T=PPHO1	W+1=board
+1	1	T=APPGE	W+1=grown-up
+1	1	T=PPHO1	W+1=traditional
+1	1	T=APPGE	W+1=weak
+1	1	T=APPGE	W+1=circle
+1	1	T=APPGE	W+1=passport
+1	1	T=APPGE	W+1=independence
+1	2	T=PPHO1	W+1=wrist & W-1=from
+1	2	T=PPHO1	W+1=wrist & W-1=grabbed
+1	2	T=APPGE	W+1=wrist & W-1=around
+1	2	T=PPHO1	W+1=wrist & W-1=caught
+1	1	T=APPGE	W+1=rooms
+1	1	T=APPGE	W+1=frightened
+1	1	T=APPGE	W+1=actions
+1	1	T=APPGE	W+1=piano
+1	1	T=PPHO1	W+1=circumspectly
+1	1	T=PPHO1	W+1=starting
+1	1	T=APPGE	W+1=beef
+1	1	T=APPGE	W+1=acting
+1	1	T=APPGE	W+1=retarded
+1	1	T=APPGE	W+1=blue-black
+1	1	T=APPGE	W+1=community
+1	1	T=APPGE	W+1=role
+1	1	T=APPGE	W+1=frantic
+1	1	T=PPHO1	W+1=under
+1	1	T=APPGE	W+1=pilgrimage
+1	1	T=PPHO1	W+1=rejected
+1	1	T=APPGE	W+1=reward
+1	1	T=APPGE	W+1=identity
+1	2	T=APPGE	"W+1=lips & W-1=,"
+1	2	T=APPGE	W+1=lips & W-1=on
+1	2	T=PPHO1	W+1=lips & W-1=pursed
+1	2	T=PPHO1	W+1=lips & W-1=from
+1	2	T=APPGE	W+1=lips & W-1=to
+1	2	T=APPGE	W+1=lips & W-1=made
+1	2	T=APPGE	W+1=lips & W-1=moving
+1	1	T=APPGE	W+1=rose
+1	1	T=APPGE	W+1=dish
+1	1	T=PPHO1	W+1=clammy
+1	1	T=APPGE	W+1=stepmother
+1	1	T=APPGE	W+1=slender
+1	1	T=APPGE	W+1=departure
+1	1	T=APPGE	W+1=damn
+1	1	T=APPGE	W+1=excellent
+1	1	T=APPGE	W+1=booze
+1	1	T=APPGE	W+1=pantry
+1	1	T=APPGE	W+1=persistent
+1	1	T=APPGE	W+1=cigarettes
+1	1	T=APPGE	W+1=check
+1	1	T=APPGE	W+1=support
+1	1	T=APPGE	W+1=bathing
+1	1	T=APPGE	W+1=return
+1	1	T=APPGE	W+1=lessons
+1	1	T=APPGE	W+1=personality
+1	1	T=APPGE	W+1=vanity
+1	1	T=APPGE	W+1=partially
+1	1	T=APPGE	W+1=muzzle
+1	1	T=APPGE	W+1=nature
+1	1	T=APPGE	W+1=small
+1	1	T=APPGE	W+1=inflection
+1	1	T=APPGE	W+1=portland
+1	1	T=PPHO1	W+1=rudely
+1	1	T=APPGE	W+1=window
+1	1	T=PPHO1	W+1=his
+1	1	T=APPGE	W+1=image
+1	1	T=PPHO1	W+1=scolding
+1	1	T=APPGE	W+1=high
+1	1	T=APPGE	W+1=repetition
+1	1	T=APPGE	W+1=endearments
+1	1	T=APPGE	W+1=disgusting
+1	1	T=APPGE	W+1=unusual
+1	1	T=PPHO1	W+1=yesterday
+1	1	T=APPGE	W+1=paper
+1	1	T=APPGE	W+1=truthfulness
+1	1	T=APPGE	W+1=bloom
+1	1	T=APPGE	W+1=chest
+1	1	T=APPGE	W+1=bedspread
+1	1	T=APPGE	W+1=widely
+1	1	T=APPGE	W+1=bent
+1	1	T=APPGE	W+1=farm
+1	1	T=APPGE	W+1=brother's
+1	1	T=APPGE	W+1=childhood
+1	1	T=APPGE	W+1=imagery
+1	1	T=APPGE	W+1=choice
+1	1	T=APPGE	W+1=lost
+1	1	T=PPHO1	W+1=one
+1	1	T=APPGE	W+1=flowers
+1	2	T=APPGE	W+1=garden & C-1=False
+1	2	T=PPHO1	W+1=garden & C-1=True
+1	1	T=APPGE	W+1=trip
+1	1	T=APPGE	W+1=emancipation
+1	1	T=APPGE	W+1=really
+1	1	T=APPGE	W+1=phone
+1	1	T=APPGE	W+1=psyche
+1	1	T=APPGE	W+1=wishes
+1	1	T=APPGE	W+1=threat
+1	1	T=APPGE	W+1=aspiration
+1	1	T=APPGE	W+1=gapt
+1	2	T=PPHO1	W+1=free & C-1=False
+1	2	T=APPGE	W+1=free & C-1=True
+1	1	T=PPHO1	W+1=visibly
+1	1	T=APPGE	W+1=ambulatory
+1	1	T=APPGE	W+1=crew
+1	1	T=APPGE	W+1=portfolio
+1	1	T=PPHO1	W+1=fall
+1	1	T=APPGE	W+1=suffering
+1	1	T=APPGE	W+1=copy
+1	1	T=PPHO1	W+1=every
+1	1	T=APPGE	W+1=forthright
+1	1	T=APPGE	W+1=ostensible
+1	1	T=APPGE	W+1=ravenous
+1	1	T=PPHO1	W+1=inside
+1	1	T=APPGE	W+1=innocence
+1	1	T=APPGE	W+1=stockings
+1	1	T=APPGE	W+1=grim
+1	1	T=APPGE	W+1=homemade
+1	1	T=APPGE	W+1=arrival
+1	1	T=APPGE	W+1=adonis
+1	1	T=PPHO1	W+1=soundly
+1	1	T=PPHO1	W+1=myself
+1	1	T=APPGE	W+1=multitude
+1	1	T=APPGE	W+1=breathe
+1	1	T=APPGE	W+1=few
+1	1	T=APPGE	W+1=society
+1	1	T=APPGE	W+1=scratchy
+1	1	T=PPHO1	W+1=clubbed
+1	1	T=APPGE	W+1=special
+1	2	T=APPGE	W+1=legs & W-1=pulled
+1	2	T=PPHO1	W+1=legs & W-1=drew
+1	2	T=PPHO1	W+1=legs & W-1=swung
+1	2	T=APPGE	W+1=legs & W-1=around
+1	1	T=APPGE	W+1=unhappiness
+1	1	T=APPGE	W+1=partisan
+1	1	T=APPGE	W+1=plans
+1	1	T=APPGE	W+1=fourth
+1	1	T=APPGE	W+1=pointed
+1	1	T=APPGE	W+1=career
+1	2	T=PPHO1	W+1=fear & W-1=reawaken
+1	2	T=APPGE	W+1=fear & W-1=telegraphing
+1	1	T=APPGE	W+1=ice
+1	1	T=APPGE	W+1=grip
+1	1	T=APPGE	W+1=conditioning
+1	1	T=APPGE	W+1=hubby
+1	1	T=APPGE	W+1=sleeves
+1	1	T=APPGE	W+1=bone-weary
+1	1	T=APPGE	W+1=gloved
+1	1	T=APPGE	W+1=wrinkles
+1	1	T=APPGE	W+1=fresh
+1	1	T=APPGE	W+1=pure
+1	1	T=APPGE	W+1=gaze
+1	1	T=PPHO1	W+1=boxes
+1	1	T=APPGE	W+1=hits
+1	1	T=APPGE	W+1=classmates
+1	1	T=APPGE	W+1=serving
+1	1	T=PPHO1	W+1=is
+1	1	T=PPHO1	W+1=another
+1	1	T=APPGE	W+1=alcoholic
+1	1	T=APPGE	W+1=liveried
+1	1	T=APPGE	W+1=quack
+1	1	T=APPGE	W+1=university
+1	1	T=APPGE	W+1=shatteringly
+1	1	T=APPGE	W+1=blow
+1	1	T=PPHO1	W+1=american
+1	1	T=APPGE	W+1=linoleum
+1	2	T=PPHO1	W+1=was & W-1=at
+1	2	T=APPGE	W+1=was & W-1=about
+1	1	T=PPHO1	W+1=greatly
+1	1	T=APPGE	W+1=enthusiastic
+1	1	T=APPGE	W+1=polo
+1	2	T=APPGE	W+1=husband & W-1=think
+1	2	T=APPGE	W+1=husband & W-1=unless
+1	2	T=APPGE	W+1=husband & W-1=against
+1	2	T=APPGE	W+1=husband & W-1=informing
+1	2	T=APPGE	W+1=husband & W-1=how
+1	2	T=APPGE	W+1=husband & W-1=corporation
+1	2	T=APPGE	W+1=husband & W-1=for
+1	2	T=APPGE	W+1=husband & W-1=were
+1	2	T=APPGE	W+1=husband & W-1=while
+1	2	T=APPGE	W+1=husband & W-1=manipulate
+1	2	T=APPGE	W+1=husband & W-1=finds
+1	2	T=APPGE	W+1=husband & W-1=dominated
+1	2	T=PPHO1	W+1=husband & W-1=about
+1	2	T=APPGE	W+1=husband & W-1=compel
+1	2	T=APPGE	W+1=husband & W-1=at
+1	2	T=APPGE	W+1=husband & W-1=when
+1	2	T=APPGE	W+1=husband & W-1=help
+1	2	T=APPGE	W+1=husband & W-1=though
+1	2	T=APPGE	W+1=husband & W-1=persuade
+1	2	T=APPGE	W+1=husband & W-1=reminded
+1	2	T=APPGE	W+1=husband & W-1=take
+1	2	T=APPGE	W+1=husband & W-1=lost
+1	2	T=APPGE	W+1=husband & W-1=on
+1	2	T=APPGE	W+1=husband & W-1=informed
+1	2	T=APPGE	W+1=husband & W-1=of
+1	1	T=PPHO1	W+1=dozens
+1	2	T=PPHO1	W+1=come & C-1=False
+1	2	T=APPGE	W+1=come & C-1=True
+1	1	T=PPHO1	W+1=self-imposed
+1	1	T=APPGE	W+1=permission
+1	1	T=APPGE	W+1=teachers
+1	1	T=APPGE	W+1=aunt's
+1	1	T=APPGE	W+1=calves
+1	1	T=APPGE	W+1=midwestern
+1	1	T=APPGE	W+1=present
+1	1	T=PPHO1	W+1=lightly
+1	1	T=APPGE	W+1=toe
+1	1	T=APPGE	W+1=guitar
+1	1	T=APPGE	W+1=behalf
+1	1	T=PPHO1	W+1=where
+1	1	T=APPGE	W+1=washed
+1	1	T=APPGE	W+1=stepson
+1	1	T=PPHO1	W+1=leave
+1	2	T=APPGE	W+1=teeth & W-1=between
+1	2	T=PPHO1	W+1=teeth & W-1=given
+1	2	T=PPHO1	W+1=teeth & W-1=with
+1	2	T=APPGE	W+1=teeth & W-1=behind
+1	2	T=APPGE	W+1=teeth & W-1=under
+1	2	T=APPGE	W+1=teeth & W-1=on
+1	2	T=APPGE	W+1=teeth & W-1=in
+1	2	T=APPGE	W+1=teeth & W-1=study
+1	2	T=APPGE	W+1=neighbors & W-1=of
+1	2	T=PPHO1	W+1=neighbors & W-1=among
+1	1	T=APPGE	W+1=shopping
+1	1	T=APPGE	W+1=poetry's
+1	1	T=APPGE	W+1=black
+1	1	T=PPHO1	W+1=benighted
+1	1	T=APPGE	W+1=1941
+1	1	T=APPGE	W+1=testimony
+1	1	T=PPHO1	W+1=swiping
+1	1	T=APPGE	W+1=mid-fifties
+1	1	T=APPGE	W+1=hindquarters
+1	1	T=APPGE	W+1=wedding
+1	1	T=APPGE	W+1=make-up
+1	1	T=APPGE	W+1=unhesitant
+1	1	T=APPGE	W+1=blows
+1	1	T=APPGE	W+1=pleasure
+1	1	T=APPGE	W+1=yellow
+1	1	T=APPGE	W+1=gaiety
+1	1	T=APPGE	W+1=steps
+1	1	T=APPGE	W+1=cause
+1	1	T=APPGE	W+1=courtiers
+1	1	T=APPGE	W+1=unobtrusive
+1	1	T=APPGE	W+1=coffeecup
+1	1	T=APPGE	W+1=adaptation
+1	1	T=APPGE	W+1=search
+1	2	T=APPGE	W+1=head & W-1=shaking
+1	2	T=APPGE	W+1=head & W-1=dropped
+1	2	T=APPGE	W+1=head & W-1=tossing
+1	2	T=PPHO1	W+1=head & W-1=lifted
+1	2	T=APPGE	W+1=head & W-1=with
+1	2	T=APPGE	W+1=head & W-1=bobbing
+1	2	T=APPGE	W+1=head & W-1=made
+1	2	T=APPGE	W+1=head & W-1=upon
+1	2	T=APPGE	W+1=head & W-1=hung
+1	2	T=APPGE	W+1=head & W-1=quirking
+1	2	T=APPGE	W+1=head & W-1=held
+1	2	T=APPGE	W+1=head & W-1=turning
+1	2	T=APPGE	W+1=head & W-1=lift
+1	2	T=PPHO1	W+1=head & W-1=lowered
+1	2	T=APPGE	W+1=head & W-1=carry
+1	2	T=APPGE	W+1=head & W-1=lost
+1	2	T=APPGE	W+1=head & W-1=on
+1	2	T=APPGE	W+1=head & W-1=turned
+1	2	T=APPGE	W+1=head & W-1=turn
+1	2	T=APPGE	W+1=head & W-1=pushed
+1	2	T=APPGE	W+1=head & W-1=of
+1	2	T=APPGE	W+1=head & W-1=bury
+1	1	T=PPHO1	W+1=once
+1	1	T=APPGE	W+1=complete
+1	1	T=PPHO1	W+1=swollen
+1	1	T=PPHO1	W+1=assigned
+1	1	T=APPGE	W+1=honey
+1	1	T=APPGE	W+1=cats
+1	1	T=APPGE	W+1=analysis
+1	1	T=PPHO1	W+1=removed
+1	1	T=APPGE	W+1=forebears
+1	1	T=APPGE	W+1=committee
+1	1	T=APPGE	W+1=brassy
+1	1	T=APPGE	W+1=brood
+1	1	T=APPGE	W+1=wide
+1	1	T=APPGE	W+1=easter
+1	1	T=APPGE	W+1=flat
+1	1	T=APPGE	W+1=dear
+1	1	T=APPGE	W+1=answer
+1	1	T=APPGE	W+1=soft
+1	2	T=APPGE	W+1=face & W-1=across
+1	2	T=APPGE	W+1=face & W-1=that
+1	2	T=APPGE	W+1=face & W-1=washed
+1	2	T=APPGE	W+1=face & W-1=wipe
+1	2	T=APPGE	W+1=face & W-1=off
+1	2	T=APPGE	W+1=face & W-1=remember
+1	2	T=APPGE	W+1=face & W-1=turned
+1	2	T=APPGE	W+1=face & W-1=from
+1	2	T=PPHO1	W+1=face & W-1=raised
+1	2	T=APPGE	W+1=face & W-1=to
+1	2	T=APPGE	W+1=face & W-1=of
+1	2	T=APPGE	W+1=face & W-1=held
+1	2	T=APPGE	W+1=face & W-1=rubbed
+1	2	T=APPGE	W+1=face & W-1=holding
+1	2	T=APPGE	W+1=face & W-1=seeing
+1	1	T=APPGE	W+1=sails
+1	1	T=APPGE	W+1=subjective
+1	1	T=APPGE	W+1=highschool
+1	1	T=PPHO1	W+1=poison
+1	1	T=APPGE	W+1=output
+1	1	T=APPGE	W+1=development
+1	1	T=APPGE	W+1=conviction
+1	1	T=APPGE	W+1=affairs
+1	1	T=APPGE	W+1=domineering
+1	1	T=APPGE	W+1=crowded
+1	1	T=APPGE	W+1=doctors
+1	1	T=APPGE	W+1=horns
+1	1	T=APPGE	W+1=tumbled
+1	2	T=PPHO1	W+1=balance & W-1=regained
+1	2	T=APPGE	W+1=balance & W-1=preserve
+1	1	T=APPGE	W+1=course
+1	1	T=APPGE	W+1=sinewy
+1	1	T=PPHO1	W+1=bayed
+1	1	T=APPGE	W+1=eggs
+1	1	T=APPGE	W+1=gray
+1	1	T=APPGE	W+1=vomiting
+1	1	T=PPHO1	W+1=pregnant
+1	1	T=PPHO1	W+1=very
+1	2	T=PPHO1	W+1=thighs & C-1=False
+1	1	T=APPGE	W+1=canons
+1	1	T=APPGE	W+1=ideas
+1	1	T=APPGE	W+1=moment
+1	1	T=APPGE	W+1=final
+1	1	T=PPHO1	W+1=mollie
+1	1	T=APPGE	W+1=ancestors
+1	1	T=APPGE	W+1=perennial
+1	1	T=APPGE	W+1=rocker
+1	1	T=APPGE	W+1=action
+1	1	T=PPHO1	W+1=strangled
+1	1	T=APPGE	W+1=method
+1	1	T=APPGE	W+1=unusually
+1	1	T=APPGE	W+1=shawl
+1	1	T=APPGE	W+1=misfortune
+1	1	T=APPGE	W+1=rare
+1	2	T=APPGE	W+1=guests & W-1=to
+1	2	T=APPGE	W+1=guests & W-1=with
+1	2	T=PPHO1	W+1=guests & W-1=among
+1	2	T=APPGE	W+1=guests & W-1=for
+1	1	T=APPGE	W+1=conscious
+1	1	T=PPHO1	W+1=expectantly
+1	1	T=PPHO1	W+1=hacksaw
+1	1	T=APPGE	W+1=menarche
+1	1	T=PPHO1	"W+1=100,000"
+1	1	T=APPGE	W+1=conquerors
+1	1	T=APPGE	W+1=attic
+1	1	T=APPGE	W+1=portrayal
+1	1	T=APPGE	W+1=cheekbones
+1	1	T=APPGE	W+1=manikin
+1	1	T=APPGE	W+1=nuclear
+1	1	T=PPHO1	W+1=standing
+1	1	T=APPGE	W+1=women's
+1	2	T=PPHO1	W+1=grief & C-1=False
+1	2	T=APPGE	W+1=grief & C-1=True
+1	1	T=APPGE	W+1=resources
+1	1	T=PPHO1	W+1=listeners
+1	1	T=APPGE	W+1=soma
+1	1	T=APPGE	W+1=frigid
+1	1	T=APPGE	W+1=captors
+1	1	T=PPHO1	W+1=fatso
+1	1	T=APPGE	W+1=things
+1	1	T=APPGE	W+1=acts
+1	1	T=APPGE	W+1=critical
+1	1	T=PPHO1	W+1=paula
+1	2	T=APPGE	W+1=mouth & W-1=over
+1	2	T=APPGE	W+1=mouth & W-1=and
+1	2	T=APPGE	W+1=mouth & W-1=split
+1	2	T=APPGE	W+1=mouth & W-1=around
+1	2	T=APPGE	W+1=mouth & W-1=open
+1	2	T=APPGE	W+1=mouth & W-1=from
+1	2	T=APPGE	W+1=mouth & W-1=taste
+1	2	T=APPGE	W+1=mouth & W-1=keeping
+1	2	T=PPHO1	W+1=mouth & W-1=about
+1	1	T=PPHO1	W+1=nicolas's
+1	1	T=PPHO1	W+1=meet
+1	1	T=APPGE	W+1=mastery
+1	2	T=PPHO1	W+1=back & W-1=send
+1	2	T=PPHO1	W+1=back & W-1=fling
+1	2	T=PPHO1	W+1=back & W-1=kissed
+1	2	T=PPHO1	W+1=back & W-1=from
+1	2	T=APPGE	W+1=back & W-1=against
+1	2	T=PPHO1	W+1=back & W-1=want
+1	2	T=PPHO1	W+1=back & W-1=calling
+1	2	T=APPGE	W+1=back & W-1=rubbed
+1	2	T=PPHO1	W+1=back & W-1=yanked
+1	1	T=APPGE	W+1=vaginal
+1	1	T=APPGE	W+1=reasons
+1	1	T=PPHO1	W+1=tell
+1	1	T=APPGE	W+1=dancing
+1	1	T=PPHO1	W+1=directly
+1	1	T=APPGE	W+1=travel
+1	1	T=APPGE	W+1=ultimate
+1	1	T=APPGE	W+1=scrutiny
+1	1	T=APPGE	W+1=word
+1	1	T=APPGE	W+1=pictures
+1	1	T=PPHO1	W+1=along
+1	1	T=APPGE	W+1=womanly
+1	1	T=APPGE	W+1=crossed
+1	2	T=APPGE	W+1=mother & W-1=kimono
+1	2	T=APPGE	W+1=mother & W-1=says
+1	2	T=APPGE	W+1=mother & W-1=but
+1	2	T=APPGE	W+1=mother & W-1=with
+1	2	T=APPGE	"W+1=mother & W-1=,"
+1	2	T=APPGE	W+1=mother & W-1=admonished
+1	2	T=APPGE	W+1=mother & W-1=parties
+1	2	T=APPGE	W+1=mother & W-1=outdistanced
+1	2	T=APPGE	W+1=mother & W-1=even
+1	2	T=PPHO1	W+1=mother & W-1=beside
+1	2	T=APPGE	W+1=mother & W-1=how
+1	2	T=APPGE	W+1=mother & W-1=by
+1	1	T=PPHO1	W+1=paus'l
+1	1	T=APPGE	W+1=four
+1	1	T=APPGE	W+1=exuberant
+1	1	T=APPGE	W+1=birdlike
+1	1	T=APPGE	W+1=rosy
+1	1	T=PPHO1	W+1=harness
+1	1	T=APPGE	W+1=musicianship
+1	1	T=APPGE	W+1=metabolism
+1	2	T=APPGE	W+1=knee & C-1=False
+1	2	T=PPHO1	W+1=knee & C-1=True
+1	1	T=APPGE	W+1=giggles
+1	1	T=APPGE	W+1=biographical
+1	1	T=PPHO1	W+1=give
+1	1	T=PPHO1	W+1=25
+1	1	T=APPGE	W+1=given
+1	1	T=APPGE	W+1=behind
+1	1	T=PPHO1	W+1=yourself
+1	1	T=APPGE	W+1=variations
+1	1	T=APPGE	W+1=exquisiteness
+1	1	T=APPGE	W+1=current
+1	1	T=APPGE	W+1=youngest
+1	1	T=APPGE	W+1=embraces
+1	1	T=APPGE	W+1=reprieve
+1	1	T=APPGE	W+1=third
+1	1	T=APPGE	W+1=legions
+1	1	T=APPGE	W+1=earthy
+1	1	T=PPHO1	W+1=beau
+1	1	T=PPHO1	W+1=till
+1	1	T=APPGE	W+1=pace
+1	1	T=APPGE	W+1=simple
+1	1	T=APPGE	W+1=normal
+1	1	T=APPGE	W+1=apartment
+1	1	T=PPHO1	W+1=exactly
+1	1	T=APPGE	W+1=difficulty
+1	1	T=APPGE	W+1=divorce
+1	1	T=APPGE	W+1=environment
+1	1	T=APPGE	W+1=panties
+1	1	T=PPHO1	W+1=sixteenth
+1	1	T=APPGE	W+1=women
+1	2	T=APPGE	W+1=widowed & W-1=by
+1	1	T=APPGE	W+1=supervising
+1	1	T=APPGE	W+1=embrace
+1	1	T=PPHO1	W+1=never
+1	1	T=APPGE	W+1=commission
+1	1	T=APPGE	W+1=fat
+1	1	T=PPHO1	W+1=tomorrow
+1	1	T=PPHO1	W+1=previous
+1	1	T=PPHO1	W+1=attractive
+1	1	T=APPGE	W+1=windows
+1	2	T=PPHO1	W+1=two & C-1=False
+1	1	T=PPHO1	W+1=murmur
+1	1	T=APPGE	W+1=sudden
+1	1	T=APPGE	W+1=trembling
+1	1	T=APPGE	W+1=suburban
+1	1	T=PPHO1	W+1=poise
+1	2	T=PPHO1	W+1=time & W-1=give
+1	2	T=APPGE	W+1=time & W-1=in
+1	2	T=APPGE	W+1=time & W-1=when
+1	2	T=PPHO1	W+1=time & W-1=for
+1	2	T=APPGE	W+1=time & W-1=all
+1	1	T=APPGE	W+1=regrets
+1	1	T=APPGE	W+1=law
+1	1	T=APPGE	W+1=reign
+1	1	T=APPGE	W+1=drunk
+1	1	T=APPGE	W+1=walking
+1	1	T=PPHO1	W+1=great-grandfather
+1	1	T=PPHO1	W+1=entry
+1	2	T=APPGE	W+1=eyes & W-1=kept
+1	2	T=APPGE	W+1=eyes & W-1=lowered
+1	2	T=APPGE	W+1=eyes & W-1=that
+1	2	T=APPGE	W+1=eyes & W-1=swung
+1	2	T=APPGE	W+1=eyes & W-1=adjusted
+1	2	T=APPGE	W+1=eyes & W-1=brought
+1	2	T=APPGE	W+1=eyes & W-1=and
+1	2	T=PPHO1	W+1=eyes & W-1=scratch
+1	2	T=APPGE	W+1=eyes & W-1=raise
+1	2	T=PPHO1	W+1=eyes & W-1=at
+1	2	T=APPGE	W+1=eyes & W-1=perhaps
+1	2	T=PPHO1	W+1=eyes & W-1=rubbed
+1	2	T=APPGE	W+1=eyes & W-1=turning
+1	1	T=PPHO1	W+1=boast
+1	1	T=APPGE	W+1=senses
+1	1	T=PPHO1	W+1=half-drunk
+1	1	T=APPGE	W+1=food
+1	1	T=APPGE	W+1=suitcase
+1	1	T=PPHO1	W+1=emerge
+1	1	T=APPGE	W+1=defense
+1	1	T=APPGE	W+1=seven-o'clock
+1	1	T=APPGE	W+1=touch
+1	1	T=APPGE	W+1=much-craved
+1	2	T=APPGE	W+1=home & W-1=to
+1	2	T=PPHO1	W+1=home & W-1=take
+1	2	T=APPGE	"W+1=home & W-1=,"
+1	2	T=APPGE	W+1=home & W-1=visit
+1	1	T=PPHO1	W+1=she's
+1	1	T=APPGE	W+1=forefinger
+1	1	T=APPGE	W+1=picture
+1	1	T=PPHO1	W+1=unwanted
+1	1	T=APPGE	W+1=absorption
+1	1	T=APPGE	W+1=somewhere
+1	1	T=PPHO1	W+1=choose
+1	2	T=PPHO1	W+1=direction & W-1=of
+1	2	T=APPGE	W+1=direction & W-1=in
+1	2	T=APPGE	W+1=program & W-1=on
+1	2	T=APPGE	W+1=program & W-1=but
+1	1	T=APPGE	W+1=limp
+1	1	T=APPGE	W+1=news
+1	1	T=PPHO1	W+1=partly
+1	1	T=APPGE	W+1=progress
+1	1	T=APPGE	W+1=sweater
+1	1	T=APPGE	W+1=laws
+1	1	T=APPGE	W+1=gorgeous
+1	2	T=APPGE	W+1=close & C-1=True
+1	1	T=APPGE	W+1=shoulder
+1	2	T=APPGE	W+1=dark & W-1=and
+1	2	T=APPGE	W+1=dark & W-1=wearing
+1	2	T=PPHO1	W+1=dark & W-1=in
+1	2	T=APPGE	W+1=dark & W-1=seeing
+1	1	T=APPGE	W+1=mania
+1	1	T=APPGE	W+1=departing
+1	1	T=APPGE	W+1=escapades
+1	1	T=APPGE	W+1=gift
+1	1	T=PPHO1	W+1=deeply
+1	1	T=PPHO1	W+1=slim
+1	1	T=APPGE	W+1=diaphragmic
+1	1	T=APPGE	W+1=princess
+1	1	T=APPGE	W+1=government
+1	1	T=PPHO1	W+1=grandparents
+1	1	T=PPHO1	W+1=blouse
+1	1	T=APPGE	W+1=twenties
+1	1	T=APPGE	W+1=many
+1	1	T=PPHO1	W+1=riding
+1	1	T=APPGE	W+1=knowledge
+1	1	T=APPGE	W+1=paranormal
+1	1	T=APPGE	W+1=horse
+1	2	T=PPHO1	W+1=talk & C-1=False
+1	2	T=APPGE	W+1=talk & C-1=True
+1	1	T=APPGE	W+1=all-lesbian
+1	1	T=APPGE	W+1=companion
+1	1	T=APPGE	W+1=vigorous
+1	1	T=APPGE	W+1=central
+1	1	T=APPGE	W+1=emotions
+1	1	T=APPGE	W+1=patient
+1	1	T=PPHO1	W+1=or
+1	1	T=PPHO1	W+1=took
+1	2	T=APPGE	W+1=freedom & W-1=gained
+1	2	T=PPHO1	W+1=freedom & W-1=teach
+1	1	T=APPGE	W+1=captain
+1	1	T=APPGE	W+1=sincerity
+1	1	T=APPGE	W+1=invitation
+1	1	T=PPHO1	W+1=minerals
+1	1	T=APPGE	W+1=spoken
+1	1	T=APPGE	W+1=off-duty
+1	2	T=PPHO1	W+1=to & W-1=sending
+1	2	T=PPHO1	W+1=to & W-1=overcame
+1	2	T=PPHO1	W+1=to & W-1=asking
+1	2	T=PPHO1	W+1=to & W-1=pay
+1	2	T=PPHO1	W+1=to & W-1=encourage
+1	2	T=PPHO1	W+1=to & W-1=directing
+1	2	T=PPHO1	W+1=to & W-1=lured
+1	2	T=PPHO1	W+1=to & W-1=helped
+1	2	T=PPHO1	W+1=to & W-1=believing
+1	2	T=PPHO1	W+1=to & W-1=order
+1	2	T=PPHO1	W+1=to & W-1=known
+1	2	T=PPHO1	W+1=to & W-1=shake
+1	2	T=PPHO1	W+1=to & W-1=over
+1	2	T=PPHO1	W+1=to & W-1=reduced
+1	2	T=PPHO1	W+1=to & W-1=compelled
+1	2	T=PPHO1	W+1=to & W-1=behind
+1	2	T=PPHO1	W+1=to & W-1=directs
+1	2	T=PPHO1	W+1=to & W-1=excited
+1	2	T=PPHO1	W+1=to & W-1=teach
+1	2	T=PPHO1	W+1=to & W-1=expected
+1	2	T=PPHO1	W+1=to & W-1=taught
+1	2	T=PPHO1	W+1=to & W-1=commanded
+1	2	T=PPHO1	W+1=to & W-1=want
+1	2	T=PPHO1	W+1=to & W-1=about
+1	2	T=PPHO1	W+1=to & W-1=called
+1	2	T=PPHO1	W+1=to & W-1=pressed
+1	2	T=PPHO1	W+1=to & W-1=describe
+1	2	T=PPHO1	W+1=to & W-1=brought
+1	2	T=PPHO1	W+1=to & W-1=exhorting
+1	2	T=PPHO1	W+1=to & W-1=pull
+1	2	T=PPHO1	W+1=to & W-1=permitted
+1	2	T=PPHO1	W+1=to & W-1=upon
+1	2	T=PPHO1	W+1=to & W-1=leads
+1	2	T=PPHO1	W+1=to & W-1=wanting
+1	2	T=PPHO1	W+1=to & W-1=guided
+1	2	T=PPHO1	W+1=to & W-1=judged
+1	2	T=PPHO1	W+1=to & W-1=from
+1	2	T=PPHO1	W+1=to & W-1=urged
+1	2	T=PPHO1	W+1=to & W-1=introduced
+1	2	T=PPHO1	W+1=to & W-1=caused
+1	2	T=APPGE	W+1=to & W-1=defend
+1	2	T=PPHO1	W+1=to & W-1=persuade
+1	2	T=PPHO1	W+1=to & W-1=expect
+1	2	T=PPHO1	W+1=to & W-1=beg
+1	2	T=PPHO1	W+1=to & W-1=ask
+1	2	T=PPHO1	W+1=to & W-1=move
+1	2	T=PPHO1	W+1=to & W-1=confided
+1	2	T=PPHO1	W+1=to & W-1=of
+1	1	T=APPGE	W+1=manner
+1	1	T=APPGE	W+1=anxiety
+1	1	T=PPHO1	W+1=harm
+1	1	T=APPGE	W+1=only
+1	1	T=APPGE	W+1=retreat
+1	1	T=PPHO1	W+1=fumbling
+1	2	T=APPGE	W+1=big & W-1=of
+1	2	T=PPHO1	W+1=big & W-1=into
+1	1	T=APPGE	W+1=affection
+1	1	T=APPGE	W+1=field
+1	1	T=APPGE	W+1=decisions
+1	1	T=APPGE	W+1=professional
+1	1	T=APPGE	W+1=conduct
+1	1	T=APPGE	W+1=tears
+1	1	T=APPGE	W+1=country
+1	1	T=PPHO1	W+1=tax-aided
+1	1	T=APPGE	W+1=swimming
+1	2	T=PPHO1	W+1=stay & C-1=False
+1	1	T=APPGE	W+1=wrists
+1	1	T=APPGE	W+1=eighteenth
+1	1	T=APPGE	W+1=ship
+1	1	T=PPHO1	W+1=stoop
+1	1	T=APPGE	W+1=breakfast
+1	1	T=APPGE	W+1=meager
+1	2	T=APPGE	W+1=inner & W-1=yet
+1	2	T=PPHO1	W+1=inner & W-1=intensify
+1	1	T=PPHO1	W+1=addressed
+1	1	T=PPHO1	W+1=anything
+1	1	T=APPGE	W+1=keys
+1	1	T=APPGE	W+1=opening
+1	1	T=PPHO1	W+1=mary
+1	1	T=APPGE	W+1=country's
+1	1	T=PPHO1	W+1=someplace
+1	1	T=APPGE	W+1=nicolas
+1	1	T=APPGE	W+1=journey
+1	1	T=APPGE	W+1=sixth
+1	1	T=APPGE	W+1=heels
+1	1	T=APPGE	W+1=cookies
+1	1	T=APPGE	W+1=long-bodied
+1	1	T=APPGE	W+1=sons
+1	1	T=APPGE	W+1=outside
+1	1	T=APPGE	W+1=rehearsed
+1	2	T=PPHO1	W+1=best & C-1=False
+1	1	T=APPGE	W+1=objection
+1	1	T=PPHO1	W+1=entirely
+1	1	T=APPGE	W+1=chosen
+1	2	T=APPGE	W+1=having & W-1=without
+1	1	T=PPHO1	W+1=onto
+1	1	T=APPGE	W+1=poor
+1	1	T=APPGE	W+1=veins
+1	1	T=APPGE	W+1=deliverance
+1	1	T=APPGE	W+1=control
+1	1	T=APPGE	W+1=next-door
+1	1	T=APPGE	W+1=minister
+1	1	T=APPGE	W+1=passing
+1	1	T=APPGE	W+1=running
+1	1	T=APPGE	W+1=spirit
+1	1	T=APPGE	W+1=plumpness
+1	1	T=APPGE	W+1=curiosity
+1	1	T=APPGE	W+1=extra
+1	1	T=APPGE	W+1=impressions
+1	1	T=APPGE	W+1=singing
+1	1	T=APPGE	W+1=logic
+1	1	T=PPHO1	W+1=your
+1	1	T=PPHO1	W+1=shivering
+1	1	T=PPHO1	W+1=were
+1	2	T=APPGE	W+1=daughter & W-1=that
+1	2	T=PPHO1	W+1=daughter & W-1=from
+1	2	T=APPGE	W+1=daughter & W-1=ago
+1	2	T=APPGE	W+1=daughter & W-1=of
+1	2	T=APPGE	W+1=daughter & W-1=for
+1	1	T=PPHO1	W+1=propriety
+1	1	T=APPGE	W+1=blond
+1	1	T=APPGE	W+1=attempt
+1	1	T=PPHO1	W+1=reluctantly
+1	1	T=APPGE	W+1=bubble
+1	1	T=APPGE	W+1=social
+1	1	T=APPGE	W+1=complexion
+1	1	T=APPGE	W+1=counsel
+1	2	T=PPHO1	W+1=surprise & C-1=False
+1	2	T=APPGE	W+1=surprise & C-1=True
+1	1	T=APPGE	W+1=full-sisters
+1	1	T=APPGE	W+1=statements
+1	1	T=APPGE	W+1=canvas
+1	1	T=PPHO1	W+1=also
+1	1	T=PPHO1	W+1=raised
+1	1	T=APPGE	W+1=opportunity
+1	1	T=APPGE	W+1=bidding
+1	1	T=APPGE	W+1=livelihood
+1	1	T=APPGE	W+1=purring
+1	1	T=PPHO1	W+1=means
+1	1	T=PPHO1	W+1=romantic
+1	1	T=APPGE	W+1=arguments
+1	1	T=APPGE	W+1=remark
+1	1	T=APPGE	W+1=bill
+1	2	T=PPHO1	W+1=skirt & W-1=held
+1	2	T=PPHO1	W+1=skirt & W-1=get
+1	2	T=APPGE	W+1=skirt & W-1=pulling
+1	1	T=APPGE	W+1=wish
+1	1	T=APPGE	W+1=microscopic
+1	1	T=APPGE	W+1=passion
+1	1	T=APPGE	W+1=mink
+1	1	T=APPGE	W+1=prettiness
+1	1	T=APPGE	W+1=crabbed
+1	1	T=PPHO1	W+1=no
+1	1	T=APPGE	W+1=readiness
+1	1	T=APPGE	W+1=stall
+1	1	T=APPGE	W+1=citizens
+1	1	T=PPHO1	W+1=good-night
+1	1	T=APPGE	W+1=box
+1	1	T=APPGE	W+1=summary
+1	1	T=APPGE	W+1=gown
+1	1	T=APPGE	W+1=chore
+1	1	T=PPHO1	W+1=shawls
+1	1	T=PPHO1	W+1=gesture
+1	1	T=PPHO1	W+1=listen
+1	2	T=APPGE	W+1=words & C-1=False
+1	2	T=PPHO1	W+1=words & C-1=True
+1	1	T=APPGE	W+1=suspicious
+1	1	T=APPGE	W+1=lawyers
+1	1	T=APPGE	W+1=navy
+1	1	T=APPGE	W+1=son's
+1	1	T=PPHO1	W+1=blowfish
+1	1	T=APPGE	W+1=succession
+1	1	T=APPGE	W+1=luxurious
+1	2	T=APPGE	W+1=memory & W-1=of
+1	2	T=PPHO1	W+1=memory & W-1=between
+1	1	T=APPGE	W+1=loss
+1	1	T=APPGE	W+1=fortune
+1	1	T=APPGE	W+1=appraisal
+1	1	T=APPGE	W+1=martin
+1	2	T=APPGE	W+1=flesh & W-1=to
+1	2	T=APPGE	W+1=flesh & W-1=sting
+1	2	T=PPHO1	W+1=flesh & W-1=into
+1	1	T=APPGE	W+1=equanimity
+1	1	T=APPGE	W+1=gingham
+1	1	T=APPGE	W+1=panic
+1	1	T=APPGE	W+1=native
+1	1	T=APPGE	W+1=worth
+1	1	T=APPGE	W+1=blame
+1	1	T=PPHO1	W+1=marry
+1	1	T=APPGE	W+1=bran
+1	1	T=APPGE	W+1=unenunciated
+1	1	T=APPGE	W+1=wits
+1	1	T=APPGE	W+1=correct
+1	1	T=PPHO1	W+1=staring
+1	1	T=APPGE	W+1=mark
+1	1	T=APPGE	W+1=jeweled
+1	1	T=APPGE	W+1=hooves
+1	1	T=APPGE	W+1=purpose
+1	1	T=PPHO1	W+1=eileen's
+1	1	T=PPHO1	W+1=junior
+1	1	T=PPHO1	W+1=may
+1	1	T=APPGE	W+1=taste
+1	1	T=APPGE	W+1=newly
+1	1	T=PPHO1	W+1=sharply
+1	1	T=APPGE	W+1=neighborhood
+1	1	T=PPHO1	W+1=coming
+1	1	T=APPGE	W+1=plastic
+1	1	T=APPGE	W+1=dolls
+1	1	T=APPGE	W+1=lungs
+1	1	T=PPHO1	W+1=shaking
+1	1	T=APPGE	W+1=sandals
+1	1	T=APPGE	W+1=thumb
+1	1	T=APPGE	W+1=conscience
+1	1	T=PPHO1	W+1=god
+1	1	T=APPGE	W+1=inability
+1	1	T=APPGE	W+1=wardrobe
+1	1	T=APPGE	W+1=bullying
+1	1	T=APPGE	W+1=religion
+1	1	T=APPGE	W+1=mind's
+1	1	T=APPGE	W+1=pain
+1	1	T=APPGE	W+1=parasol
+1	1	T=PPHO1	W+1=during
+1	1	T=APPGE	W+1=nutrient
+1	1	T=APPGE	W+1=california
+1	1	T=APPGE	W+1=maternal
+1	2	T=APPGE	W+1=hard & W-1=to
+1	2	T=PPHO1	W+1=hard & W-1=with
+1	1	T=APPGE	W+1=housekeeping
+1	1	T=APPGE	W+1=dowry
+1	1	T=PPHO1	W+1=movements
+1	2	T=APPGE	W+1=purse & W-1=on
+1	1	T=APPGE	W+1=dramatic
+1	1	T=PPHO1	W+1=curt
+1	1	T=PPHO1	W+1=searchingly
+1	1	T=APPGE	W+1=ladies
+1	2	T=APPGE	W+1=destination & W-1=to
+1	2	T=PPHO1	W+1=destination & W-1=towards
+1	2	T=APPGE	W+1=destination & W-1=for
+1	1	T=APPGE	W+1=circumstances
+1	1	T=APPGE	W+1=horizon
+1	1	T=APPGE	W+1=private
+1	1	T=APPGE	W+1=apparent
+1	1	T=APPGE	W+1=weight
+1	1	T=PPHO1	W+1=those
+1	1	T=PPHO1	W+1=upright
+1	1	T=APPGE	W+1=vision
+1	1	T=APPGE	W+1=nipples
+1	1	T=APPGE	W+1=term
+1	2	T=APPGE	W+1=first & W-1=had
+1	2	T=APPGE	"W+1=first & W-1=,"
+1	2	T=PPHO1	W+1=first & W-1=tried
+1	2	T=APPGE	W+1=first & W-1=on
+1	2	T=APPGE	W+1=first & W-1=sampled
+1	2	T=APPGE	W+1=first & W-1=in
+1	2	T=APPGE	W+1=first & W-1=as
+1	2	T=APPGE	W+1=first & W-1=langford
+1	2	T=APPGE	W+1=first & W-1=up
+1	2	T=APPGE	W+1=first & W-1=having
+1	1	T=APPGE	W+1=dresses
+1	1	T=APPGE	W+1=pink
+1	1	T=PPHO1	W+1=wracking
+1	1	T=APPGE	W+1=hamburger
+1	1	T=APPGE	W+1=ma
+1	1	T=APPGE	W+1=bowing
+1	1	T=APPGE	W+1=irritability
+1	1	T=PPHO1	W+1=coldly
+1	1	T=APPGE	W+1=baptismal
+1	1	T=PPHO1	W+1=going
+1	1	T=APPGE	W+1=kit
+1	1	T=APPGE	W+1=typing
+1	1	T=APPGE	W+1=herman
+1	1	T=APPGE	W+1=boarding
+1	1	T=APPGE	W+1=sights
+1	1	T=APPGE	W+1=travels
+1	1	T=PPHO1	W+1=become
+1	1	T=APPGE	W+1=silvery
+1	2	T=PPHO1	W+1=round & C-1=False
+1	2	T=APPGE	W+1=round & C-1=True
+1	1	T=APPGE	W+1=stand
+1	1	T=APPGE	W+1=terrace
+1	1	T=PPHO1	W+1=somewhat
+1	1	T=APPGE	W+1=peace
+1	1	T=PPHO1	W+1=terribly
+1	1	T=APPGE	W+1=calm
+1	1	T=PPHO1	W+1=almost
+1	1	T=APPGE	W+1=italians
+1	1	T=PPHO1	W+1=actually
+1	1	T=APPGE	W+1=everlasting
+1	1	T=APPGE	W+1=poverty
+1	1	T=PPHO1	W+1=aristocratic
+1	1	T=APPGE	W+1=methods
+1	1	T=PPHO1	W+1=knowingly
+1	1	T=PPHO1	W+1=against
+1	1	T=APPGE	W+1=occasional
+1	1	T=PPHO1	W+1=snapped
+1	1	T=APPGE	W+1=arranging
+1	1	T=APPGE	W+1=cotillion
+1	1	T=APPGE	W+1=stern
+1	1	T=APPGE	W+1=experiences
+1	1	T=APPGE	W+1=purchase
+1	1	T=APPGE	W+1=hold
+1	1	T=PPHO1	W+1=consorting
+1	1	T=APPGE	W+1=mamma
+1	1	T=APPGE	W+1=curious
+1	1	T=APPGE	W+1=skill
+1	1	T=APPGE	W+1=top
+1	1	T=PPHO1	W+1=severely
+1	1	T=APPGE	W+1=due
+1	1	T=APPGE	W+1=nephews
+1	1	T=PPHO1	W+1=garment
+1	1	T=APPGE	W+1=legal
+1	1	T=APPGE	W+1=whisper
+1	1	T=APPGE	W+1=frustrations
+1	1	T=APPGE	W+1=underclothes
+1	1	T=PPHO1	W+1=crouched
+1	1	T=APPGE	W+1=infidelity
+1	1	T=APPGE	W+1=depths
+1	1	T=PPHO1	W+1=this
+1	1	T=APPGE	W+1=short
+1	1	T=APPGE	W+1=careworn
+1	1	T=APPGE	W+1=once-a-month
+1	1	T=APPGE	W+1=son-in-law
+1	1	T=APPGE	W+1=placid
+1	2	T=APPGE	W+1=duty & W-1=but
+1	2	T=APPGE	W+1=duty & W-1=making
+1	2	T=PPHO1	W+1=duty & W-1=with
+1	1	T=APPGE	W+1=service
+1	1	T=APPGE	W+1=ear
+1	1	T=PPHO1	W+1=inviolate
+1	1	T=APPGE	W+1=errand
+1	1	T=APPGE	W+1=rear
+1	1	T=APPGE	W+1=benevolence
+1	1	T=APPGE	W+1=bereavement
+1	1	T=APPGE	W+1=style
+1	2	T=PPHO1	W+1=mental & W-1=of
+1	2	T=APPGE	"W+1=mental & W-1=,"
+1	1	T=PPHO1	W+1=commencing
+1	1	T=PPHO1	W+1=acquitted
+1	1	T=APPGE	W+1=indignation
+1	1	T=APPGE	W+1=money
+1	1	T=PPHO1	W+1=coat
+1	1	T=PPHO1	W+1=tweed
+1	1	T=APPGE	W+1=highest
+1	1	T=APPGE	W+1=amazing
+1	1	T=APPGE	W+1=lively
+1	1	T=APPGE	W+1=neat
+1	1	T=APPGE	W+1=painting
+1	1	T=APPGE	W+1=mansion
+1	1	T=APPGE	W+1=antinomians
+1	1	T=APPGE	W+1=desk
+1	1	T=APPGE	W+1=engagement
+1	2	T=PPHO1	W+1=anger & C-1=False
+1	2	T=APPGE	W+1=anger & C-1=True
+1	1	T=APPGE	W+1=kidney
+1	1	T=PPHO1	W+1=well
+1	1	T=APPGE	W+1=income
+1	1	T=APPGE	W+1=fluency
+1	1	T=APPGE	W+1=credit
+1	1	T=APPGE	W+1=ankle
+1	1	T=PPHO1	W+1=why
+1	1	T=APPGE	W+1=hind
+1	1	T=APPGE	W+1=statement
+1	1	T=PPHO1	W+1=appearance
+1	1	T=PPHO1	W+1=like
+1	1	T=APPGE	W+1=hawaiian
+1	1	T=APPGE	W+1=congratulations
+1	1	T=APPGE	W+1=oilman-rancher
+1	1	T=APPGE	W+1=skills
+1	1	T=PPHO1	W+1=peanuts
+1	1	T=APPGE	W+1=grape-arbor
+1	1	T=APPGE	W+1=technical
+1	2	T=PPHO1	W+1=company & W-1=kept
+1	2	T=APPGE	W+1=company & W-1=enjoyed
+1	2	T=APPGE	W+1=company & W-1=in
+1	1	T=APPGE	W+1=unwed
+1	1	T=APPGE	W+1=hips
+1	2	T=PPHO1	W+1=body & C-1=False
+1	1	T=APPGE	W+1=coldness
+1	1	T=APPGE	W+1=sister's
+1	1	T=APPGE	W+1=choring
+1	2	T=APPGE	W+1=hand & W-1=kiss
+1	2	T=APPGE	W+1=hand & W-1=puts
+1	2	T=APPGE	W+1=hand & W-1=filched
+1	2	T=APPGE	W+1=hand & W-1=put
+1	2	T=APPGE	W+1=hand & W-1=down
+1	2	T=APPGE	W+1=hand & W-1=relinquished
+1	2	T=APPGE	W+1=hand & W-1=slipping
+1	2	T=APPGE	W+1=hand & W-1=let
+1	2	T=APPGE	W+1=hand & W-1=on
+1	2	T=APPGE	W+1=hand & W-1=when
+1	2	T=APPGE	W+1=hand & W-1=from
+1	2	T=APPGE	W+1=hand & W-1=try
+1	2	T=APPGE	W+1=hand & W-1=holding
+1	2	T=PPHO1	W+1=hand & W-1=saw
+1	2	T=APPGE	W+1=hand & W-1=overplayed
+1	1	T=APPGE	W+1=identification
+1	1	T=PPHO1	W+1=bodies
+1	1	T=APPGE	W+1=poet's
+1	1	T=APPGE	W+1=loose
+1	1	T=PPHO1	W+1=mobile
+1	1	T=APPGE	W+1=decision
+1	1	T=APPGE	W+1=well-modulated
+1	1	T=APPGE	W+1=desperation
+1	1	T=APPGE	W+1=mission
+1	2	T=APPGE	W+1=side & W-1=to
+1	1	T=APPGE	W+1=journal
+1	1	T=PPHO1	W+1=i
+1	1	T=APPGE	W+1=basket
+1	1	T=PPHO1	W+1=dearly
+1	1	T=PPHO1	W+1=seem
+1	1	T=PPHO1	W+1=intensely
+1	1	T=APPGE	W+1=checkbook
+1	1	T=APPGE	W+1=satin-covered
+1	1	T=APPGE	W+1=request
+1	1	T=APPGE	W+1=source
+1	1	T=APPGE	W+1=baby
+1	1	T=PPHO1	W+1=mrs.
+1	1	T=APPGE	W+1=followers
+1	1	T=APPGE	W+1=knight
+1	1	T=APPGE	W+1=heaving
+1	1	T=APPGE	W+1=talents
+1	1	T=APPGE	W+1=doll
+1	1	T=APPGE	W+1=meals
+1	1	T=APPGE	W+1=church
+1	1	T=APPGE	W+1=whereabouts
+1	1	T=PPHO1	W+1=what
+1	1	T=APPGE	W+1=insistence
+1	1	T=APPGE	W+1=fork
+1	1	T=PPHO1	W+1=soulfully
+1	1	T=APPGE	W+1=chaperon
+1	1	T=PPHO1	W+1=enough
+1	1	T=APPGE	W+1=partners
+1	1	T=PPHO1	W+1=knocking
+1	1	T=APPGE	W+1=destiny
+1	1	T=PPHO1	W+1=fancy
+1	1	T=APPGE	W+1=ring
+1	1	T=APPGE	W+1=condition
+1	1	T=PPHO1	W+1=urgings
+1	1	T=APPGE	W+1=defenses
+1	1	T=APPGE	W+1=maiden
+1	1	T=APPGE	W+1=handbag
+1	1	T=APPGE	W+1=eventshah-leh
+1	1	T=APPGE	W+1=limited
+1	1	T=PPHO1	W+1=wherever
+1	2	T=PPHO1	W+1=house & W-1=with
+1	2	T=APPGE	W+1=house & W-1=leaving
+1	2	T=APPGE	W+1=house & W-1=at
+1	2	T=APPGE	W+1=house & W-1=in
+1	2	T=APPGE	W+1=house & W-1=to
+1	2	T=APPGE	W+1=house & W-1=left
+1	1	T=APPGE	W+1=resentment
+1	2	T=APPGE	W+1=breath & W-1=that
+1	2	T=PPHO1	W+1=breath & W-1=catch
+1	2	T=APPGE	W+1=breath & W-1=and
+1	2	T=APPGE	"W+1=breath & W-1=,"
+1	2	T=APPGE	W+1=breath & W-1=hearing
+1	2	T=APPGE	W+1=breath & W-1=caught
+1	2	T=APPGE	W+1=breath & W-1=holding
+1	1	T=PPHO1	W+1=call
+1	2	T=APPGE	W+1=feet & W-1=set
+1	2	T=APPGE	W+1=feet & W-1=under
+1	2	T=PPHO1	W+1=feet & W-1=beside
+1	1	T=APPGE	W+1=sherry
+1	1	T=APPGE	W+1=convictions
+1	1	T=PPHO1	W+1=outsized
+1	1	T=APPGE	W+1=armies
+1	2	T=PPHO1	W+1=right & C-1=False
+1	1	T=PPHO1	W+1=my
+1	1	T=PPHO1	W+1=there
+1	1	T=APPGE	W+1=toilsome
+1	1	T=APPGE	W+1=portly
+1	1	T=PPHO1	W+1=nude
+1	1	T=PPHO1	W+1=caused
+1	1	T=APPGE	W+1=efforts
+1	2	T=PPHO1	W+1=eye & C-1=False
+1	1	T=APPGE	W+1=nursery-
+1	2	T=PPHO1	W+1=new & W-1=giving
+1	2	T=APPGE	W+1=new & W-1=of
+1	2	T=APPGE	W+1=new & W-1=in
+1	2	T=APPGE	W+1=new & W-1=flaunting
+1	1	T=APPGE	W+1=nation
+1	1	T=APPGE	W+1=divorced
+1	1	T=APPGE	W+1=bearded
+1	1	T=APPGE	W+1=green
+1	1	T=APPGE	W+1=real
+1	1	T=PPHO1	W+1=vocal
+1	1	T=APPGE	W+1=winter
+1	2	T=PPHO1	W+1=young & C-1=False
+1	1	T=APPGE	W+1=class
+1	1	T=APPGE	W+1=nest
+1	1	T=APPGE	W+1=lingerie
+1	1	T=APPGE	W+1=lawyer
